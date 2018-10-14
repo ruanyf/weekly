@@ -32,7 +32,7 @@
 
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018061404.jpg)
 
-刚刚发布的 Chrome 67 提供了桌面 PWA 功能，也就是说，可以把网页变成桌面应用，能够离线使用，并且 Windows 和 Mac 都支持。上面图片里的媒体播放器，实际上是一个网页。有了它，Electron 的使用场景大大缩减，可能只剩下读写本地文件。 
+刚刚发布的 Chrome 67 （Chrome OS 版本）提供了桌面 PWA 功能，也就是说，可以把网页变成桌面应用，能够离线使用，并且 Windows （Chrome 70 版本）和 Mac （Chrome 72 版本）都支持。上面图片里的媒体播放器，实际上是一个网页。有了它，Electron 的使用场景大大缩减，可能只剩下读写本地文件。
 
 3、[世界最长的航班](https://www.nytimes.com/2018/05/30/business/newark-singapore-longest-flight.html)
 
