@@ -17,3 +17,15 @@
 **五月**：[第 6 期](docs/issue-6.md) | [第 5 期](docs/issue-5.md) | [第 4 期](docs/issue-4.md) | [第 3 期](docs/issue-3.md)
 
 **四月**：[第 2 期](docs/issue-2.md) | [第 1 期](docs/issue-1.md)
+
+....................................................................................................................................
+Technology sharing Weekly, released every Friday.
+If you see a good link, welcome through  issue Submit.
+
+october: 26th Issue | 25th Issue - (docs/issue-26.md)
+September: the 24th Period | 23rd Fiscal Period | 22nd Fiscal Period |
+The 21st period August: 20th Period | 19th Period | 18th Fiscal Period | 17th Fiscal Period |
+The sixteenth period July: Fifteenth Period | Fourteenth Fiscal Period | 13th Fiscal Period |
+12th Fiscal Period June: 11th Period | 10th Period | Ninth Period | Eighth Period |
+Seventh period May: 6th Fiscal Period | 5th Period | Fourth Period |
+Third period April: Second Stage | First Stage
