@@ -20,7 +20,7 @@
 
 ## 新闻
 
-1、[Keynote 支持 LeTex](https://support.apple.com/en-sg/HT202501)
+1、[Keynote 支持 LaTex](https://support.apple.com/en-sg/HT202501)
 
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018062902.jpg)
 
