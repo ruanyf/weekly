@@ -135,7 +135,7 @@ DHCP 协议全称是"动态主机配置协议"，局域网的设备往往使用�
 
 本文谈了这两种语言各自的长处和短处。
 
-9、[最早的域名](1985-03-15 symbolics.com)（英文）
+9、[最早的域名](https://www.cambus.net/oldest-domains-in-the-com-net-and-org-tlds/)（英文）
 
 作者写了一个脚本，查询 whois 数据库里面最老的域名。最早的 .com 域名是 symbolics.com（1985-03-15 注册），最早的 .net 域名是 nordu.net（1985-01-01 注册）。
 
