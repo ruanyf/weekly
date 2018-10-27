@@ -111,7 +111,7 @@ Web Components 是浏览器原生的组件解决方案。如果你愿意对新�
 
 1、[文章] [深度学习在线课程比较](https://hackernoon.com/deeplearning-101-coursera-vs-udemy-vs-udacity-b4eb3de06dbe)（英文）
 
-深度学习是目前很热名的主题，各大网校都有这方面的课程。这篇文章比较了美国三大教育平台的深度学习课程：Coursera、Udemy 和 Udacity。
+深度学习是目前很热门的主题，各大网校都有这方面的课程。这篇文章比较了美国三大教育平台的深度学习课程：Coursera、Udemy 和 Udacity。
 
 2、[文章] [前端人工智能？TensorFlow.js 学会游戏通关](https://zhuanlan.zhihu.com/p/35451395)（中文）
 
