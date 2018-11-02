@@ -4,7 +4,9 @@
 
 ## 2018
 
-**十月**：[第 28 期](docs/issue-28.md):sunny: | [第 27 期](docs/issue-27.md) | [第 26 期](docs/issue-26.md) | [第 25 期](docs/issue-25.md)
+**十一月**：[第 29 期](docs/issue-29.md):sunny:
+
+**十月**：[第 28 期](docs/issue-28.md) | [第 27 期](docs/issue-27.md) | [第 26 期](docs/issue-26.md) | [第 25 期](docs/issue-25.md)
 
 **九月**：[第 24 期](docs/issue-24.md) | [第 23 期](docs/issue-23.md) | [第 22 期](docs/issue-22.md) | [第 21 期](docs/issue-21.md)
 
