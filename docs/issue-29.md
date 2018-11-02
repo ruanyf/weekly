@@ -135,7 +135,7 @@ Flutter 开发的一个简单教程。
 
 网页从服务器拿到数据，需要保存下来，但是不想存在 Cookie 和 LocalStorage，怎么办？这篇文章的方法就是动态生成一张 Canvas 的 PNG 图片，将数据存在里面。
 
-7、[GraphQL 入门教程](https://www.igorkromin.net/index.php/2018/09/06/hijacking-html-canvas-and-png-images-to-store-arbitrary-text-data/)（英文）
+7、[GraphQL 入门教程](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-60e43b0a41f5)（英文）
 
 本文介绍 GraphQL 的概念和优点，演示如何用 Express.js 搭建一个 GraphQL 后端。
 
