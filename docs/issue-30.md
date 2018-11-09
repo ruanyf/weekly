@@ -93,7 +93,7 @@
 
 * [Youtube](https://www.mushroomnetworks.com/infographics/youtube---the-2nd-largest-search-engine-infographic/) 是世界第二大搜索引擎，它的每月搜索次数比 Bing + Yahoo 加起来都多。
     
-* [一家美国制药公司](https://www.bloomberg.com/news/articles/2018-10-21/asia-stocks-face-mixed-start-china-rally-in-focus-markets-wrap)开发出艾滋病口服预防片，可以预防艾滋病。
+* [一家美国制药公司](https://www.bloomberg.com/news/articles/2018-10-17/a-blue-pill-is-stopping-hiv-world-first-study-shows)开发出艾滋病口服预防片，可以预防艾滋病。
 
 ![](https://www.wangbase.com/blogimg/asset/201811/bg2018110913.jpg)
 
