@@ -8,7 +8,7 @@
 
 （题图：陆家嘴，上海，2018）
 
-最近，我看到一[小寓言](http://www.bbc.com/future/story/20160307-why-does-walking-through-doorways-make-us-forget)，很值得跟大家分享。
+最近，我看到一个[小寓言](http://www.bbc.com/future/story/20160307-why-does-walking-through-doorways-make-us-forget)，很值得跟大家分享。
 
 > 三个建筑工人正在砌砖头。
 > 
