@@ -28,13 +28,17 @@
 
 打捞 PD-50 需要耗费大量的金钱，以及两三年的时间，俄罗斯又没有替代船坞，现在要么终止库兹涅佐夫号的升级，拆下来的零件装回去，要么将它送到国外去修。
 
-2、[疑似外星飞船的小行星](https://www.nbcnews.com/mach/science/scientists-say-mysterious-oumuamua-object-could-be-alien-spacecraft-ncna931381)
+2、[疑似外星飞船的小行星 —— 'Oumuamua，中文名：奥陌陌](https://www.nbcnews.com/mach/science/scientists-say-mysterious-oumuamua-object-could-be-alien-spacecraft-ncna931381)
+
+2017 U1的想像图
 
 ![](https://www.wangbase.com/blogimg/asset/201811/bg2018113003.jpg)
 
-2017年的年底，天文学家发现了一个奇怪的小行星。它有一个橄榄球场那么大，跟别的小行星形状都不一样，是狭长的矩形，有着奇怪的飞行轨迹，还会时不时加速。
+这可能是星际天体的第一个例子，相对于太阳以每秒26公里的双曲线过剩速度出现在天琴座。这个方向接近太阳向点，是太阳系外天体最有可能出现的方位。如果天体测量没有严重的问题，唯一可能的轨道就是明确的双曲线。
 
-哈佛大学的研究人员发表论文，认为它可能不是小行星，而是外星人发送到太阳系的探测器。
+也有科学家相信，ʻOumuamua是利用光帆推进的外星飞船。论文参考：[https://arxiv.org/abs/1810.11490](https://arxiv.org/abs/1810.11490)
+
+维基百科参考：[https://zh.wikipedia.org/wiki/奥陌陌](https://zh.wikipedia.org/wiki/奥陌陌)
 
 3、[储能材料](https://www.chalmers.se/en/departments/chem/news/Pages/Emissions-free-energy-system-saves-heat-from-the-summer-sun-for-winter-.aspx)
 
