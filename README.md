@@ -4,7 +4,9 @@
 
 ## 2018
 
-**十一月**：[第 33 期](docs/issue-33.md):high_brightness: | [第 32 期](docs/issue-32.md) | [第 31 期](docs/issue-31.md) | [第 30 期](docs/issue-30.md) | [第 29 期](docs/issue-29.md)
+**十二月**：[第 34 期](docs/issue-34.md):high_brightness:
+
+**十一月**：[第 33 期](docs/issue-33.md) | [第 32 期](docs/issue-32.md) | [第 31 期](docs/issue-31.md) | [第 30 期](docs/issue-30.md) | [第 29 期](docs/issue-29.md)
 
 **十月**：[第 28 期](docs/issue-28.md) | [第 27 期](docs/issue-27.md) | [第 26 期](docs/issue-26.md) | [第 25 期](docs/issue-25.md)
 
