@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051101.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051101.jpg)
 
 今年5月5日是马克思诞生200周年的纪念日，中新社的记者来到伦敦的[马克思墓地](http://dajia.qq.com/original/MFL/ym20180509.html)，写了一篇[《墓地见闻》](http://dw.chinanews.com/chinanews/content.jsp?classify=zwsp&from=timeline&id=8507133&language=chs&pageSize=6)。
 
@@ -12,7 +12,7 @@
 
 照片上可以看到，墓碑刻着一行字" Workers of all lands unite"（全世界无产者联合起来）。
 
-![](http://img1.gtimg.com/cul/pics/hv1/148/24/2275/147938143.jpg)
+[img](http://img1.gtimg.com/cul/pics/hv1/148/24/2275/147938143.jpg)
 
 马克思研究的是，无产者怎样才能在一个有产者主导的社会里面获得解放。可是我们看到，200年过去了，这个世界依然存在无产者和有产者的对立。互联网技术甚至加剧了这种趋势，有钱的人变得更有钱了，没钱的人更难获得翻身的机会。
 
@@ -30,7 +30,7 @@
 
 2、[LED 电影院](https://www.hollywoodreporter.com/behind-screen/how-new-led-cinema-screen-could-change-filmmaking-moviegoing-1104745)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051102.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051102.jpg)
 
 4月20日，美国第一家 LED 电影院在洛杉矶开幕，电影屏幕变成了液晶屏，而不是电影放映机的投影幕布。此前的2月4日，[上海](http://www.sohu.com/a/220912922_115565)的 LED 电影院已经开张了。
 
@@ -38,7 +38,7 @@
 
 3、[盲人程序员](https://blog.aboutamazon.com/working-at-amazon/blind-since-birth-writing-code-at-amazon-since-2013)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051103.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051103.jpg)
 
 亚马逊公司的官方博客，介绍了一位盲人程序员，出门靠导盲犬，阅读代码就靠屏幕阅读器。第一次觉得，代码适合朗读，也很重要啊......
 
@@ -46,7 +46,7 @@
 
 4、[QT 支持浏览器了](http://blog.qt.io/blog/2018/04/23/beta-qt-webassembly-technology-preview/)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051104.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051104.jpg)
 
 图形界面框架 Qt 宣布可以在浏览器中使用，方法是通过 WebAssembly。那就是说，C++ 可以编写网页 UI 组件了，不必一定要通过 JS 了。
 
@@ -56,12 +56,12 @@
 
 经过很长一段时间的测试以后，V8 引擎正式宣布支持 JS 的第8种数据类型：[大整数 BigInt](http://es6.ruanyifeng.com/#docs/proposals#BigInt-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)。从此，JS 可以精确表示任意位数的整数，再也不受64位双精度浮点数格式的限制了。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051106.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051106.jpg)
 
 
 6、[1000架无人机编队表演失灵](http://tech.sina.com.cn/it/2018-05-06/doc-ihacuuvu0776524.shtml)（[视频](http://video.sina.com.cn/view/257117825.html)）
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051107.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051107.jpg)
 
 5月1日晚《红五月西安城墙国际文化节》无人机表演出现事故。1374架无人机并没有成功组成完整图案。演出一开始就有一部分无人机没有飞到预定位置，导致局部不成图案。
 
@@ -71,7 +71,7 @@
 
 7、[吴恩达的 Drive.ai 无人出租车正式运营](http://www.sohu.com/a/230791086_610300)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051109.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051109.jpg)
 
 吴恩达任职董事的自动驾驶公司 Drive.ai，要在德克萨斯州弗里斯克（Frisco）市，提供无人驾驶出租车服务了。从今年7月开始，Drive.ai将会和当地交管协会合作部署，为期6个月，为特定区域内的1万多人提供无人驾驶（免费）打车服务，只要通过Drive.ai的App，就能约到一辆无人驾驶出租车。
 
@@ -93,13 +93,13 @@
 
 2、[文章] [软件测试的误区](http://blog.codepipes.com/testing/software-testing-antipatterns.html#anti-pattern-7---having-flaky-or-slow-tests)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051110.png)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051110.png)
 
 本文讨论了13种软件测试的错误做法，比如：（1）单元测试与集成测试的比例不正确；（2）太相信 TDD（即写代码之前就写测试）；（3）写了大量很慢的测试；（4）手动运行测试；（5）没有把生产环境的错误写成测试等等。
 
 3、[电子书] [《React in patterns》](https://github.com/krasimir/react-in-patterns)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051111.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051111.jpg)
 
 React 如何使用各种编程模式？
 
@@ -126,7 +126,7 @@ SHA256 是目前常用哈希算法里面最可靠的，Git 和比特币都依赖
 
 1、[GitHub Desktop](https://desktop.github.com/)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051112.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051112.jpg)
 
 GitHub 官方的桌面 App。
 
@@ -140,7 +140,7 @@ Go 语言实现的高性能 http、https、websocket、tcp、udp、socks5 代理
 
 4、[Dojo 2.0](https://dojo.io/blog/2018/05/02/2018-05-02-Dojo2-0-0-release/)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051113.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051113.jpg)
 
 前端框架 Dojo 发布了2.0版，它跟 jQuery 是一个年代的，至今不放弃也算值得尊敬了。我看了一下 API，核心概念也是虚拟 DOM，没看到任何令人眼前一亮的创意，我不觉得它有机会赢得大量用户。
 
@@ -156,7 +156,7 @@ GitHub 的用户主页有一张图，每一天就是一个小格子。你只要�
 
 7、[bat](https://github.com/sharkdp/bat)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051114.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051114.jpg)
 
 命令行的 cat 命令用来显示文件的内容，bat 命令完全跟 cat 一致，只有一个地方不一样，就是现在的内容会带有行号和代码高亮。
 
@@ -190,7 +190,7 @@ GitHub 的用户主页有一张图，每一天就是一个小格子。你只要�
 
 4、[Lars Bak 的故事](http://www.kuqin.com/itman/20090421/47185.html)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051115.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051115.jpg)
 
 V8 引擎是 JS 语法事实上的标准实现，Chrome 浏览器和 Node 的底层都用了它。它名字里面的 V 代表虚拟机（virtual machine），8 表示这是作者 Lars Bak 写的第8个虚拟机。
 
@@ -204,7 +204,7 @@ Lars Bak 是一个传奇的丹麦程序员，在 V8 之前，他还写过 Java�
 
 5、[雷军：如不是富贵人家 你的唯一机会是忠诚和勤奋](https://finance.sina.cn/stock/ssgs/2018-05-06/detail-ifyqptqv8528581.d.html)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051116.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051116.jpg)
 
 > 1991年11月4日，在一个计算机展览会上，雷军见到了WPS之父求伯君，雷军作为一名程序员，求伯君是他的偶像。次年，求伯君邀请雷军加入金山，他二话没说，毅然砸掉了当时的铁饭碗，追随求伯君离开北京去了珠海，成为金山第六名员工。这一追随就是16年，这16年里无论金山遭遇了什么困境雷军都不离不弃。
 > 
@@ -218,7 +218,7 @@ Lars Bak 是一个传奇的丹麦程序员，在 V8 之前，他还写过 Java�
 
 1、[Douglas Crockford 的名片](http://seriot.ch/parsing_json.php#1)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051117.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051117.jpg)
 
 2001年，Douglas Crockford 发明了 JSON 格式。他声称这种格式极其简单，全部语法可以印在一张名片上，而且所有应该有的语法都有了，以后也不需要再增订，因此 JSON 格式没有版本号。上面就是他的名片的背面图案。
 
@@ -226,7 +226,7 @@ Lars Bak 是一个传奇的丹麦程序员，在 V8 之前，他还写过 Java�
 
 2、[1961年的科幻小说](https://imgur.com/e1x76Nz)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051118.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051118.jpg)
 
 使用 Kindle 阅读波兰科幻小说家斯坦尼斯拉夫•莱姆（Stanislaw Lem）1961年的作品《外星归来》（Return From The Stars）。
 
@@ -234,7 +234,7 @@ Lars Bak 是一个传奇的丹麦程序员，在 V8 之前，他还写过 Java�
 
 __3、游戏卡__
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051121.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051121.jpg)
 
 当年 Gameboy 游戏卡（容量几十MB）的盒子，现在可以放15块Switch游戏卡（容量几十GB）。（图片来自推特[@BalrogGameRoom](https://twitter.com/BalrogGameRoom/)）
 
@@ -242,7 +242,7 @@ __3、游戏卡__
 
 1、[摄像头挂钟](https://defplex.wordpress.com/2018/04/24/playing-with-a-covert-clock-camera/)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051119.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051119.jpg)
 
 这是一款深圳出产的挂钟。表面上平淡无奇，但是实际上里面藏了一个摄像头，可以监控屋里的情况。
 
@@ -250,7 +250,7 @@ __3、游戏卡__
 
 2、[魔法少女](https://magical-girl.site/)
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051120.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051120.jpg)
 
 日本漫画风格的网站，很炫的开场动画。
 
@@ -274,7 +274,7 @@ __3、游戏卡__
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 
