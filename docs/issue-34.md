@@ -6,13 +6,11 @@
 
 由于微信不允许外部链接，你需要点击页尾左下角的“**阅读原文**”，才能访问文中的链接。
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120701.jpg)
 
 英国有一家叫做 [BioTeq](https://bioteq.co.uk) 的创业公司，主营业务是人体芯片，也就是在人的体内植入 NFC 和 RDIF 芯片。上图是他们把芯片植入了客户的虎口。
 
 这个芯片里面存有客户的个人信息，可以被读卡器读取。根据这家公司的描述，植入芯片以后，就不用携带钥匙了，挥挥手，门就开了。门禁系统和刷脸支付，都会有全新的解决方案，比现在大大简化。
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120702.jpg)
 
 这个系统在技术上已经成熟了，植入手术完成了150多例。许多公司都表示有兴趣，想在雇员体内装一个芯片。这可不是科幻小说，而是完全真实的，英国最大的工会上个月已经发表声明，表示关注此事，主流大报[《卫报》](https://www.theguardian.com/technology/2018/nov/11/alarm-over-talks-to-implant-uk-employees-with-microchips)也发了报道。
 
@@ -24,7 +22,6 @@
 
 1、[8K 视频](https://www.newsshooter.com/2018/12/01/8k-is-now-being-broadcast-in-japan/)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120703.jpg)
 
 12月1日，日本广播公司 NHK 开始播出 8K 视频，即分辨率为 7680 x 4320 的节目。日本希望2020年东京奥运时向全世界提供 8K 信号，现在就是为那时做准备。由于现有的 8K 节目数量非常有限，NHK 只在每天上午10点到晚上10点播出，而且每个节目一天之中将滚动播放多次。
 
@@ -32,7 +29,6 @@
 
 2、[5G 通信](http://m.koreatimes.co.kr/pages/article.asp?newsIdx=259642)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120704.jpg)
 
 12月1日，韩国三个移动运营商（SK电信，KT 和 LG U +）开始在首尔和其他主要城市提供 5G 通信服务。韩国成为世界第一个开始 5G 商用服务的国家。但是由于现在还没有支持 5G 网络的智能手机，因此这个服务只能用于企业内部的测试。
 
@@ -40,7 +36,6 @@ LG U+ 表示，今年底它将在韩国全国拥有7,000多个 5G 基站。
 
 3、[帕金森症的治疗](https://mp.weixin.qq.com/s/iGqDmtYFGE7oBMokuinnbw)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120705.jpg)
 
 很多老年人患有帕金森症，手脚颤抖，行动迟缓，会造成生活困难，目前没有有效的治疗方法。它的病因是大脑内部分泌多巴胺的神经细胞死亡。
 
@@ -48,7 +43,6 @@ LG U+ 表示，今年底它将在韩国全国拥有7,000多个 5G 基站。
 
 4、[新西兰的火箭公司](https://www.bloomberg.com/hyperdrive)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120706.jpg)
 
 11月11日，新西兰公司“火箭实验室”第三次火箭发射成功，将6颗卫星送入太空。这标志着低成本火箭公司的兴起。
 
@@ -56,7 +50,6 @@ LG U+ 表示，今年底它将在韩国全国拥有7,000多个 5G 基站。
 
 5、[全部远程办公的 GitLab](https://www.inc.com/cameron-albert-deitch/2018-inc5000-gitlab.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120707.jpg)
 
 越来越多的公司选择远程办公，其中最彻底的大概就是 GitLab。三年前这家公司只有9个人，现在有350人，分布在45个国家或地区，全部在家办公，通过视频通话和 Slack 保持联系。
 
@@ -64,7 +57,6 @@ LG U+ 表示，今年底它将在韩国全国拥有7,000多个 5G 基站。
 
 6、[平流层气球](https://www.technologyreview.com/s/612417/darpa-is-testing-stratospheric-balloons-that-ride-the-wind-so-they-never-have-to-come-down/)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120708.jpg)
 
 平流层是距离地表10公里～50公里的高空，气流比较平稳，几乎没有上下对流。这意味着，如果气球进入平流层，它可以停留在那里，不会上升或下降。
 
@@ -72,19 +64,15 @@ LG U+ 表示，今年底它将在韩国全国拥有7,000多个 5G 基站。
 
 7、[覆盖任何形状的形状](https://www.quantamagazine.org/amateur-mathematician-finds-smallest-universal-cover-20181115/)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120709.jpg)
 
 上面形状的最大直径都是1。1914年，有人提出一个问题：能够覆盖所有这些形状的形状是什么？很显然，六边形可以覆盖所有形状。
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120710.jpg)
 
 然后，一直有人不断在寻找最小的形状。最近，一个业余数学家将面积缩小到0.84409359单位，之前2015年的纪录是0.8441153单位。下面就是他找到的形状。
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120711.jpg)
 
 8、[新加坡的传感器网络](https://www.reuters.com/article/us-singapore-surveillance/singapore-to-test-facial-recognition-on-lampposts-stoking-privacy-fears-idUSKBN1HK0RV)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120712.jpg)
 
 新加坡政府有计划在该国11万个路灯上，都安装摄像头和传感器，对行人进行面部识别，同时监控空气和降雨量，收集车辆和客流数据以帮助交通。上图是一家中国公司的类似产品展示。
 
@@ -98,7 +86,6 @@ LG U+ 表示，今年底它将在韩国全国拥有7,000多个 5G 基站。
     
 * [大卫·霍克尼](http://www.latimes.com/la-et-em-david-hockney-painting-20181116-story.html)（David Hockney）1972年的油画《两个人的游泳池》，11月15日拍卖出了9030万美元，创下了还活着的艺术家的最高价格。
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120713.jpg)
 
 ## 教程
 
@@ -136,7 +123,6 @@ Netlify 的 lambda 函数可能是现在最简单的 Serverless 实现，本文�
 
 9、[水平看板](http://philippe.bourgau.net/vertical-kanban-board-setup/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120714.jpg)
 
 看板（kanban）是管理 issue 的流行方式，一般的看板是垂直的。本文提出，这是因为日本文字是直排的，而看板是日本人发明的，西方文字是横排的，所以看板应该改成水平。
 
@@ -156,7 +142,6 @@ Linux 系统的 man 帮助文件通常很冗长，难以查阅，这个项目提
 
 3、[本月分子](http://www.chm.bris.ac.uk/motm/motm.htm)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120715.jpg)
 
 英国布里斯托大学化学系制作的网站，每个月介绍一种化合物的分子。
 
@@ -184,7 +169,6 @@ Markdown 文件直接部署成静态网站，不需要编译。
 
 2、[codeadvice](https://www.codeadvice.io/)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120716.jpg)
 
 一个支持在线协同和聊天的网页代码编辑器。
 
@@ -198,7 +182,6 @@ Spectre.css 是一个轻量级，响应式的、现代 CSS 框架。
 
 5、[Photopea](https://www.photopea.com/)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120717.jpg)
 
 在线图像编辑器，免费，可以替代 PhotoShop 的一部分功能。
 
@@ -220,7 +203,6 @@ Bootstrap 是最常用的 CSS 框架，这个网站收集免费的 Bootstrap 主
 
 10、[WebAssembly Studio](https://webassembly.studio/)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120718.jpg)
 
 一个 WebAssembly 的在线 IDE，支持 C / C ++ / Rust 程序在线编译成 WASM。该项目由 Mozilla 基金会开发，这里有[一篇介绍](https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/)。
 
@@ -248,13 +230,11 @@ Bootstrap 是最常用的 CSS 框架，这个网站收集免费的 Bootstrap 主
 
 1、[世界最小的计算机](https://www.eecs.umich.edu/eecs/about/articles/2015/Worlds-Smallest-Computer-Michigan-Micro-Mote.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120719.jpg)
 
 2015年，密西根大学的科学家制造了世界最小计算机，只有2毫米。
 
 计算机系统必须具有数据输入输出的能力，以及处理和存储数据的能力。对于这个最小计算机来说，传感器是输入，无线电是输出。它包含太阳能电池，可利用环境光为电池供电。
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120720.jpg)
 
 上图为该计算机与一美分硬币的比较。
 
@@ -264,35 +244,27 @@ Bootstrap 是最常用的 CSS 框架，这个网站收集免费的 Bootstrap 主
 
 1、[贝克米勒粉红色](https://en.wikipedia.org/wiki/Baker-Miller_pink)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120721.jpg)
 
 1979年，美国西雅图的海军监狱需要油漆房间。监狱的两位所长贝克和米勒，咨询心理学家亚历山大·绍斯（Alexander Schauss）。后者根据自己的研究，建议将监狱墙壁油漆为粉红色（#FF91AF），这种颜色有助于减少暴力和攻击。
 
 监狱采纳了他的建议。因此，这种粉红色后来就被称为“贝克米勒粉红色”。根据海军后来的研究，这种颜色确实降低了监狱内的暴力行为。
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120722.jpg)
 
 2、[画图机器人](http://ai.sensilab.monash.edu/2018/11/05/RobotsThatDraw/)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120723.jpg)
 
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120724.jpg)
 
 澳大利亚莫纳什大学的科学家制作的画图机器人，可以自主地进行绘画。 下面是机器人的作品。
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120725.jpg)
 
 3、[安藤忠雄的佛像](https://www.dezeen.com/2017/08/08/tadao-ando-hill-of-the-buddha-lavender-mound-makomanao-takino-cemetery-sapporo-japan/)
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120726.jpg)
 
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120727.jpg)
 
 日本著名建筑师安藤忠雄为札幌公墓设计了一尊大佛。奇特的是，这座大佛藏在一个薰衣草覆盖的山丘里面。游客必须通过一条40米的隧道才能到达13.5米高的佛像脚下。
 
-[img](https://www.wangbase.com/blogimg/asset/201812/bg2018120728.jpg)
 
 ## 本周金句
 
@@ -320,7 +292,6 @@ GraphQL 的本质是程序员想对 JSON 使用 SQL。
 
 微信搜索“__阮一峰的网络日志__”或者扫描二维码，即可订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

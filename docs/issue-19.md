@@ -2,7 +2,6 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082401.jpg)
 
 上周，我看了电影《头号玩家》（Ready Player One）。这是今年的新片，如果你还没看过，我推荐去看一下。不是因为它有多精彩，而是因为这部电影就是未来的真实场景。
 
@@ -10,7 +9,6 @@
 
 《头号玩家》的主人公就是这样的人物，他不上学也没工作，住在贫民区的集装箱，偷吃别人冰箱里面的食品填饱肚子。但是，他在虚拟世界里面解出了三道谜题，拯救了世界。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082402.jpg)
 
 随着技术的进步，虚拟世界越来越逼真，越来越好玩，而真实世界的生存难度也越来越高，那么一定会有越来越多的人沉迷于虚拟世界。对他们来说，虚拟世界远比真实世界更有意思和意义。虚拟世界的角色更像自己。
 
@@ -20,7 +18,6 @@
 
 1、[换脸手术](https://www.nationalgeographic.com/magazine/2018/09/face-transplant-katie-stubblefield-story-identity-surgery-science/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082403.jpg)
 
 《国家地理》杂志的长篇报道，美国一起换脸手术的全过程。现年22岁的 Katie Stubblefield （左图）2014年遇到感情问题，在哥哥住家的厕所中，朝着自己的脸部开枪自寻短见。
 
@@ -30,7 +27,6 @@ Katie 被送往医院急救，虽然成功保住性命，但脸部严重毁容�
 
 2、[AI 为维基百科写条目](https://quicksilver.primer.ai/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082404.jpg)
 
 [Quicksilver 项目](https://www.wired.com/story/using-artificial-intelligence-to-fix-wikipedias-gender-problem/)使用机器学习算法，为维基百科添加条目。第一步是收集30,000篇关于科学家的维基百科文章，用来训练算法怎么写人物条目。然后，从学术搜索引擎里面找出20万名科学家的名单，发现哪些人还没有条目，再根据新闻报道和他们的论文，生成完整的传记条目添加到维基百科。
 
@@ -42,7 +38,6 @@ Katie 被送往医院急救，虽然成功保住性命，但脸部严重毁容�
 
 4、[生物工程肺的猪移植](https://www.bbc.co.uk/news/science-environment-45046674)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082405.jpg)
 
 BBC 报道，英国科学家将一个生物工程肺移植到了猪体内。
 
@@ -52,25 +47,21 @@ BBC 报道，英国科学家将一个生物工程肺移植到了猪体内。
 
 5、[乐高的天然积木](https://www.businessinsider.com/lego-go-eco-friendly-with-blocks-made-from-sugarcane-2018-8/?IR=T)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082406.jpg)
 
 乐高推出纯天然的积木，使用甘蔗制造。该公司计划，到2030年大部分产品都使用环保材料或再生资源制造。
 
 6、[AI 识别校园枪支](https://www.fastcompany.com/90214257/ai-gun-detection-school-shootings)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082407.jpg)
 
 由于美国的校园枪击案高发，一家公司研发出了枪支自动识别系统。只要校内的监视器识别出枪支，就立刻报警。
 
 7、[南极血瀑](https://motherboard.vice.com/en_us/article/7xq7ba/scientists-finally-solved-the-mystery-of-antarcticas-blood-falls)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082408.jpg)
 
 科学家早就发现，南极冰川上流淌着血红的液体，被称为"南极血瀑"。这些红色液体是从哪里来的？最近终于找到了答案。原来冰川的下面有一个地下湖，水质含有大量的铁元素，因此呈现红色。冰川的挤压作用，将地下水挤到了冰川表面，形成了血瀑。
 
 8、[欧盟可能迫使苹果改掉充电口](https://www.cultofmac.com/568215/eu-may-force-iphone-to-switch-from-lightning-to-usb/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082409.jpg)
 
 苹果手机和 iPad 使用的是 lightning 充电口，而不是其他手机的 USB 充电口，这导致苹果必须使用专门的充电设备。
 
@@ -78,7 +69,6 @@ BBC 报道，英国科学家将一个生物工程肺移植到了猪体内。
 
 9、[海底直播](https://natick.research.microsoft.com/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082410.jpg)
 
 微软的海底机房项目，带有两个外部摄像头，现在全天直播海底世界，看上去鱼儿很喜欢这个东西（也许与它会散热有关）。
 
@@ -96,7 +86,6 @@ BBC 报道，英国科学家将一个生物工程肺移植到了猪体内。
 
 2、[Cherry 公司的历史](https://tedium.co/2018/07/19/cherry-mx-keyboard-history/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082411.jpg)
 
 Cherry 是世界最著名的机械键盘品牌，这篇文章介绍这个品牌的历史。
 
@@ -130,14 +119,12 @@ WireGuard 仍然是一个实验性的新产品，目前只有 Linux 和安卓客
 
 10、[鸽子传信解释 HTTPS](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082412.jpg)
 
 
 本文使用鸽子传信作为比喻，解释 HTTPS 协议。
 
 11、[Debian 系统小知识](https://itsfoss.com/debian-facts/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082413.jpg)
 
 Debian 是历史最悠久、使用最广泛的 Linux 发行版之一。今年8月16日是它25周年的生日，本文介绍一些它的小知识。
 
@@ -161,7 +148,6 @@ fast.ai 免费的深度学习课程。
 
 5、[MacOS system6](https://archive.org/details/mac_MacOS_6.0.8)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082414.jpg)
 
 MacOS system6 是 Macintosh计算机的操作系统，1988年由苹果公司发布。这里用虚拟机在浏览器里面启动这个操作系统。
 
@@ -169,7 +155,6 @@ MacOS system6 是 Macintosh计算机的操作系统，1988年由苹果公司发�
 
 1、[lazygit](https://github.com/jesseduffield/lazygit)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082415.jpg)
 
 Git 操作，你喜欢使用命令行还是图形界面？这个项目可以在命令行提供 Git 的图形界面。
 
@@ -179,7 +164,6 @@ Git 操作，你喜欢使用命令行还是图形界面？这个项目可以在�
 
 3、[teleport](https://github.com/gravitational/teleport)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082416.jpg)
 
 团队登录服务器的 SSH 管理工具。
 
@@ -189,25 +173,21 @@ Python 语言写的短网址服务，前后端代码都包括。
 
 5、[Tox](https://tox.chat/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082417.jpg)
 
 一个点对点通信的聊天工具，主打信息加密。
 
 6、[Basic Engine](https://basicengine.org/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082418.jpg)
 
 这是一个开源的低成本单板电脑，可以在家里自己制造。
 
 7、[Standups](https://standups.io/features)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082419.jpg)
 
 一个适用于远程办公团队的 App，它要求每个成员每天贴一段自己的视频"露露脸"。
 
 8、[Ghost](https://blog.ghost.org/2-0/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082420.jpg)
 
 Ghost 是一个博客软件，类似 Wordpress。最近发布了2.0版，更换了编辑器，并且提供很多新功能。新编辑器的最大特点是增加了 Card，可以嵌入各种资源。
 
@@ -235,7 +215,6 @@ JWL 是一种软件许可证，称为公平世界许可证。采用这个许可�
 
 我在2013年的时候才第一次出国。我还是像在国内一样，选择更急迫的地方。有一个例子就是阿富汗的贾姆宣礼塔。阿富汗有两个世界遗产，其中一个很有名，是巴米扬石窟。这个遗产还是挺好去的，从喀布尔每周有三四班飞机可以飞过去。而且巴米扬本身是一个安全的区域，所以如果愿意去的话还是很容易的。但是贾姆宣礼塔的位置非常的偏僻，它是在整个阿富汗的最中部。在它西边的赫拉特和东边的喀布尔是两个大城市，距离这个塔都有一天以上的车程，而且路上是比较危险的。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082421.jpg)
 
 我选择去这个塔是因为在2017年的时候，我突然发现喀布尔到塔所在的县城恰赫恰兰之间开行了一个航班，因此我可以设计一个只在那儿停留一天的线路来去这个塔。
 
@@ -243,32 +222,27 @@ JWL 是一种软件许可证，称为公平世界许可证。采用这个许可�
 
 出了机场仅仅几分钟的时间，我就被当地军人抓住了，因为一个外国人突然出现在这么小的地方很不同寻常。我被带到局子里，问你是来干什么的？你为什么会出现在这儿？我就赶紧掏出一张图片，因为我问路都是用图片，我就说贾姆贾姆，贾姆宣礼塔。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082422.jpg)
 
 这个时候他们的长官出来了，他是会说英语的，他告诉我说这个塔路程太远了，而且路上挺危险的，我们肯定不会让你去。我当时都快哭出来了，我说我这趟行程都是围绕着这个塔安排的时间，如果不能去的话就白来了。然后他转头就说，我只是说不让你一个人去，但是我们可以带你去呀。所以他一招手招出来了十几个士兵，然后开了两辆皮卡，皮卡后面架了两挺冲锋枪，两辆车就往那个塔开过去。
 
 100公里的路程开了6个小时，我感觉已经颠到失去知觉了，终于在拐过一个弯以后进入到河谷里，这个塔就在山谷之间挺立出来了，特别漂亮。士兵就跟我大叫"贾姆贾姆"，我们非常欢快地开到了塔下面。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082423.jpg)
 
 
 ## 本周图片
 
 1、[苹果的转接线](https://twitter.com/halletecco/status/1025342989940547584)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082424.jpg)
 
 苹果公司对 IT 行业的一大"贡献"，就是它发明了好多接口。上面都是苹果设备的转接线。
 
 2、[苹果公司的第一个 Logo](https://www.cbsnews.com/news/ronald-wayne-apples-third-co-founder-where-is-he-now/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082425.jpg)
 
 1976年，苹果公司成立时的第一个 Logo，是牛顿坐在苹果树下面。很快，乔布斯就用咬了一口的苹果，取代了这个 Logo。
 
 3、[鸡尿布](https://theoutline.com/post/5608/bury-me-in-chicken-diapers?zd=1&zi=syponswm)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082426.jpg)
 
 美国的一个养鸡场主发明了鸡尿布，在网上销售，取得了很好的销量。鸡穿上这种尿布以后，所有排泄物都包在尿布里面，对环境毫无影响，因此就可以养在家里。
 
@@ -278,7 +252,6 @@ JWL 是一种软件许可证，称为公平世界许可证。采用这个许可�
 
 1、[月球视频](https://aeon.co/videos/soar-around-the-moon-carried-by-the-music-of-debussy-in-this-breathtaking-space-flight)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018082427.jpg)
 
 美国国家航空航天局 NASA 为了庆祝成立60周年，将德彪西的名曲《月光》配上月球勘测器拍摄的图像，制作了一段视频，描绘了太阳光在月球表面的流动，"通过光，地表和音乐的相互作用，提供了科学和艺术的迷人融合"。
 

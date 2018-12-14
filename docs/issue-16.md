@@ -2,13 +2,11 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080301.jpg)
 
 影视作品经常出现，病人的心脏停止跳动，医生使用两块电极板对心脏电击。它叫除颤器（defibrillator），通过放电刺激心脏恢复跳动。
 
 除颤器必须在心跳停止以后立刻使用，拖延越久，希望越渺茫。可想而知，大部分心脏停止的病人是死定的。据统计，美国每年心脏骤停有35万人，其中90%以上都没有抢救的机会。医生们于是想到了，能不能把除颤器放在体内呢？
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080302.jpg)
 
 体内除颤器就是这样发明的。这个装置放在心脏衰弱的病人体内，自动检查心脏骤停，一旦发现立刻电击。它救了很多人，但带来了另一个问题。那些心脏衰弱的病人，即使抢救回来，心脏还是衰弱的，而且由于经受了一次电击，会变得比以前更衰弱。病人很可能不久就会发生另一次心脏骤停，或者心脏越来越弱，无法满足身体新陈代谢的需要，导致其他器官慢性衰竭。也就是说，除颤器只是推迟了死亡的时间和方式，病人从死于心脏骤停变成死于慢性衰竭。
 
@@ -20,7 +18,6 @@
 
 1、[射向地球的高能粒子](https://www.vox.com/science-and-health/2018/7/12/17552586/neutrino-cosmic-ray-ice-cube-multimessenger-astronomy-astrophysics-nsf)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080303.jpg)
 
 1912年，科学家发现，地球每天都在遭受高能粒子的撞击。这些粒子的能量非常大，因此必定有一个地方在源源不断地射出它们，然后地球正好在这些粒子的喷射轨道上。但是，一百多年来，科学家都没有答案，到底什么地方在喷射高能粒子？
 
@@ -28,7 +25,6 @@
 
 2、[贝佐斯成为现代史上最富有的人](https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080304.jpg)
 
 亚马逊公司的股票不断上涨，创始人贝佐斯成为世界首富，还成为现代历史上最有钱的人。
 
@@ -36,25 +32,21 @@
 
 3、[消除图片噪点的算法](https://www.bleepingcomputer.com/news/technology/new-ai-algorithm-can-fix-grainy-images-without-looking-at-clean-photos/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080305.jpg)
 
 美国科学家公布了一种消除图片噪点的 AI 算法。这种算法可以从有噪点的图片推断出原图。上面第一张图是原图，第二张是算法处理的结果，第三张是没有噪点的实际图像。
 
 4、[飞行汽车](https://www.bbc.co.uk/news/technology-44805697)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080306.jpg)
 
 很多公司都在开发可以飞行的汽车，不少已经做出了成品。BlackFly 是最接近完成的一个产品。
 
 它可以用100公里/小时的速度，飞行40公里。能量来自电池，一次充电需要30分钟。下图后面的架子是它的充电器。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080307.jpg)
 
 它是垂直起降的，带有八个推进器，分布在两个机翼上，只能载一个人。出品公司宣称，已经进行了多年1400多次的测试，飞行距离超过12,000多英里。
 
 5、[2018 美国最佳工作场所](http://blog.indeed.com/2018/07/12/top-rated-workplaces-the-50-best/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080308.jpg)
 
 美国一家媒体根据员工体验，对财富500强的工作环境进行了排名。员工心目中的最佳工作场所前三名依次是 Facebook、西南航空和 Salesforce。下面是对它们的评语。
 
@@ -64,7 +56,6 @@
 
 6、[开放的视频编码方案](https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080309.jpg)
 
 目前，互联网视频大部分采用 H.264 编码方案。这个方案是有专利的，使用必须付费。即使你可以在 Youtube 这样的视频网站免费观看视频，但是 Youtube 必须为使用 H.264 每年支付几百万美元。
 
@@ -72,7 +63,6 @@
 
 7、[芝加哥地下快运系统](https://www.boringcompany.com/chicago/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080310.jpg)
 
 特斯拉老板马斯克旗下的 Boring Company，不久前中标芝加哥市地下快运系统，挖一条隧道，连接市中心到机场。
 
@@ -80,7 +70,6 @@ Boring Company 披露了这个系统的细节。它依靠电动轨道车承运�
 
 8、[人工智能生成慢镜头](https://motherboard.vice.com/en_us/article/ywejmy/nvidia-ai-slow-motion-better-than-a-300000-fps-camera)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080311.jpg)
 
 Nvidia 公司宣布了一种 Super Slomo 技术，可以用人工智能生成慢镜头。
 
@@ -88,7 +77,6 @@ Nvidia 公司宣布了一种 Super Slomo 技术，可以用人工智能生成慢
 
 9、[智能绷带](https://now.tufts.edu/news-releases/smart-bandages-designed-monitor-and-tailor-treatment-chronic-wounds)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080312.jpg)
 
 美国一所大学发明了智能绷带，上面有传感器和药物。传感器监控伤口的 pH 值，实现智能给药。这对于慢性伤口非常有效。
 
@@ -112,19 +100,16 @@ Nvidia 公司宣布了一种 Super Slomo 技术，可以用人工智能生成慢
 * GitHub [放弃使用 jQuery](https://twitter.com/mislav/status/1022058279000842240)，改用标准 JS 操作 DOM。jQuery 的历史使命已经完成，正在退出前端开发的工具箱。
 * [Opera 浏览器](https://blogs.opera.com/desktop/2018/08/opera-launches-snap-linux-users/)发布 Linux 版本。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080313.jpg)
 
 ## 教程
 
 1、[图数据结构入门](https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080314.jpg)
 
 图（graph）是一种数据结构，由点（vertex）和边（edge）组成。本文介绍图结构的算法基本知识。
 
 2、[判断油画的年代](http://chrischung.me//2018/06/20/using-a-computer-to-separate-fifteenth-from-seventeenth-century-data/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080315.jpg)
 
 上面这幅欧洲油画是什么时候画的，15世纪还是17世纪？
 
@@ -132,7 +117,6 @@ Nvidia 公司宣布了一种 Super Slomo 技术，可以用人工智能生成慢
 
 3、[SVG 背景](https://webdesign.tutsplus.com/tutorials/how-to-use-svg-patterns-as-backgrounds--cms-31507)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080316.jpg)
 
 这篇文章教你如何手写一个 SVG 文件，作为网页的背景图案。
 
@@ -164,7 +148,6 @@ SSH 的作者回忆， ftp 端口是21，telnet 的端口是23，他就挑了中
 
 1、[微软 Whiteboard](https://techcommunity.microsoft.com/t5/Office-365-Blog/Microsoft-Whiteboard-is-now-generally-available-for-Windows/ba-p/214574)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080317.jpg)
 
 微软推出了一个团队协作工具，可以让用户在多种设备上，远程实时分享电子白板。目前，它只有 Windows 10 的客户端，但马上就会推出 iOS 客户端和 Web 版本。
 
@@ -178,25 +161,21 @@ Go 语言写的自然语言处理工具，目前只能处理英语。
 
 4、[Nand Game](http://nandgame.com/diagram)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080318.jpg)
 
 一个网页游戏，玩家通过组合虚拟电路，组装出一台计算机。
 
 5、[Video Hub](https://videohubapp.com/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080319.jpg)
 
 一个管理本地视频的免费桌面软件，可以预览、搜索、分类各类视频文件。
 
 6、[Vialer-js](https://github.com/vialer/vialer-js)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080320.jpg)
 
 一个基于 WebRTC 技术的实时通讯平台，可以实现 P2P 的文字聊天、语音和视频对话。
 
 7、[Neutralinojs](https://github.com/neutralinojs/neutralinojs)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080321.jpg)
 
 一个使用系统原生组件开发桌面应用的框架，相比 Electron，好处就是打包出来的体积比较小。
 
@@ -206,7 +185,6 @@ Go 语言写的自然语言处理工具，目前只能处理英语。
 
 9、[Browsh](https://www.brow.sh/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080322.jpg)
 
 Browsh 是一个基于 Firefox 的命令行脚本，可以在命令行打开网页，并且渲染出大致的样子。它也可以用作移动端网页浏览的处理方案。
 
@@ -226,13 +204,11 @@ Browsh 是一个基于 Firefox 的命令行脚本，可以在命令行打开网�
 
 4、[Acceptance Test Driven Development with React](https://leanpub.com/build-react-app-with-atdd)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080323.jpg)
 
 中国开发者写的英语专著，介绍前端测试。书放在 Leanpub，付不付费、付多少钱都是自愿的。
 
 5、[网站可靠性工作手册](https://landing.google.com/sre/book.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080324.jpg)
 
 《网站可靠性工作手册》一书现在免费下载，谷歌官网提供，为期一个月。
 
@@ -240,7 +216,6 @@ Browsh 是一个基于 Firefox 的命令行脚本，可以在命令行打开网�
 
 1、[郭台铭的创业](https://www.miaopai.com/show/4MjIpOCi8Ks2xBcGC2ZnycZ3qPLxJ2XuwCRrNg__.htm)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080325.jpg)
 
 郭台铭创业初期，好不容易有了进一步投资的钱，当时有两个选择：一是买地自己盖厂房，然后买人家的模具；二是租别人的厂房，自己买机床开发模具，加强研发能力。
 
@@ -284,7 +259,6 @@ Browsh 是一个基于 Firefox 的命令行脚本，可以在命令行打开网�
 
 1931年，西澳大利亚州的阿里德角半岛，一些自然爱好者在灌木丛生的荒原上，发现了一种没人见过的昆虫。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080326.jpg)
 
 它看上去隐约有点蚂蚁的模样，可却是一种不寻常的淡黄色，还有一双奇怪的眼睛，很惹眼，显得异常局促不安。人们收集了一些标本，送到墨尔本维多利亚国家博物馆某位专家的桌上，专家立马就认定这种昆虫是巨响蚁。这一发现使人们极为兴奋，因为据人类所知，类似的东西不存于地球已经1亿年之久了。巨响蚁是一种原始蚂蚁，是蚂蚁自黄蜂开始的进化过程中某一时段的活化石。在昆虫学领域，这非凡卓越得就仿佛有人发现一群三角龙在某个遥远的草原上啃草一样。
 
@@ -296,7 +270,6 @@ Browsh 是一个基于 Firefox 的命令行脚本，可以在命令行打开网�
 
 现在，我们来考虑一下可能性的问题。泰勒和他的同事距他们预定搜寻地有800英里之遥。在澳大利亚约摸3百万平方英里的旷野中，一小撮能够识别地球上最稀有、最吃香的虫子的人中的一个找到了这种虫子----它的活体只被人看见过一趟，还是差不多半个世纪之前----而这统统是因为他们的车子在此处抛锚了。其附带结果便是，巨响蚁至今仍旧没有在其原发现地被找到。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080327.jpg)
 
 ## 本周图片
 
@@ -304,41 +277,34 @@ Browsh 是一个基于 Firefox 的命令行脚本，可以在命令行打开网�
 
 有一个数学难题，怎样的多边形可以铺满一个平面？数学家已经证明，任意三角形和四边形都可以，五边形不确定，六边形只有三种可以，其他都不行。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080328.jpg)
 
 
 上图是目前找到的所有15种五边形，可以平铺平面。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080329.jpg)
 
 
 其中的第15种五边形，2015年发现的。
 
 2、[最热门的编程语言](https://www.economist.com/science-and-technology/2018/07/19/python-has-brought-computer-programming-to-a-vast-new-audience)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080330.jpg)
 
 
 根据谷歌搜索指数，Python 语言过去10年一直在上升，现在已经是最热门的编程语言。（图片来源《经济学家》杂志）
 
 3、[圣赫勒拿岛游记](https://bbs.qyer.com/thread-2891820-1.html)（组图）
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080331.jpg)
 
 
 圣赫勒拿岛最著名的景点，当然是拿破仑故居和空的拿破仑墓。1815年，拿破仑被流放到这里，1821年去世安葬在岛上的墓地。1840年法国政府将灵柩移回巴黎，买下岛上三块拿破仑有关土地，并入法国领土，成为"在英国海外领地上的法国海外领土"。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080332.jpg)
 
 
 拿破仑故居门口立着牌子，禁止拍照，不过没有监控，靠自觉。我是2018年这个别墅的第一个参观游客，在别墅里忍不住，拍了一些内部照片。里面的所有家具和设施完全是原物原样，没有任何变化，让你觉得好像拿破仑昨天才在这里去世。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080333.jpg)
 
 
 往山下开一段路，就是另一块法国领土，拿破仑墓。当然，是空的，灵柩已经移回巴黎。这块墓地占的区域很大，由松木屑铺成防滑的山路一直走下去。没人看管，任何时候都可以来。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018080334.jpg)
 
 我住的旅馆，由英国遗民Hazel老太太经营。其中一部分是2008年从所罗门家族买来的，包括书房，大部分都保持原样几百年。临走前一天，Hazel告诉我，她接到一个叫信天翁的旅游agent订单，有11个北京来的中国团第二天到。然后她有点担心地问我，他们会不会在房间 cooking?
 

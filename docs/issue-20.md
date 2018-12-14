@@ -2,7 +2,6 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083101.jpg)
 
 （题图：特洛伊遗址，土耳其，2014。游客付费后，可以穿上古罗马士兵的服装，拍照留念。）
 
@@ -28,13 +27,11 @@ __（五）多存钱。__你应该避免负债，不要把钱花在愚蠢的事�
 
 1、[蚊子喜欢咬谁？](https://www.bustle.com/p/why-do-some-people-get-bitten-by-mosquitoes-more-than-others-science-has-a-surprising-answer-9920597)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083102.jpg)
 
 科学家发现，散发二氧化碳（严格地说，还包括乳酸、丙酮和雌二醇）越多的人，越容易被蚊子咬。这解释了为什么较胖的人、孕妇被蚊子咬得比较多。
 
 2、[氢动力汽车](http://www.abc.net.au/news/2018-08-08/hydrogen-fuel-breakthrough-csiro-game-changer-export-potential/10082514?pfmredir=sm)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083103.jpg)
 
 使用清洁能源的汽车，除了电动汽车，还有氢动力汽车。氢气燃烧只会产生水，不会污染环境。
 
@@ -42,7 +39,6 @@ __（五）多存钱。__你应该避免负债，不要把钱花在愚蠢的事�
 
 3、[狗的克隆](https://www.vanityfair.com/style/2018/08/dog-cloning-animal-sooam-hwang)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083104.jpg)
 
 汉城一家医院开展克隆狗服务。有钱人的狗死了，如果舍不得，可以请这家医院克隆一条一模一样的，每次收费高达10万美元。上图是该医院克隆出来的11条吉娃娃，它们都完全一致。
 
@@ -50,7 +46,6 @@ DNA的采集必须在狗死亡五天内完成。然后，找到一条代孕狗�
 
 4、[蓝光对视网膜有伤害](https://phys.org/news/2018-08-chemists-blue.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083105.jpg)
 
 托莱多大学的科学家发现，电子设备发出的蓝光对视网膜有伤害，可能会造成黄斑变性，因此建议为电子设备加装蓝光滤镜。
 
@@ -60,7 +55,6 @@ DNA的采集必须在狗死亡五天内完成。然后，找到一条代孕狗�
 
 6、[固氮玉米](https://www.ucdavis.edu/food/news/grow-food-crops-without-fertilizer)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083106.jpg)
 
 农作物的生长需要氮肥，豆类植物由于根部有根瘤，可以将空气中的氮转化为植物可以吸收的氮，所以豆类植物不需要或者仅需要很少的氮肥。
 
@@ -68,15 +62,12 @@ DNA的采集必须在狗死亡五天内完成。然后，找到一条代孕狗�
 
 7、[机器蜜蜂](https://daily.jstor.org/the-race-to-build-a-better-bee/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083107.jpg)
 
 很多植物依靠蜜蜂传粉，如果缺少蜜蜂，就会生长发育不良。为了在没有蜜蜂的情况下，植物也能良好生长，科学家研制了传粉机器人。它们只有几克重，甚至不到一克，机翼底下带有凝胶，用来吸附花粉。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083108.jpg)
 
 8、[今天的流行音乐](https://www.smithsonianmag.com/smart-news/science-proves-pop-music-has-actually-gotten-worse-8173368/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083109.jpg)
 
 西班牙科学家分析对比了，今天的流行音乐和以前的流行音乐。结果发现，今天的流行音乐的旋律种类在下降，也就是说，不同的歌曲变得越来越像了，音乐风格没有那么多元化了。而且，今天的流行音乐变得越来越响，歌曲的响度大约每过8年就提高一个分贝。
 
@@ -102,7 +93,6 @@ Vi 是 Unix 系统的常见编辑器。它最初是 ed 编辑器的改写，vi �
 
 3、[Mastodon 简介](https://kevq.uk/how-does-mastodon-work/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083110.jpg)
 
 
 Mastodon 是开源的 Twitter 克隆。它的最大特点是允许多个实例（即服务器）之间的互相联系，比如引用一个用户需要给出他所在的实例地址（@foo@mastodon.instance），有点像 Email 的概念。
@@ -129,7 +119,6 @@ Python 的长处不是性能，但是采用本文的方法，可以减少一些�
 
 9、[网页设计的常见错误](http://blog-en.tilda.cc/articles-website-design-mistakes)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083111.jpg)
 
 本文使用图片对比，列出网页外观设计的15个注意点。上图左侧是改造前的网页，右侧是改造后。
 
@@ -141,7 +130,6 @@ axios 是一个非常流行的 JavaScript 语言的 HTTP 请求库，本文分�
 
 1、 [SimilarWeb 插件](https://threetempi.com/my-secret-guide-to-find-free-stats-about-any-tech-company/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083112.jpg)
 
 通过这个插件，你可以在访问某个网站时，直接查看它的统计数据，比如访问量、访问来源、每个用户的浏览时长等等。
 
@@ -151,7 +139,6 @@ axios 是一个非常流行的 JavaScript 语言的 HTTP 请求库，本文分�
 
 3、[Publii](https://github.com/GetPublii/Publii)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083113.jpg)
 
 一个生成静态网站的内容管理系统，所有管理都在本地进行，生成静态网页之后推送到服务器。
 
@@ -161,31 +148,26 @@ axios 是一个非常流行的 JavaScript 语言的 HTTP 请求库，本文分�
 
 5、[Electron fiddle](https://github.com/electron/fiddle)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083114.jpg)
 
 一个 Electron 的实验环境。对于小型项目，把代码贴进去，自动编译出一个 Electron 窗口供调试。编辑完还可以把所有代码发上 Github Gist，用来分享。
 
 6、[dumper.js](https://github.com/zeeshanu/dumper.js)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083115.jpg)
 
 一个用于调试时方便打印变量值的 JS 库。
 
 7、[unicode-style](https://github.com/ekmartin/unicode-style)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083116.jpg)
 
 Unicode 本身就带有粗体、斜体字符（只限于拉丁字母），这个工具就采用这些字符进行文本的格式化。然后，不管复制到那里，文本都带有格式。
 
 8、[SnippetStore](https://github.com/ZeroX-DG/SnippetStore)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083117.jpg)
 
 一个管理代码片段的桌面 Electron 应用。
 
 9、[Sayonara](https://sayonara-player.com/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083118.jpg)
 
 一个 Linux 系统的开源音乐播放器。
 
@@ -197,7 +179,6 @@ XINU 是普渡大学开发一个教学操作系统，属于简化版的 Unix。
 
 2、[Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083119.jpg)
 
 开源电子书，涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题。
 
@@ -207,7 +188,6 @@ XINU 是普渡大学开发一个教学操作系统，属于简化版的 Unix。
 
 4、[《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083120.jpg)
 
 《Node.js 调试指南》一书的开源版。
 
@@ -229,15 +209,12 @@ XINU 是普渡大学开发一个教学操作系统，属于简化版的 Unix。
 
 丰田 MIRAI 是世界第一代氢能源汽车，MIRAI 在日语中是"未来"的意思，正式名称叫做"燃料电池汽车"。2014年12月正式推向市场，并实现了量产。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083121.jpg)
 
 与汽油汽车和混合动力汽车相比，丰田的氢能源汽车是没有发动机的，只有车头安装了一个小小的马达。那么，MIRAI 的动能是如何产生的呢？
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083122.jpg)
 
 燃料电池动力系统的工作原理是氢和氧发生反应产生电能，然后驱动马达运行。那么既然把 MIRAI 称作为"燃料电池汽车"，那么它的燃料电池在哪里呢？其实，所谓的燃料电池，是一个装在汽车中部的电堆，叫"FC电堆"，这个电堆并不是电池，而是发电设备，氢和氧在这里发生反应产生动能，而且这个电堆没有寿命限制。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083123.jpg)
 
 MIRAI 加一次气，需要多少时间？只需要3分钟，跟加汽油是同样的时间。但是，加一次气，可以跑650公里，并且作为 MIRAI 发电机的FC电堆，还不会发生电池老化，功率下降的问题。加满气的费用是多少？是5000日元（约300元人民币），跟加满汽油的价格一样，甚至更便宜，而且不会随着油价的上升而发生价格的波动。
 
@@ -245,7 +222,6 @@ MIRAI 加一次气，需要多少时间？只需要3分钟，跟加汽油是同�
 
 MIRAI 目前的售价是725万日左右元（约42万元人民币），日本政府和各地方政府（各地方政府的补助金额不等）最多可补助约200万日元，个人实际需要支付的购车费，相当于30万元人民币。
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083124.jpg)
 
 车回到加气站，中井先生请我看车尾，只见司机在驾驶座上按一个按钮，车尾就洒出大概半杯子清水，原来氢能源的 MIRAI 只排水，不排尾气，实现了完全的零排放。而这一种清水，可以在行驶中自然排放。
 
@@ -253,7 +229,6 @@ MIRAI 目前的售价是725万日左右元（约42万元人民币），日本政
 
 1、 [可穿戴键盘](https://www.tapwithus.com/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083125.jpg)
 
 
 美国一家创业公司发明了戴在手上的键盘，可以在任何表面使用，根据手指的移动，结合手机上面的提示输入字符，代替传统键盘和鼠标。
@@ -262,15 +237,12 @@ MIRAI 目前的售价是725万日左右元（约42万元人民币），日本政
 
 1、[scutoid](https://blogs.mathworks.com/headlines/2018/08/08/best-trivia-question-ever-what-is-a-scutoid/)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083126.jpg)
 
 Scutoid 是一种特殊的柱状体。它的顶部是五边形，底部是六边形，有一根棱分叉成了 Y 形。它的最大特点是多个 Scutoid 可以组合在一起。这种形状的重大意义在于，人体内部很多细胞是用这种形状结合的。
 
 2、[斯德哥尔摩最深的地铁站](https://www.atlasobscura.com/places/kungstradgarden-metro-station)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083127.jpg)
 
-[img](https://www.wangbase.com/blogimg/asset/201808/bg2018083128.jpg)
 
 国王花园站（Kungsträdgården）是瑞典首都斯德哥尔摩最深的地铁站，地下34米。它的最大特点就是，车站大部分墙壁都是原始岩层，没有进行人工处理，而且岩壁上还保留着苔藓和真菌。
 
@@ -292,7 +264,6 @@ Scutoid 是一种特殊的柱状体。它的顶部是五边形，底部是六边
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

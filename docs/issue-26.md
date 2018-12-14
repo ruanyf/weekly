@@ -2,13 +2,11 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101201.jpg)
 
 [Basecamp](https://basecamp.com/) 是 IT 行业很有名的一家公司，提供团队协作工具，同时也是 Rails on Ruby 框架的创造者。这家公司的特别之处在于，它不仅写软件，还写畅销书！
 
 它的两位老板喜欢写书，已经出版了三本----《Rework》、《Getting Real》和《Remote》----每一本都卖得很好。最近，他们又出版了第四本[《工作何必疯狂》](https://basecamp.com/books/calm)（It Doesn't Have to Be Crazy at Work，见上图）。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101202.jpg)
 
 这本新书的主要观点是，IT 行业的员工加班（或者说投入工作的程度），已经超过了合理标准，接近于疯狂，应该得到遏制。很多软件工程师每周的工作时间已经达到了60小时，甚至70、80小时。除了工作和睡眠，生活几乎没有其他内容。作者认为，这是错误的。
 
@@ -32,7 +30,6 @@
 
 1、[氢气列车](https://www.theguardian.com/environment/2018/sep/17/germany-launches-worlds-first-hydrogen-powered-train)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101203.jpg)
 
 德国开通全世界第一列氢气列车，运行在一条100公里的线路上。氢气列车通过氢气和氧气的化学反应产生能量，转化为电力，唯一的排放物就是水。单个氢气罐可以支持列车行驶1,000公里。
 
@@ -42,23 +39,19 @@
 
 2、[日本的小行星探测器](https://www.bbc.com/news/science-environment-45578795)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101204.jpg)
 
 9月21日，日本的隼鸟二号飞船（Hayabusa-2）到达了一个名叫 Ryugu 的小行星，释放了两辆探测车成功登陆。这是人类探测器第一次登陆小行星。
 
 Ryugu 小行星其实是一块一公里长的太空岩石。隼鸟二号是2014年12月3日发射的，足足飞了近四年，才达到那里。由于小行星接近于没有重力，探测车无法行驶，而是跳跃式前进，向前动一下就会跳起来。探测车已经发回了第一批照片。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101205.jpg)
 
 探测车的下一步的任务是，10月下旬引爆一些炸药，收集炸出来的岩石。（我的疑问：太空没有空气，为什么能产生爆炸？）这些岩石没有暴露在太空环境，所以是原始的。一年后的2019年12月，隼鸟二号飞船将返程，将小行星的岩石样本送回地球。
 
 3、[最古老的动物化石](https://www.theguardian.com/science/2017/apr/12/mattresses-the-universe-and-everything-fossils-of-ediacaran-biota)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101206.jpg)
 
 科学家最近在俄罗斯偏远地区的一处悬崖，发现了一块古老的海洋生物化石。经过鉴定，该化石距今大约5.58亿年，是已知最古老的动物化石。下图是发现化石的现场。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101207.jpg)
 
 4、[IPv6 的普及状况](https://whynoipv6.com/)
 
@@ -66,11 +59,9 @@ IPv6 诞生至今已经25年了，依然没有得过普及。世界前1000位的
 
 一个网站启用 IPv6 有两个条件：一是网站本身支持 IPv6（域名有 AAAA 记录），二是网站的 DNS 主机支持IPv6。下面是排名最靠前的不支持 IPv6 的网站。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101208.jpg)
 
 5、[机器人皮肤](https://news.yale.edu/2018/09/19/robotic-skins-turn-everyday-objects-robots)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101209.jpg)
 
 耶鲁大学的科学家发明了一种可卷曲的"机器人皮肤"，可以包裹在任何物体的外层，使得该物体变成可以控制的机器人。上图是毛绒填充的小马玩具穿上"机器人皮肤"以后，变成可以走动了。
 
@@ -78,7 +69,6 @@ IPv6 诞生至今已经25年了，依然没有得过普及。世界前1000位的
 
 6、[无人机查税](https://www.reuters.com/article/us-greece-taxes-drones/greece-uses-high-tech-drones-to-fight-tax-evasion-in-holiday-hot-spots-idUSKCN1M41SJ)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101210.jpg)
 
 希腊的圣托里尼岛是世界著名的旅游景点，每年有大量的游客参加一日游项目。但是，很多导游公司为了逃税，隐瞒游客数量。
 
@@ -86,7 +76,6 @@ IPv6 诞生至今已经25年了，依然没有得过普及。世界前1000位的
 
 7、[南大西洋的海底电缆](https://dyn.com/blog/first-subsea-cable-across-south-atlantic-activated/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101211.jpg)
 
 最近，安哥拉到巴西的海底电缆铺设完成，这是历史上第一条南大西洋的海底电缆。南部非洲和南美洲以前从来没有直连的海底电缆。
 
@@ -94,13 +83,11 @@ IPv6 诞生至今已经25年了，依然没有得过普及。世界前1000位的
 
 8、[AI 艺术品](https://www.engadget.com/2018/08/22/christies-auction-ai-generated-art-first-time/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101212.jpg)
 
 这个月，佳士得将首次拍卖人工智能艺术品。一幅算法生成的人物肖像，估价达到了1万美元。
 
 事实上，已经有很多绘画机器人，通过大量画作的训练，会自动生成美术作品。下面[六幅抽象画](https://qz.com/work/1390121/can-you-guess-which-of-these-paintings-was-not-made-by-a-human/)，有五幅是人的作品，还有一幅软件生成的，你能看出来是哪一幅吗？
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101213.jpg)
 
 9、__一句话新闻__
 
@@ -109,7 +96,6 @@ IPv6 诞生至今已经25年了，依然没有得过普及。世界前1000位的
 * [Facebook](https://www.cnbc.com/2018/09/18/facebook-signs-deal-to-supply-singapore-operations-with-clean-energy.html) 宣布，新建的新加坡数据中心，将百分百采用可再生能源，主要由安装在近900个屋顶上的太阳能电池板供电。该项目预计将在2020年完成。<br>
 * [Firefox](https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/) 推出 VR 设备专用的网络浏览器。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101214.jpg)
 
 ## 教程
 
@@ -127,7 +113,6 @@ IPv6 诞生至今已经25年了，依然没有得过普及。世界前1000位的
 
 4、[使用 Qt 为 Python 脚本添加图形界面](https://build-system.fman.io/pyqt5-tutorial)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101215.jpg)
 
 Qt 是一个 C++ 写的跨平台控件库，PyQt 将其移植到 Python，可以很方便地为 Python 脚本添加图形界面。
 
@@ -137,7 +122,6 @@ Qt 是一个 C++ 写的跨平台控件库，PyQt 将其移植到 Python，可以
 
 6、[为什么使用 i3 窗口管理器？](https://opensource.com/article/18/8/i3-tiling-window-manager)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101216.jpg)
 
 Linux 发行版一般都自带桌面环境，如果你需要的只是一个好用的命令行，那么你可以放弃桌面环境，改用窗口管理器。i3 就是一个很好用的平铺式窗口管理器，本文给出了五个推荐理由。如果你有兴趣的话，这里还有一篇[简单教程](https://opensource.com/article/18/8/getting-started-i3-window-manager)。
 
@@ -169,7 +153,6 @@ Linux 发行版一般都自带桌面环境，如果你需要的只是一个好�
 
 4、[创业公司](http://thefounder.biz/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101217.jpg)
 
 一个网页游戏，玩家是创业公司的创始人，模拟经营这家公司，完成各种任务。
 
@@ -185,13 +168,11 @@ Linux 发行版一般都自带桌面环境，如果你需要的只是一个好�
 
 2、[Bing 的图像搜索](https://battellemedia.com/archives/2018/09/if-software-is-eating-the-world-what-will-come-out-the-other-end)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101218.jpg)
 
 与谷歌一样，Bing 也提供图像搜索。但是，它还带有裁剪功能，可以只搜索图像的一部分。
 
 3、[富文本编辑器 Trix](https://github.com/basecamp/trix)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101219.jpg)
 
 Rails 框架的创造者 Basecamp 公司，开发了一个富文本编辑器 Trix，发布1.0版了。
 
@@ -201,13 +182,11 @@ Cephes 是 JavaScript （准确说是 WebAssembly）的数学函数库，类似 
 
 5、[qutebrowser](https://www.qutebrowser.org/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101220.jpg)
 
 一个 Qt 库制作的最简化浏览器，内核是 Chromium。最大特点就是它自带命令行，可以完全用键盘操作。
 
 6、[DNS 1.1.1.1](https://1.1.1.1/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101221.jpg)
 
 该网站提供指导，如何将各种操作系统或设备的 DNS 设为 1.1.1.1。
 
@@ -227,11 +206,9 @@ Caddy 是一个支持 HTTP/2，自带 HTTPS 功能的跨平台、易于使用的
 
 1、[Chrome 的恐龙游戏](https://www.eyerys.com/articles/history-google-chromes-offline-dinosaur-game-17-million-years-runner-game)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101222.jpg)
 
 Chrome 浏览器由于网络中断、无法上网时，会显示一个恐龙游戏。一头霸王龙困在沙漠之中，必须不停地奔跑，且必须跳跃避开像仙人掌和翼手龙这样的障碍物，随着游戏的进展，速度会越来越快。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101223.jpg)
 
 该游戏于2014年9月首次发布。地址栏键入 chrome://dino 就可以进入该游戏。开始游戏的方法是：PC 用户按一下空格键，手机用户点击恐龙。
 
@@ -253,7 +230,6 @@ Chrome 浏览器由于网络中断、无法上网时，会显示一个恐龙游�
 
 1、[南极洲的冰川裂缝](https://www.iflscience.com/environment/scientists-think-a-giant-artificial-wall-propped-up-under-antarcticas-ice-sheets-could-stop-catastrophic-sea-level-rise/all/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101224.jpg)
 
 上图是充满裂缝的冰川。由于气温上升，南极洲的冰川开始崩解，变成小块落入海中，然后融化。
 
@@ -261,29 +237,23 @@ Chrome 浏览器由于网络中断、无法上网时，会显示一个恐龙游�
 
 下面是2018年8月，有人在加拿大拍到的海市蜃楼照片。船的形状一直在改变，整个过程持续了半个小时，然后就消失不见了。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101225.jpg)
 
 3、[珍道具](http://www.messynessychic.com/2018/09/21/the-inexplicably-fascinating-japanese-art-of-being-useless/)
 
 珍道具（Chindōgu）是一些富有创意，但并不实用的发明。它是今年71岁的 Kenji Kawakami 在上个世纪90年代发起的。当时，他负责编制一本针对日本家庭主妇的邮购商品目录。有时候，商品目录看起来很薄，他就会加入一些自己制作的产品，有点像恶作剧。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101226.jpg)
 
 遮雨的鞋子。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101227.jpg)
  
 唇膏状的黄油棒。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101228.jpg)
 
 带有扫帚功能的拖鞋。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101229.jpg)
 
 感冒患者专用的面纸架。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101230.jpg)
 
 喷水的牙刷。
 
@@ -291,7 +261,6 @@ Chrome 浏览器由于网络中断、无法上网时，会显示一个恐龙游�
 
 1、[便携打字机](https://techcrunch.com/2018/10/02/the-freewrite-traveler-offers-distraction-free-writing-for-the-road/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101231.jpg)
 
 美国一家公司推出一台便携式设备，只能用于打字，这是为了防止使用者分心。它包括一个全尺寸键盘和一个电子墨水屏，可以打开多个文档，系统会自动保存并同步到Dropbox等服务。该设备的众筹价是279美元。
 
@@ -317,7 +286,6 @@ Chrome 浏览器由于网络中断、无法上网时，会显示一个恐龙游�
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

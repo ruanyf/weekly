@@ -4,7 +4,6 @@
 
 欢迎投稿，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110201.jpg)
 
 1968年，计算机学家梅尔文·E·康威发表了一篇著名[论文](http://www.melconway.com/Home/Committees_Paper.html)，后来被称为[康威定律](https://en.wikipedia.org/wiki/Conway%27s_law)（Conway's law）。
 
@@ -20,7 +19,6 @@
 
 1、[达芬奇的树干定律](https://phys.org/news/2012-01-leonardo-da-vinci-tree.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110202.jpg)
 
 500年前，达芬奇发现了一个现象，树干的横截面等于树枝横截面的总和。也就是说，在同一个高度，把所有树枝剪下来，紧紧捆在一起，正好等于树干的大小。达芬奇无法解释这种现象。
 
@@ -28,7 +26,6 @@
 
 2、[不要多看苹果手机](https://www.engadget.com/2018/10/13/police-told-to-avoid-looking-at-iphone-x/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110203.jpg)
 
 新一代 iPhone 都采用 FaceID 解锁。如果你不是手机主人，却试图通过 FaceID 解锁，超过五次以后，手机就会锁定。
 
@@ -36,7 +33,6 @@
 
 3、[机器人跑酷](https://theblogroom.com/advanced-humanoid-rescue-robot-learns-parkour/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110204.jpg)
 
 波士顿动力公司放出了最新视频，他们的机器人已经学会跑酷了。奔跑过程中，它看到障碍物，会一跃而过。
 
@@ -44,7 +40,6 @@
 
 4、[Apple Watch 破案](https://tech.sina.cn/t/2018-10-15/detail-ifxeuwws4405681.d.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110205.jpg)
 
 沙特阿拉伯的一个知名记者在土耳其失踪了，土耳其警方认为他被沙特政府暗杀了。
 
@@ -52,7 +47,6 @@
 
 5、[安卓品牌的消失](https://9to5google.com/2018/10/11/the-dirty-word-android-dead-made-by-google/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110206.jpg)
 
 有人注意到，10月9日的谷歌新品发布会上，谷歌一次也没有提到安卓。它主推的是 Pixel 3 手机和 ChromeOS 设备，底层的安卓系统根本没提。甚至可穿戴系统 Android Wear，都重新命名为 Wear OS。
 
@@ -60,7 +54,6 @@
 
 6、[胶水易拉罐](https://www.telegraph.co.uk/news/2018/09/07/carlsberg-glues-beer-cans-together-becoming-first-brewery-abandon/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110207.jpg)
 
 易拉罐饮料往往用塑料膜包装在一次，比如24个易拉罐会封装成一箱。这样容易造成塑料污染，塑料膜拆下来就没用了，又没法回收和降解，对环境的影响很大。
 
@@ -68,7 +61,6 @@
 
 7、[电动飞机](https://www.bloomberg.com/hyperdrive)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110208.jpg)
 
 波音公司支持的创业公司 Zunum Aero，计划在2022年交付首架混合动力飞机，每架飞机最多可容纳12名乘客。
 
@@ -76,22 +68,17 @@
 
 8、[巴西的神秘洞穴](http://blogs.discovermagazine.com/crux/2017/03/28/paleoburrows-south-america)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110209.jpg)
 
 科学家在巴西发现一些圆形的洞穴，洞穴壁上充满了挖掘了痕迹。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110210.jpg)
 
 世界上没有任何地质过程，会产生长圆形或椭圆形横截面的隧道，所以科学家认为这些洞穴不是地质原因产生的，也不是人类挖掘的，而是某种已经灭绝的大型动物用爪子挖掘的，很可能是一种巨型的地面树懒。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110211.jpg)
 
 9、[工作头罩](https://www.dezeen.com/2018/10/17/panasonics-wearable-blinkers-concentrate-open-plan-offices-technology/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110212.jpg)
 
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110213.jpg)
 
 开放式办公室，人们往往需要戴耳机来保证注意力集中。现在，松下推出了一款工作头罩，不仅可以阻断外界的声音，还可以让你看不到其他地方，只能看到面前的屏幕。
 
@@ -111,13 +98,11 @@ RFC 是很多互联网协议的标准，但是它是文本文件，不太容易�
 
 2、[奇特的代码缩进风格](https://swalladge.id.au/archives/2018/10/15/alternative-code-styles/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110214.jpg)
 
 本文总结了几种奇特的缩进方式。比如，每一层缩进都是前两层缩进之和，这就叫做斐波拉切缩进。
 
 3、[如何使用 Flutter 制作一个 iPhone 计算器？](https://hackernoon.com/how-to-build-iphone-calculator-using-flutter-fe934ce78d7e)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110229.jpg)
 
 Flutter 开发的一个简单教程。
 
@@ -163,7 +148,6 @@ Pentax 相机开放了 SDK，开发者可以自己编写程序，从 PC 或手�
 
 3、[Colorblindly](https://github.com/oftheheadland/Colorblindly)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110216.jpg)
 
 Colorblindly 是一个浏览器的色盲插件，让所有图片转成色盲患者看到的样子。上图左侧是正常人看到的世界，右侧是蓝色色盲的人看到的世界。
 
@@ -181,7 +165,6 @@ Access 是一种桌面数据库，本文列出了四种开源替代品。
 
 7、[lip-reading-deeplearning](https://github.com/astorfi/lip-reading-deeplearning)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110217.jpg)
 
 一个使用深度学习，从嘴唇变化识别语言的库。
 
@@ -191,7 +174,6 @@ Access 是一种桌面数据库，本文列出了四种开源替代品。
 
 9、[AdGuard](https://adguard.com/en/blog/introducing-adguard-home/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110218.jpg)
 
 美国一家创业公司发布家用 DNS 服务器，可以提供局域网的 DNS 服务，最大功能是自动屏蔽广告。它的软件是[开源](https://github.com/AdguardTeam/AdGuardHome#installation)的，也可以安装在其他硬件上（比如树莓派）。（[@ctolib](https://github.com/ruanyf/weekly/issues/14) 投稿）
 
@@ -207,7 +189,6 @@ Access 是一种桌面数据库，本文列出了四种开源替代品。
 
 2、[Common Lisp 实战教程](http://www.gigamonkeys.com/book/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110219.jpg)
 
 开源的 Common Lisp 教程。
 
@@ -235,13 +216,11 @@ Youtube上有一个 CrashCourse 系列课程，介绍各个学科的比较基础
 
 你可能觉得这种预测太大胆了，那就让我们想想汽车取代马车的速度。下面是1900年纽约第五大道的照片。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110220.jpg)
 
 照片里面一辆汽车也没有，都是马车。
 
 再看看1913年的这张照片。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110221.jpg)
 
 照片里面一匹马也没有，发生了什么事？
 
@@ -269,7 +248,6 @@ Youtube上有一个 CrashCourse 系列课程，介绍各个学科的比较基础
 
 3、[可以食用的棉籽](https://www.npr.org/sections/thesalt/2018/10/17/658221327/not-just-for-cows-anymore-new-cottonseed-is-safe-for-people-to-eat)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110222.jpg)
 
 人们种植棉花，主要是为了它种子上面蓬松的白色纤维。至于棉花种子本身，对于人类是有害的。但是，现在美国农业部批准了一种新型棉花，经过基因改造以后，它的种子可以安全食用。这项发明有望为棉籽开辟新的市场，并且为棉花种植带来巨大的推动。
 
@@ -285,11 +263,9 @@ Youtube上有一个 CrashCourse 系列课程，介绍各个学科的比较基础
 
 1912年，一个漫画家设想的[未来交通系统](https://www.facebook.com/lostinhistorypics/posts/1437819003017019)。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110223.jpg)
 
 2、[自动回复](https://www.optiweb.com/best-autoresponders/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110224.jpg)
 
 某人为工作邮箱设置了自动回复。
 
@@ -297,7 +273,6 @@ Youtube上有一个 CrashCourse 系列课程，介绍各个学科的比较基础
 
 3、[自行车弧光灯](https://hackaday.com/2018/10/17/diy-arc-light-makes-an-unnecessarily-powerful-bicycle-headlight/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110225.jpg)
 
 一个俄罗斯 Youtuber 在自行车前面安装了一个弧光灯。晚上汽车的时候，对面的司机都以为开来了一辆大车，但其实只是一辆自行车。
 
@@ -313,19 +288,16 @@ Sol LeWitt 是一个美国画家，但是他根本不作画，而是用语言描
 
 > 四部分的绘画，每个部分具有不同的线条方向。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110226.jpg)
 
 第46号作品（1970）。
 
 > 垂直线条，不直，不接触，均匀覆盖墙壁。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110227.jpg)
 
 第 56 号作品（1970）。
 
 > 在水平和垂直方向上分成四个相等的正方形，每个正方形在四个方向上逐行叠加。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018110228.jpg)
 
 ## 本周金句
 
@@ -355,7 +327,6 @@ Sol LeWitt 是一个美国画家，但是他根本不作画，而是用语言描
 
 微信搜索“__阮一峰的网络日志__”或者扫描二维码，即可订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

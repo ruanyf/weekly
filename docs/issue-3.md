@@ -2,7 +2,6 @@
 
 这里记录过去一周，我看到的值得分享的东西。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050401.jpg)
 
 （题图：杭州的一家画廊，2017）
 
@@ -14,7 +13,6 @@
 
 1、[追踪40年，DNA 查到杀手](https://www.cnbeta.com/articles/tech/720885.htm)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050402.jpg)
 
 1976年到1986年，美国加州发生了连环杀人案，有12起杀人案、45起强奸案和120多起住宅盗窃案，都是一个人干的。40年过去了，凶手一直没有找到。
 
@@ -24,7 +22,6 @@
 
 2、[Firefox 发布官方插件，用来隔绝 Facebook](https://www.mozilla.org/en-US/firefox/facebookcontainer/)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050403.jpg)
 
 最近，Facebook 成了追踪用户信息、为自己牟利的"邪恶公司"的代名词。为了跟它划清界限，或许也是为了"蹭热点"，Firefox 发布了一个官方插件，在浏览器里建立一个沙盒，用户在这个沙盒里面访问 Facebook，就可以避免被追踪。
 
@@ -32,7 +29,6 @@
 
 3、[福建启用个人身份二维码](http://media.people.com.cn/n1/2018/0422/c40606-29941531.html)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050405.jpg)
 
 > 目前在福州，通过数字公民身份码可以在人社窗口刷码识别社保卡，办理业务，还可以在部分药店刷码关联社保卡进行医保结算。此外，还可以在三坊七巷等景区实现刷码认证身份快速通行和在图书馆借阅图书。
 > 
@@ -44,7 +40,6 @@
 
 4、[GPS 的新算法](https://eng.uber.com/rethinking-gps/)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050406.jpg)
 
 大城市里面，GPS 精确定位很困难，比如说用户到底在马路的左侧还是右侧？最近，Uber 公布了一种新的算法，来解决这个问题。
 
@@ -52,7 +47,6 @@
 
 5、[亚马逊的"车内交货"](https://www.amazon.com/b?ie=UTF8&node=17051031011)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050407.jpg)
 
 亚马逊推出"车内交货"服务，快递不是送到你家，而是直接送到你的车里。前提是你需要授权亚马逊打开你的车，而且你的车需要具备远程开锁/关锁功能。京东应该迟早也会推这个服务。
 
@@ -68,7 +62,6 @@
 
 1、[文章] [Meet the New Dialog Element](https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050408.jpg)
 
 HTML 5.2 新增了 &lt; dialog> 元素，这个元素将来一定会广泛使用，因为它提供了浏览器原生 Modal 窗口。
 
@@ -92,7 +85,6 @@ React 的虚拟 DOM 机制的详细解释， JSX 代码如何变成虚拟 DOM �
 
 7、[教程] [Canvas: Draw on the web](https://yuque.com/airing/canvas)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050409.jpg)
 
 国产的 HTML5 Canvas 教程。
 
@@ -106,13 +98,11 @@ React 的虚拟 DOM 机制的详细解释， JSX 代码如何变成虚拟 DOM �
 
 1、[谷歌的免费 IP 地址定位服务](https://blog.doit-intl.com/farewell-maxmind-geolocating-requests-with-google-load-balancer-for-free-7938f5adbef0)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050410.jpg)
 
 谷歌的负载均衡器转发 IP 请求时，会追加三个头信息字段，列出 IP 地址的定位。这个服务是免费的，但是目前只对部署于谷歌云的应用开放。不过，根据高春辉老师的测试，它的定位信息不是那么准确。
 
 2、[tui.calendar](https://github.com/nhnent/tui.calendar)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050411.jpg)
 
 一个号称所有功能都包括的网页日历库。
 
@@ -122,7 +112,6 @@ React 的虚拟 DOM 机制的详细解释， JSX 代码如何变成虚拟 DOM �
 
 4、[Stripe Atlas](https://stripe.com/atlas)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050412.jpg)
 
 Stripe 公司[宣布](https://stripe.com/blog/atlas-llc?c )了一项服务，帮助你几天内在美国德拉华州（公司法最宽松的州）注册一家公司，有限责任公司或股份公司都可以。
 
@@ -136,7 +125,6 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 1、[我上班的500强，在北京CBD待不下去了](http://daily.zhihu.com/story/9680192)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050413.jpg)
 
 大家有没有感觉，外企在国内普遍走下坡路？这到底是因为中国的市场环境越来越封闭，还是国内企业的竞争力越来越强......
 
@@ -156,13 +144,11 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 3、[探访三沙：为你揭开南国海疆的神秘面纱（组图）](http://news.sina.com.cn/o/2018-04-17/doc-ifzfkmth5504505.shtml)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050414.jpg)
 
 2018年4月11日，澎湃新闻记者走进海南省三沙市，为您揭开南国海疆的神秘面纱。街道上的一块路标标示着永兴岛北京、悉尼、纽约等地的直线距离。永兴岛的陆地面积虽小, 但在全国县级政权中管辖的国土海疆范围却最大。
 
 4、[《中国企业家》：麦当劳汉化](http://www.iceo.com.cn/com2013/136/2018/0418/303241.shtml)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050419.jpg)
 
 去年8月，麦当劳（中国）整体卖给了中信集团，老板变成了中国人，控股公司还改名为金拱门。据中信集团透露，换成中国人主导以后，麦当劳（中国）的收益大幅增加，创了历史最好水平。报道里面举了一个麦当劳小程序开发的例子。
 
@@ -185,7 +171,6 @@ Algolia 是目前很红的搜索服务提供商。它最初的想法是提供手
 
 今年是电影[《甲方乙方》](https://baike.baidu.com/item/%E7%94%B2%E6%96%B9%E4%B9%99%E6%96%B9/17892)上映20周年。它的片尾曲《相知相爱》（[视频](https://v.qq.com/x/page/x0542id9tzu.html)），歌词非常好，韩磊演唱。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050420.jpg)
 
 > 经历的不会都记起，过去的不会都忘记  
 > 有些往事有些回忆，成全了我也就陶冶了你。  
@@ -197,13 +182,11 @@ Algolia 是目前很红的搜索服务提供商。它最初的想法是提供手
 
 [地球上最长的不经过海洋的直线](http://www.thatsmags.com/china/post/10356/the-longest-straight-path-on-earth-starts-in-east-china-ends-in-liberia)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050421.jpg)
 
 从浙江省台州市南部的石塘镇开始向西走，然后是武汉、西安、青海。穿越喜马拉雅山脉后，你会到达塔吉克斯坦，通过乌兹别克斯坦，土库曼斯坦，伊朗，伊拉克，约旦，以色列，埃及（穿过开罗市中心！）、利比亚，尼日尔，布基纳法索，加纳，科特迪瓦，最后到达利比里亚。
 
 由于地图投影，这条线看起来是弯的，但是它实际上是直线。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050422.jpg)
 
 ## 本周金句
 
@@ -225,7 +208,6 @@ Algolia 是目前很红的搜索服务提供商。它最初的想法是提供手
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

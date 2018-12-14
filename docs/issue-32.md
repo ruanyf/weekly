@@ -4,7 +4,6 @@
 
 欢迎投稿，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112301.jpg)
 
 （题图：陆家嘴，上海，2018）
 
@@ -28,7 +27,6 @@
 
 1、[同性父母的老鼠](https://www.theguardian.com/science/2018/oct/11/mice-same-sex-parents-born-same-sex-reproduction-humans)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112302.jpg)
 
 中国科学院的团队成功培育出了一个健康的老鼠，它没有父亲，但是有两个母亲，是同性繁殖的产物。
 
@@ -36,7 +34,6 @@
 
 2、[重新定义公斤](https://www.theguardian.com/science/2018/nov/03/the-future-of-the-kilo-a-weighty-matter-international-prototyp-kilogram-paris-kibble-balance)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112303.jpg)
 
 巴黎的国际度量衡局里面，保存着一个国际公斤原件。它是一个铂铱合金的圆筒，代表1000克的重量。全世界的公斤度量衡都是根据这个原件制定的。这个公斤原件只有一件，一旦损毁，全世界的公斤有失去标准的危险。而且这些年来，它本身的重量是否保持不变，也是有疑问的。
 
@@ -44,7 +41,6 @@
 
 3、[Raspberry Pi 3 Model A+](https://techcrunch.com/2018/11/15/raspberry-pi-3-model-a-is-a-compact-yet-powerful-raspberry-pi/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112304.jpg)
 
 今年3月，树莓派基金会发布了 Raspberry Pi 3 Model B+ 型号，但是没有发布 A+。现在，A+ 终于发布了。
 
@@ -52,7 +48,6 @@
 
 4、[InSight 火星探测器登陆](https://mars.nasa.gov/insight/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112305.jpg)
 
 下周一（11月26日）格林尼治时间19:47，InSight 火星探测器将在火星上降落。美国航天局 NASA 官网将有现场直播。
 
@@ -60,7 +55,6 @@
 
 5、[二氧化碳生产蛋白质](http://www.solarfoods.fi/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112306.jpg)
 
 荷兰一家创业公司发明了一种方法，可以只用二氧化碳、氮气、水和少量微量元素，在电力的作用下合成蛋白质。
 
@@ -68,13 +62,11 @@
 
 6、[全息影像教师](https://www.bbc.com/news/technology-46060381)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112307.jpg)
 
 伦敦帝国理工学院宣布，将采用教师的全息影像进行远程讲课。因为比起视频会议软件，全息影像能够提供更强的存在感。
 
 7、[人工智能测谎](https://gizmodo.com/an-ai-lie-detector-is-going-to-start-questioning-travel-1830126881)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112308.jpg)
 
 欧盟开始试验，在匈牙利、拉脱维亚和希腊的边境检查所，对非欧盟的入境者进行人工智能测谎。该系统会向入境者提问，然后监控回答者的脸部，对每个反应进行评分。一旦测谎失败，将交由人工进行第二轮测评。
 
@@ -82,7 +74,6 @@
 
 8、[小行星采矿](https://physicsworld.com/a/the-asteroid-trillionaires/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112309.jpg)
 
 美国宇航局取消了小行星捕获任务的预算。这个项目原计划将小行星拉入地球轨道，以便更容易地研究和开采。
 
@@ -90,7 +81,6 @@
 
 9、[旧金山空气污染创记录](https://www.sfgate.com/california-wildfires/article/how-bad-is-air-in-sf-bay-area-smoke-breathe-record-13400047.php#photo-16516503)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112310.jpg)
 
 由于加州森林大火，整个加州的空气质量最近都非常差。11月16日，旧金山的 PM2.5 空气质量指数 AQI 达到了271，是有史以来最高的。
 
@@ -120,13 +110,11 @@
 
 4、[使用 Pandas 处理 CSV 文件](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112311.jpg)
 
 Pandas 是一个用于数据操作和分析的 Python 库，本文通过一个范例，介绍如何使用它对 CSV 文件进行数据处理。
 
 5、[排版入门](https://www.invisionapp.com/inside-design/typography-tips/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112312.jpg)
 
 介绍排版的基本知识。
 
@@ -162,7 +150,6 @@ Pandas 是一个用于数据操作和分析的 Python 库，本文通过一个�
 
 4、[C/C++ 面向 wasm 编程—— Emscripten 工程实践](https://github.com/3dgen/cppwasm-book)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112313.jpg)
 
 中文开源电子书，大部分还没有写完。本书从 Emscripten 基本用法开始介绍如何使用 C/C++ 开发 WebAssembly 模块。
 
@@ -176,13 +163,11 @@ Pandas 是一个用于数据操作和分析的 Python 库，本文通过一个�
 
 7、[线性代数入门](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112314.jpg)
 
 本教程帮助初学者掌握，深度学习所需要的线性代数知识，每一部分都包含代码、示例和图表。
 
 8、[Levels.fyi](https://www.levels.fyi/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112315.jpg)
 
 每个公司都有自己的内部等级，该网站比较各公司的等级对应关系，收录了北美20多家互联网公司。上图是谷歌、脸书、微软的工程师等级。
 
@@ -190,7 +175,6 @@ Pandas 是一个用于数据操作和分析的 Python 库，本文通过一个�
 
 1、 [Mu](https://codewith.mu/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112316.jpg)
 
 一个针对初学者或儿童的 Python 编辑器。
 
@@ -200,7 +184,6 @@ Pandas 是一个用于数据操作和分析的 Python 库，本文通过一个�
 
 3、[I Ching](https://iching.codes/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112317.jpg)
 
 有人用中国古代《易经》的六十四卦象，作为二维码的图像，编码和解码库都已经开源了。
 
@@ -232,7 +215,6 @@ Linux 系统 cd 命令的替代工具，可以记住常用路径，然后只要�
 
 1、[为什么 Instagram 网红可以全球旅行？](https://www.theatlantic.com/technology/archive/2018/06/instagram-influencers-are-driving-luxury-hotels-crazy/562679/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112318.jpg)
 
 三年前，[Lisa Linh](https://www.instagram.com/bylisalinh/) 辞去了全职工作，在世界各地旅行，从墨西哥到魁北克再到库克群岛，一路在 Instagram 发表美照，她有近10万名粉丝。通常她会免费入住各地的豪华酒店，Instagram 上面有很多这样的网红，她们是怎么做到的？
 
@@ -240,11 +222,9 @@ Linux 系统 cd 命令的替代工具，可以记住常用路径，然后只要�
 
 马尔代夫五星级度假村 Dusit Thani 的营销经理说，酒店每天至少收到六个网红的请求，通常是通过 Instagram 直接留言。她说：“网红说，我想来马尔代夫7天，并将在 Instagram 上发两张照片。”马尔代夫不是一个便宜的目的地，住5到7个晚上是一大笔钱。她说，收到的请求中只有大约10％值得认真对待。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112319.jpg)
 
 一些酒店不堪骚扰，拒绝所有 YouTube 和 Instagram 网红的请求。  一位酒店老板在脸书写道：“如果我让你免费住酒店，以换取社交媒体的曝光。我能不能告诉员工，你入住期间，我不会付给他们工资，他们的报酬将是在你的视频中出现？”
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112320.jpg)
 
 但是，大多数酒店愿意与网红合作。毕竟，Instagram 已经膨胀到每月8亿活跃用户，其中很多用户有能力全球旅行。对于酒店来说，最大的问题是识别谁是真正的网红，必须过滤掉那些购买僵尸粉的人。另外，酒店还必须防止网红拍出无用的照片，比如许多网红只是在沙滩上拍摄几张比基尼照片，但用户无法分辨出这是哪家酒店，它可能在马尔代夫的任何地方。
 
@@ -276,34 +256,27 @@ Linux 系统 cd 命令的替代工具，可以记住常用路径，然后只要�
 
 阿联酋在沙漠里面建造高速公路，现在不可避免地面临沙漠吞噬公路的问题。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112321.jpg)
 
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112322.jpg)
 
 2、__Okunoin 公墓__
 
 和歌山县的高野山，有一个日本最大的公墓 Okunoin（奥之院）。公元835年，日本佛教大师[空海和尚](https://baike.baidu.com/item/%E5%BC%98%E6%B3%95%E5%A4%A7%E5%B8%88)死于这里，后来规定符合资格的日本佛教徒，都可以将骨灰埋在附近。超过1000年来，总共有20万人埋葬在这个公墓，联合国认定为世界遗产。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112323.jpg)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112324.jpg)
 
 3、[最偏僻的小屋](https://www.getalookatthis.com/secluded-house-on-a-far-away-island/)
 
 我经常看到下面这张照片，现在终于知道它是位于冰岛西南海岸的 Elliðaey 岛。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112325.jpg)
 
 三百年前，Elliðaey 岛上居住着五个家庭。他们住在小屋里，在岛上的草地上养牛，并通过海雀狩猎获得食物。1930年代，这些居民离开了这个岛屿。1953年，Elliðaey 狩猎协会为其成员建造了一个小屋，供他们在岛上捕捉海雀时使用。
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112326.jpg)
 
 ## 新奇
 
 1、[磁铁炸鸡蛋](https://www.instructables.com/id/DIY-Induction-Stove/)
 
-[img](https://www.wangbase.com/blogimg/asset/201811/bg2018112327.jpg)
 
 我们知道，运行的磁场会产生感应电流。有人就用旋转的磁铁，在电锅里炸鸡蛋。他把10块磁铁装在一个圆盘上，然后使用跑步机的马达，让这个圆盘不断旋转。这时，上面放一个导电煎锅就会产生涡流，把鸡蛋烤熟。
 
@@ -339,6 +312,5 @@ Linux 系统 cd 命令的替代工具，可以记住常用路径，然后只要�
 
 微信搜索“__阮一峰的网络日志__”或者扫描二维码，即可订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）

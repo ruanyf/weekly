@@ -2,7 +2,6 @@
 
 这里记录过去一周，我看到的值得分享的东西。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042801.jpg)
 
 （题图：青岛火车站）
 
@@ -16,7 +15,6 @@
 
 1、[夫妻双双去世 四年后儿子出生](http://epaper.bjnews.com.cn/html/2018-04/10/content_716660.htm?div=0)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042802.jpg)
 
 2013年3月20日，一对年轻夫妻死于车祸，他们还没来得及生育。幸运的是，就在五天前，他们在南京鼓楼医院做了人工受精，留下了四枚有效的受精胚胎，冷冻在摄氏零下196度的液氮罐里。
 
@@ -26,14 +24,12 @@
 
 2、[Go 语言的新 Logo](https://blog.golang.org/go-brand)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042803.jpg)
 
 
 Go 编程语言发布新的 Logo， 很有现代感。大家往往忽略，编程语言其实也存在市场竞争，只有注意包装自己的语言才有更好的市场份额，从而得到更大的社区、更多的资源。
 
 3、[Flutter 框架发布 Beta 版](https://developers.googleblog.com/2018/02/announcing-flutter-beta-1.html)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042805.png)
 
 2月底，谷歌的手机应用开发框架 Flutter 发布了 Beta 版，这意味着，这个框架已经具备可用性了，今年应该就会发正式版了。现在，安卓系统有了两套 SDK：安卓 SDK 和 Flutter SDK。
 
@@ -50,19 +46,16 @@ Flutter 的最大特点在于，它是跨平台的，不仅可以开发安卓应
 
 4、[Oracle 发布多语言版的 JVM](https://github.com/oracle/graal)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042806.jpg)
 
 
 Oracle 发布了一个很神奇的产品 [GraalVM](http://www.graalvm.org/)。我们知道，Java 最厉害的就是它的虚拟机 JVM，现在这个虚拟机扩展成可以支持多种语言，不同语言都可以被它编译成字节码，然后运行。
 
 因此，它能支持多种语言混写，JS 里面直接调用 Java 或者 Python（就像下图），照样编译运行。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042807.jpg)
 
 
 5、[欧盟数据保护条例 GDPR](http://dbaplus.cn/news-73-1510-1.html)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042808.png)
 
 今年5月25日，欧盟新的《数据保护条例》就要生效了。我看了一下，好像是说凡是收集用户数据都必须得到用户同意，且不得用于未授权的用途。
 
@@ -76,13 +69,11 @@ Rust 语言入门教程
 
 2、[电子书] [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/index.html)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042809.jpg)
 
 图理论（graph theory）是重要的数学分支，在数据处理领域有着重要应用。这个教程采用可视化库 D3，把图理论变成了可视化互动教程。
 
 3、[文章] [数据回归的15种类型](https://www.listendata.com/2018/03/regression-analysis.html)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042810.jpg)
 
 回归（regression）是数据处理的常用技术，用来找出数据的模式。本文介绍数据回归的15种拟合。
 
@@ -114,7 +105,6 @@ Uber 架构师分享在搭建分布式支付系统过程中，遇到的最重要
 
 1、[Mustard UI](https://mustard-ui.com/)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042811.png)
 
  一个简洁、好看的 CSS 框架，压缩后只有5.28KB。
 
@@ -128,19 +118,16 @@ ReactOS 是一个开源的操作系统，目标是兼容 Windows，能够运行 
 
 4、[rebound](https://github.com/shobrook/rebound)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042812.jpg)
 
 有人终于把这个工具写出来了，一旦 Python 或 JS 脚本报错，就到 Stack Overflow 取回报错信息的解释。
 
 5、[React Slate](http://react-slate.surge.sh/)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042813.jpg)
 
 一个使用 React 组件写命令行脚本的框架。
 
 6、[RSUITE](https://github.com/rsuite/rsuite)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042814.png)
 
 一个国产的 React 组件库。
 
@@ -150,7 +137,6 @@ ReactOS 是一个开源的操作系统，目标是兼容 Windows，能够运行 
 
 1、[网易丁磊专访](https://finance.sina.cn/usstock/mggd/2018-04-11/detail-ifyzeyqa6917956.d.html)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042816.jpg)
 
 > 全世界网游市场排名是：中国、美国、日本、其他国家。第四到第十的市场全部加起来还没有日本大，而中国占了整个市场的三成到四成。我们的游戏在日本排第一，它的一天收入只是中国的十分之一。
 
@@ -177,7 +163,6 @@ ReactOS 是一个开源的操作系统，目标是兼容 Windows，能够运行 
 > 
 > 
 > 
-> [img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042815.jpg)
 > 
 > 
 > 结果，这位 Yablon 先生是 FBI 的卧底，偷偷把绝密文件都交出去。美国政府根据这些文件，宣布重罚中兴。
@@ -186,16 +171,13 @@ ReactOS 是一个开源的操作系统，目标是兼容 Windows，能够运行 
 
 4月2日，日本吉卜力動畫工作室创始人之一的高畑勲导演去世，享年82岁。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042817.jpg)
 
 
 他最著名的作品是动画电影《螢火蟲之墓》，1988年上映。电影海报上，哥哥清太和妹妹節子在夜晚的草叢中，滿滿黃色亮光，呼應螢火蟲像星星一樣飛舞，哥哥望著張嘴大笑的妹妹，畫面溫馨。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042818.jpg)
 
 不過，你把海报的亮度调高，就可以看到，原來夜空中有一架B29轟炸機正在飛行，天空中的黃色亮點其實是燃燒彈的火光。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042819.jpg)
 
 《螢火蟲之墓》改編自日本作家野坂昭如的半自傳小說，背景是第二次世界大战的神戶空襲，讲述作者失去妹妹的悲伤故事。
 
@@ -203,7 +185,6 @@ ReactOS 是一个开源的操作系统，目标是兼容 Windows，能够运行 
 
 一位台湾网友下班回家，累得倒在沙发上，心想休息一会再去喂狗，结果眼睛一闭睡着了。等醒来，发现狗狗正居高临下，盯着他看，仿佛在说："你到底什么时候给我吃的？"
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042820.jpg)
 
 这表情像不像产品经理找到程序员，"需求还要多久才能做完？"
 
@@ -213,7 +194,6 @@ ReactOS 是一个开源的操作系统，目标是兼容 Windows，能够运行 
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

@@ -2,13 +2,11 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100501.jpg)
 
 上周我看到一个[报道](https://www.cnet.com/news/the-t-mobile-g1-smartphone-almost-looked-like-a-blackberry/)，9月23日是安卓手机的十周年纪念日。
 
 十年前的2008年9月23日，HTC 发布了世界上第一台安卓手机 G1，3.2英寸屏幕，320x480分辨率，256MB内存， 1150mAh电池，并带有一个实体的全键盘。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100502.jpg)
 
 真不敢相信，智能手机真正开始普及，仅仅只有十年。
 
@@ -22,19 +20,16 @@
 
 1、[零件搜索](https://techcrunch.com/2018/07/19/amazons-new-ar-part-finder-helps-you-shop-for-those-odd-nuts-and-bolts/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100503.jpg)
 
 亚马逊推出"零件搜索"（part search）。用户只要拍摄一个零件（比如螺丝），亚马逊就会给出提示，让用户选择相关参数，以便确定到底是哪一种零件。
 
 2、[维秘程序员](https://www.georgetakei.com/victoria-secret-model-lyndsey-scott-2603966880.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100504.jpg)
 
 据美国媒体报道，黑人姑娘 Lyndsey Scott 是"维多利亚的秘密"的内衣模特，同时也是程序员，懂得五种编程语言。还是 StackOverflow 的 [iOS 顶级回答者](https://stackoverflow.com/users/2274694/lyndsey-scott)，为 code.org 录制过课程。
 
 3、[AR 界面](https://medium.com/@nathangitter/what-i-learned-making-five-arkit-prototypes-7a30c0cd3956)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100505.jpg)
 
 一个开发者使用 ARKit 2 为 iOS 手表增加了 AR 界面（现实增强界面）。当用户带着 AR 眼镜操作手表的时候，会看到辅助信息。比如打开"天气"的时候，就会看到上图。
 
@@ -42,13 +37,11 @@
 
 4、[5万年前的狼](https://www.theguardian.com/science/2018/sep/14/spectacular-ice-age-wolf-pup-and-caribou-dug-up-in-canada)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100506.jpg)
 
 加拿大在北方的冻土区，发现了一个冰河时期的狼的木乃伊。据检测，距今已有5万年。这头狼的保存情况好得惊人，皮毛、皮肤和肌肉组织都保存下来了，头部、尾部、爪子、皮肤和头发的细节都很好。
 
 5、[最后一个小儿麻痹症患者](https://www.washingtonpost.com/local/obituaries/david-salamone-who-contracted-polio-from-vaccine-and-helped-spur-changes-in-us-immunization-policy-dies-at-28/2018/09/15/5e86319e-b8f8-11e8-94eb-3bd52dfe917b_story.html?noredirect=on&utm_term=.cdbeea38f179)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100507.jpg)
 
 9月7日，美国最后一个小儿麻痹症患者 David Salamone 去世，享年28岁。他的特别之处在于，他不是自然感染，而是由于使用小儿麻痹症疫苗，而得了小儿麻痹症。
 
@@ -56,7 +49,6 @@
 
 6、[细菌食品](https://daily.jstor.org/would-you-like-some-germs-with-your-wheaties/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100508.jpg)
 
 畜牧业是人类蛋白质供给的主要来源之一，也是温室气体的主要来源之一。每一吨红肉的背后，都是大量的二氧化碳释放。
 
@@ -64,29 +56,24 @@
 
 7、[PlayStation Classic](https://www.anandtech.com/show/13378/sony-playstation-classic)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100509.jpg)
 
 索尼会在12月3日发售 PlayStation Classic 游戏主机，用来玩早期的 PS 游戏。主机大小跟一本书差不多，价格99美元。但是，多少人愿意买个新机器玩老游戏，让人怀疑，尤其是老游戏的分辨率最高只能到720P。
 
 8、[周口店保护棚](https://wap.xinmin.cn/content/31433493.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100510.jpg)
 
 四十多万年前，北京猿人生活的周口店遗址，最近在山上修了一个保护棚，把猿人洞的露天洞口遮蔽起来。保护棚长77.5米，宽54.5米，高35.7米。
 
 保护棚分为内外两层叶片，外层叶片不仅可以遮风挡雨，而且设有种植槽，植物可以生长在棚顶。内层叶片尽量与洞内岩壁融为一体。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100511.jpg)
 
 9、[熔岩灯](https://blog.cloudflare.com/statement-concerning-events-at-glowbeam-technologies/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100512.jpg)
 
 美国电视剧《海军罪案调查处.》（NCIS）最近播出的第十六季第一集，讲述一家公司使用熔岩灯作为随机数生成器，结果被插入木马，导致核反应堆被渗透。
 
 这个装置其实不是虚构的，而是 Cloudflare 公司的[真实发明](https://blog.cloudflare.com/randomness-101-lavarand-in-production/)。他们旧金山总部就有一个熔岩灯墙，对面是一个摄像头，每秒拍一一张照片。熔岩灯里面是一团蜡滴，会不断变换形状、颜色和位置，所以拍出来的照片都不一样，可以当作随机数。Cloudflare 公司已经发布了澄清声明，表示该发明并没有用于生产环境，因此不存在插入木马的可能。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100513.jpg)
 
 10、__一句话新闻__
 
@@ -95,7 +82,6 @@
 * [Uber CEO](https://techcrunch.com/2018/09/06/uber-ceo-ride-hailing-will-be-eclipsed-by-scooters-bikes-and-even-flying-taxis/) 称，该公司的目标是10年后人们不再拥有个人汽车，想要出门的时候，平台已经为你安排好了车。<br><br>
 * [UPS 快递公司](https://www.fastcompany.com/90229460/your-ups-deliveries-may-soon-arrive-in-electric-trucks)在伦敦用电动卡车，取代普通卡车送货。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100514.jpg)
 
 ## 教程
 
@@ -143,7 +129,6 @@ Facebook 在开发 React 的同时，还发明了一种新语言 Reason，它是
 
 1、[《预测：原理与实践》](https://otexts.org/fpp2/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100515.jpg)
 
 免费电子书，如何通过数据进行预测。
 
@@ -153,13 +138,11 @@ Facebook 在开发 React 的同时，还发明了一种新语言 Reason，它是
 
 3、[bellwoods](https://bellwoods.xyz/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100516.jpg)
 
 一个 13KB 的网页小游戏。
 
 4、[Storybook 图书馆](https://storybook.js.org/examples/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100517.jpg)
 
 各大公司的 UI 组件库的 Storybook 展示。Storybook 是一种 React 组件的展示工具。
 
@@ -175,19 +158,16 @@ v8 引擎新的官方网站。为了体现 v8 高效快速的特点，这个网�
 
 2、[MS Paint IDE](https://ms-paint-i.de/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100518.jpg)
 
 一个有点玩笑性质的项目。它可以将 Windows 画板程序制作的程序图片，编译执行。
 
 3、[Carbon](https://carbon.now.sh/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100519.jpg)
 
 将代码保存成图片的开源服务，可以用来上传到社交媒体。
 
 4、[Airdroid](https://www.maketecheasier.com/airdroid-connect-android-phone-to-linux/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100520.jpg)
 
 Airdroid 是一个手机 App，可以将安卓手机与桌面电脑相连，用来传递文件。只需在手机上安装，然后桌面电脑访问一个局域网网址即可。
 
@@ -209,7 +189,6 @@ perkeep 是一个开源工具，可以将你的文件同步储存到多个节点
 
 9、[ytdl-webserver](https://github.com/Algram/ytdl-webserver)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100521.jpg)
 
 搭建 Web 服务下载 Youtube 视频的工具。
 
@@ -223,23 +202,19 @@ perkeep 是一个开源工具，可以将你的文件同步储存到多个节点
 
 Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他让西德的阿姨寄来了一套潜水服。然后，自己改装了一台二冲程汽油发动机。这种发动机的体积很小，一般用于动力自动车，可以在水下作为动力装置，拉着他前进。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100522.jpg)
 
 发送机需要空气，因此他添加了一个橡胶的呼吸管，排气管则位于上方的圆柱形容器中。这个容器也起到浮子的作用。发动机带动螺旋桨，后面会拖着一个架子，他自己就挂在这个架子上。整个装置重约22磅（大约10公斤），足够轻，可以手里拿着穿过海滩，总成本大约50美元。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100523.jpg)
 
 他没办法测试，只能寄希望第一次下水就成功。如果再被抓住，肯定就完了。
 
 1968年9月8日，在黑暗的掩护下，他在格拉尔 - 米里茨（Graal-Müritz）的海面下水，慢慢穿过探照灯和巡逻船。在海里前进了25公里之后，成功到达了丹麦。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100524.jpg)
 
 上图为他到达丹麦时的照片。
 
 后来，他为这个装置申请了专利，并由其他公司投入了生产：大海里面拖动潜水员的汽油动力拖动器。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100525.jpg)
 
 1974年，Bernd Boettge 死于西班牙的一次潜水事故。至今不知道，这是真的事故，还是东德策划的暗杀。
 
@@ -249,7 +224,6 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 问题是，拉里佩奇已经将近5年没有亮相，没有任何新闻报道，他消失了。2013年以来，他没有参与任何产品发布会或对外的电话会议。2015年以来，他没有接受过任何新闻采访。公司的日常管理交给了 Sundar Pichai，外界不知道他在干嘛。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100526.jpg)
 
 2011年，他接替埃里克施密特，担任谷歌的 CEO。他每周工作80小时，大量阅读商业管理书籍，很快他就对管理和运营厌倦了，想把更多时间用于研发。一个前谷歌高管说，一次开会时，他对正在汇报的员工说"你做的事情很无聊"。另一次，有人请示他解决公司内部两个团队之间的矛盾，他回答说"你们不能自己解决吗？"
 
@@ -257,13 +231,11 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 拉里佩奇的隐居，让人感觉他像一个身体虚弱和衰老的名人，但实际上他比 Sundar Pichai 年轻。他的最后一次公开露面，是2014年的一次[TED 演讲](https://www.youtube.com/watch?v=mArrNRWQEso)，谈论谷歌的未来。此后，他就不再出现了，也不知道未来是否还会出现。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100527.jpg)
 
 ## 本周图片
 
 1、
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100528.jpg)
 
 很多手机应用，就是上面这张漫画，说是整个社会的写照也可以：以安全名义把用户信息都留住，同时把用户隐私剥个精光。（via 推特[@nixcraft](https://twitter.com/nixcraft/status/1040536061590622208)）
 
@@ -271,25 +243,19 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 巧克力是全世界最流行的食品之一，它的主要原料是可可豆。可可豆长在一种红色的豆荚里面。每个豆荚包裹额20～25个可可豆。好几个非洲国家的经济，就依赖这种树。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100529.jpg)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100530.jpg)
 
 3、[吐舌头的河马](https://twitter.com/tomotomotomomo)
 
 日本名古屋东山动物园有一只喜欢歪着头、吐舌头的小河马。现在成了动物园推特账户[@tomotomotomomo](https://twitter.com/tomotomotomomo) 的明星。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100531.jpg)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100532.jpg)
 
 ## 新奇
 
 1、[自动魔方](https://media.dmm-make.com/item/4462/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100533.jpg)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018100534.jpg)
 
 日本开发出了自动旋转的魔方。里面安装了电机和芯片，会自动复原。
 
@@ -313,7 +279,6 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

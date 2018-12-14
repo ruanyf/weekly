@@ -2,7 +2,6 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071301.jpg)
 
 （题图：武林门码头，杭州，2017）
 
@@ -16,13 +15,11 @@
 
 1、[Intel 公司解雇 CEO](https://wallstreetcn.com/articles/3342834)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071302.jpg)
 
 Intel 宣布与 CEO 解除合同，表面理由是他与女员工谈恋爱。但背后原因是这十年来，Intel 的新产品乏善可陈，PC 端止步不前，移动端完全败北，新兴的 AI 计算市场输给了 Nvidia。
 
 2、[日本就业率创新高](http://finance.sina.com.cn/stock/usstock/c/2018-06-29/doc-iheqpwqz0414337.shtml)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071303.jpg)
 
 由于日本人口不断萎缩，劳动力短缺，就业率变得极高。2018年5月，就业人数达到6698万人，是1953年以来的新高。应届大学生的就业率，达到前所未有的98%，进入了大学毕业生几乎人人都能找到工作的"完全就业"时代，学生对企业的招聘会也失去参加热情。另外，女性就业和65岁以上的老人就业也增加非常多。
 
@@ -32,7 +29,6 @@ Intel 宣布与 CEO 解除合同，表面理由是他与女员工谈恋爱。但
 
 3、[500px 取消照片共享授权](https://www.theverge.com/2018/7/1/17521456/500px-marketplace-creative-commons-getty-images-visual-china-group-photography-open-access)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071304.jpg)
 
 著名的照片网站 500px 宣布，不再允许用户发布照片时，使用创意共享许可证。也就是说，它上面的照片默认无法再免费使用了，必须单独联系作者，获得授权。值得一提的是，该网站不久前刚被北京的视觉中国集团收购。
 
@@ -40,7 +36,6 @@ Intel 宣布与 CEO 解除合同，表面理由是他与女员工谈恋爱。但
 
 4、[涂上毒药的书籍](https://theconversation.com/how-we-discovered-three-poisonous-books-in-our-university-library-98358)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071305.jpg)
 
 意大利历史小说《玫瑰之名》，讲述了一个恐怖故事。中世纪时，有人为了防止异端邪说传播，为某些书籍涂上了毒药，由于那时的僧侣有沾唾液翻书的习惯，读久了就会中毒身亡。
 
@@ -48,26 +43,22 @@ Intel 宣布与 CEO 解除合同，表面理由是他与女员工谈恋爱。但
 
 5、[OpenSUSE 被收购](https://itsfoss.com/suse-eqt-acquisition/amp/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071306.jpg)
 
 Linux 发行版 OpenSUSE 的母公司被收购了，价格是25亿美元。 这家公司所有产品全部开源，只对服务收费，所以不要再认为开源赚不了钱。
 
 6、[近视与读书时间正相关](https://www.nhs.uk/news/lifestyle-and-exercise/short-sightedness-linked-longer-time-spent-education/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071307.jpg)
 
 
 英国一项研究发现，儿童每天读书时间越长，患上近视的可能性越高。我国城市学生的近视发病率达到90%，十个孩子里面有九个是近视，这说明中国的教育方式有问题，孩子读书时间过长是近视人口超多的主要原因。
 
 7、[Python 创始人放弃决策权](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071308.jpg)
 
 Python 语言的创始人和最高决策者 Guido van Rossum，由于他主导的提案 PEP572 被社区反对，今天宣布非常疲倦，将不再执行最高决策者的角色。 但是，他没说接下来怎么决策，只说以后你们自己讨论决定。
 
 8、[Gentoo 的 GitHub 账户被黑](https://wiki.gentoo.org/wiki/Github/2018-06-28)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071309.jpg)
 
 6月底，有人拿到 Linux 发行版 Gentoo 的 GitHub 管理员权限，然后把密码改了，其他管理员都删了，在应用程序的源码里面加入 rm -rf 。虽然，GitHub 官方已经处理这件事情，但是看了也是一身冷汗。万一真的以 root 权限运行，莫名其妙你的系统就全没了。
 
@@ -81,13 +72,11 @@ Python 语言的创始人和最高决策者 Guido van Rossum，由于他主导�
 
 1、[Flutter 入门介绍](https://www.smashingmagazine.com/2018/06/google-flutter-mobile-development/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071310.jpg)
 
 现在的跨平台App开发工具分成两类：（1）容器包了Web View，App实际是一个本地网站；（2）原生控件的跨平台抽象。Flutter走了不一样的路：自己开发了一套原生控件，每个平台实现一遍，然后把渲染引擎（这套控件）打包在每个应用里面，因此性能没有问题，平台差异也很小。
 
 2、[Python 类型系统的现状](https://www.bernat.tech/the-state-of-type-hints-in-python/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071311.jpg)
 
 众所周知，Python 是动态类型语言，运行时不需要指定变量类型。这一点是不会改变的，但是2015年9月创始人 Guido van Rossum 在 Python 3.5 引入了一个类型系统，允许开发者指定变量类型。它的主要作用是方便开发，供IDE 和各种开发工具使用，对代码运行不产生影响，运行时会过滤类型信息。
 
@@ -113,7 +102,6 @@ Go 1.11 将支持 Web Assembly，作者尝试用 Go 写了一个 TodoMVC。他�
 
 7、[Unicode 字符与 CSS 背景](https://yuanchuan.name/2018/05/06/unicode-patterns.html)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071312.jpg)
 
 Unicode 字符用作 CSS 背景，可以产生一些非常独特的背景。此文还有[续篇](https://css-tricks.com/more-unicode-patterns/)。
 
@@ -129,19 +117,16 @@ Unicode 字符用作 CSS 背景，可以产生一些非常独特的背景。此�
 
 1、[Skia 图形库](https://skia.org/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071313.jpg)
 
 Skia 是一个由C++编写的开源图形库，能在低端设备如手机上呈现高品质的2D图形。截至2017年，它已被应用于 Mozilla Firefox、Google Chrome、Chrome OS、Sublime Text、Android、Flutter 框架，作为底层图形库。
 
 2、[Clock Shop](https://a-jie.github.io/clock-shop/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071329.jpg)
 
 这个网站收集各种时钟的代码。
 
 3、[Deluminate](https://lifehacker.com/dim-your-browser-with-deluminate-for-google-chrome-1827295863)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071314.jpg)
 
 这是一个 Chrome 浏览器的插件，可以让任何网站变成"夜晚模式"。
 
@@ -155,7 +140,6 @@ Atlassian 公司推出的 React 拖放操作的库。
 
 6、[cartoonify](https://github.com/danmacnish/cartoonify)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071315.jpg)
 
 今年的最有创意发明：自制的"拍立得"照相机，拍出来的不是照片，而是卡通图片！它的内部是摄像头+树莓派+热敏打印机。获得照片以后，自动调用谷歌的服务，处理成卡通图片，然后打印出来。
 
@@ -165,7 +149,6 @@ Atlassian 公司推出的 React 拖放操作的库。
 
 8、[Vim in WebAssembly](https://github.com/rhysd/vim.wasm)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071316.jpg)
 
 有人把 Vim 编译成了 WebAssembly，从而可以在浏览器里面使用 Vim 了。网友开玩笑，这样使用 Vim，就不会不知道如何退出了，只要点击浏览器 Tab 页右上角的 x 即可。
 
@@ -191,11 +174,9 @@ Atlassian 公司推出的 React 拖放操作的库。
 
 1、[富士山攀登记](http://blog.sina.com.cn/s/blog_4cd1c1670102xl27.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071317.jpg)
 
 我在15年前，一个人攀登上了富士山顶。日本有一个说法，说"一个人如果一辈子不登一次富士山顶，是混蛋。如果登第二次，也是混蛋。"这句话是说，不登一次富士山顶，是一生的遗憾。如果登二次，那一定是脑子进水了，因为登山的过程实在太艰辛。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071318.jpg)
 
 
 富士山有多高，标准的高度是3775米。因为它频临太平洋，所以攀登富士山是从海拔1米开始攀登的。古代的时候，人们从山脚下开始攀登，到山顶，一般需要2天2夜的时间。现在大家开始偷懒，因为汽车可以开到半山腰的五合目。所以，攀登富士山顶，变成了从半山腰开始。半山腰的海拔高度，是在2000米左右。
@@ -204,19 +185,15 @@ Atlassian 公司推出的 React 拖放操作的库。
 
 经过一天的时间，我终于爬到了山顶，吃惊地发现，那里居然有一家小商店。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071319.jpg)
 
 更吃惊的是，旁边有一个自动售货机。一瓶矿泉水，山下是130日元，到了山顶就是500日元。我都不知道，这个机器、这些饮料是怎么搬运到山顶上来的。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071320.jpg)
 
 下山途中，发现了往山顶搬运货物的登山车，这才明白货物是怎么搬到山顶的。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071321.jpg)
 
 2、[向后工作法](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071322.jpg)
 
 亚马逊的 CTO 透露，他们采用"向后工作法"，开发一项产品采用下面的顺序。
 
@@ -237,13 +214,11 @@ Atlassian 公司推出的 React 拖放操作的库。
 
 2、[ExcelUnusual.com](http://www.excelunusual.com/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071323.jpg)
 
 Excel 不仅可以用来制作表格，还可以生成图形和动画。这个网站就收集各种奇特的 Excel 用法。
 
 3、[Google Reader 怀旧版](http://readerisdead.com/reader/view/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071324.jpg)
 
 Google Reader 是谷歌的线上 RSS 阅读器，2013年关闭。现在，有人复制了一个一模一样的，让大家体验一下当年的感觉。
 
@@ -251,21 +226,17 @@ Google Reader 是谷歌的线上 RSS 阅读器，2013年关闭。现在，有人
 
 1、[冰坑](http://eartharchitecture.org/?p=570)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071325.jpg)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071326.jpg)
 
 冰坑（Yakhchal）是古代波斯人储藏冰块的仓库，很多都保留了下来。地面的尖顶高达18米，地下的仓库有5000立方米。波斯人冬天把冰块放进去，夏天再拿出来用。沙漠地区能把冰块保存到夏天，是很了不起的。更了不起的是，最早的冰坑建于公元前400年。
 
 2、[世界最小的沙漠](https://en.wikipedia.org/wiki/Carcross_Desert)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071327.jpg)
 
 世界最小的沙漠是加拿大育空地区的 Carcross 沙漠，只有600米宽，几公里长。奇特的是，当地不缺水，植被也比较多。这个沙漠原来是一个湖泊，后来湖泊干涸了，湖底的淤泥就变成了沙漠。
 
 3、[脸部识别失败的面孔](https://cvdazzle.com/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018071328.jpg)
 
 这个网站研究哪些面孔会使得面部识别技术失败。
 

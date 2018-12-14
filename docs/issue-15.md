@@ -2,7 +2,6 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072701.jpg)
 
 （题图：集盒商城，杭州，2018）
 
@@ -31,7 +30,6 @@
 
 2、[一季度结婚人数大幅下降](http://cj.sina.com.cn/articles/view/1909090555/71ca68fb00100ddun)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072702.jpg)
 
 2018年6月4日，民政部发布了"2018年一季度结婚大数据"。全国结婚登记301.7万对，同比下降5.7%。过去五年，这个指标一直在下降，五年前的2013年一季度，全国还有428万对结婚。只过了五年，全国结婚人数将近3分之一。
 
@@ -45,7 +43,6 @@ ICANN 现在的做法是，登记域名时，必须提供三个联系方式：�
 
 4、[微软发布10寸的 Surface Go](https://blogs.windows.com/devices/2018/07/09/meet-surface-go-starting-at-399-msrp-its-the-smallest-and-most-affordable-surface-yet/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072703.jpg)
 
 10 寸是目前最小的 Surface 型号。 它可以当做平板电脑使用，也可以配上键盘，当做笔记本使用。重量521.6克，续航9个小时，售价399美元。由于能够使用微软 Office，可能会比 iPad 更受欢迎。
 
@@ -53,7 +50,6 @@ ICANN 现在的做法是，登记域名时，必须提供三个联系方式：�
 
 5、[热成像攻击](https://www.bleepingcomputer.com/news/security/thermanator-attack-steals-passwords-by-reading-thermal-residue-on-keyboards/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072725.jpg)
 
 加州大学的研究人员提出，可以通过键盘上的热残留窃取密码。用户使用键盘后的一分钟以内，就可以通过热像仪，找出用户使用的键，从而暴力破解密码。
 
@@ -65,31 +61,26 @@ ICANN 现在的做法是，登记域名时，必须提供三个联系方式：�
 
 7、[Git 节点关系图](https://blogs.msdn.microsoft.com/devops/2018/07/09/supercharging-the-git-commit-graph-iii-generations/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072704.jpg)
 
 微软向 Git 2.18 提交了一个新功能，会自动在Git 仓库生成一个有向图数据文件，这个文件保存每个提交之间的线性关系。这会大大加快大型库的合并操作的速度。另外，以后生成节点关系图，只要根据这个文件即可，不用遍历整个库 。
 
 8、[自己做饭省多少钱？](https://priceonomics.com/how-much-money-do-you-save-by-cooking-at-home/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072705.jpg)
 
 有一项研究，计算了自己做饭和去饭店吃的价格差异。结论是同样的食材，饭店比自己做贵5倍，如果吃连锁店的套餐会贵三倍。为了省钱和健康，还是自己多做做饭吧。
 
 9、[胚胎基因检查](http://finance.sina.com.cn/stock/s/2018-07-13/doc-ihfhfwmu4300957.shtml)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072706.jpg)
 
 2017年，湖南省长沙市一位产妇在医生的建议下，做了华大基因的"无创DNA检查"，结果显示胎儿低风险，就把小孩生了下来。结果，这个新生儿有"13号染色体长臂缺失综合症"、"脑发育不良"、"虹膜缺损"等一系列缺陷和疾病。这意味着，小男孩很可能会智力障碍、生长迟缓、外表异常，几乎无法正常长大。
 
 虽然这个案例是基因检测失败了，但是可以设想，如果这种检测是准确的（未来肯定可以做到），那么每个胚胎一定都会做这种检测。如果结果是高风险，胚胎就没有出生的机会；如果结果是某个基因缺失，可以修补后再出生。[下图](https://www.genome.gov/images/content/costpermb_2017.jpg)是过去20年 DNA 测序的价格变动。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072707.jpg)
 
 10、[物理密钥](https://krebsonsecurity.com/2018/07/google-security-keys-neutered-employee-phishing/)
 
 媒体报道，为了实现双因素认证，谷歌公司内部已经全员使用物理密钥。也就是说，除了密码，登录还需要物理凭证。下一步，谷歌会[发售](https://www.cyberscoop.com/google-titan-security-key-2fa-anti-phishing/)这种物理密钥。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072708.jpg)
 
 以后，随着 [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn) 标准的推广，普通网站也可以使用物理密钥登录。一旦当前设备（比如手机）登录过一次，以后就不需要输入密码，直接用物理密钥就可以登录。
 
@@ -123,7 +114,6 @@ ICANN 现在的做法是，登记域名时，必须提供三个联系方式：�
 
 __扫描以下海报关注 100offer，回复关键词「薪资报告」，即可免费领取完整版报告。__
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072709.jpg)
 
 ## 教程
 
@@ -149,13 +139,11 @@ dd 命令通常用来克隆整块磁盘，或者制作 Linux 系统的 USB 启�
 
 6、[如何写一个模块打包器](https://adamisntdead.com/lets-write-a-module-bundler/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072710.jpg)
 
 Webpack 是现在最流行的模块打包器，可以将脚本依赖打包成一个文件。这到底是怎么实现的？如果自己写一个打包器，应该怎么写？
 
 7、[Chrome 浏览器开发者工具教程](https://apsdehal.in/blog/chrome-developer-tools-to-master)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072711.jpg)
 
 介绍 Chrome 开发者工具各个部分的用法。
 
@@ -165,7 +153,6 @@ Webpack 是现在最流行的模块打包器，可以将脚本依赖打包成一
 
 9、[什么是 Web 应用程序防火墙（WAF）？](https://www.webarxsecurity.com/web-application-firewall/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072712.jpg)
 
 WAF 是应用程序级别的防火墙，目前主要用在 Web 服务器软件。这篇文章简单介绍了 WAF 的概念。
 
@@ -181,7 +168,6 @@ WAF 是应用程序级别的防火墙，目前主要用在 Web 服务器软件�
 
 3、[CheatSheet 汇总](https://devhints.io/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072713.jpg)
 
 这个网站收集各种软件的 Cheat Sheet（常用操作表）。
 
@@ -193,7 +179,6 @@ WAF 是应用程序级别的防火墙，目前主要用在 Web 服务器软件�
 
 1、[lockbox](https://testpilot.firefox.com/experiments/firefox-lockbox/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072714.jpg)
 
 Firefox 推出的管理密码的 App，最大特色是浏览器和手机同步。某个网站的密码，浏览器输入了，手机里也能看到，反之亦然，基本上就是有桌面同步功能的 1Password。目前只有 iOS 版本。
 
@@ -211,7 +196,6 @@ asmttpd 是一个用汇编语言写的 Web 服务器，非常小，二进制包�
 
 5、[tui.image-editor](https://github.com/nhnent/tui.image-editor)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072715.jpg)
 
 开源的在线图像编辑器。
 
@@ -225,7 +209,6 @@ asmttpd 是一个用汇编语言写的 Web 服务器，非常小，二进制包�
 
 8、[汉字卡片](https://github.com/d33tah/strokes)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072716.jpg)
 
 一个波兰程序员为了学中文，制作了一个工具：输入常用汉字，自动生成学习卡片。
 
@@ -237,7 +220,6 @@ BGP 图像比 JPG 图像有更好的压缩比，但是它的解析需要加载�
 
 1、[DNA 储存信息](https://qz.com/1314803/storing-information-on-dna-is-now-cheap-enough-to-be-viable/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072717.jpg)
 
 人类正在产生海量的信息，目前都储存在硬盘上。科学家正在尝试使用 DNA 储存这些信息。
 
@@ -259,7 +241,6 @@ BGP 图像比 JPG 图像有更好的压缩比，但是它的解析需要加载�
 
 3、[从台积电看半导体的历史](https://www.qdaily.com/articles/54588.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072718.jpg)
 
 2018年6月5日，主持完台积电（TSMC）2017 年年度股东大会后，董事长 87 岁的张忠谋正式从他创办的公司退休。
 
@@ -275,12 +256,10 @@ BGP 图像比 JPG 图像有更好的压缩比，但是它的解析需要加载�
 
 1、[Timeqube](https://timeqube.com/)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072719.jpg)
 
 
 你是不是经常为会议超时烦恼？国外一家创业公司推出了一个小装置，可以通过颜色，提醒大家会议的进度。正常情况下是绿色，表示时间充分。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072720.jpg)
 
 一旦时间快到了，就会变成红色。等到预定结束时，就开始不停闪烁。
 
@@ -288,23 +267,19 @@ BGP 图像比 JPG 图像有更好的压缩比，但是它的解析需要加载�
 
 1、[手机加装单反镜头](https://www.mobile01.com/topicdetail.php?f=588&t=5505818)（组图）
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072721.jpg)
 
 
 台湾网友为手机装了一颗废弃的单反镜头，高景深和长焦都有不错的表现。
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072722.jpg)
 
 
 2、[世界最大草绳](https://asahichinese-j.com/travel/news/11693591)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072723.jpg)
 
 日本岛根县出云大社有一根世界最大草绳，全长13.6米、重5.2吨，用了2公顷水稻稻草制作的草绳捻成，制作耗时3个半月。最近，时隔6年，这根绳子又换了一根新的。
 
 3、[Evil building](https://www.reddit.com/r/evilbuildings/top/?t=year)
 
-[img](https://www.wangbase.com/blogimg/asset/201807/bg2018072724.jpg)
 
 Reddit 上面有一个帖子询问大家，哪些建筑物看上去很像电影里面坏蛋的巢穴，里面有很多有趣的建筑物照片。
 

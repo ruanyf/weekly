@@ -4,7 +4,6 @@
 
 欢迎大家去 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 [issue](https://github.com/ruanyf/weekly/issues)，进行投稿。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101901.jpg)
 
 2005年，斯坦福大学邀请乔布斯在毕业典礼演讲。这个演讲后来成为经典，《乔布斯传》说"或许有些演讲对后世影响更大，但是你找不到（比这篇）更好的演讲。"
 
@@ -14,7 +13,6 @@
 
 这段话后来被称为"热情假设"，很多人都引用它鼓励年轻人：寻找职业方向的时候，要跟随内心的热情（passion），去做那些你有强烈意愿从事的工作。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101902.jpg)
 
 但是，美国最近出版了一本新书《优秀到无法忽略》（[《So Good They Can't Ignore You》](https://commoncog.com/blog/so-good-they-cant-ignore-you/)），声称乔布斯的这个建议是完全错误的，误导年轻人。别的不说，乔布斯本人也不遵守"热情假设"。年轻时，他对禅宗思想最感兴趣，去印度学习佛教。如果他真的追随自己的内心，他就应该去当一个禅宗老师，而不是跑回美国创办苹果公司。
 
@@ -32,7 +30,6 @@
 
 1、[南极粒子](https://www.livescience.com/63692-standard-model-broken-supersymmetry-new-physics.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101903.jpg)
 
 科学家最近确认，南极洲正在向外太空喷射高能粒子，充满能量的粒子从冰层底下发射，直接飞向太空。科学家目前不知道原因。
 
@@ -40,7 +37,6 @@
 
 2、[定制搜索页](https://posts.withgoogle.com/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101904.jpg)
 
 谷歌推出验证服务。只要你验证了身份，就可以定制搜索结果。以后别人在谷歌搜索你，就可以看到你留下的内容。
 
@@ -48,7 +44,6 @@
 
 3、[美国机场的面部识别实验](http://www.latimes.com/business/la-fi-travel-briefcase-facial-recognition-20180928-story.html)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101905.jpg)
 
 美国国土安全部去年在九个机场测试脸部识别，结果匹配率只有85%，远低于97%的最低标准。
 
@@ -56,7 +51,6 @@
 
 4、[谷歌搜索的彩蛋](https://www.rockpapershotgun.com/2018/09/29/recently-discovered-google-easter-egg-is-a-browser-based-text-adventure-game/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101906.jpg)
 
 国外用户发现了一个谷歌搜索的彩蛋，搜索 text adventure 后，打开开发者工具，会看到提示，问你要不要玩游戏。回答 yes，就可以开始玩了。
 
@@ -64,7 +58,6 @@
 
 5、[个人信息换咖啡](https://www.npr.org/sections/thesalt/2018/09/29/643386327/no-cash-needed-at-this-cafe-students-pay-the-tab-with-their-personal-data)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101907.jpg)
 
 既然别人可以出售我的个人信息牟利，为什么我自己不能出售呢？
 
@@ -72,7 +65,6 @@
 
 6、[取消方向盘](https://spectrum.ieee.org/cars-that-think/transportation/self-driving/new-rules-of-the-road-allow-steeringwheelfree-cars)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101908.jpg)
 
 美国国家公路交通安全管理局（NHTSA）表示，在符合条件的情况下，将允许自动驾驶汽车取消方向盘、脚踏板和后视镜。
 
@@ -86,7 +78,6 @@
 
 8、[软件接电话](https://mashable.com/article/google-call-screen/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101909.jpg)
 
 10月9日发布的谷歌 Pixel 3 手机，里面的"谷歌助手"有自动接电话功能，官方明确说能对付推销电话。
 
@@ -94,7 +85,6 @@
 
 9、[F-16 事故](https://www.aviation24.be/military-aircraft/belgian-air-component/air-force-f-16-destroyed-maintenance-collateral-damage-second/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101910.jpg)
 
 10月11日，比利时空军发生了一件匪夷所思的事故。一名技术人员正在飞机库房，研究F-16 战斗机，不小心激活了战斗机加农炮。大炮加载，击中另一架F-16 战斗机，后者就击毁了。由于后者刚加过油，大火使得旁边的F-16也完蛋了。比利时空军有60架现役F-16飞机。
 
@@ -102,7 +92,6 @@
 
 10、[AR 导航](https://www.cnbeta.com/articles/tech/778259.htm)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101911.jpg)
 
 高德推出车载 AR 导航，在真实的道路上可以叠加车道线、车辆识别、红绿灯和限速标志等各类对象，给驾驶员带来更直观的实景导航体验。
 
@@ -143,13 +132,11 @@
 
 7、[我为什么起诉 PinScreen？](http://sadeghi.com/dr-iman-sadeghi-v-pinscreen-inc-et-al/)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101912.jpg)
 
 一个硅谷工程师起诉了他的华人老板，还制作了一个极其详细的网页。我觉得这招很好，值得借鉴。不管官司能否赢，我要让你曝曝光。
 
 8、[为什么国际航线的航路如此混乱？](https://multimedia.scmp.com/news/world/article/2165980/flight-paths/index.html)（英文）
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101913.jpg)
 
 《南华早报》的长篇可视化报道，解释为什么国际航线弯弯曲曲，不采用最近的直线距离飞行。本文图文并茂的呈现方式，值得借鉴。
 
@@ -161,19 +148,16 @@ CSV 和 JSON 两种数据格式的介绍和比较。很多人忽略的一个事�
 
 1、[精通 JavaScript 模块](https://github.com/mjavascript/mastering-modular-javascript)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101914.jpg)
 
 开源电子书，介绍如何编写模块化的 JavaScript 代码。
 
 2、[机器学习解释](https://christophm.github.io/interpretable-ml-book/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101915.jpg)
 
 开源电子书，尝试用通俗的语言解释机器学习。
 
 3、[开源火星车](https://github.com/nasa-jpl/open-source-rover)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101916.jpg)
 
 美国航空航天局开源了火星漫游车的设计。完全使用市场上可以买到的材料，爱好者就能做出自己的漫游车。它使用树莓派作为车载控制中心，使用安卓手机或 xbox 手柄遥控。
 
@@ -193,13 +177,11 @@ Go 语言写的 web scraping 工具，主要特点是操作过程是声明式的
 
 4、[Sans Forgetica](http://sansforgetica.rmit/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101917.jpg)
 
 一种字体，据称有助于增强记忆。
 
 5、[nvtop](https://github.com/Syllo/nvtop)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101918.jpg)
 
 Linux 服务器的 top 命令可以查看 CPU 的状态。nvtop 命令则是用来查看 NVidia GPU 的状态。
 
@@ -209,13 +191,11 @@ Mixnode 是一个收集了全世界网页的数据库，允许使用类似 SQL �
 
 7、[retejs](https://github.com/retejs/rete)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101919.jpg)
 
 可视化编程的 JavaScript 框架。
 
 8、[命令行 2048 游戏](https://github.com/plibither8/2048.cpp)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101920.jpg)
 
 C++ 编写的2048游戏。
 
@@ -227,31 +207,25 @@ C++ 编写的2048游戏。
 
 1、[摩托罗拉 Razr V3 手机](https://www.massmadesoul.com/features/razr)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101921.jpg)
 
 2003年7月，摩托罗拉公司发布了 Razr V3 手机。这部手机只是产品小组的一个普通设计，并不是公司主力产品。一开始，摩托罗拉预计销售量是30万部，上市前调高到80万部，上市价格是500美元。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101922.jpg)
 
 这部手机有一个100万像素（640x480）的摄像头。采用金属机身，键盘也是金属的，而不是通常的橡胶或塑料键盘，这是为了把手机做得很薄，另一个特点是，它的按键比标准尺寸大得多。总之，它具有非常独特的视觉外观。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101923.jpg)
 
 除了主显示屏，它还有一个小的外部显示屏。手机底部的大下巴，是为了容纳天线。由于这部手机几乎是全金属，会屏蔽信号，所以把天线放在底部。翻盖设计也使得这部手机，有一种翻开和关闭的玩耍的乐趣。如果今天发布这部手机，它的设计仍然会像当时一样酷。
 
 最终，这部手机全球一共卖出了1.3亿部，是有史以来最畅销的手机型号之一。 从这部手机开始，大家意识到，手机不仅仅是通信工具，也是时尚用品。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101924.jpg)
 
 2、[苹果手表的潜力](https://steveblank.com/2018/09/26/the-apple-watch-tipping-point-time-for-healthcare/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101925.jpg)
 
 9月份发布的 Apple Watch 4 在医疗保健上有重大突破。
 
 它有两个很好的功能，一是跌倒检测，如果发现用户跌倒后一分钟内没有站起来，它就会自动拨打报警电话，并且附上用户的 GPS 位置，这对老人非常有用，可以挽救生命。二是，它带有美国食品药物管理局认可的心电图功能，一旦发现心动不正常，就会向用户发警报。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101926.jpg)
 
 其实，苹果公司还有许多专利。下面这些功能，它应该考虑加入手表。
 
@@ -267,7 +241,6 @@ C++ 编写的2048游戏。
 
 3、[马尾巴有什么用？](https://blogs.scientificamerican.com/observations/whats-the-use-of-a-horses-tail/)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101927.jpg)
 
 从大象到长颈鹿到斑马，大型哺乳动物都有尾巴，它们的目的是什么？
 
@@ -287,11 +260,9 @@ C++ 编写的2048游戏。
 
 如果你在搜索引擎里面，搜索"不是橙色的水果"，结果会恰恰相反，返回的都是橙色的水果。这证明，搜索引擎目前都是基于关键词，而不是语义搜索。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101928.jpg)
 
 2、[火星基地](https://twitter.com/elonmusk/status/1043250540379926528)
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101929.jpg)
 
 SpaceX 公司的老板马斯克，在推特上贴出一张图片，表示这是 SpaceX 公司火星基地的设计图片。
 
@@ -301,11 +272,9 @@ SpaceX 公司的老板马斯克，在推特上贴出一张图片，表示这是 
 
 开放式办公环境，为了避免打扰，通常我们需要一副降噪耳机。但是，好的降噪耳机很贵，有时做工也不令人满意，很容易坏。国外就有开发者想出 DIY 降噪耳机。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101930.jpg)
 
 只要找一副隔音效果较好的有线耳机，然后外接一个蓝牙接收器即可，总成本在300元人民币以下，效果完全不输那些名牌产品。
 
-[img](https://www.wangbase.com/blogimg/asset/201810/bg2018101931.jpg)
 
 ## 本周金句
 
@@ -335,7 +304,6 @@ SpaceX 公司的老板马斯克，在推特上贴出一张图片，表示这是 
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

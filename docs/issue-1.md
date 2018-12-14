@@ -10,7 +10,6 @@
 
 今天（4月23日）是世界读书日，[语雀](https://yuque.com/)选在今天放开注册，不再需要邀请码，用户可以直接注册，跟阿里的正式员工一样使用所有功能。
 
-[[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042301.png)](https://yuque.com?utm_source=ruanyifeng.com)
 
 为了配合世界读书日，语雀还邀请了一些互联网知名人士，写下他们的推荐书单，比如蚂蚁金服 CTO 的[程立](https://yuque.com/book-academy/2018/lusu?utm_source=ruanyifeng.com)。
 
@@ -44,7 +43,6 @@ Travis-CI 公布了3月13日生产数据库出错的调查报告。一个开发�
 
 1、[免费电子书] [《Machine Learning Yearning》](http://www.mlyearning.org/)，by 吴恩达
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042302.png)
 
 吴恩达（Andrew Ng）是斯坦福大学的教授，人工智能领域的权威，曾经担任过百度的首席科学家。
 
@@ -52,7 +50,6 @@ Travis-CI 公布了3月13日生产数据库出错的调查报告。一个开发�
 
 2、[免费视频教程] [《Foundations of Data Science》](https://data.berkeley.edu/education/data-8x)，by 加州大学伯克利分校
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042303.png)
 
 
 加州大学伯克利分校的视频课程[《Foundations of Data Science》](https://data.berkeley.edu/education/data-8x)（数据科学基础），现在上网了。报名学习是免费的，如果需要证书才收费。
@@ -77,7 +74,6 @@ React 官方关于 React 原始设计思想的解释。
 
 6、[图片] [React v16.3 生命周期的示意图](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042304.png)
 
 7、[电子书] [Google 面试自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
@@ -157,29 +153,23 @@ DNS 响应时间的命令行比较脚本。
 
 1、[Braille Neue](http://brailleneue.com/)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042305.jpg)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042306.png)
 
 Braille Neue 是布里叶盲文系统与正常字母的结合，无障碍设计的典范，为什么没有人早点想到这个点子呢。
 
 2、[Macbook 一美元改成触摸屏](https://github.com/bijection/sistine)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042307.jpg)
 
 一个非常牛的项目，作者在 Macbook 的摄像头上面，架了一块镜子。然后，自动捕捉并识别手指的坐标。
 
 3、[Jelly Mario Bros](http://jellymar.io/)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042308.png)
 
 水母版的《超级马里奥》网页游戏，所有东西都会像水母一样升缩。
 
 __4、小狗 USB__
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042309.jpg)
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042310.jpg)
 
 ## 本周金句
 
@@ -191,7 +181,6 @@ __4、小狗 USB__
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可手机订阅。
 
-[img](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 
