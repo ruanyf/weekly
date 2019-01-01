@@ -192,7 +192,7 @@ curl 作者写的小册子，介绍 HTTP/3 协议。此前，他也写了介绍 
 
 自由软件基金会为 GNU 操作系统提供的壁纸。
 
-8、[No More goole](https://nomoregoogle.com/)
+8、[No More google](https://nomoregoogle.com/)
 
 该网站收集各种谷歌服务的替代品，让你可以不使用谷歌。（@[Ynjxsjmh](https://github.com/Ynjxsjmh) 投稿）
 
