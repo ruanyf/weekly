@@ -130,7 +130,7 @@ Docker 的 Image 文件是分层的，本文简单介绍怎么查看每一层的
 
 hapi 框架的作者介绍该框架的特点。这里还有一篇[《值得关注的10个 Node.js 框架》](https://scotch.io/bar-talk/10-node-frameworks-to-use-in-2019)。
 
-7、[网咯追查俄罗斯间谍](https://mp.weixin.qq.com/s/L_0vAnJtlfL_8rNIIPPAOQ)（中文）
+7、[网络追查俄罗斯间谍](https://mp.weixin.qq.com/s/L_0vAnJtlfL_8rNIIPPAOQ)（中文）
 
 英国一个民间机构如何使用互联网公开资料，追查两个俄罗斯间谍的故事。
 
