@@ -273,11 +273,11 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 1、[主要技术公司收入来源图](https://medium.com/zerotomastery/programmers-guide-to-the-big-tech-companies-1bfc078e5a76)
 
-苹果：iPhone 占 63% 的收入
-谷歌：广告占 88% 的收入
-微软：Office 占 28% 的收入
-亚马逊：商品销售占 72% 的收入
-脸书：广告占 97% 的收入
+> - 苹果：iPhone 占 63% 的收入
+> - 谷歌：广告占 88% 的收入
+> - 微软：Office 占 28% 的收入
+> - 亚马逊：商品销售占 72% 的收入
+> - 脸书：广告占 97% 的收入
 
 ![](https://www.wangbase.com/blogimg/asset/201901/bg2019010422.jpg)
 
