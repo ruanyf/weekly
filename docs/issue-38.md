@@ -215,7 +215,7 @@ groupImg 是一个 Python 脚本，使用 k-means 算法进行图片分类。我
 
 一个在线的迷宫游戏网站，支持多人同时游戏。我玩了一局，还挺有意思。
 
-7、[GAN Paint](http://gandissect.res.ibm.com/ganpaint.htm)
+7、[GAN Paint](http://gandissect.res.ibm.com/ganpaint.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201901/bg2019010419.jpg)
 
