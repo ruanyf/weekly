@@ -148,7 +148,7 @@ fx 可以方便地在命令行操作 JSON 数据，本文是 fx 用法的教程�
 
 一个软件工程师介绍自己安装的 iOS 软件。
 
-10、[我如何做日本糖果的邮寄服务？](https://www.macstories.net/stories/my-must-have-ios-apps-2018-edition/)（英文）
+10、[我如何做日本糖果的邮寄服务？](https://www.starterstory.com/stories/starting-a-japanese-candy-subscription-service)（英文）
 
 ![](https://www.wangbase.com/blogimg/asset/201901/bg2019011113.jpg)
 
