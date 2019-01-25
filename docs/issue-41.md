@@ -132,7 +132,7 @@ mkcert 是一个签发本地证书的工具，用于开发环境，最大特色�
 
 Chris Dixon 是一个很有名的美国创业者，在网上分享过很多关于创业的想法。本文介绍他的12个观点。
 
-9、[TypeScript 写一个词法解析器](https://areknawo.com/lexing-in-js-style/)（英文）
+9、[TypeScript 写一个词法解析器](https://areknawo.com/the-lexer-in-js/)（英文）
 
 词法解析器（lexer）的作用是将源码转成一个个词元（token），本文介绍如何用 TypeScript 写一个简单的解析器。
 
