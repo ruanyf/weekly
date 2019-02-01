@@ -4,7 +4,9 @@
 
 ## 2019
 
-**一月**：[第 41 期](docs/issue-41.md):high_brightness: | [第 40 期](docs/issue-40.md) | [第 39 期](docs/issue-39.md) | [第 38 期](docs/issue-38.md)
+**二月**：[第 42 期](docs/issue-42.md):high_brightness:
+
+**一月**：[第 41 期](docs/issue-41.md) | [第 40 期](docs/issue-40.md) | [第 39 期](docs/issue-39.md) | [第 38 期](docs/issue-38.md)
 
 ## 2018
 
