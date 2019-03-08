@@ -194,7 +194,7 @@ JPG2000 图像格式的介绍，也解释了 JPG 和 PNG 格式。
 
 ![](https://www.wangbase.com/blogimg/asset/201903/bg2019030822.jpg)
 
-在线练习双拼输入法的网站，漂亮的键位图，支持多种双拼方案。这里还有一个[同类网站](https://linci.co/sp/)。（[@pad0van](https://github.com/ruanyf/weekly/issues/301) 投稿）
+在线练习双拼输入法的网站，漂亮的键位图，支持多种双拼方案。这里还有一个[同类网站](https://api.ihint.me/shuang/)。（[@pad0van](https://github.com/ruanyf/weekly/issues/301) 投稿）
 
 ## 资源
 
