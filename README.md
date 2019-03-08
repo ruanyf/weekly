@@ -1,10 +1,10 @@
 技术分享周刊，每周五发布。
 
-如果你看到好的链接，欢迎通过 [issue](https://github.com/ruanyf/weekly/issues) 提交。
+如果你想推广自己的项目，或者推荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
 ## 2019
 
-**三月**：[第 45 期](docs/issue-45.md):high_brightness:
+**三月**：[第 46 期](docs/issue-46.md):high_brightness: | [第 45 期](docs/issue-45.md)
 
 **二月**：[第 44 期](docs/issue-44.md) | [第 43 期](docs/issue-43.md) | [第 42 期](docs/issue-42.md)
 
