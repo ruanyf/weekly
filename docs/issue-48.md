@@ -82,7 +82,7 @@
 
 8、**一句话新闻**
 
-* [Gali.com](https://gail.com/) 这个网站每天至少有5000次访问，并且收到几百万封邮件，原因是人们把 gmail 拼错了。<br /><br />
+* [Gail.com](https://gail.com/) 这个网站每天至少有5000次访问，并且收到几百万封邮件，原因是人们把 gmail 拼错了。<br /><br />
 * [最新研究](https://www.washingtonpost.com/health/2019/02/28/weekend-catch-up-sleep-is-lie/)发现，周末补睡也无法弥补平时缺乏睡眠对健康造成的影响。<br /><br />
 * [特斯拉公司](https://www.tesla.cn/blog/introducing-v3-supercharging)发布新的超级充电桩，充电5分钟可以行驶120公里，使得用户平均减少充电时间50%。<br /><br />
 * [互联网](https://mashable.com/article/google-doodle-world-wide-web/#rKtA5.brRZqx)是1989年3月12日由 Tim Berners-Lee 发明的，三十周年纪念日来临之际，谷歌发布了一个纪念 Doodle。
