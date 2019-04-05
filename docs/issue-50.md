@@ -107,7 +107,7 @@ Chrome 已经垄断了浏览器市场，作者论证为什么这种情况对互�
 
 一篇很好的 React Hooks 的入门介绍文章。
 
-4、[Kanban 与 Scrum 的比较](https://www.statista.com/statistics/673786/worldwide-software-development-survey-agile-development-continuous-integration-adoption/)（英文）
+4、[Kanban 与 Scrum 的比较](https://da-14.com/blog/kanban-vs-scrum-choosing-best-agile-project-management-framework)（英文）
 
 Kanban 和 Scrum 都是敏捷开发的具体实现方法，本文讨论它们的异同。
 
