@@ -10,7 +10,7 @@
 
 一篇[新闻报道](https://blogs.scientificamerican.com/observations/on-pi-day-lets-disrupt-our-narrow-notions-of-stem/)提到，美国就业行情最好的十种工作，八种是 STEM 岗位。
 
-所谓 STEM，就是科学（**S**cience）、技术（**T**echnology）、工程（**E**ngineering）、机械（**M**achine）的缩写。也就是说，就业最好的工作，80%是理工科岗位。这跟我的感觉一致，**理工科的就业远远好于文科。**
+所谓 STEM，就是科学（**S**cience）、技术（**T**echnology）、工程（**E**ngineering）、数学（**M**athematics）的缩写。也就是说，就业最好的工作，80%是理工科岗位。这跟我的感觉一致，**理工科的就业远远好于文科。**
 
 现在是信息社会，大量的工作都是技术岗，需要技术工人和工程师，而传统的办公室文秘和管理岗位，由于被软件替代，正在不断减少。这种趋势以后将会越来越明显。理工科学生往往有好几个 offer 可以挑选，文科学生想要一个 offer 都很难，很多人不得不选择考研和考公务员。
 
