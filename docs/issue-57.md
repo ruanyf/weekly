@@ -228,7 +228,7 @@ Microsoft 公司的 Edge 浏览器发布第一个 MacOS 的版本。（@[sedgwic
 
 美国国家地理频道拍摄的13集科学纪录片，从理论物理学的角度，探讨宇宙的奥秘。中英文字幕，网易公开课提供全片。（@[qinhanlei](https://github.com/ruanyf/weekly/issues/479) 投稿）
 
-2、[wamp](https://wapm.io/)
+2、[wapm](https://wapm.io/)
 
 一个收集 WebAssembly 软件包的网站，相当于 WebAssembly 模块的 NPM。它还提供一个命令行工具，可以在命令行运行这些软件包。
 
