@@ -112,7 +112,7 @@ Minecraft 发布了 AR （增强现实）新玩法，允许在现实世界叠加
 
 - [微软](https://www.theverge.com/2019/5/6/18534687/microsoft-windows-10-linux-kernel-feature)将 Linux 内核放进了 Windows 10，这是 Linux 第一次成为 Windows 的一部分。
 
-- [日本](https://www.japantimes.co.jp/news/2019/05/15/national/japan-plans-create-10-billion-14-digit-phone-numbers-5g-era-approaching/#.XN5RP3VfhhE)计划将手机号码升级到14位，取代现在的11位号码。原因是 5G 通信普及以后，将有大量号码用于“机器对机器”的通信（比如 5G 电视），11号号码不够用了。
+- [日本](https://www.japantimes.co.jp/news/2019/05/15/national/japan-plans-create-10-billion-14-digit-phone-numbers-5g-era-approaching/#.XN5RP3VfhhE)计划将手机号码升级到14位，取代现在的11位号码。原因是 5G 通信普及以后，将有大量号码用于“机器对机器”的通信（比如 5G 电视），11位号码不够用了。
 
 - [美国国防部高级研究局](https://www.darpa.mil/news-events/2019-05-20)正式宣布，与六所大学合作，研发下一代脑机接口，直接用神经活动控制计算机。
 
@@ -228,7 +228,7 @@ Microsoft 公司的 Edge 浏览器发布第一个 MacOS 的版本。（@[sedgwic
 
 美国国家地理频道拍摄的13集科学纪录片，从理论物理学的角度，探讨宇宙的奥秘。中英文字幕，网易公开课提供全片。（@[qinhanlei](https://github.com/ruanyf/weekly/issues/479) 投稿）
 
-2、[wamp](https://wapm.io/)
+2、[wapm](https://wapm.io/)
 
 一个收集 WebAssembly 软件包的网站，相当于 WebAssembly 模块的 NPM。它还提供一个命令行工具，可以在命令行运行这些软件包。
 
