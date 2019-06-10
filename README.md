@@ -4,7 +4,9 @@
 
 ## 2019
 
-**五月**：[第 58 期](docs/issue-58.md):high_brightness: | [第 57 期](docs/issue-57.md) | [第 56 期](docs/issue-56.md) | [第 55 期](docs/issue-55.md) | [第 54 期](docs/issue-54.md)
+**六月**：[第 59 期](docs/issue-59.md):high_brightness:
+
+**五月**：[第 58 期](docs/issue-58.md) | [第 57 期](docs/issue-57.md) | [第 56 期](docs/issue-56.md) | [第 55 期](docs/issue-55.md) | [第 54 期](docs/issue-54.md)
 
 **四月**：[第 53 期](docs/issue-53.md) | [第 52 期](docs/issue-52.md) | [第 51 期](docs/issue-51.md) | [第 50 期](docs/issue-50.md)
 
