@@ -1,4 +1,4 @@
-技术分享周刊，每周五发布。
+科技爱好者周刊，每周五发布。
 
 如果你想推广自己的项目，或者推荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
