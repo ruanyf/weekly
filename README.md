@@ -1,6 +1,8 @@
-科技爱好者周刊，记录每周值得分享的内容，周五发布。
+# 科技爱好者周刊
 
-如果你想推广自己的项目，或者推荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
+记录每周值得分享的内容，周五发布。
+
+欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
 ## 2019
 
