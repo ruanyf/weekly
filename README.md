@@ -1,10 +1,12 @@
-技术分享周刊，每周五发布。
+# 科技爱好者周刊
 
-如果你想推广自己的项目，或者推荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
+记录每周值得分享的内容，周五发布。
+
+欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
 ## 2019
 
-**六月**：[第 60 期](docs/issue-60.md):high_brightness: | [第 59 期](docs/issue-59.md)
+**六月**：[第 61 期](docs/issue-61.md):high_brightness: | [第 60 期](docs/issue-60.md) | [第 59 期](docs/issue-59.md)
 
 **五月**：[第 58 期](docs/issue-58.md) | [第 57 期](docs/issue-57.md) | [第 56 期](docs/issue-56.md) | [第 55 期](docs/issue-55.md) | [第 54 期](docs/issue-54.md)
 
