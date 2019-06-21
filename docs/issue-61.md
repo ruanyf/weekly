@@ -144,7 +144,7 @@ ssh 登录的时候，比较安全的做法是使用公钥认证。但是，这�
 
 我们通常使用 A/B 测试，判断哪一种实现更有效。作者提出了一种新的算法，可以同时测试 n 个选项，还能随意添加和删减选项。
 
-10、[Async 函数不能用于数组的过滤器](https://eggonomy.com/blogs/news/how-fragmented-is-android)（英文）
+10、[Async 函数不能用于数组的过滤器](https://www.jimhribar.com/adventures-in-async-await/)（英文）
 
 作者发现，JavaScript 的 Async 函数无法用于数组的过滤器，即 `array.filter(async f)` 是无效的。这一点似乎以前没人提到。
 
