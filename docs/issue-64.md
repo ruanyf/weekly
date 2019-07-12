@@ -32,7 +32,7 @@
 
 学一点数据分析知识，不仅能够提升就业竞争力和数据处理能力，而且学了以后如果有兴趣，还能尝试向工程师转型。
 
-[《数据分析师课程》](https://www.sanjieke.cn/course/detail/2/web/13602828https://www.sanjieke.cn/course/detail/2/web/13602828?utm_campaign=xjs_shujufenxip1&utm_content=ryfdwlrz&utm_medium=shequn_cpt&utm_source=weixinkol&utm_term=0710-kol18)完全面向新人和初级学习者，着重讲解实用技能，并且有大量配套的实战案例练习，帮你学会统计学、数据可视化、Excel、SQL、R 语言（下图绿色部分）。
+[《数据分析师课程》](https://www.sanjieke.cn/course/detail/2/web/13602828?utm_campaign=xjs_shujufenxip1&utm_content=ryfdwlrz&utm_medium=shequn_cpt&utm_source=weixinkol&utm_term=0710-kol18)完全面向新人和初级学习者，着重讲解实用技能，并且有大量配套的实战案例练习，帮你学会统计学、数据可视化、Excel、SQL、R 语言（下图绿色部分）。
 
 ![](https://www.wangbase.com/blogimg/asset/201907/bg2019070913.jpg)
 
