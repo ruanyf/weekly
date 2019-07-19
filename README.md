@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-:speaker: [公告] 周刊新增[就业栏目](https://github.com/ruanyf/weekly/issues/692)，欢迎张贴或了解招聘信息。
+:speaker: **[公告] 周刊新增[就业栏目](https://github.com/ruanyf/weekly/issues/692)，欢迎张贴或了解招聘信息。**
 
 ## 2019
 
