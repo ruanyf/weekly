@@ -57,13 +57,13 @@
 
 他认为，这说明消费者并非一味喜欢大屏幕手机，但是苹果公司显然不这么想，正在放弃小屏幕，新的 iOS 13不再支持iPhone 5S，6 和 6+。
 
-3、[太阳能甲醇岛](https://arstechnica.com/science/2019/06/creative-thinking-researchers-propose-solar-methanol-island-using-ocean-co%E2%82%82/)
+3、[太阳能甲醇岛](https://arstechnica.com/science/2019/06/creative-thinking-    researchers-propose-solar-methanol-island-using-ocean-co%E2%82%82/)
 
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019060902.jpg)
 
-瑞士科学家提出一个设想，海洋上铺设直径100米的太阳能浮岛，利用太阳能发电。电力输送到旁边的轮船。轮船使用这些电力，从海水中提取氢气，与二氧化碳合成甲醛，然后定期将甲醛送回陆地，作为燃料。
+瑞士科学家提出一个设想，海洋上铺设直径100米的太阳能浮岛，利用太阳能发电。电力输送到旁边的轮船。轮船使用这些电力，从海水中提取氢气，与二氧化碳合成甲醇，然后定期将甲醇送回陆地，作为燃料。
 
-相比汽油，甲醛的安全性更好，更有利于环境保护。根据计算，只要有17万个这样的太阳能浮岛，就能弥补这个系统的成本。
+相比汽油，甲醇的安全性更好，更有利于环境保护。根据计算，只要有17万个这样的太阳能浮岛，就能弥补这个系统的成本。
 
 4、[爬墙机器人](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/trhex-hexapod-robot-microspines)
 
