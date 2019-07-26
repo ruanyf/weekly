@@ -381,12 +381,6 @@ Instagram 是世界最大的图片分享工具，但是没有“发现”频道�
 
 -- [《我如何制作每月收入8000美元的博客》](https://blog.usejournal.com/how-i-made-8-000-per-month-podcasting-and-why-you-probably-dont-want-to-855966a557aa)
 
-## 回顾
-
-去年的本周：[《周刊第 14 期》](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html)
-
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072001.jpg)
-
 ## 招聘信息
 
 以下公司正在招聘，欢迎应聘。
@@ -435,6 +429,12 @@ Email 联系 [duwanzhi[AT]meituan.com](mailto://duwanzhi@meituan.com)，详见[J
 团队负责比特大陆矿池及多币种区块链浏览器项目研发。欢迎具有3年以上工作经验的同学加入团队，负责 BITMAIN 矿池产品前端的稳定性、扩展性，探究新一代区块链前端技术架构解决方案。点击查看[岗位详细信息](https://github.com/btccom/blackboard)。
 
 简历投递 Email：[lichun.guo@bitmain.com](mailto://shancheng.wang@dianping.com)
+
+## 回顾
+
+去年的本周：[《周刊第 14 期》](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html)
+
+![](https://www.wangbase.com/blogimg/asset/201807/bg2018072001.jpg)
 
 ## 订阅
 
