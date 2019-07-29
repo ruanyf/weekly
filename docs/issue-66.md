@@ -57,7 +57,7 @@
 
 他认为，这说明消费者并非一味喜欢大屏幕手机，但是苹果公司显然不这么想，正在放弃小屏幕，新的 iOS 13不再支持iPhone 5S，6 和 6+。
 
-3、[太阳能甲醇岛](https://arstechnica.com/science/2019/06/creative-thinking-    researchers-propose-solar-methanol-island-using-ocean-co%E2%82%82/)
+3、[太阳能甲醇岛](https://arstechnica.com/science/2019/06/creative-thinking-researchers-propose-solar-methanol-island-using-ocean-co%E2%82%82/)
 
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019060902.jpg)
 
