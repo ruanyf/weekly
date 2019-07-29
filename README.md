@@ -1,10 +1,10 @@
 # 科技爱好者周刊
 
-记录每周值得分享的内容，周五发布。
+记录每周值得分享的科技内容，周五发布。
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-:speaker: **[公告] 周刊新增[就业栏目](https://github.com/ruanyf/weekly/issues/692)，提供大量工作机会，欢迎张贴或了解招聘信息。**
+:speaker: **[公告] 周刊新增[程序员招聘服务](https://github.com/ruanyf/weekly/issues/692)，提供互联网公司的工作/实习岗位，欢迎大家访问，也欢迎企业张贴招聘信息。**
 
 ## 2019
 
