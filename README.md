@@ -8,7 +8,7 @@
 
 ## 2019
 
-**八月**：[第 67 期](docs/issue-67.md):high_brightness:
+**八月**：[第 68 期](docs/issue-68.md):high_brightness: | [第 67 期](docs/issue-67.md)
 
 **七月**：[第 66 期](docs/issue-66.md) | [第 65 期](docs/issue-65.md) | [第 64 期](docs/issue-64.md) | [第 63 期](docs/issue-63.md)
 
