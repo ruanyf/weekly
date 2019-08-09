@@ -129,7 +129,7 @@
 
 ![](https://www.wangbase.com/blogimg/asset/201907/bg2019072505.jpg)
 
-> - [澳大利亚珀斯造币厂](https://www.wsj.com/articles/a-gigantic-gold-coin-makes-its-way-to-wall-street-11563278400?mod=rsswn)在纽约华尔街的马路上，展示世界最大的金币，重达一顿，价值4500万美元。
+> - [澳大利亚珀斯造币厂](https://www.wsj.com/articles/a-gigantic-gold-coin-makes-its-way-to-wall-street-11563278400?mod=rsswn)在纽约华尔街的马路上，展示世界最大的金币，重达一吨，价值4500万美元。
 
 ![](https://www.wangbase.com/blogimg/asset/201907/bg2019072502.jpg)
 
