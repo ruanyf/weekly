@@ -241,7 +241,7 @@ GitHub 官方的命令行客户端。
 
 这是 Mac 平台上一款智能英语输入法，可以提示单词拼写和中文解释。（@[dongyuwei](https://github.com/ruanyf/weekly/issues/672) 投稿）
 
-8、[rc-leaflet](https://github.com/olsonpm/sqlite-to-rest)
+8、[rc-leaflet](https://github.com/Coder-JJ/rc-leaflet)
 
 ![](https://www.wangbase.com/blogimg/asset/201907/bg2019071304.jpg)
 
