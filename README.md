@@ -1,14 +1,16 @@
 # 科技爱好者周刊
 
-记录每周值得分享的内容，周五发布。
+记录每周值得分享的科技内容，周五发布。
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-:speaker: **[公告] 周刊新增[就业栏目](https://github.com/ruanyf/weekly/issues/692)，提供大量工作机会，欢迎张贴或了解招聘信息。**
+:speaker: **[公告] 周刊新增[程序员招聘服务](https://github.com/ruanyf/weekly/issues/692)，提供互联网公司的工作/实习岗位，欢迎大家访问，也欢迎企业张贴招聘信息。**
 
 ## 2019
 
-**七月**：[第 66 期](docs/issue-66.md):high_brightness: | [第 65 期](docs/issue-65.md) | [第 64 期](docs/issue-64.md) | [第 63 期](docs/issue-63.md)
+**八月**：[第 68 期](docs/issue-68.md):high_brightness: | [第 67 期](docs/issue-67.md)
+
+**七月**：[第 66 期](docs/issue-66.md) | [第 65 期](docs/issue-65.md) | [第 64 期](docs/issue-64.md) | [第 63 期](docs/issue-63.md)
 
 **六月**：[第 62 期](docs/issue-62.md) | [第 61 期](docs/issue-61.md) | [第 60 期](docs/issue-60.md) | [第 59 期](docs/issue-59.md)
 

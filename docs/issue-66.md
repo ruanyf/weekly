@@ -57,7 +57,7 @@
 
 他认为，这说明消费者并非一味喜欢大屏幕手机，但是苹果公司显然不这么想，正在放弃小屏幕，新的 iOS 13不再支持iPhone 5S，6 和 6+。
 
-3、[太阳能甲醇岛](https://arstechnica.com/science/2019/06/creative-thinking-    researchers-propose-solar-methanol-island-using-ocean-co%E2%82%82/)
+3、[太阳能甲醇岛](https://arstechnica.com/science/2019/06/creative-thinking-researchers-propose-solar-methanol-island-using-ocean-co%E2%82%82/)
 
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019060902.jpg)
 
@@ -113,7 +113,7 @@
 
 ![](https://www.wangbase.com/blogimg/asset/201907/bg2019072011.jpg)
 
-- [日本网友](http://2chcn.com/178862/)贴出京都动画工作室的内部照片。该工作室被一个神经病放火，已经有30多个动画师遇难。有人为了抢救画稿，而来不及逃离。
+- [日本网友](http://2chcn.com/178862/)贴出京都动画工作室的内部照片。该工作室被一个神经病放火，已经有30多个动画师遇难。
 
 ![](https://www.wangbase.com/blogimg/asset/201907/bg2019071901.jpg)
 
@@ -335,7 +335,7 @@ Instagram 是世界最大的图片分享工具，但是没有“发现”频道�
 
 他的兄弟取走了一些发光材料，带回家后，给自己6岁的女儿看。小姑娘正在吃三明治，觉得很好玩，就把这些蓝色粉末涂在自己身上，还有一些粉末落在她正在吃的三明治上，这导致她受到的辐射超过了致命剂量。
 
-一周后，回收站的老板把这些东西卖给了第二家回收站。再过了一周，1987年9月28日，当地一个医生注意到身边很多人同时患上严重疾病，她采样了一些物质带回了医院。至此，外界开始知道，这里发生了严重的发射物质泄漏事故。
+一周后，回收站的老板把这些东西卖给了第二家回收站。再过了一周，1987年9月28日，当地一个医生注意到身边很多人同时患上严重疾病，她采样了一些物质带回了医院。至此，外界开始知道，这里发生了严重的放射物质泄漏事故。
 
 消息公开后，11万多人接受了放射性检查，其中250人确认受到辐射污染，需要治疗。其中四人死亡，分别是两名回收站员工，老板的妻子和那位6岁的小女孩。
 
@@ -379,7 +379,7 @@ Instagram 是世界最大的图片分享工具，但是没有“发现”频道�
 
 播客的优势就是诚实，它让我们能够在人们的耳边轻声细语，并告诉他们我们的看法。今天这种诚实和内心沟通很少见，因此很有价值。
 
--- [《我如何制作每月收入8000美元的博客》](https://blog.usejournal.com/how-i-made-8-000-per-month-podcasting-and-why-you-probably-dont-want-to-855966a557aa)
+-- [《我如何制作每月收入8000美元的播客》](https://blog.usejournal.com/how-i-made-8-000-per-month-podcasting-and-why-you-probably-dont-want-to-855966a557aa)
 
 ## 招聘信息
 
