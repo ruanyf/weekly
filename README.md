@@ -6,7 +6,7 @@
 
 ## 实用信息
 
-- [谁在招人](https://github.com/ruanyf/weekly/issues/692)：免费的程序员招聘服务，大量工作/实习岗位。
+- [谁在招人](https://github.com/ruanyf/weekly/issues/692)：免费的程序员招聘服务
 - [免费电子书](https://github.com/ruanyf/free-books)
 
 ## 2019
