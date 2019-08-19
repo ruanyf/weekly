@@ -4,7 +4,10 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-:speaker: **[公告] 周刊新增[程序员招聘服务](https://github.com/ruanyf/weekly/issues/692)，提供互联网公司的工作/实习岗位，欢迎大家访问，也欢迎企业张贴招聘信息。**
+## 实用信息
+
+- [谁在招人](https://github.com/ruanyf/weekly/issues/692)：免费的程序员招聘服务，大量工作/实习岗位。
+- [免费电子书](https://github.com/ruanyf/free-books)
 
 ## 2019
 
