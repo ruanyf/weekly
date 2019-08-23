@@ -6,12 +6,12 @@
 
 ## 实用信息
 
-- [谁在招人](https://github.com/ruanyf/weekly/issues/692)：免费的程序员招聘服务
 - [免费电子书](https://github.com/ruanyf/free-books)
+- [谁在招人](https://github.com/ruanyf/weekly/issues/692)：免费的程序员招聘服务
 
 ## 2019
 
-**八月**：[第 69 期](docs/issue-69.md):high_brightness: | [第 68 期](docs/issue-68.md) | [第 67 期](docs/issue-67.md)
+**八月**：[第 70 期](docs/issue-70.md):high_brightness: | [第 69 期](docs/issue-69.md) | [第 68 期](docs/issue-68.md) | [第 67 期](docs/issue-67.md)
 
 **七月**：[第 66 期](docs/issue-66.md) | [第 65 期](docs/issue-65.md) | [第 64 期](docs/issue-64.md) | [第 63 期](docs/issue-63.md)
 
