@@ -174,7 +174,7 @@ Syslog 是一种日志协议，Linux 系统普遍使用这种日志，其他系�
 
 本文介绍 Python 新的路径库`pathlib`比原来的`os.path`好在哪里。（@[nosarthur](https://github.com/ruanyf/weekly/issues/755) 投稿）
 
-8、[22岁奥地利 PHP 程序员专访](https://nocsdegree.com/interviews/No-CSdegree-but-this-Austrian-coder-earn-$15k-a-month-at-22)（英文）
+8、[22岁奥地利 PHP 程序员专访](https://www.nocsdegree.com/22-year-old-self-taught-web-developer-earns-15k-a-month-in-rural-austria/)（英文）
 
 ![](https://www.wangbase.com/blogimg/asset/201908/bg2019080804.jpg)
 
