@@ -7,7 +7,10 @@
 ## 实用信息
 
 - [免费电子书](https://github.com/ruanyf/free-books)
-- [谁在招人](https://github.com/ruanyf/weekly/issues/692)：免费的程序员招聘服务
+- [免费音乐](docs/free-music.md)
+- [免费照片](docs/free-photos.md)
+- [免费软件](docs/free-software.md)
+- [谁在招人](https://github.com/ruanyf/weekly/issues/798)：免费的程序员招聘服务
 
 ## 2019
 
