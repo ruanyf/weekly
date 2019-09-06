@@ -13,5 +13,6 @@
 - [Morguefile](https://morguefile.com/)
 - [pxhere](https://pxhere.com/)
 - [ISO Republic](https://isorepublic.com/)
+- [Free Stock Photos](https://taken.photos/)
 - [泼辣有图](http://www.polayoutu.com)
 
