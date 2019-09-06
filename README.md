@@ -4,11 +4,19 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-:speaker: **[公告] 周刊新增[程序员招聘服务](https://github.com/ruanyf/weekly/issues/692)，提供互联网公司的工作/实习岗位，欢迎大家访问，也欢迎企业张贴招聘信息。**
+## 实用信息
+
+- [免费电子书](https://github.com/ruanyf/free-books)
+- [免费音乐](docs/free-music.md)
+- [免费照片](docs/free-photos.md)
+- [免费软件](docs/free-software.md)
+- [谁在招人](https://github.com/ruanyf/weekly/issues/798)：免费的程序员招聘服务
 
 ## 2019
 
-**八月**：[第 69 期](docs/issue-69.md):high_brightness: | [第 68 期](docs/issue-68.md) | [第 67 期](docs/issue-67.md)
+**九月**：[第 72 期](docs/issue-72.md):high_brightness:
+
+**八月**：[第 71 期](docs/issue-71.md) | [第 70 期](docs/issue-70.md) | [第 69 期](docs/issue-69.md) | [第 68 期](docs/issue-68.md) | [第 67 期](docs/issue-67.md)
 
 **七月**：[第 66 期](docs/issue-66.md) | [第 65 期](docs/issue-65.md) | [第 64 期](docs/issue-64.md) | [第 63 期](docs/issue-63.md)
 
