@@ -14,7 +14,9 @@
 
 ## 2019
 
-**八月**：[第 71 期](docs/issue-71.md):high_brightness: | [第 70 期](docs/issue-70.md) | [第 69 期](docs/issue-69.md) | [第 68 期](docs/issue-68.md) | [第 67 期](docs/issue-67.md)
+**九月**：[第 72 期](docs/issue-72.md):high_brightness:
+
+**八月**：[第 71 期](docs/issue-71.md) | [第 70 期](docs/issue-70.md) | [第 69 期](docs/issue-69.md) | [第 68 期](docs/issue-68.md) | [第 67 期](docs/issue-67.md)
 
 **七月**：[第 66 期](docs/issue-66.md) | [第 65 期](docs/issue-65.md) | [第 64 期](docs/issue-64.md) | [第 63 期](docs/issue-63.md)
 
