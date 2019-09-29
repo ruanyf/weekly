@@ -50,13 +50,13 @@ Udacity（优达学城）是美国最大的在线学习平台之一，很多人�
 
 Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件开发，或者想感受一下硅谷的教学方式，趁着假期，建议可以看看这些免费课程。
 
-> - 视频课程： [《HTML and CSS 入门》](http://1t.click/axaU) -   （汉化）
-> - 视频课程：[《JavaScript 入门》](http://1t.click/axaZ)-   （汉化）
-> - 视频课程：[《Git 与版本管理》](http://1t.click/axba)-   （汉化）
-> - 视频课程：[《Flutter	 应用开发》](http://1t.click/axbb)-   （未汉化）
-> - 视频课程：[《Kotlin 入门》](http://1t.click/axbd)-   （未汉化）
-> - 视频课程：[《Shell 讲习班》](http://1t.click/axbf)-   （汉化）
-> - 视频课程：[《教你写 README 文件》](http://1t.click/axbk)-   （汉化）
+> - 视频课程： [《HTML and CSS 入门》](https://cn.udacity.com/course/html-and-css-syntax--ud001/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse) -   （汉化）
+> - 视频课程：[《JavaScript 入门》](https://cn.udacity.com/course/intro-to-javascript--ud803/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （汉化）
+> - 视频课程：[《Git 与版本管理》](https://cn.udacity.com/course/version-control-with-git--ud123/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （汉化）
+> - 视频课程：[《Flutter 应用开发》](https://cn.udacity.com/course/build-native-mobile-apps-with-flutter--ud905/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （未汉化）
+> - 视频课程：[《Kotlin 入门》](https://cn.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （未汉化）
+> - 视频课程：[《Shell 讲习班》](https://cn.udacity.com/course/shell-workshop--ud206/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse) -   （汉化）
+> - 视频课程：[《教你写 README 文件》](https://cn.udacity.com/course/writing-readmes--ud777?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （汉化）
 
 ## 资讯
 
