@@ -127,7 +127,7 @@ Chrome 浏览器最近开始支持`<portal>`元素。它基本上是一个更安
 
 AWS Amplify 是亚马逊的持续集成服务，作为一个简单的网站托管方案，可以直接从源码构建网站，然后自动部署。
 
-4、[傅里叶变换交互式入门](https://www.freecodecamp.org/news/optimize-your-javascript-app-by-using-service-workers/)（中文）
+4、[傅里叶变换交互式入门](http://www.jezzamon.com/fourier/zh-cn.html)（中文）
 
 通过一系列互动图形，直观介绍傅里叶变换的含义，基本没用数学公式。
 
