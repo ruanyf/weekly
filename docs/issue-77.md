@@ -94,7 +94,7 @@
 
 ![](https://www.wangbase.com/blogimg/asset/201910/bg2019101003.jpg)
 
-如果这个装置的潜力巨大，甚至有可能在白天运行。目前，它还处于概念产品阶段，发电效率与太阳能发电还相去甚远，每平方米发电低于0.5瓦特。
+这个装置的潜力巨大，甚至有可能在白天运行。目前，它还处于概念产品阶段，发电效率与太阳能发电还相去甚远，每平方米发电低于0.5瓦特。
 
 4、[探亲服务](https://www.newyorker.com/culture/annals-of-inquiry/in-france-elder-care-comes-with-the-mail)
 
