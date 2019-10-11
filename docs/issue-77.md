@@ -178,7 +178,7 @@ Netlify 是一个静态网站服务提供商，它现在接入了云数据库 Fa
 
 传统的 DNS 查询不加密，所以不安全。新的 DNS over HTTPS（简写 DoH）是加密查询，Firefox 打算默认开启，本文认为，这样会让所有 DNS 查询都导向一个实体，是危险的。
 
-5、[5G：炒作与现实](https://jpkoning.blogspot.com/2019/08/starbucks-monetary-superpower.html)（英文）
+5、[5G：炒作与现实](http://www.telirati.com/2019/08/5g-hype-vs-reality.html)（英文）
 
 5G 通信是现在的热点，但是很大一部分是炒作。本文分析 5G 的应用场景，以及它的代价和局限。
 
