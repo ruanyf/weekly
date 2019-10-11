@@ -212,7 +212,7 @@ Java 程序员招聘非常常见，本文总结了企业对于初级、中级、
 
 ## 工具
 
-1、[Postwoman](https://liyasthomas.github.io/postwoman/)
+1、[Postwoman](https://github.com/liyasthomas/postwoman)
 
 一个在线 HTTP 请求调试工具，类似 Postman，不过是 Web 版。
 
