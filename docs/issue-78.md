@@ -292,7 +292,7 @@ Python 初学者教程[《A Byte of Python》](https://python.swaroopch.com/)的
 
 最新出版的 C 语言的英文教材，作者提供免费下载。
 
-4、[使用 Python 学习计量经济学](https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf)（PDF）
+4、[使用 Python 学习计量经济学](https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf)（PDF）
 
 英文电子书，讲解 Python 基本用法，然后用它教计量经济学。
 
