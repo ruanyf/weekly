@@ -15,4 +15,4 @@
 - [ISO Republic](https://isorepublic.com/)
 - [Free Stock Photos](https://taken.photos/)
 - [泼辣有图](http://www.polayoutu.com)
-
+- [Glaze](https://www.glazestock.com/)
