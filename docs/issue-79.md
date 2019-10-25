@@ -271,7 +271,7 @@ LaTeX 搜索引擎。你给出英语描述，它返回符号的写法。比如�
 
 该网站提供多套简历模板，用户可以选择一套，自动生成自己的简历。
 
-4、[Python 编程基础](https://python.cs.southern.edu/pythonbook/pythonbook.pdf)（PDF）
+4、[Python 编程基础](https://archive.org/details/2018Fundamentals.ofPython)（PDF）
 
 免费英文电子书。
 
