@@ -143,7 +143,7 @@
 
 > - [美国学术杂志](https://www.plagiarismtoday.com/2019/08/15/the-rise-of-the-peer-review-bots/)开始用软件过滤投稿的论文。一旦发现投稿与其他论文的重合度较高，就表明可能剽窃或者没有新意，从而自动向作者发送拒稿信。
 
-> - [2024 巴黎奥运会](https://www.bbc.com/news/world-europe-50135652)的会徽公布，即像一团火焰，又像一个女子的头像，象征法兰西共和国。不过，法国网友称，这个标志更适合约会网站或美发沙龙。
+> - [2024 巴黎奥运会](https://www.bbc.com/news/world-europe-50135652)的会徽公布，既像一团火焰，又像一个女子的头像，象征法兰西共和国。不过，法国网友称，这个标志更适合约会网站或美发沙龙。
 
 ![](https://www.wangbase.com/blogimg/asset/201910/bg2019102301.jpg)
 
