@@ -14,7 +14,7 @@
 
 ## 2019
 
-**十一月**：[第 83 期](docs/issue-83.md):high_brightness: | [第 82 期](docs/issue-82.md) | [第 81 期](docs/issue-81.md) | [第 80 期](docs/issue-80.md)
+**十一月**：[第 84 期](docs/issue-84.md):high_brightness: | [第 83 期](docs/issue-83.md) | [第 82 期](docs/issue-82.md) | [第 81 期](docs/issue-81.md) | [第 80 期](docs/issue-80.md)
 
 **十月**：[第 79 期](docs/issue-79.md) | [第 78 期](docs/issue-78.md) | [第 77 期](docs/issue-77.md) | [第 76 期](docs/issue-76.md)
 
