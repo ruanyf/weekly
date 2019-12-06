@@ -108,7 +108,7 @@ Vue 是主流的 JavaScript 前端框架，国内有着广泛的应用，招聘�
 
 > - [美国一家医院](https://bmjopengastro.bmj.com/content/6/1/e000325)发现不喝酒的病人发生了酒精中毒，检查以后才知道，病人的小肠和盲肠中居然有酵母菌，对吃进去的碳水化合物进行发酵，生成了酒精。
 
-> - [美国零售巨头 Costco](https://www.thestreet.com/technology/costco-thanksgiving-day-website-crash-cost-it-nearly-11million-15185344) 的网站在黑色星期五购物节的晚上，由于汹涌而入的访问者而当机，下线了16.5个小时，预计损失1100万美元。
+> - [美国零售巨头 Costco](https://www.thestreet.com/technology/costco-thanksgiving-day-website-crash-cost-it-nearly-11million-15185344) 的网站在黑色星期五购物节的晚上，由于汹涌而入的访问者而宕机，下线了16.5个小时，预计损失1100万美元。
 
 > - [国家网信办](http://www.cac.gov.cn/2019-11/29/c_1576561820967678.htm)的最新规定：（1）人工智能生成的非真实视频音频，必须显著标识。（2）人工智能不得生成非真实新闻。
 
