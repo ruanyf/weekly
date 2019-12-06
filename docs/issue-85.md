@@ -26,7 +26,7 @@
 
 ## Vue 免费教学视频
 
-Vue 是主流的 JavaScript 前端框架，国内有着广泛的应用，招聘需求一直很大。因为它上手相对简单，小项目马上可以见效，中文资料也多，所以往往也是新手入门的首选框架。Vue 的生态也非常繁荣，有许多配套的周边工具，被称为全家桶，比如 vuex、vuex-router、element、elenent-admin 等等。
+Vue 是主流的 JavaScript 前端框架，国内有着广泛的应用，招聘需求一直很大。因为它上手相对简单，小项目马上可以见效，中文资料也多，所以往往也是新手入门的首选框架。Vue 的生态也非常繁荣，有许多配套的周边工具，被称为全家桶，比如 vuex、vue-router、element、elenent-admin 等等。
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019120504.jpg)
 
