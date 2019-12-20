@@ -166,7 +166,7 @@ Pantone 是全球著名的配色公司。该公司每年都会评选本年度的
 
 4、[JSON 解析器的最大嵌套层数](https://github.com/lovasoa/bad_json_parsers/blob/master/README.md)（英文）
 
-JSON 数据结构可以嵌套多少层，标准没有提及。作者就写了一个脚本，去测试每种语言的 JSON 解析器最多可以解析多少层嵌套的 JSON，然后将结果列成表格，比如 V8 可以解析5713层。
+JSON 数据结构可以嵌套多少层，标准没有提及。作者就写了一个脚本，去测试每种语言的 JSON 解析器最多可以解析多少层嵌套的 JSON，然后将结果列成表格，比如 Node.js 可以解析5712层。
 
 5、[20行 Shell 脚本的马尔可夫链](https://0x0f0f0f.github.io/posts/2019/11/really-fast-markov-chains-in-~20-lines-of-sh-grep-cut-and-awk/)（英文）
 
