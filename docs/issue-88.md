@@ -192,7 +192,7 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 作者是专业的 HTML5 游戏开发商，介绍了他们团队使用的工具。
 
-10、[Makefile 教程](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html)（英文）
+10、[Makefile 教程](https://blog.mindlessness.life/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html)（英文）
 
 本文教你学会编写 Makefile 文件。
 
