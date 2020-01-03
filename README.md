@@ -12,9 +12,13 @@
 - [免费软件](docs/free-software.md)
 - [谁在招人](https://github.com/ruanyf/weekly/issues/798)：免费的程序员招聘服务
 
+## 2020
+
+**一月**：[第 89 期](docs/issue-89.md):high_brightness:
+
 ## 2019
 
-**十二月**：[第 88 期](docs/issue-88.md):high_brightness: | [第 87 期](docs/issue-87.md) | [第 86 期](docs/issue-86.md) | [第 85 期](docs/issue-85.md)
+**十二月**：[第 88 期](docs/issue-88.md) | [第 87 期](docs/issue-87.md) | [第 86 期](docs/issue-86.md) | [第 85 期](docs/issue-85.md)
 
 **十一月**：[第 84 期](docs/issue-84.md) | [第 83 期](docs/issue-83.md) | [第 82 期](docs/issue-82.md) | [第 81 期](docs/issue-81.md) | [第 80 期](docs/issue-80.md)
 
