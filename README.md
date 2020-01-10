@@ -14,7 +14,7 @@
 
 ## 2020
 
-**一月**：[第 89 期](docs/issue-89.md):high_brightness:
+**一月**：[第 90 期](docs/issue-90.md):high_brightness: | [第 89 期](docs/issue-89.md)
 
 ## 2019
 
