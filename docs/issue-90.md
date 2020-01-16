@@ -176,7 +176,7 @@
 
 Mithril 是一个前端 JS 框架，只有 9.5KB，如果你感到 React 或 Vue 太重，应该看看这个框架。
 
-5、[二元一次方程的新解法](https://www.technologyreview.com/s/614775/a-new-way-to-make-quadratic-equations-easy/)（英文）
+5、[一元二次方程的新解法](https://www.technologyreview.com/s/614775/a-new-way-to-make-quadratic-equations-easy/)（英文）
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019120606.jpg)
 
