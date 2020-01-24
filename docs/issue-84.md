@@ -166,7 +166,7 @@ BBC 报道，旧金山一家区块链公司的 CEO 理查德·马（Richard Ma�
 
 本文很长，介绍 Elm 语言的语法知识，如何用它写一个网页应用。
 
-5、[AWS 的数据迁移费](https://www.theinformation.com/articles/aws-customers-rack-up-hefty-bills-for-moving-data?utm_source=hackernews&utm_medium=unlock)（英文）
+5、[AWS 的数据迁移费](https://www.theinformation.com/articles/aws-customers-rack-up-hefty-bills-for-moving-data)（英文）
 
 亚马逊云服务 AWS 的费用包含一项“数据迁移费”（data transfer）。本文分析 AWS 头部客户的这项费用，可以借此了解云服务的付费情况。
 
@@ -188,7 +188,7 @@ BBC 报道，旧金山一家区块链公司的 CEO 理查德·马（Richard Ma�
 
 数据科学通常使用 Python 语言，但是其他语言也可以。本文从零开始教你使用 Swift 语言来做数据科学项目。
 
-10、[Web 缓存投毒攻击](https://slate.com/technology/2019/10/y2k-2038-bug-coding-future.html)（英文）
+10、[Web 缓存投毒攻击](https://cpdos.org/)（英文）
 
 访问网页，大多数时候都要通过缓存服务器，CDN 就是一种缓存。有可能做到缓存服务器投毒，从而使得网站无法访问，本文介绍它的原理。
 
