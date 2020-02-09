@@ -146,7 +146,7 @@
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019121232.jpg)
 
-> - [谷歌](https://www.techradar.com/au/news/fires-near-me-was-australias-top-search-of-2019-google-reveals)公布澳大利亚2019年上升最快的搜索词是“我附近的火情”（Fires near me），因为澳大利亚生了空前的森林大火，许多居民被迫不停搜索火势的蔓延情况。
+> - [谷歌](https://www.techradar.com/au/news/fires-near-me-was-australias-top-search-of-2019-google-reveals)公布澳大利亚2019年上升最快的搜索词是“我附近的火情”（Fires near me），因为澳大利亚发生了空前的森林大火，许多居民被迫不停搜索火势的蔓延情况。
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019121234.jpg)
 
