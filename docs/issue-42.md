@@ -147,7 +147,7 @@ Dart 是 Flutter 框架的开发语言，语法与 JS 高度类似，也是单�
 
 1、[AdGuard 公司的 DNS](https://adguard.com/en/blog/adguard-dns-announcement/)
 
-AdGuard 宣布提供免费的 DNS 服务：`76.103.130.130` 或 `176.103.130.131` ，还支持 DNS over HTTPS。
+AdGuard 宣布提供免费的 DNS 服务：`176.103.130.130` 或 `176.103.130.131` ，还支持 DNS over HTTPS。
 
 2、[JavaScript 互动教程](https://learnjavascript.online/)
 
