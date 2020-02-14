@@ -14,7 +14,7 @@
 
 ## 2020
 
-**二月**：[第 93 期](docs/issue-93.md):high_brightness:
+**二月**：[第 94 期](docs/issue-94.md):high_brightness: | [第 93 期](docs/issue-93.md)
 
 **一月**：[第 92 期](docs/issue-92.md) | [第 91 期](docs/issue-91.md) | [第 90 期](docs/issue-90.md) | [第 89 期](docs/issue-89.md)
 
