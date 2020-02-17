@@ -10,7 +10,23 @@
 - [免费音乐](docs/free-music.md)
 - [免费照片](docs/free-photos.md)
 - [免费软件](docs/free-software.md)
-- [谁在招人](https://github.com/ruanyf/weekly/issues/798)：免费的程序员招聘服务
+- [谁在招人](https://github.com/ruanyf/weekly/issues/983)：免费的程序员招聘服务
+
+## 如何搜索
+
+搜索周刊的简单方法是使用 GitHub 的搜索框。
+
+如果需要精确搜索，请将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
+
+```bash
+$ grep -ni [搜索词] docs/* | cat --number
+```
+
+比如，搜索 CSS 相关内容。
+
+```bash
+$ grep -ni css docs/* | cat --number
+```
 
 ## 2020
 
