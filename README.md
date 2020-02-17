@@ -19,13 +19,13 @@
 如果需要精确搜索，请将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
 
 ```bash
-$ grep -ni [搜索词] docs/* | cat --number
+$ grep -nri [搜索词] docs | cat --number
 ```
 
 比如，搜索 CSS 相关内容。
 
 ```bash
-$ grep -ni css docs/* | cat --number
+$ grep -nri css docs | cat --number
 ```
 
 ## 2020
