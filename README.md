@@ -30,7 +30,7 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
-**二月**：[第 95 期](docs/issue-95.md):high_brightness: | [第 94 期](docs/issue-94.md) | [第 93 期](docs/issue-93.md)
+**二月**：[第 96 期](docs/issue-96.md):high_brightness: | [第 95 期](docs/issue-95.md) | [第 94 期](docs/issue-94.md) | [第 93 期](docs/issue-93.md)
 
 **一月**：[第 92 期](docs/issue-92.md) | [第 91 期](docs/issue-91.md) | [第 90 期](docs/issue-90.md) | [第 89 期](docs/issue-89.md)
 
