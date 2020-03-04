@@ -14,9 +14,11 @@
 
 ## 如何搜索
 
-搜索周刊的简单方法是使用 GitHub 的搜索框。
+1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。（推荐方法）
 
-如果需要精确搜索，请将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
+2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
+
+3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
 
 ```bash
 $ grep -nri [搜索词] docs | cat --number
