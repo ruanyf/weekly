@@ -10,7 +10,7 @@
 - [免费音乐](docs/free-music.md)
 - [免费照片](docs/free-photos.md)
 - [免费软件](docs/free-software.md)
-- [谁在招人](https://github.com/ruanyf/weekly/issues/983)：免费的程序员招聘服务
+- [谁在招人](https://github.com/ruanyf/weekly/issues/1148)：免费的程序员招聘服务
 
 ## 如何搜索
 
@@ -32,7 +32,7 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
-**三月**：[第 99 期](docs/issue-99.md):high_brightness: | [第 98 期](docs/issue-98.md) | [第 97 期](docs/issue-97.md)
+**三月**：[第 100 期](docs/issue-100.md):high_brightness: | [第 99 期](docs/issue-99.md) | [第 98 期](docs/issue-98.md) | [第 97 期](docs/issue-97.md)
 
 **二月**：[第 96 期](docs/issue-96.md) | [第 95 期](docs/issue-95.md) | [第 94 期](docs/issue-94.md) | [第 93 期](docs/issue-93.md)
 
