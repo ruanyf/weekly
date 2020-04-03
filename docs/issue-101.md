@@ -116,7 +116,7 @@ Vue.js 作为现在的前端主流框架之一，在国内有着广泛的应用�
 
 ![](https://www.wangbase.com/blogimg/asset/202001/bg2020012606.jpg)
 
-> - [考古学家](https://www.archaeology-world.com/scientists-find-that-tin-found-in-israel-from-3000-years-ago-comes-from-cornwall/)在以色列发现的3000年前的铝锭，现在确定产自英国。这说明早在古希腊文明之前，英国的产品就能运到中东，这是非常惊人的。
+> - [考古学家](https://www.archaeology-world.com/scientists-find-that-tin-found-in-israel-from-3000-years-ago-comes-from-cornwall/)在以色列发现的3000年前的锡锭，现在确定产自英国。这说明早在古希腊文明之前，英国的产品就能运到中东，这是非常惊人的。
 
 ![](https://www.wangbase.com/blogimg/asset/202001/bg2020012409.jpg)
 
