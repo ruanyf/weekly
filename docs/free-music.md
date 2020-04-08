@@ -2,6 +2,7 @@
 
 以下音乐库网站提供免费音乐，可以用于商业用途。
 
+- Dig CC Mixter:[http://dig.ccmixter.org/](http://dig.ccmixter.org/)
 - Bensound：[https://www.bensound.com/](https://www.bensound.com/)
 - WOWA：[https://www.wowa.me/](https://www.wowa.me/)
 - Incompetech：[https://incompetech.com/music/](https://incompetech.com/music/)，[https://incompetech.filmmusic.io/search/](https://incompetech.filmmusic.io/search/)
