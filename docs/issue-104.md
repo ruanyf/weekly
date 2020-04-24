@@ -203,7 +203,7 @@ Safari 浏览器开始完全禁用第三方 Cookie，本文分析了有何影响
 
 ![](https://www.wangbase.com/blogimg/asset/202004/bg2020041704.jpg)
 
-HoServer 是基于 Node.js Express 的 RESTfull 接口服务和管理平台，一行代码实现增删改查所有接口，内置用户、权限等基本功能，可以缩短项目开发周期，降低开发成本。（@[hello-react](https://github.com/ruanyf/weekly/issues/1190) 投稿）
+HoServer 是基于 Node.js Express 的 RESTful 接口服务和管理平台，一行代码实现增删改查所有接口，内置用户、权限等基本功能，可以缩短项目开发周期，降低开发成本。（@[hello-react](https://github.com/ruanyf/weekly/issues/1190) 投稿）
 
 4、[Learning-to-See-in-the-Dark](https://github.com/cchen156)
 
