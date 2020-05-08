@@ -170,7 +170,7 @@
 
 ![](https://www.wangbase.com/blogimg/asset/202005/bg2020050402.jpg)
 
-一篇图片报道，介绍一个美国工程师如何将一辆1953年卡车（上图），改造成邮电混合动力。
+一篇图片报道，介绍一个美国工程师如何将一辆1953年卡车（上图），改造成油电混合动力。
 
 7、[EOF 不是字符](https://ruslanspivak.com/eofnotchar/)（英文）
 
