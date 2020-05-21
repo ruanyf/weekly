@@ -1,4 +1,4 @@
-https://github.com/ruanyf/weekly/issues/498# 每周分享第 54 期
+# 每周分享第 54 期
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
