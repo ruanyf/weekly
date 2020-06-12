@@ -12,7 +12,6 @@
 
 板齿犀（Elasmotherium）是一类已经灭绝的大型犀牛，高2米，长5米，前额上有长达2米的角，约1600万年前灭绝。（[出处](https://twitter.com/robertnyman/status/1265626735032381446)）
 
-
 ## 本周话题：智能电视的误区
 
 国内的智能电视机，现在都自带系统，一打开就是各种菜单，有直播、影视、游戏、应用等等。
@@ -163,7 +162,7 @@ HTTPS 协议加密的基础是证书，但是证书都有时间期限。根证�
 
 Cloudflare worker 是一种 Serverless 服务，使用 JavaScript 语言，相对比较简单。本文教大家怎么用它实现一个 Todo 清单，自己不需要架设服务器，还能在后端储存数据。
 
-7、[使用 Graphviz 生成示意图](https://hackernoon.com/how-you-can-set-up-remote-development-workflow-with-vs-code-in-your-browser-3y3q3wu9)（英文）
+7、[使用 Graphviz 生成示意图](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)（英文）
 
 ![](https://www.wangbase.com/blogimg/asset/202006/bg2020061012.jpg)
 
