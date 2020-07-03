@@ -10,7 +10,7 @@
 - [免费音乐](docs/free-music.md)
 - [免费照片](docs/free-photos.md)
 - [免费软件](docs/free-software.md)
-- [谁在招人](https://github.com/ruanyf/weekly/issues/1206)：免费的程序员招聘服务
+- [谁在招人](https://github.com/ruanyf/weekly/issues/1315)：免费的程序员招聘服务
 
 ## 如何搜索
 
