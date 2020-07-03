@@ -32,9 +32,23 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
-**六月**：[第 113 期](docs/issue-113.md):high_brightness: | [第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md)
+**七月**
 
-**五月**：[第 109 期](docs/issue-109.md) | [第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md)
+- [第 114 期](docs/issue-114.md)：U 盘化生存和 Uber-job
+
+**六月**
+
+- [第 113 期](docs/issue-113.md)：暴力犯罪为什么越来越少？
+- [第 112 期](docs/issue-112.md)：如何培养领导力
+- [第 111 期](docs/issue-111.md)：智能电视的误区
+- [第 110 期](docs/issue-110.md)：如果不能去美国上市
+
+**五月**
+
+- [第 109 期](docs/issue-109.md)：播客的价值
+- [第 108 期](docs/issue-108.md)：阵地战与奇袭战
+- [第 107 期](docs/issue-107.md)：致富与杠杆
+- [第 106 期](docs/issue-106.md)：数字游民
 
 **四月**：[第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) | [第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md)
 
