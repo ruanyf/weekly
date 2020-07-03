@@ -34,21 +34,21 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
-- [第 114 期](docs/issue-114.md)：U 盘化生存和 Uber-job
+- 第 114 期：[U 盘化生存和 Uber-job](docs/issue-114.md)
 
 **六月**
 
-- [第 113 期](docs/issue-113.md)：暴力犯罪为什么越来越少？
-- [第 112 期](docs/issue-112.md)：如何培养领导力
-- [第 111 期](docs/issue-111.md)：智能电视的误区
-- [第 110 期](docs/issue-110.md)：如果不能去美国上市
+- 第 113 期：[暴力犯罪为什么越来越少？](docs/issue-113.md)
+- 第 112 期：[如何培养领导力](docs/issue-112.md)
+- 第 111 期：[智能电视的误区](docs/issue-111.md)
+- 第 110 期：[如果不能去美国上市](docs/issue-110.md)
 
 **五月**
 
-- [第 109 期](docs/issue-109.md)：播客的价值
-- [第 108 期](docs/issue-108.md)：阵地战与奇袭战
-- [第 107 期](docs/issue-107.md)：致富与杠杆
-- [第 106 期](docs/issue-106.md)：数字游民
+- 第 109 期：[播客的价值](docs/issue-109.md)
+- 第 108 期：[阵地战与奇袭战](docs/issue-108.md)
+- 第 107 期：[致富与杠杆](docs/issue-107.md)
+- 第 106 期：[数字游民](docs/issue-106.md)
 
 **四月**：[第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) | [第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md)
 
