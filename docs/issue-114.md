@@ -10,7 +10,7 @@
 
 ![](https://www.wangbase.com/blogimg/asset/202006/bg2020062707.jpg)
 
-建于1995年的塔克拉马干沙漠公路，全长552公里，穿越世界第二大流动沙漠。两旁的绿化带采用滴水灌溉，防止公路被沙漠吞没。（ 出处：[Instagram](https://www.instagram.com/p/CBkHgHlBGmT/)）
+建于1995年的塔克拉玛干沙漠公路，全长552公里，穿越世界第二大流动沙漠。两旁的绿化带采用滴水灌溉，防止公路被沙漠吞没。（ 出处：[Instagram](https://www.instagram.com/p/CBkHgHlBGmT/)）
 
 ## 本周话题：U 盘化生存和 Uber-job
 
