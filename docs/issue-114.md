@@ -194,7 +194,7 @@ Safari 13.1添加了对 Async Clipboard API 的支持，使得网页可以通过
 
 我一直很想知道， GitHub 的“赞助”功能是否真能拿到钱。这篇文章告诉我们，真的是可以的，作者介绍了一些技巧，使得他的一个开源项目，年赞助达到了11万美元。
 
-8、[如何不靠运气变得富有](https://github.com/taosue/how-to-get-rich-without-getting-lucky/)（中文）
+8、[如何不靠运气变得富有](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky)（中文）
 
 Naval 是美国风险投资家，这是他的3小时长播客《如何不靠运气变得富有》的中文翻译，介绍了他的财富观，非常值得一读。（[@taosue](https://github.com/ruanyf/weekly/issues/1307) 投稿）
 
