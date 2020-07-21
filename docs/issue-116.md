@@ -256,7 +256,7 @@ CRDT 是一种数据结构，用于分布式网络的数据同步，最典型的
 
 ## 图片：幸存者公寓
 
-原文网址：[cent.com](https://www.cnet.com/pictures/inside-the-kansas-survival-condo-designed-to-save-you-from-nuclear-winter/)
+原文网址：[cnet.com](https://www.cnet.com/pictures/inside-the-kansas-survival-condo-designed-to-save-you-from-nuclear-winter/)
 
 1、
 
