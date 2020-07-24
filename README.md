@@ -34,6 +34,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
+- 第 117 期：[我不想让你记住我的脸](docs/issue-117.md)
 - 第 116 期：[世界的未来就是一个火药桶](docs/issue-116.md)
 - 第 115 期：[保护你的 DNA，不要泄漏](docs/issue-115.md)
 - 第 114 期：[U 盘化生存和 Uber-job](docs/issue-114.md)
@@ -122,7 +123,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
-- [第 66 期](docs/issue-66.md)
+- 第 66 期：[创业不是零和游戏](docs/issue-66.md)
 - 第 65 期：[周刊开设“谁在招人”的招聘服务](docs/issue-65.md)
 - [第 64 期](docs/issue-64.md)
 - [第 63 期](docs/issue-63.md)
@@ -212,7 +213,7 @@ $ grep -nri css docs | cat --number
 **七月**
 
 - [第 15 期](docs/issue-15.md)
-- [第 14 期](docs/issue-14.md)
+- 第 14 期：[马斯克的人生才是梦想家的人生](docs/issue-14.md)
 - 第 13 期：[周刊为什么只谈技术？](docs/issue-13.md)
 - [第 12 期](docs/issue-12.md)
 
