@@ -34,6 +34,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
+- 第 118 期：[高考志愿怎么填](docs/issue-118.md)
 - 第 117 期：[我不想让你记住我的脸](docs/issue-117.md)
 - 第 116 期：[世界的未来就是一个火药桶](docs/issue-116.md)
 - 第 115 期：[保护你的 DNA，不要泄漏](docs/issue-115.md)
@@ -119,7 +120,7 @@ $ grep -nri css docs | cat --number
 - [第 70 期](docs/issue-70.md)
 - [第 69 期](docs/issue-69.md)
 - [第 68 期](docs/issue-68.md)
-- [第 67 期](docs/issue-67.md)
+- 第 67 期：[复杂系统无法维护，侏罗纪公园必定失败](docs/issue-67.md)
 
 **七月**
 
@@ -212,7 +213,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
-- [第 15 期](docs/issue-15.md)
+- 第 15 期：[周刊的内容从何而来？](docs/issue-15.md)
 - 第 14 期：[马斯克的人生才是梦想家的人生](docs/issue-14.md)
 - 第 13 期：[周刊为什么只谈技术？](docs/issue-13.md)
 - [第 12 期](docs/issue-12.md)
