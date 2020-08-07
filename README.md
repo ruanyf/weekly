@@ -32,6 +32,10 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
+**八月**
+
+- 第 119 期：[降雨量和保险博弈](docs/issue-119.md)
+
 **七月**
 
 - 第 118 期：[高考志愿怎么填](docs/issue-118.md)
@@ -119,7 +123,7 @@ $ grep -nri css docs | cat --number
 - [第 71 期](docs/issue-71.md)
 - [第 70 期](docs/issue-70.md)
 - [第 69 期](docs/issue-69.md)
-- [第 68 期](docs/issue-68.md)
+- 第 68 期：[关注能力的成长，胜于关注待遇](docs/issue-68.md)
 - 第 67 期：[复杂系统无法维护，侏罗纪公园必定失败](docs/issue-67.md)
 
 **七月**
@@ -209,7 +213,7 @@ $ grep -nri css docs | cat --number
 - [第 19 期](docs/issue-19.md)
 - [第 18 期](docs/issue-18.md)
 - [第 17 期](docs/issue-17.md)
-- [第 16 期](docs/issue-16.md)
+- 第 16 期：[科技改变死亡的模式](docs/issue-16.md)
 
 **七月**
 
