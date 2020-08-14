@@ -69,7 +69,7 @@
 
 2、[火星直升机](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072507.jpg)日
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020072507.jpg)
 
 ![](https://www.wangbase.com/blogimg/asset/202007/bg2020072508.jpg)
 
