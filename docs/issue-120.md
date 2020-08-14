@@ -192,7 +192,7 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 一个高性能的 GraphQL 服务器，提供 Postgres上开箱即用的实时GraphQL API。（[@shark-h](https://github.com/ruanyf/weekly/issues/1368) 投稿）
 
-4、[codata](https://www.codota.com/)
+4、[codota](https://www.codota.com/)
 
 ![](https://www.wangbase.com/blogimg/asset/202008/bg2020080903.jpg)
 
