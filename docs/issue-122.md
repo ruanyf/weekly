@@ -346,7 +346,7 @@ X 公司每年需要向 Y 公司支付很大一笔知识产权许可费用，导
 
 ![](https://www.wangbase.com/blogimg/asset/201908/bg2019082601.jpg)
 
-2018年的本周（第 19 期）：[电影《头号玩家》描绘未来的虚拟世界](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-18.html)
+2018年的本周（第 19 期）：[电影《头号玩家》描绘未来的虚拟世界](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201808/bg2018082401.jpg)
 
