@@ -34,6 +34,7 @@ $ grep -nri css docs | cat --number
 
 **八月**
 
+- 第 122 期：[谈谈互联网公司的高估值](docs/issue-122.md)
 - 第 121 期：[为什么人类没有越来越闲？](docs/issue-121.md)
 - 第 120 期：[只有开放才能打败封锁](docs/issue-120.md)
 - 第 119 期：[降雨量和保险博弈](docs/issue-119.md)
@@ -122,7 +123,7 @@ $ grep -nri css docs | cat --number
 
 **八月**
 
-- [第 71 期](docs/issue-71.md)
+- 第 71 期：[名校毕业，不容易创业](docs/issue-71.md)
 - 第 70 期：[世界进入负利率时代，这意味什么](docs/issue-70.md)
 - 第 69 期：[做得好 vs 做得快](docs/issue-69.md)
 - 第 68 期：[关注能力的成长，胜于关注待遇](docs/issue-68.md)
@@ -212,7 +213,7 @@ $ grep -nri css docs | cat --number
 **八月**
 
 - [第 20 期](docs/issue-20.md)
-- [第 19 期](docs/issue-19.md)
+- 第 19 期：[电影《头号玩家》描绘未来的虚拟世界](docs/issue-19.md)
 - 第 18 期：[无人机攻击，难以防范](docs/issue-18.md)
 - 第 17 期：[全球变暖，在劫难逃](docs/issue-17.md)
 - 第 16 期：[科技改变死亡的模式](docs/issue-16.md)
