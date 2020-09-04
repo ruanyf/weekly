@@ -32,6 +32,10 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
+**九月**
+
+- 第 123 期：[互联网公司与湘军的军制](docs/issue-123.md)
+
 **八月**
 
 - 第 122 期：[谈谈互联网公司的高估值](docs/issue-122.md)
@@ -119,7 +123,7 @@ $ grep -nri css docs | cat --number
 - [第 75 期](docs/issue-75.md)
 - [第 74 期](docs/issue-74.md)
 - [第 73 期](docs/issue-73.md)
-- [第 72 期](docs/issue-72.md)
+- 第 72 期：[当代人不再有手稿](docs/issue-72.md)
 
 **八月**
 
@@ -212,7 +216,7 @@ $ grep -nri css docs | cat --number
 
 **八月**
 
-- [第 20 期](docs/issue-20.md)
+- 第 20 期：[不读大学的替代方案](docs/issue-20.md)
 - 第 19 期：[电影《头号玩家》描绘未来的虚拟世界](docs/issue-19.md)
 - 第 18 期：[无人机攻击，难以防范](docs/issue-18.md)
 - 第 17 期：[全球变暖，在劫难逃](docs/issue-17.md)
