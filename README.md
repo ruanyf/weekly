@@ -34,6 +34,7 @@ $ grep -nri css docs | cat --number
 
 **九月**
 
+- 第 124 期：[华为如何考核员工](docs/issue-124.md)
 - 第 123 期：[互联网公司与湘军的军制](docs/issue-123.md)
 
 **八月**
@@ -122,7 +123,7 @@ $ grep -nri css docs | cat --number
 
 - [第 75 期](docs/issue-75.md)
 - [第 74 期](docs/issue-74.md)
-- [第 73 期](docs/issue-73.md)
+- 第 73 期：[数据统计的威力](docs/issue-73.md)
 - 第 72 期：[当代人不再有手稿](docs/issue-72.md)
 
 **八月**
@@ -212,7 +213,7 @@ $ grep -nri css docs | cat --number
 - [第 24 期](docs/issue-24.md)
 - [第 23 期](docs/issue-23.md)
 - [第 22 期](docs/issue-22.md)
-- [第 21 期](docs/issue-21.md)
+- 第 21 期：[人生的水平运动和垂直运动](docs/issue-21.md)
 
 **八月**
 
