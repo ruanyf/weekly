@@ -140,7 +140,7 @@ RISC-V 目前有一些 CPU 的设计实现，比如阿里巴巴旗下半导体�
 
 ![](https://www.wangbase.com/blogimg/asset/202009/bg2020091709.jpg)
 
-> - [泰国国家公园](https://www.washingtonpost.com/travel/2020/09/18/tourist-trash-mail/)一旦发现乱丢垃圾的游客，就会把垃圾寄回它们。
+> - [泰国国家公园](https://www.washingtonpost.com/travel/2020/09/18/tourist-trash-mail/)一旦发现乱丢垃圾的游客，就会把垃圾寄回给他们。
 
 ![](https://www.wangbase.com/blogimg/asset/202009/bg2020092001.jpg)
 
