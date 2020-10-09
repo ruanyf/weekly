@@ -32,6 +32,10 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
+**十月**
+
+- 第 128 期：[这个社会是否正在变成“赛博朋克”？](docs/issue-128.md)
+
 **九月**
 
 - 第 127 期：[未来人人开发软件，几乎没人编码](docs/issue-127.md)
@@ -119,7 +123,7 @@ $ grep -nri css docs | cat --number
 
 - [第 79 期](docs/issue-79.md)
 - [第 78 期](docs/issue-78.md)
-- [第 77 期](docs/issue-77.md)
+- 第 77 期：[韩剧《阿尔布拉罕宫的回忆》](docs/issue-77.md)
 - 第 76 期：[任何爱好都能变成职业，只要你会拍视频](docs/issue-76.md)
 
 **九月**
@@ -209,7 +213,7 @@ $ grep -nri css docs | cat --number
 - [第 28 期](docs/issue-28.md)
 - [第 27 期](docs/issue-27.md)
 - [第 26 期](docs/issue-26.md)
-- [第 25 期](docs/issue-25.md)
+- 第 25 期：[安卓手机十周年的感想](docs/issue-25.md)
 
 **九月**
 
