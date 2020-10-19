@@ -162,11 +162,11 @@ Reddit 用户贴出了一段[4分钟的乘坐视频](https://www.reddit.com/r/wa
 
 Vimium 是 Chrome 浏览器的一个插件，可以只用键盘来操作网页，本文是它的教程。
 
-3、[Unity 游戏开放的基本概念](https://blog.eyas.sh/2020/10/unity-for-engineers-pt1-basic-concepts/)（英文）
+3、[Unity 游戏开发的基本概念](https://blog.eyas.sh/2020/10/unity-for-engineers-pt1-basic-concepts/)（英文）
 
 ![](https://www.wangbase.com/blogimg/asset/202010/bg2020101201.jpg)
 
-Unity 是世界最流行的游戏开放软件之一，本文是它的初学者教程，介绍一些游戏开发的最基本概念，不涉及代码。
+Unity 是世界最流行的游戏开发软件之一，本文是它的初学者教程，介绍一些游戏开发的最基本概念，不涉及代码。
 
 4、[使用 CSS `:: marker` 自定义列表符号](https://web.dev/css-marker-pseudo-element/)（英文）
 
