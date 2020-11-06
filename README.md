@@ -32,6 +32,10 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
+**十一月**
+
+- 第 132 期：[快能力和慢能力](docs/issue-132.md)
+
 **十月**
 
 - 第 131 期：[你的头脑是二值逻辑，还是三值逻辑？](docs/issue-131.md)
@@ -119,7 +123,7 @@ $ grep -nri css docs | cat --number
 - [第 84 期](docs/issue-84.md)
 - [第 83 期](docs/issue-83.md)
 - [第 82 期](docs/issue-82.md)
-- [第 81 期](docs/issue-81.md)
+- 第 81 期：[子辈能大幅超越父辈吗？](docs/issue-81.md)
 - 第 80 期：[企业软件创业，为什么在中国不容易成功？](docs/issue-80.md)
 
 **十月**
@@ -209,7 +213,7 @@ $ grep -nri css docs | cat --number
 - [第 32 期](docs/issue-32.md)
 - [第 31 期](docs/issue-31.md)
 - [第 30 期](docs/issue-30.md)
-- [第 29 期](docs/issue-29.md)
+- 第 29 期：[公司的组织架构，决定了软件的复杂性](docs/issue-29.md)
 
 **十月**
 
