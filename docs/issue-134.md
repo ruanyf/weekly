@@ -221,7 +221,7 @@ StackOverflow 的问答，算是一个小知识吧。手机热点的范围（10�
 
 ![](https://www.wangbase.com/blogimg/asset/202011/bg2020111801.jpg)
 
-华为 5G 的核心技术来自土耳其科学家 Erdal Arikan 的发现，本文是美国《有线》杂志对 Erdal Arikan 的访问记，介绍了背后的情况。文章比较长，但值得一读。
+华为 5G 的核心技术来自土耳其科学家 Erdal Arikan 的发现，本文是美国《连线》杂志对 Erdal Arikan 的访问记，介绍了背后的情况。文章比较长，但值得一读。
 
 7、[广电砸下百亿的CMMB手持电视](https://finance.sina.com.cn/tech/2020-10-12/doc-iivhuipp9118153.shtml)（中文）
 
@@ -405,7 +405,7 @@ X 是你所做的准备，Y 是你遇到的机会。
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=24812391)
 
 5、
- 
+
 1820年，英格兰最著名的外科医生罗伯特·李斯特顿（Robert Liston）创造了一项世界记录，他做了历史上唯一一场死亡率达到300％的手术。
 
 他为一位肌肉坏死的病人截肢，沾过病人血液的手术刀不小心割伤了一位助手，旁边还有一位医师正在观摩手术。由于当时人们不知道细菌的存在，没有消毒意识，几天后，患者、助手、旁观医师相继死亡。
