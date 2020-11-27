@@ -10,7 +10,7 @@
 - [免费音乐](docs/free-music.md)
 - [免费照片](docs/free-photos.md)
 - [免费软件](docs/free-software.md)
-- [谁在招人](https://github.com/ruanyf/weekly/issues/1473)：免费的程序员招聘服务
+- [谁在招人](https://github.com/ruanyf/weekly/issues/1520)：免费的程序员招聘服务
 
 ## 如何搜索
 
@@ -34,6 +34,7 @@ $ grep -nri css docs | cat --number
 
 **十一月**
 
+- 第 135 期：[什么行业适合创业？](docs/issue-135.md)
 - 第 134 期：[未来的游戏业比现在大100倍](docs/issue-134.md)
 - 第 133 期：[贵州变瑞士，有没有可能？](docs/issue-133.md)
 - 第 132 期：[快能力和慢能力](docs/issue-132.md)
@@ -122,7 +123,7 @@ $ grep -nri css docs | cat --number
 
 **十一月**
 
-- [第 84 期](docs/issue-84.md)
+- 第 84 期：[一次性工作招聘，用完你就丢](docs/issue-84.md)
 - 第 83 期：[技术解决不了人类的对立](docs/issue-83.md)
 - 第 82 期：[就业要选发展最快的行业](docs/issue-82.md)
 - 第 81 期：[子辈能大幅超越父辈吗？](docs/issue-81.md)
@@ -154,7 +155,7 @@ $ grep -nri css docs | cat --number
 
 - 第 66 期：[创业不是零和游戏](docs/issue-66.md)
 - 第 65 期：[周刊开设“谁在招人”的招聘服务](docs/issue-65.md)
-- [第 64 期](docs/issue-64.md)：[程序员的退休信号
+- [第 64 期](docs/issue-64.md)
 - [第 63 期](docs/issue-63.md)
 
 **六月**
@@ -212,7 +213,7 @@ $ grep -nri css docs | cat --number
 **十一月**
 
 - [第 33 期](docs/issue-33.md)
-- [第 32 期](docs/issue-32.md)
+- 第 32 期：[砌砖头的三种角度](docs/issue-32.md)
 - 第 31 期：[程序员的退休信号](docs/issue-31.md)
 - 第 30 期：[为什么谷歌做不好社交软件？](docs/issue-30.md)
 - 第 29 期：[公司的组织架构，决定了软件的复杂性](docs/issue-29.md)
