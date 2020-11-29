@@ -171,7 +171,7 @@
 
 一个成功的开源项目，它的维护者可能需要经历九个阶段，第一个阶段是发明家，最后一个阶段是光荣退休。
 
-3、[学校芯片工艺实验室参观记](https://www.coolapk.com/feed/22961813)（中文）
+3、[学校芯片工艺实验室参观记](https://www.coolapk.com/feed/22961813?shareKey=ZmFlODJiZmI1YzRhNWZjMmZhNGU)（中文）
 
 ![](https://www.wangbase.com/blogimg/asset/202011/bg2020112510.jpg)
 
