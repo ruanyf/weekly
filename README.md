@@ -32,6 +32,10 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
+**十二月**
+
+- 第 136 期：[利特伍德奇迹定律](docs/issue-136.md)
+
 **十一月**
 
 - 第 135 期：[什么行业适合创业？](docs/issue-135.md)
@@ -119,7 +123,7 @@ $ grep -nri css docs | cat --number
 - [第 88 期](docs/issue-88.md)
 - [第 87 期](docs/issue-87.md)
 - [第 86 期](docs/issue-86.md)
-- [第 85 期](docs/issue-85.md)
+- 第 85 期：[美国为什么不是乱哄哄？](docs/issue-85.md)
 
 **十一月**
 
@@ -212,7 +216,7 @@ $ grep -nri css docs | cat --number
 
 **十一月**
 
-- [第 33 期](docs/issue-33.md)
+- 第 33 期：[现场投票不如网络投票](docs/issue-33.md)
 - 第 32 期：[砌砖头的三种角度](docs/issue-32.md)
 - 第 31 期：[程序员的退休信号](docs/issue-31.md)
 - 第 30 期：[为什么谷歌做不好社交软件？](docs/issue-30.md)
