@@ -34,6 +34,7 @@ $ grep -nri css docs | cat --number
 
 **十二月**
 
+- 第 137 期：[Slack 被收购，以及企业的技术选型](docs/issue-137.md)
 - 第 136 期：[利特伍德奇迹定律](docs/issue-136.md)
 
 **十一月**
@@ -122,7 +123,7 @@ $ grep -nri css docs | cat --number
 
 - [第 88 期](docs/issue-88.md)
 - [第 87 期](docs/issue-87.md)
-- [第 86 期](docs/issue-86.md)
+- 第 86 期：[千万不要当完美主义者](docs/issue-86.md)
 - 第 85 期：[美国为什么不是乱哄哄？](docs/issue-85.md)
 
 **十一月**
@@ -212,7 +213,7 @@ $ grep -nri css docs | cat --number
 - [第 37 期](docs/issue-37.md)
 - [第 36 期](docs/issue-36.md)
 - [第 35 期](docs/issue-35.md)
-- [第 34 期](docs/issue-34.md)
+- 第 34 期：[身份证的最终解决方案：人体植入芯片](docs/issue-34.md)
 
 **十一月**
 
