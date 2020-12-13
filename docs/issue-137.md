@@ -24,7 +24,7 @@ Slack 是一个非常优秀的团队通信协作软件，如果你没用过，�
 
 ![](https://www.wangbase.com/blogimg/asset/202012/bg2020120808.jpg)
 
-这其实是一件有点奇怪的事情。Slack 的发展势头非常好，疫情期间正流行远程办公，它却在这时选择不当独脚兽了，套现离场，这是为什么？
+这其实是一件有点奇怪的事情。Slack 的发展势头非常好，疫情期间正流行远程办公，它却在这时选择不当独角兽了，套现离场，这是为什么？
 
 [最主要的原因](https://mattstoller.substack.com/p/an-economy-of-godzillas-salesforce)大概是，它有一个强劲的对手 Microsoft Teams。这是微软模仿 Slack 推出的团队协作软件，可以跟 Office 绑在一起使用，Slack 感到极大的竞争压力。
 
