@@ -165,7 +165,7 @@ Web Component 的最大特点就是轻量化，代码量小，不需要加载任
 
 Nature 杂志评出的2020年度10大科学发现，包括压力使得头发变白的机制、首次观察到宇宙中的快速无线电爆发、大气层的臭氧空洞有修复迹象等等。
 
-3、[2020年设计师工具调查报告](https://catonmat.net/programming-competitions-work-performance)（英文）
+3、[2020年设计师工具调查报告](https://uxtools.co/survey-2020/)（英文）
 
 ![](https://www.wangbase.com/blogimg/asset/202012/bg2020121706.jpg)
 
