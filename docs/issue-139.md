@@ -271,15 +271,11 @@ Elixir School 这个英语博客，是学习 Elixir 这门编程语言的首选�
 
 Linkedin 工程团队专门写给新人的 SRE （站点可靠性工程）教程，介绍了一个 DevOps 工程师需要掌握的各种基础知识。
 
-4、[awesome-oss-by-country](https://github.com/slowernews/awesome-oss-by-country)
-
-这个仓库按照国别，收集每个国家 awesome（优秀的）开源项目。
-
-5、[计算机安全培训材料](https://opensecuritytraining.info/Training.html)
+4、[计算机安全培训材料](https://opensecuritytraining.info/Training.html)
 
 该网站提供计算机安全方面完整的英文培训材料，共包含29节课。
 
-6、[免费的 Python 英文书籍](https://www.pythonkitchen.com/legally-free-python-books-list/)
+5、[免费的 Python 英文书籍](https://www.pythonkitchen.com/legally-free-python-books-list/)
 
 本文整理了一张免费书籍清单，都是网上合法的 Python 学习资源，书目相当多。
 
