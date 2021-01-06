@@ -142,7 +142,7 @@ Vue.js 是主流的前端框架，面试前端岗位时，经常会遇到这方�
 
 ## 文章
 
-1、[9天搭建一个座云冈石窟](https://mp.weixin.qq.com/s/vFJkKRsAcSl8kJZDrKrRQw)（中文）
+1、[9天搭建一座云冈石窟](https://mp.weixin.qq.com/s/vFJkKRsAcSl8kJZDrKrRQw)（中文）
 
 ![](https://www.wangbase.com/blogimg/asset/202012/bg2020122606.jpg)
 
