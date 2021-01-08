@@ -187,7 +187,7 @@ SoC 的盛行会带来一个后果，因为它把许多功能集成在一起，�
 
 这是一个程序员学习数学的体会。结论很简单：你不需要懂数学就可以成为一流的程序员，但是通过学习数学，可以了解更多解决问题的方法。
 
-8、[移动优先为什么是一个坏主意？](https://planflow.dev/blog/why-mobile-first-is-a-bad-idea)（英文）
+8、[移动优先为什么是一个坏主意？](https://web.archive.org/web/20201228005247if_/https://planflow.dev/blog/why-mobile-first-is-a-bad-idea)（英文）
 
 ![](https://www.wangbase.com/blogimg/asset/202012/bg2020122808.jpg)
 
