@@ -10,7 +10,7 @@
 - [免费音乐](docs/free-music.md)
 - [免费照片](docs/free-photos.md)
 - [免费软件](docs/free-software.md)
-- [谁在招人](https://github.com/ruanyf/weekly/issues/1520)：免费的程序员招聘服务
+- [谁在招人](https://github.com/ruanyf/weekly/issues/1580)：免费的程序员招聘服务
 
 ## 如何搜索
 
@@ -30,10 +30,17 @@ $ grep -nri [搜索词] docs | cat --number
 $ grep -nri css docs | cat --number
 ```
 
+## 2021
+
+**一月**
+
+- 第 141 期：[封闭系统的胜利](docs/issue-141.md)
+
 ## 2020
 
 **十二月**
 
+- 第 140 期：[印度人的工资是多少？](docs/issue-140.md)
 - 第 139 期：[生物学的可怕进展](docs/issue-139.md)
 - 第 138 期：[失业难以避免，重构人生规划](docs/issue-138.md)
 - 第 137 期：[Slack 被收购，以及企业的技术选型](docs/issue-137.md)
@@ -116,8 +123,8 @@ $ grep -nri css docs | cat --number
 
 - [第 92 期](docs/issue-92.md)
 - [第 91 期](docs/issue-91.md)
-- [第 90 期](docs/issue-90.md)
-- [第 89 期](docs/issue-89.md)
+- 第 90 期：[管人和技术是两种不同的能力](docs/issue-90.md)
+- 第 89 期：[不下雨的地方，不要去卖伞](docs/issue-89.md)
 
 ## 2019
 
@@ -206,13 +213,13 @@ $ grep -nri css docs | cat --number
 - [第 41 期](docs/issue-41.md)
 - [第 40 期](docs/issue-40.md)
 - [第 39 期](docs/issue-39.md)
-- [第 38 期](docs/issue-38.md)
+- 第 38 期：[使用越方便，技术实现越复杂](docs/issue-38.md)
 
 ## 2018
 
 **十二月**
 
-- [第 37 期](docs/issue-37.md)
+- 第 37 期：[小说家的时代，永远地过去了](docs/issue-37.md)
 - 第 36 期：[程序员将来会不会过剩？](docs/issue-36.md)
 - 第 35 期：[“一人份”的服务越来越多](docs/issue-35.md)
 - 第 34 期：[身份证的最终解决方案：人体植入芯片](docs/issue-34.md)
