@@ -34,6 +34,7 @@ $ grep -nri css docs | cat --number
 
 **一月**
 
+- 第 142 期：[2020年才是21世纪元年](docs/issue-142.md)
 - 第 141 期：[封闭系统的胜利](docs/issue-141.md)
 
 ## 2020
@@ -122,7 +123,7 @@ $ grep -nri css docs | cat --number
 **一月**
 
 - [第 92 期](docs/issue-92.md)
-- [第 91 期](docs/issue-91.md)
+- 第 91 期：[印度孟买的房价，为什么跟北京一样高？](docs/issue-91.md)
 - 第 90 期：[管人和技术是两种不同的能力](docs/issue-90.md)
 - 第 89 期：[不下雨的地方，不要去卖伞](docs/issue-89.md)
 
@@ -212,7 +213,7 @@ $ grep -nri css docs | cat --number
 
 - [第 41 期](docs/issue-41.md)
 - [第 40 期](docs/issue-40.md)
-- [第 39 期](docs/issue-39.md)
+- 第 39 期：[苹果公司的两封公开信](docs/issue-39.md)
 - 第 38 期：[使用越方便，技术实现越复杂](docs/issue-38.md)
 
 ## 2018
