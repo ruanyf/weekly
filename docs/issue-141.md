@@ -430,11 +430,11 @@ OpenAI 公司又推出了一个神奇的软件 DALL-E，可以根据文字描述
 
 ## 回顾
 
-2019年的本周（第 90 期）：[管人和技术是两种不同的能力](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)
+2020年的本周（第 90 期）：[管人和技术是两种不同的能力](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019120604.jpg)
 
-2018年的本周（第 38 期）：[使用越方便，技术实现越复杂](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)
+2019年的本周（第 38 期）：[使用越方便，技术实现越复杂](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201901/bg2019010401.jpg)
 
