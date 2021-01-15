@@ -318,7 +318,7 @@ Cloudflare Worker 是一个 Serverless 服务，可以使用很简单的代码�
 
 ## 文摘
 
-1、[团队主管应该写代码吗？](https://avoidboringpeople.substack.com/p/a-story-is-a-lie-and-a-story-is-true)
+1、[团队主管应该写代码吗？](https://nngorok.com/managers-should-code-but-not-at-work)
 
 技术团队的主管应该写代码吗？
 
@@ -334,7 +334,7 @@ Cloudflare Worker 是一个 Serverless 服务，可以使用很简单的代码�
 
 我真的很想念编码，想念从构建事物、定位和修复 Bug 中获得的成就感。我还意识到，我参与编码，就会与团队产生更多的联系。
 
-但我也明白，一旦参与编码，我就很难切换注意力，我的关注点无法在编码和会议之间及时切换。我的结论是，管理者与程序员的角色无法合一，最终来说，你自己需要明确选择，到底完全专注于会议还是代码。
+但我也明白，一旦参与编码，我就很难切换注意力，我的关注点无法在编码和会议之间及时切换。我的结论是，管理者与程序员的角色无法合一，解决方法可能是你在业余时间坚持编码，工作时间专心管理。
 
 2、[故事的形状](https://avoidboringpeople.substack.com/p/a-story-is-a-lie-and-a-story-is-true)
 
