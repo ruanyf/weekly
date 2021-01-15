@@ -400,11 +400,11 @@ Cloudflare Worker 是一个 Serverless 服务，可以使用很简单的代码�
 
 ## 回顾
 
-2019年的本周（第 91 期）：[印度孟买的房价，为什么跟北京一样高？](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)
+2020年的本周（第 91 期）：[印度孟买的房价，为什么跟北京一样高？](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019120910.jpg)
 
-2018年的本周（第 39 期）：[苹果公司的两封公开信](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)
+2019年的本周（第 39 期）：[苹果公司的两封公开信](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201901/bg2019011101.jpg)
 
