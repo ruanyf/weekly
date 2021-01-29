@@ -4,13 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-## 实用信息
-
-- [免费电子书](https://github.com/ruanyf/free-books)
-- [免费音乐](docs/free-music.md)
-- [免费照片](docs/free-photos.md)
-- [免费软件](docs/free-software.md)
-- [谁在招人](https://github.com/ruanyf/weekly/issues/1580)：免费的程序员招聘服务
+讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1580)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -34,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **一月**
 
+- 第 144 期：[提高收入的根本途径](docs/issue-144.md)
 - 第 143 期：[世界尽头与冷酷仙境](docs/issue-143.md)
 - 第 142 期：[2020年才是21世纪元年](docs/issue-142.md)
 - 第 141 期：[封闭系统的胜利](docs/issue-141.md)
@@ -119,7 +114,7 @@ $ grep -nri css docs | cat --number
 - [第 96 期](docs/issue-96.md)
 - [第 95 期](docs/issue-95.md)
 - [第 94 期](docs/issue-94.md)
-- [第 93 期](docs/issue-93.md)
+- 第 93 期：[漫游类的游戏，将会越来越多](docs/issue-93.md)
 
 **一月**
 
@@ -212,7 +207,7 @@ $ grep -nri css docs | cat --number
 
 **一月**
 
-- [第 41 期](docs/issue-41.md)
+- 第 41 期：[如何看待互联网公司裁员？](docs/issue-41.md)
 - 第 40 期：[手动咖啡不属于电子时代](docs/issue-40.md)
 - 第 39 期：[苹果公司的两封公开信](docs/issue-39.md)
 - 第 38 期：[使用越方便，技术实现越复杂](docs/issue-38.md)
