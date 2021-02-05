@@ -26,6 +26,10 @@ $ grep -nri css docs | cat --number
 
 ## 2021
 
+**二月**
+
+- 第 145 期：[大家不出门，经济怎么办？](docs/issue-145.md)
+
 **一月**
 
 - 第 144 期：[提高收入的根本途径](docs/issue-144.md)
@@ -113,7 +117,7 @@ $ grep -nri css docs | cat --number
 
 - [第 96 期](docs/issue-96.md)
 - [第 95 期](docs/issue-95.md)
-- [第 94 期](docs/issue-94.md)
+- 第 94 期：[既懂得制造，又懂得销售](docs/issue-94.md)
 - 第 93 期：[漫游类的游戏，将会越来越多](docs/issue-93.md)
 
 **一月**
@@ -203,7 +207,7 @@ $ grep -nri css docs | cat --number
 
 - [第 44 期](docs/issue-44.md)
 - [第 43 期](docs/issue-43.md)
-- [第 42 期](docs/issue-42.md)
+- 第 42 期：[什么领域，你可以做到出类拔萃？](docs/issue-42.md)
 
 **一月**
 
