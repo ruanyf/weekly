@@ -1,6 +1,6 @@
 # Web 工具
 
-9、[SVGOMG](https://jakearchibald.github.io/svgomg/)
+1、[SVGOMG](https://jakearchibald.github.io/svgomg/)
 
 一个在线工具，用来压缩 SVG 图像文件。
 
@@ -13,3 +13,10 @@
 1、[Nucleo](https://nucleoapp.com/)
 
 一个收费的图标库。
+
+1、[Remark42](https://github.com/umputun/remark42)
+
+![](https://www.wangbase.com/blogimg/asset/202102/bg2021020710.jpg)
+
+一个开源的、可以自己搭建的网站留言服务。
+
