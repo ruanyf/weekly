@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **二月**
 
+- 第 147 期：[寻找你愿意忍受的痛苦](docs/issue-147.md)
 - 第 146 期：[网课应该怎么上？](docs/issue-146.md)
 - 第 145 期：[大家不出门，经济怎么办？](docs/issue-145.md)
 
@@ -116,7 +117,7 @@ $ grep -nri css docs | cat --number
 
 **二月**
 
-- [第 96 期](docs/issue-96.md)
+- 第 96 期：[在线教育不等于录制视频](docs/issue-96.md)
 - 第 95 期：[远程办公暴露冗余岗位](docs/issue-95.md)
 - 第 94 期：[既懂得制造，又懂得销售](docs/issue-94.md)
 - 第 93 期：[漫游类的游戏，将会越来越多](docs/issue-93.md)
@@ -206,7 +207,7 @@ $ grep -nri css docs | cat --number
 
 **二月**
 
-- [第 44 期](docs/issue-44.md)
+- 第 44 期：[高校“唯论文”导向的后果](docs/issue-44.md)
 - 第 43 期：[一篇好玩的论文](docs/issue-43.md)
 - 第 42 期：[什么领域，你可以做到出类拔萃？](docs/issue-42.md)
 
