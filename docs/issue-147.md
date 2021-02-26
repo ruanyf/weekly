@@ -269,7 +269,7 @@ VS Code 编辑器的插件，内置了各种英语单词的词库，供用户做
 
 这个网站收集以学习为目的各种实战教程（比如自己动手写数据库、编译器等等），按照计算机语言进行分类，帮助读者快速查找可以自己动手做的简单项目。
 
-4、[Youtube 计算机科学课程资源](https://laconicml.com/computer-science-curriculum-youtube-videos/)
+4、[Youtube 计算机科学课程资源](https://web.archive.org/web/20210210143025/https://laconicml.com/computer-science-curriculum-youtube-videos/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021105.jpg)
 
