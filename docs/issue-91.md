@@ -164,7 +164,7 @@
 
 ## 文章
 
-1、[我的创业产品如何被2.2万美元收购？](https://mohddanish.me/my-bootstrapped-micro-startup-got-acquired-for-usd22k-10)（英文）
+1、[我的创业产品如何被2.2万美元收购？](https://mohddanish.me/blog/micro-startup-acquired)（英文）
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019121233.jpg)
 
