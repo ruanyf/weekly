@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1652)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1709)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -25,6 +25,10 @@ $ grep -nri css docs | cat --number
 ```
 
 ## 2021
+
+**四月**
+
+- 第 152 期：[从北大到技校](docs/issue-152.md)
 
 **三月**
 
@@ -113,7 +117,7 @@ $ grep -nri css docs | cat --number
 - [第 104 期](docs/issue-104.md)
 - [第 103 期](docs/issue-103.md)
 - [第 102 期](docs/issue-102.md)
-- [第 101 期](docs/issue-101.md)
+- 第 101 期：[互联网不再稀缺](docs/issue-101.md)
 
 **三月**
 
@@ -206,7 +210,7 @@ $ grep -nri css docs | cat --number
 
 **三月**
 
-- [第 49 期](docs/issue-49.md)
+- 第 49 期：[学会有所不为](docs/issue-49.md)
 - 第 48 期：[著名程序员 Bill Joy 的人生启示](docs/issue-48.md)
 - 第 47 期：[吃播算不算正式工作？](docs/issue-47.md)
 - 第 46 期：[推荐算法的副作用](docs/issue-46.md)
