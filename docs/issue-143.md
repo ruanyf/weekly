@@ -204,8 +204,6 @@ MacBook 用作开发笔记本时，长期下来，大量空间会被占用。本
 
 3、[在线视频片段合并](https://slowapi.com/merge-videos-files/)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021011910.jpg)
-
 很多在线视频都是许多 .ts 文件组成的，这个在线工具可以输入 .ts 文件的网址，然后将它们合并。（[@DoctorLai](https://github.com/ruanyf/weekly/issues/1596) 投稿）
 
 4、[Cavepaint CSS](https://cavepaint.github.io/cavepaintcss/)
