@@ -296,14 +296,6 @@ C 语言的详细教程（英文的），免费在线阅读。
 
 它非常小，直径只有500公里，相当于月球的七分之一。冰层厚达20公里，下面的海洋有30公里深，含水量是地球海洋的好几倍（地球海洋的平均深度为3.6公里）。由于底部的海洋没冻，因此它一定有一个热核。
 
-2、[书房工位](https://www.douban.com/people/158876560/status/3372380058/)
-
-一位女写稿人，贴出了自己书桌的照片。“因为是写稿人，所以书房算是我的工位。”
-
-看惯了程序员的电脑桌，觉得很不一样。更多图片请访问原始链接。
-
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041901.jpg)
-
 ## 文摘
 
 1、[巨型集装箱船](https://www.bloomberg.com/opinion/articles/2021-03-29/despite-the-ever-given-getting-stuck-in-the-suez-canal-ships-will-get-bigger)
