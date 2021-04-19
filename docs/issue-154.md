@@ -300,13 +300,9 @@ C 语言的详细教程（英文的），免费在线阅读。
 
 一位女写稿人，贴出了自己书桌的照片。“因为是写稿人，所以书房算是我的工位。”
 
-看惯了程序员的电脑桌，觉得很不一样。
+看惯了程序员的电脑桌，觉得很不一样。更多图片请访问原始链接。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041117.jpg)
-
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041118.jpg)
-
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041119.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041901.jpg)
 
 ## 文摘
 
