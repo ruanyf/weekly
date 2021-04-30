@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
+- 第 156 期：[显卡缺货与异业竞争](docs/issue-156.md)
 - 第 155 期：[数字货币是打破美元霸权的武器吗？](docs/issue-155.md)
 - 第 154 期：[1982年的信息社会预言](docs/issue-154.md)
 - 第 153 期：[机器翻译是对译者的侮辱吗？](docs/issue-153.md)
@@ -116,7 +117,7 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
-- [第 105 期](docs/issue-105.md)
+- 第 105 期：[线上行业会赢](docs/issue-105.md)
 - 第 104 期：[语音合成的用途](docs/issue-104.md)
 - 第 103 期：[信息的半衰期](docs/issue-103.md)
 - 第 102 期：[工作热情从何而来？](docs/issue-102.md)
@@ -206,7 +207,7 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
-- [第 53 期](docs/issue-53.md)
+- 第 53 期：[DNA 相亲会](docs/issue-53.md)
 - 第 52 期：[人脸识别与课堂监控](docs/issue-52.md)
 - 第 51 期：[为什么过去10年，笔记本硬件发展缓慢？](docs/issue-51.md)
 - 第 50 期：["时间换收入"是一个陷阱](docs/issue-50.md)
@@ -295,6 +296,6 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
-- [第 2 期](docs/issue-2.md)
+- 第 2 期：[为什么写周刊？](docs/issue-2.md)
 - 第 1 期：[创刊号](docs/issue-1.md)
 
