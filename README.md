@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1709)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1747)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -25,6 +25,10 @@ $ grep -nri css docs | cat --number
 ```
 
 ## 2021
+
+**五月**
+
+- 第 157 期：[KK 给年轻人的建议](docs/issue-157.md)
 
 **四月**
 
@@ -203,7 +207,7 @@ $ grep -nri css docs | cat --number
 - [第 57 期](docs/issue-57.md)
 - [第 56 期](docs/issue-56.md)
 - [第 55 期](docs/issue-55.md)
-- [第 54 期](docs/issue-54.md)
+- 第 54 期：[可扩展性最好的活动](docs/issue-54.md)
 
 **四月**
 
@@ -292,7 +296,7 @@ $ grep -nri css docs | cat --number
 - [第 6 期](docs/issue-6.md)
 - [第 5 期](docs/issue-5.md)
 - [第 4 期](docs/issue-4.md)
-- [第 3 期](docs/issue-3.md)
+- 第 3 期：[周刊的风格](docs/issue-3.md)
 
 **四月**
 
