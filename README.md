@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **五月**
 
+- 第 158 期：[内容渠道的贬值](docs/issue-158.md)
 - 第 157 期：[KK 给年轻人的建议](docs/issue-157.md)
 
 **四月**
@@ -206,7 +207,7 @@ $ grep -nri css docs | cat --number
 - [第 58 期](docs/issue-58.md)
 - [第 57 期](docs/issue-57.md)
 - [第 56 期](docs/issue-56.md)
-- [第 55 期](docs/issue-55.md)
+- 第 55 期：[不是反对 996，而要提倡远程办公](docs/issue-55.md)
 - 第 54 期：[可扩展性最好的活动](docs/issue-54.md)
 
 **四月**
@@ -295,7 +296,7 @@ $ grep -nri css docs | cat --number
 
 - [第 6 期](docs/issue-6.md)
 - [第 5 期](docs/issue-5.md)
-- [第 4 期](docs/issue-4.md)
+- 第 4 期：[马克思研究的问题](docs/issue-4.md)
 - 第 3 期：[周刊的风格](docs/issue-3.md)
 
 **四月**
