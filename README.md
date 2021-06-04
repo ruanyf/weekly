@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1747)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1784)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -25,6 +25,10 @@ $ grep -nri css docs | cat --number
 ```
 
 ## 2021
+
+**六月**
+
+- 第 161 期：[再见了，学术硕士](docs/issue-161.md)
 
 **五月**
 
@@ -206,7 +210,7 @@ $ grep -nri css docs | cat --number
 
 **五月**
 
-- [第 58 期](docs/issue-58.md)
+- 第 58 期：[软件推广可以像化妆品那样吗？](docs/issue-58.md)
 - 第 57 期：[分享知识是否违反人性？](docs/issue-57.md)
 - 第 56 期：[文科生为什么不容易就业？](docs/issue-56.md)
 - 第 55 期：[不是反对 996，而要提倡远程办公](docs/issue-55.md)
@@ -292,7 +296,7 @@ $ grep -nri css docs | cat --number
 - [第 10 期](docs/issue-10.md)
 - [第 9 期](docs/issue-9.md)
 - [第 8 期](docs/issue-8.md)
-- [第 7 期](docs/issue-7.md)
+- 第 7 期：[垃圾填埋不是解决办法](docs/issue-7.md)
 
 **五月**
 
