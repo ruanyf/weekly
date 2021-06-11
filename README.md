@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **六月**
 
+- 第 162 期：[生活就像《吃豆人》游戏](docs/issue-162.md)
 - 第 161 期：[再见了，学术硕士](docs/issue-161.md)
 
 **五月**
@@ -206,7 +207,7 @@ $ grep -nri css docs | cat --number
 - [第 62 期](docs/issue-62.md)
 - [第 61 期](docs/issue-61.md)
 - [第 60 期](docs/issue-60.md)
-- [第 59 期](docs/issue-59.md)
+- 第 59 期：[互联网时代很难交朋友](docs/issue-59.md)
 
 **五月**
 
@@ -295,7 +296,7 @@ $ grep -nri css docs | cat --number
 - [第 11 期](docs/issue-11.md)
 - [第 10 期](docs/issue-10.md)
 - [第 9 期](docs/issue-9.md)
-- [第 8 期](docs/issue-8.md)
+- 第 8 期：[实验室会生产人吗？](docs/issue-8.md)
 - 第 7 期：[垃圾填埋不是解决办法](docs/issue-7.md)
 
 **五月**
