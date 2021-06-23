@@ -28,7 +28,7 @@ $ grep -nri css docs | cat --number
 
 **六月**
 
-- 第 162 期：[你的城市有多少张病床？](docs/issue-163.md)
+- 第 163 期：[你的城市有多少张病床？](docs/issue-163.md)
 - 第 162 期：[生活就像《吃豆人》游戏](docs/issue-162.md)
 - 第 161 期：[再见了，学术硕士](docs/issue-161.md)
 
