@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **六月**
 
+- 第 164 期：[培训班 vs 大学，求职成功率比较](docs/issue-164.md)
 - 第 163 期：[你的城市有多少张病床？](docs/issue-163.md)
 - 第 162 期：[生活就像《吃豆人》游戏](docs/issue-162.md)
 - 第 161 期：[再见了，学术硕士](docs/issue-161.md)
@@ -206,7 +207,7 @@ $ grep -nri css docs | cat --number
 **六月**
 
 - [第 62 期](docs/issue-62.md)
-- [第 61 期](docs/issue-61.md)
+- 第 61 期：[转行前端越来越难](docs/issue-61.md)
 - 第 60 期：[一本介绍人类起源的学术自传](docs/issue-60.md)
 - 第 59 期：[互联网时代很难交朋友](docs/issue-59.md)
 
@@ -295,7 +296,7 @@ $ grep -nri css docs | cat --number
 **六月**
 
 - [第 11 期](docs/issue-11.md)
-- [第 10 期](docs/issue-10.md)
+- 第 10 期：[30岁以后谨慎转行前端](docs/issue-10.md)
 - 第 9 期：[身份证可以植入人体](docs/issue-9.md)
 - 第 8 期：[实验室会生产人吗？](docs/issue-8.md)
 - 第 7 期：[垃圾填埋不是解决办法](docs/issue-7.md)
