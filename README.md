@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1784)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1826)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -25,6 +25,10 @@ $ grep -nri css docs | cat --number
 ```
 
 ## 2021
+
+**七月**
+
+- 第 165 期：[全端 App 的时代](docs/issue-165.md)
 
 **六月**
 
@@ -206,7 +210,7 @@ $ grep -nri css docs | cat --number
 
 **六月**
 
-- [第 62 期](docs/issue-62.md)
+- 第 62 期：[日本电影《编舟记》](docs/issue-62.md)
 - 第 61 期：[转行前端越来越难](docs/issue-61.md)
 - 第 60 期：[一本介绍人类起源的学术自传](docs/issue-60.md)
 - 第 59 期：[互联网时代很难交朋友](docs/issue-59.md)
@@ -295,7 +299,7 @@ $ grep -nri css docs | cat --number
 
 **六月**
 
-- [第 11 期](docs/issue-11.md)
+- 第 11 期：[编程语言越发复杂](docs/issue-11.md)
 - 第 10 期：[30岁以后谨慎转行前端](docs/issue-10.md)
 - 第 9 期：[身份证可以植入人体](docs/issue-9.md)
 - 第 8 期：[实验室会生产人吗？](docs/issue-8.md)
