@@ -246,13 +246,7 @@ SQL 的 select 查询语句有很多组成部分，本文介绍内部执行时�
 
 一个网页画板工具，可以定制笔刷，产生刷油漆的流体效果，非常精美，值得一玩。
 
-8、[Organic Maps](https://organicmaps.app/)
-
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062205.jpg)
-
-一个手机的离线地图 App，面向旅行者、游客、步行者和自行车骑士，专门标识各种小路，比如爬山道路，可以离线使用。
-
-9、[成都市城市轨道交通线网规划](https://github.com/cmoseses/cmoseses.github.io)（2021版）
+8、[成都市城市轨道交通线网规划](https://github.com/cmoseses/cmoseses.github.io)（2021版）
 
 ![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070811.jpg)
 
