@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
+- 第 166 期：[视频学习胜过读书吗？](docs/issue-166.md)
 - 第 165 期：[全端 App 的时代](docs/issue-165.md)
 
 **六月**
@@ -206,7 +207,7 @@ $ grep -nri css docs | cat --number
 - 第 66 期：[创业不是零和游戏](docs/issue-66.md)
 - 第 65 期：[周刊开设“谁在招人”的招聘服务](docs/issue-65.md)
 - [第 64 期](docs/issue-64.md)
-- [第 63 期](docs/issue-63.md)
+- 第 63 期：[互联网市场的集中化趋势](docs/issue-63.md)
 
 **六月**
 
@@ -295,7 +296,7 @@ $ grep -nri css docs | cat --number
 - 第 15 期：[周刊的内容从何而来？](docs/issue-15.md)
 - 第 14 期：[马斯克的人生才是梦想家的人生](docs/issue-14.md)
 - 第 13 期：[周刊为什么只谈技术？](docs/issue-13.md)
-- [第 12 期](docs/issue-12.md)
+- 第 12 期：[人口老龄化，养老金不够](docs/issue-12.md)
 
 **六月**
 
