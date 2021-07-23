@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
+- 第 168 期：[游戏《底特律：变人》](docs/issue-168.md)
 - 第 167 期：[广告拦截器太过分了](docs/issue-167.md)
 - 第 166 期：[视频学习胜过读书吗？](docs/issue-166.md)
 - 第 165 期：[全端 App 的时代](docs/issue-165.md)
