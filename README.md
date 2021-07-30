@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
+- 第 169 期：[五菱汽车的产品设计](docs/issue-169.md)
 - 第 168 期：[游戏《底特律：变人》](docs/issue-168.md)
 - 第 167 期：[广告拦截器太过分了](docs/issue-167.md)
 - 第 166 期：[视频学习胜过读书吗？](docs/issue-166.md)
