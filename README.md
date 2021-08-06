@@ -26,6 +26,10 @@ $ grep -nri css docs | cat --number
 
 ## 2021
 
+**八月**
+
+- 第 170 期：[软件订阅制的胜利](docs/issue-170.md)
+
 **七月**
 
 - 第 169 期：[五菱汽车的产品设计](docs/issue-169.md)
