@@ -317,7 +317,7 @@ CSS 可以通过伪元素向网页添加文本内容，作者做了一个实验�
 
 ## 文摘
 
-1、[开发者为什么放弃自己的开源项目？](https://sambhav.saggis.com/en/blog/2021-06-21-free-software-and-freakonomics)
+1、[开发者为什么放弃自己的开源项目？](https://sambhav.saggis.com/en/blog/free-software-and-freakonomics)
 
 大部分的开源软件，是个人开发者创建的。其中能够长期维护的少之又少，绝大部分项目最终都会被放弃。
 
