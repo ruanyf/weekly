@@ -150,7 +150,7 @@ VQA 技术有着广阔的应用，可以使得图片搜索质量上一个台阶�
 
 6、[DIY 笔记本](https://frame.work/products/laptop-diy-edition)
 
-美国 Framebook 公司推出了世界第一款 DIY 笔记本，用户收到的就是一堆零件，需要自己组装成一台 13.5寸的笔记本电脑。
+美国 Framework 公司推出了世界第一款 DIY 笔记本，用户收到的就是一堆零件，需要自己组装成一台 13.5寸的笔记本电脑。
 
 ![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072404.jpg)
 
