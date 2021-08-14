@@ -108,7 +108,7 @@
 
 3、[本田电动平衡车](https://www.yankodesign.com/2021/07/22/this-self-balancing-honda-electric-scooter-redefines-futuristic-urban-commuting/)
 
-日本摩托车厂商本田公司，推出了全新设计的单轮电动平衡车，令人耳目一新。这种车比摩托车成本更低、更节省空间。
+日本摩托车厂商本田公司，发布了一个概念性的单轮电动平衡车的设计，令人耳目一新。这种车比摩托车成本更低、更节省空间。
 
 ![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072410.jpg)
 
