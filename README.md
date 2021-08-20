@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **八月**
 
+- 第 172 期：[我们会死于气候灾难吗？](docs/issue-172.md)
 - 第 171 期：[云服务流量有多贵？](docs/issue-171.md)
 - 第 170 期：[软件订阅制的胜利](docs/issue-170.md)
 
