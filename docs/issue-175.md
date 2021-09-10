@@ -187,9 +187,9 @@ SpaceX 公司预定在下周三（9月15日），发射一艘宇宙飞船，四�
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082005.jpg)
 
-默认情况下，如果React 父组件重新渲染，它包含的所有子组件都会重新渲染，即使子组件没有任何变化。
+默认情况下，如果 React 父组件重新渲染，它包含的所有子组件都会重新渲染，即使子组件没有任何变化。
 
-React.memo() 方法可以防止子组件不必要渲染，从而提供组件性能。
+React.memo() 方法可以防止子组件不必要的渲染，从而提高组件性能。
 
 4、[CSS 盒状模型的 block 和 inline 之分](https://css-tricks.com/css-logical-properties-and-values/)（英文）
 
