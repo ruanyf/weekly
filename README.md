@@ -28,6 +28,7 @@ $ grep -nri css docs | cat --number
 
 **九月**
 
+- 第 175 期：[知识广度 vs 知识深度](docs/issue-175.md)
 - 第 174 期：[全能程序员 vs 特长程序员](docs/issue-174.md)
 
 **八月**
