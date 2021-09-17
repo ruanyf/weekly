@@ -4,19 +4,15 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-## 实用信息
-
-- [免费电子书](https://github.com/ruanyf/free-books)
-- [免费音乐](docs/free-music.md)
-- [免费照片](docs/free-photos.md)
-- [免费软件](docs/free-software.md)
-- [谁在招人](https://github.com/ruanyf/weekly/issues/1315)：免费的程序员招聘服务
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/1315)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
-1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。（推荐方法）
+周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。
 
-2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
+1、使用 GitHub 自带的网页搜索。
+
+2、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。
 
 3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
 
