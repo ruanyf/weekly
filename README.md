@@ -26,10 +26,91 @@ $ grep -nri [搜索词] docs | cat --number
 $ grep -nri css docs | cat --number
 ```
 
+## 2021
+
+**九月**
+
+- 第 176 期：[中国法院承认 GPL 吗？](docs/issue-176.md)
+- 第 175 期：[知识广度 vs 知识深度](docs/issue-175.md)
+- 第 174 期：[全能程序员 vs 特长程序员](docs/issue-174.md)
+
+**八月**
+
+- 第 173 期：[网络收音机的设计](docs/issue-173.md)
+- 第 172 期：[我们会死于气候灾难吗？](docs/issue-172.md)
+- 第 171 期：[云服务流量有多贵？](docs/issue-171.md)
+- 第 170 期：[软件订阅制的胜利](docs/issue-170.md)
+
+**七月**
+
+- 第 169 期：[五菱汽车的产品设计](docs/issue-169.md)
+- 第 168 期：[游戏《底特律：变人》](docs/issue-168.md)
+- 第 167 期：[广告拦截器太过分了](docs/issue-167.md)
+- 第 166 期：[视频学习胜过读书吗？](docs/issue-166.md)
+- 第 165 期：[全端 App 的时代](docs/issue-165.md)
+
+**六月**
+
+- 第 164 期：[培训班 vs 大学，求职成功率比较](docs/issue-164.md)
+- 第 163 期：[你的城市有多少张病床？](docs/issue-163.md)
+- 第 162 期：[生活就像《吃豆人》游戏](docs/issue-162.md)
+- 第 161 期：[再见了，学术硕士](docs/issue-161.md)
+
+**五月**
+
+- 第 160 期：[中年码农的危机](docs/issue-160.md)
+- 第 159 期：[游戏开发者的年薪](docs/issue-159.md)
+- 第 158 期：[内容渠道的贬值](docs/issue-158.md)
+- 第 157 期：[KK 给年轻人的建议](docs/issue-157.md)
+
+**四月**
+
+- 第 156 期：[显卡缺货与异业竞争](docs/issue-156.md)
+- 第 155 期：[数字货币是打破美元霸权的武器吗？](docs/issue-155.md)
+- 第 154 期：[1982年的信息社会预言](docs/issue-154.md)
+- 第 153 期：[机器翻译是对译者的侮辱吗？](docs/issue-153.md)
+- 第 152 期：[从北大到技校](docs/issue-152.md)
+
+**三月**
+
+- 第 151 期：[NFT 是什么，听说能赚钱](docs/issue-151.md)
+- 第 150 期：[当音乐还是稀缺的时候](docs/issue-150.md)
+- 第 149 期：[新能源汽车，谁会是赢家？](docs/issue-149.md)
+- 第 148 期：[微增长时代](docs/issue-148.md)
+
+**二月**
+
+- 第 147 期：[寻找你愿意忍受的痛苦](docs/issue-147.md)
+- 第 146 期：[网课应该怎么上？](docs/issue-146.md)
+- 第 145 期：[大家不出门，经济怎么办？](docs/issue-145.md)
+
+**一月**
+
+- 第 144 期：[提高收入的根本途径](docs/issue-144.md)
+- 第 143 期：[世界尽头与冷酷仙境](docs/issue-143.md)
+- 第 142 期：[2020年才是21世纪元年](docs/issue-142.md)
+- 第 141 期：[封闭系统的胜利](docs/issue-141.md)
+
 ## 2020
+
+**十二月**
+
+- 第 140 期：[印度人的工资是多少？](docs/issue-140.md)
+- 第 139 期：[生物学的可怕进展](docs/issue-139.md)
+- 第 138 期：[失业难以避免，重构人生规划](docs/issue-138.md)
+- 第 137 期：[Slack 被收购，以及企业的技术选型](docs/issue-137.md)
+- 第 136 期：[利特伍德奇迹定律](docs/issue-136.md)
+
+**十一月**
+
+- 第 135 期：[什么行业适合创业？](docs/issue-135.md)
+- 第 134 期：[未来的游戏业比现在大100倍](docs/issue-134.md)
+- 第 133 期：[贵州变瑞士，有没有可能？](docs/issue-133.md)
+- 第 132 期：[快能力和慢能力](docs/issue-132.md)
 
 **十月**
 
+- 第 131 期：[你的头脑是二值逻辑，还是三值逻辑？](docs/issue-131.md)
 - 第 130 期：[低龄化的互联网](docs/issue-130.md)
 - 第 129 期：[创业的凸函数与凹函数](docs/issue-129.md)
 - 第 128 期：[这个社会是否正在变成“赛博朋克”？](docs/issue-128.md)
@@ -73,49 +154,49 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
-- [第 105 期](docs/issue-105.md)
-- [第 104 期](docs/issue-104.md)
-- [第 103 期](docs/issue-103.md)
-- [第 102 期](docs/issue-102.md)
-- [第 101 期](docs/issue-101.md)
+- 第 105 期：[线上行业会赢](docs/issue-105.md)
+- 第 104 期：[语音合成的用途](docs/issue-104.md)
+- 第 103 期：[信息的半衰期](docs/issue-103.md)
+- 第 102 期：[工作热情从何而来？](docs/issue-102.md)
+- 第 101 期：[互联网不再稀缺](docs/issue-101.md)
 
 **三月**
 
-- [第 100 期](docs/issue-100.md)
-- [第 99 期](docs/issue-99.md)
-- [第 98 期](docs/issue-98.md)
-- [第 97 期](docs/issue-97.md)
+- 第 100 期：[零利率时代](docs/issue-100.md)
+- 第 99 期：[疫情导致的研究生扩招](docs/issue-99.md)
+- 第 98 期：[怎样清晰地表达自己的观点？](docs/issue-98.md)
+- 第 97 期：[那些为了考试拼搏的年轻人](docs/issue-97.md)
 
 **二月**
 
-- [第 96 期](docs/issue-96.md)
-- [第 95 期](docs/issue-95.md)
-- [第 94 期](docs/issue-94.md)
-- [第 93 期](docs/issue-93.md)
+- 第 96 期：[在线教育不等于录制视频](docs/issue-96.md)
+- 第 95 期：[远程办公暴露冗余岗位](docs/issue-95.md)
+- 第 94 期：[既懂得制造，又懂得销售](docs/issue-94.md)
+- 第 93 期：[漫游类的游戏，将会越来越多](docs/issue-93.md)
 
 **一月**
 
-- [第 92 期](docs/issue-92.md)
-- [第 91 期](docs/issue-91.md)
-- [第 90 期](docs/issue-90.md)
-- [第 89 期](docs/issue-89.md)
+- 第 92 期：[听觉暂留](docs/issue-92.md)
+- 第 91 期：[印度孟买的房价，为什么跟北京一样高？](docs/issue-91.md)
+- 第 90 期：[管人和技术是两种不同的能力](docs/issue-90.md)
+- 第 89 期：[不下雨的地方，不要去卖伞](docs/issue-89.md)
 
 ## 2019
 
 **十二月**
 
-- [第 88 期](docs/issue-88.md)
-- [第 87 期](docs/issue-87.md)
-- [第 86 期](docs/issue-86.md)
-- [第 85 期](docs/issue-85.md)
+- 第 88 期：[如果你遇到一条蛇](docs/issue-88.md)
+- 第 87 期：[新人要为团队写文档](docs/issue-87.md)
+- 第 86 期：[千万不要当完美主义者](docs/issue-86.md)
+- 第 85 期：[美国为什么不是乱哄哄？](docs/issue-85.md)
 
 **十一月**
 
-- [第 84 期](docs/issue-84.md)
-- [第 83 期](docs/issue-83.md)
-- [第 82 期](docs/issue-82.md)
-- [第 81 期](docs/issue-81.md)
-- [第 80 期](docs/issue-80.md)
+- 第 84 期：[一次性工作招聘，用完你就丢](docs/issue-84.md)
+- 第 83 期：[技术解决不了人类的对立](docs/issue-83.md)
+- 第 82 期：[就业要选发展最快的行业](docs/issue-82.md)
+- 第 81 期：[子辈能大幅超越父辈吗？](docs/issue-81.md)
+- 第 80 期：[企业软件创业，为什么在中国不容易成功？](docs/issue-80.md)
 
 **十月**
 
@@ -143,72 +224,72 @@ $ grep -nri css docs | cat --number
 
 - 第 66 期：[创业不是零和游戏](docs/issue-66.md)
 - 第 65 期：[周刊开设“谁在招人”的招聘服务](docs/issue-65.md)
-- [第 64 期](docs/issue-64.md)
-- [第 63 期](docs/issue-63.md)
+- 第 64 期：[新人如何进入互联网行业？](docs/issue-64.md)
+- 第 63 期：[互联网市场的集中化趋势](docs/issue-63.md)
 
 **六月**
 
-- [第 62 期](docs/issue-62.md)
-- [第 61 期](docs/issue-61.md)
-- [第 60 期](docs/issue-60.md)
-- [第 59 期](docs/issue-59.md)
+- 第 62 期：[日本电影《编舟记》](docs/issue-62.md)
+- 第 61 期：[转行前端越来越难](docs/issue-61.md)
+- 第 60 期：[一本介绍人类起源的学术自传](docs/issue-60.md)
+- 第 59 期：[互联网时代很难交朋友](docs/issue-59.md)
 
 **五月**
 
-- [第 58 期](docs/issue-58.md)
-- [第 57 期](docs/issue-57.md)
-- [第 56 期](docs/issue-56.md)
-- [第 55 期](docs/issue-55.md)
-- [第 54 期](docs/issue-54.md)
+- 第 58 期：[软件推广可以像化妆品那样吗？](docs/issue-58.md)
+- 第 57 期：[分享知识是否违反人性？](docs/issue-57.md)
+- 第 56 期：[文科生为什么不容易就业？](docs/issue-56.md)
+- 第 55 期：[不是反对 996，而要提倡远程办公](docs/issue-55.md)
+- 第 54 期：[可扩展性最好的活动](docs/issue-54.md)
 
 **四月**
 
-- [第 53 期](docs/issue-53.md)
-- [第 52 期](docs/issue-52.md)
-- [第 51 期](docs/issue-51.md)
-- [第 50 期](docs/issue-50.md)
+- 第 53 期：[DNA 相亲会](docs/issue-53.md)
+- 第 52 期：[人脸识别与课堂监控](docs/issue-52.md)
+- 第 51 期：[为什么过去10年，笔记本硬件发展缓慢？](docs/issue-51.md)
+- 第 50 期：["时间换收入"是一个陷阱](docs/issue-50.md)
 
 **三月**
 
-- [第 49 期](docs/issue-49.md)
-- [第 48 期](docs/issue-48.md)
-- [第 47 期](docs/issue-47.md)
-- [第 46 期](docs/issue-46.md)
-- [第 45 期](docs/issue-45.md)
+- 第 49 期：[学会有所不为](docs/issue-49.md)
+- 第 48 期：[著名程序员 Bill Joy 的人生启示](docs/issue-48.md)
+- 第 47 期：[吃播算不算正式工作？](docs/issue-47.md)
+- 第 46 期：[推荐算法的副作用](docs/issue-46.md)
+- 第 45 期：[阿西莫夫回忆录《人生舞台》](docs/issue-45.md)
 
 **二月**
 
-- [第 44 期](docs/issue-44.md)
-- [第 43 期](docs/issue-43.md)
-- [第 42 期](docs/issue-42.md)
+- 第 44 期：[高校“唯论文”导向的后果](docs/issue-44.md)
+- 第 43 期：[一篇好玩的论文](docs/issue-43.md)
+- 第 42 期：[什么领域，你可以做到出类拔萃？](docs/issue-42.md)
 
 **一月**
 
-- [第 41 期](docs/issue-41.md)
-- [第 40 期](docs/issue-40.md)
-- [第 39 期](docs/issue-39.md)
-- [第 38 期](docs/issue-38.md)
+- 第 41 期：[如何看待互联网公司裁员？](docs/issue-41.md)
+- 第 40 期：[手动咖啡不属于电子时代](docs/issue-40.md)
+- 第 39 期：[苹果公司的两封公开信](docs/issue-39.md)
+- 第 38 期：[使用越方便，技术实现越复杂](docs/issue-38.md)
 
 ## 2018
 
 **十二月**
 
-- [第 37 期](docs/issue-37.md)
-- [第 36 期](docs/issue-36.md)
-- [第 35 期](docs/issue-35.md)
-- [第 34 期](docs/issue-34.md)
+- 第 37 期：[小说家的时代，永远地过去了](docs/issue-37.md)
+- 第 36 期：[程序员将来会不会过剩？](docs/issue-36.md)
+- 第 35 期：[“一人份”的服务越来越多](docs/issue-35.md)
+- 第 34 期：[身份证的最终解决方案：人体植入芯片](docs/issue-34.md)
 
 **十一月**
 
-- [第 33 期](docs/issue-33.md)
-- [第 32 期](docs/issue-32.md)
-- [第 31 期](docs/issue-31.md)
-- [第 30 期](docs/issue-30.md)
-- [第 29 期](docs/issue-29.md)
+- 第 33 期：[现场投票不如网络投票](docs/issue-33.md)
+- 第 32 期：[砌砖头的三种角度](docs/issue-32.md)
+- 第 31 期：[程序员的退休信号](docs/issue-31.md)
+- 第 30 期：[为什么谷歌做不好社交软件？](docs/issue-30.md)
+- 第 29 期：[公司的组织架构，决定了软件的复杂性](docs/issue-29.md)
 
 **十月**
 
-- [第 28 期](docs/issue-28.md)
+- 第 28 期：[软件开发是真正的知识吗？](docs/issue-28.md)
 - 第 27 期：[乔布斯的“热情假设”对不对？](docs/issue-27.md)
 - 第 26 期：[DHH 的新书《工作何必疯狂》](docs/issue-26.md)
 - 第 25 期：[安卓手机十周年的感想](docs/issue-25.md)
@@ -233,25 +314,25 @@ $ grep -nri css docs | cat --number
 - 第 15 期：[周刊的内容从何而来？](docs/issue-15.md)
 - 第 14 期：[马斯克的人生才是梦想家的人生](docs/issue-14.md)
 - 第 13 期：[周刊为什么只谈技术？](docs/issue-13.md)
-- [第 12 期](docs/issue-12.md)
+- 第 12 期：[人口老龄化，养老金不够](docs/issue-12.md)
 
 **六月**
 
-- [第 11 期](docs/issue-11.md)
-- [第 10 期](docs/issue-10.md)
-- [第 9 期](docs/issue-9.md)
-- [第 8 期](docs/issue-8.md)
-- [第 7 期](docs/issue-7.md)
+- 第 11 期：[编程语言越发复杂](docs/issue-11.md)
+- 第 10 期：[30岁以后谨慎转行前端](docs/issue-10.md)
+- 第 9 期：[身份证可以植入人体](docs/issue-9.md)
+- 第 8 期：[实验室会生产人吗？](docs/issue-8.md)
+- 第 7 期：[垃圾填埋不是解决办法](docs/issue-7.md)
 
 **五月**
 
-- [第 6 期](docs/issue-6.md)
-- [第 5 期](docs/issue-5.md)
-- [第 4 期](docs/issue-4.md)
-- [第 3 期](docs/issue-3.md)
+- 第 6 期：[未来还需要苦学外语吗？](docs/issue-6.md)
+- 第 5 期：[互联网时代，做一个好人是划算的](docs/issue-5.md)
+- 第 4 期：[马克思研究的问题](docs/issue-4.md)
+- 第 3 期：[周刊的风格](docs/issue-3.md)
 
 **四月**
 
-- [第 2 期](docs/issue-2.md)
-- [第 1 期](docs/issue-1.md)
+- 第 2 期：[为什么写周刊？](docs/issue-2.md)
+- 第 1 期：[创刊号](docs/issue-1.md)
 
