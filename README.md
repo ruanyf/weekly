@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/1913)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/1980)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -27,6 +27,10 @@ $ grep -nri css docs | cat --number
 ```
 
 ## 2021
+
+**十月**
+
+- 第 178 期：[家庭太阳能发电的春天](docs/issue-178.md)
 
 **九月**
 
