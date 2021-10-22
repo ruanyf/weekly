@@ -30,7 +30,7 @@ $ grep -nri css docs | cat --number
 
 **十月**
 
-- 第 180 期：[AR 技术的打开方式](docs/issue-180.md)
+- 第 180 期：[你想住在中国哪里？](docs/issue-180.md)
 - 第 179 期：[AR 技术的打开方式](docs/issue-179.md)
 - 第 178 期：[家庭太阳能发电的春天](docs/issue-178.md)
 
