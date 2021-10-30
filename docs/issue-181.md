@@ -338,11 +338,11 @@ Libgen 电子书图书馆项目宣布，该项目已经完全做到了去中心�
 
 3、[海平面上升100米](https://ahstat.github.io/Topography/)
 
-现在的世界地图是这样的。
+如果海平面上升100米，世界地图会变成下面这样。
 
 ![](https://cdn.beekka.com/blogimg/asset/202110/bg2021100318.jpg)
 
-如果海平面上升100米，世界地图会变成下面这样。
+如果海平面上升1000米，世界地图会变成下面这样。
 
 ![](https://cdn.beekka.com/blogimg/asset/202110/bg2021100319.jpg)
 
