@@ -4,13 +4,15 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1913)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/1980)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
-1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。（推荐方法）
+周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。
 
-2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
+1、使用 GitHub 自带的网页搜索。
+
+2、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。
 
 3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
 
@@ -26,8 +28,17 @@ $ grep -nri css docs | cat --number
 
 ## 2021
 
+**十月**
+
+- 第 181 期：[移动支付应该怎么设计？](docs/issue-181.md)
+- 第 180 期：[你想住在中国哪里？](docs/issue-180.md)
+- 第 179 期：[AR 技术的打开方式](docs/issue-179.md)
+- 第 178 期：[家庭太阳能发电的春天](docs/issue-178.md)
+
 **九月**
 
+- 第 177 期：[iPad 的真正用途](docs/issue-177.md)
+- 第 176 期：[中国法院承认 GPL 吗？](docs/issue-176.md)
 - 第 175 期：[知识广度 vs 知识深度](docs/issue-175.md)
 - 第 174 期：[全能程序员 vs 特长程序员](docs/issue-174.md)
 
@@ -332,4 +343,3 @@ $ grep -nri css docs | cat --number
 
 - 第 2 期：[为什么写周刊？](docs/issue-2.md)
 - 第 1 期：[创刊号](docs/issue-1.md)
-
