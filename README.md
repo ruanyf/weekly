@@ -155,7 +155,7 @@ $ grep -nri css docs | cat --number
 
 - 第 113 期：[暴力犯罪为什么越来越少？](docs/issue-113.md)
 - 第 112 期：[如何培养领导力](docs/issue-112.md)
-- 第 111 期：[智能电视的误区](docs/issue-111.md)
+- 第 111 期：[智能电视的误区](docs/issue-111.md)  
 - 第 110 期：[如果不能去美国上市](docs/issue-110.md)
 
 **五月**
