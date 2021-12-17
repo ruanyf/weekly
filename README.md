@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **十二月**
 
+- 第 188 期：[音乐是反社交](docs/issue-188.md)
 - 第 187 期：[元宇宙会成功吗](docs/issue-187.md)
 - 第 186 期：[低纬度，高海拔，气候优势](docs/issue-186.md)
 
