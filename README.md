@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/2092)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/2139)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **十二月**
 
+- 第 190 期：[产品化思维](docs/issue-190.md)
 - 第 189 期：[下一个内卷的行业](docs/issue-189.md)
 - 第 188 期：[音乐是反社交](docs/issue-188.md)
 - 第 187 期：[元宇宙会成功吗](docs/issue-187.md)
