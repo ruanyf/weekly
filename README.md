@@ -26,6 +26,12 @@ $ grep -nri [搜索词] docs | cat --number
 $ grep -nri css docs | cat --number
 ```
 
+## 2022
+
+**一月**
+
+- 第 191 期：[一个程序员的财务独立之路](docs/issue-191.md)
+
 ## 2021
 
 **十二月**
