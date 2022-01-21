@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **一月**
 
+- 第 193 期：[前端与后端，谁更难？](docs/issue-193.md)
 - 第 192 期：[最大的机会来自新技术](docs/issue-192.md)
 - 第 191 期：[一个程序员的财务独立之路](docs/issue-191.md)
 
