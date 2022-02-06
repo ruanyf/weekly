@@ -147,7 +147,7 @@
 
 Mocha、Ava、Jest 是目前非常流行的三大 JavaScript 测试框架，本文对它们进行了比较，每个框架最合适的运行场景。
 
-4、[Git 工作流程的图示](https://zepel.io/blog/5-git-workflows-to-improve-development/)（英文）
+4、[Git 工作流程的图示](https://rovitpm.com/5-git-workflows-to-improve-development/)（英文）
 
 ![](https://www.wangbase.com/blogimg/asset/202008/bg2020080309.jpg)
 
