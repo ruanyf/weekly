@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **二月**
 
+- 第 196 期：[掌机的未来](docs/issue-196.md)
 - 第 195 期：[你做过不在乎结果的项目吗？](docs/issue-195.md)
 - 第 194 期：[悲观者正确，乐观者成功](docs/issue-194.md)
 
