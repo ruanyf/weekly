@@ -161,7 +161,7 @@ Node.js 的底层 JS 引擎是 v8，异步库 是 libuv。本文介绍一个小�
 
 6、[如何通过`new Function`创建 async 函数](https://davidwalsh.name/async-function-class)（英文）
 
-JavaScript 语言允许通过`Funtion（）`生成函数，async 函数能通过这种方式生成吗？
+JavaScript 语言允许通过`Function（）`生成函数，async 函数能通过这种方式生成吗？
 
 7、[`Intl.RelativeTimeFormat()`：相对时间格式化](http://www.deathghost.cn/article/javascript/53)（中文）
 

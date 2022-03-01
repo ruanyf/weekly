@@ -165,7 +165,7 @@ awk 是 Unix 命令行处理文本的有用工具，这里是1988年出版的 aw
 
 一个使用 HTML5、CSS、JavaScript 和 Python 开发 Linux 桌面应用的工具。对的，你不需要 Electron。
 
-3、[Asteriod OS](https://asteroidos.org/)
+3、[Asteroid OS](https://asteroidos.org/)
 
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018060818.jpg)
 
