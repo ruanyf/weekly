@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **三月**
 
+- 第 198 期：[美国制造是否可能](docs/issue-198.md)
 - 第 197 期：[如果这个世界有快乐机](docs/issue-197.md)
 
 **二月**
