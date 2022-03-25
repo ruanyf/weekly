@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **三月**
 
+- 第 200 期：[低期望，多尝试](docs/issue-200.md)
 - 第 199 期：[俄罗斯的 HTTPS 证书问题](docs/issue-199.md)
 - 第 198 期：[美国制造是否可能](docs/issue-198.md)
 - 第 197 期：[如果这个世界有快乐机](docs/issue-197.md)
