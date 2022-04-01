@@ -30,7 +30,7 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
-- 第 201 期：[低期望，多尝试](docs/issue-201.md)
+- 第 201 期：[中国需要成立半导体部](docs/issue-201.md)
 
 **三月**
 
