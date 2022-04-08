@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
+- 第 202 期：[三个有启发的学习方法](docs/issue-202.md)
 - 第 201 期：[中国需要成立半导体部](docs/issue-201.md)
 
 **三月**
