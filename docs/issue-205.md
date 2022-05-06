@@ -191,7 +191,7 @@ Create React App 是 React 的官方工具，它的默认打包器是 Webpack，
 
 本文通俗解释了银行转账是怎么回事，从 A 银行向 B 银行汇款是怎么实现的。内容写得不错，但是没有金融基础的同学，本文可能不好懂，需要耐心看。
 
-8、[如何使用 GDB 调试 C 程序](https://felix-knorr.net/blog/using_gdb_directly.html)（英文）
+8、[如何使用 GDB 调试 C 程序](https://felix-knorr.net/posts/2022-02-27-direct-gdb.html)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030308.webp)
 
