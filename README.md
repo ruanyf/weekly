@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 五月
 
+- 第 207 期：[汽车行业的顶峰可能过去了](docs/issue-207.md)
 - 第 206 期：[如何走出失望和怀疑](docs/issue-206.md)
 - 第 205 期：[互联网风口过去了吗？](docs/issue-205.md)
 
