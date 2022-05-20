@@ -14,7 +14,7 @@
 
 ## 本周话题：汽车行业的顶峰可能过去了
 
-4月份的时候，理想汽车的董事长[何小鹏](https://finance.sina.cn/2022-04-14/detail-imcwipii4318205.d.html)说，如果上海和周边的供应链企业一直无法复工，五月份可能中国所有的整车厂都要停工停产了。
+4月份的时候，小鹏汽车的董事长[何小鹏](https://finance.sina.cn/2022-04-14/detail-imcwipii4318205.d.html)说，如果上海和周边的供应链企业一直无法复工，五月份可能中国所有的整车厂都要停工停产了。
 
 ![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051613.webp)
 
