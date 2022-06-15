@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📜 weekly-issues
+    url: https://github.com/ruanyf/weekly/issues
+    about: 推荐项目或文章时请先在issue列表搜索一下是否已有相关的issue并被收录，如果没有，请选择不同类别模板提交issue。
