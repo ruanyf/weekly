@@ -1,5 +1,5 @@
 ---
-name: [开源推荐/开源自荐]
+name: 开源推荐/开源自荐
 about: 如果要推荐自己或他人的开源项目，请点击此模板。
 title: "【开源推荐/开源自荐】xxxxxxxxx"
 labels: ["open-source-recommendation"]

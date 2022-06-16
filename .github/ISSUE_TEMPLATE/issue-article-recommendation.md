@@ -1,5 +1,5 @@
 ---
-name: [文章推荐/文章自荐]
+name: 文章推荐/文章自荐
 about: 如果要推荐自己或他人的优秀文章，请点击此模板。
 title: "【文章推荐/文章自荐】xxxxxxxxx"
 labels: ["article-recommendation"]
