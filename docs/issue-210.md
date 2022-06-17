@@ -191,7 +191,7 @@ LED 球场有很多好处，省去了划线的麻烦，能够快速切换成篮�
 
 本文是一篇详细的教程，教你怎么把图片托管在 Backblaze B2 对象存储，然后连接到 Cloudflare 的 CDN 服务。两者都有免费额度，对于小网站来说，不用花钱就解决了图片的存储和带宽问题。
 
-6、[如何用 iOS 快捷指令防止沉迷？](https://support.apple.com/guide/shortcuts/welcome/ios)（英文）
+6、[如何用 iOS 快捷指令防止沉迷？](https://nick.comer.io/post/ios-shortcuts)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010401.webp)
 
