@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 六月
 
+- 第 211 期：[虚拟商品可以拉动 GDP](docs/issue-211.md)
 - 第 210 期：[为什么软件变得复杂](docs/issue-210.md)
 - 第 209 期：[程序员是怎样的人](docs/issue-209.md)
 
