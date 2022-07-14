@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 七月
 
+- 第 214 期：[你的地图是错的](docs/issue-214.md)
 - 第 213 期：[知识孤岛，知识软件](docs/issue-213.md)
 - 第 212 期：[人生不短](docs/issue-212.md)
 
