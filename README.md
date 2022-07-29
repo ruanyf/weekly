@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 七月
 
+- 第 216 期：[极简主义的胜利](docs/issue-216.md)
 - 第 215 期：[互联网最喜欢的行为模式](docs/issue-215.md)
 - 第 214 期：[你的地图是错的](docs/issue-214.md)
 - 第 213 期：[知识孤岛，知识软件](docs/issue-213.md)
