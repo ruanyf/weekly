@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 八月
 
+- 第 218 期：[葡萄酒，樱花，全球变暖](docs/issue-218.md)
 - 第 217 期：[沙特的新未来城](docs/issue-217.md)
 
 七月
