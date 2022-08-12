@@ -272,7 +272,7 @@ Vuepress 的一个模板库，通过 GitHub Actions，直接构建出一个静�
 
 4、[折纸地球仪](http://joachimesque.com/globe/index.html.en)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053008.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081201.webp)
 
 这个网站提供 A4 的模板下载，打印出来，可以自己粘成地球仪。
 
