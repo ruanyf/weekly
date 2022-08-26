@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 八月
 
+- 第 220 期：[人工智能的机会在哪里](docs/issue-220.md)
 - 第 219 期：[如何防止帐号被黑](docs/issue-219.md)
 - 第 218 期：[葡萄酒，樱花，全球变暖](docs/issue-218.md)
 - 第 217 期：[沙特的新未来城](docs/issue-217.md)
