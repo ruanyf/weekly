@@ -270,7 +270,7 @@ iPhone 手机和 iPad 平板的 Safari 浏览器，可以安装插件。本文�
 
 ## 资源
 
-1、[Stable Diffusion 资源](https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/)
+1、[Stable Diffusion 资源](https://github.com/Maks-s/sd-akashic)
 
 上周的一件大事是 [Stable Diffusion 模型](https://github.com/CompVis/stable-diffusion)发布了。
 
