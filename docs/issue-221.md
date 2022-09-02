@@ -182,7 +182,7 @@ iPhone 手机和 iPad 平板的 Safari 浏览器，可以安装插件。本文�
 
 有一些 URL 的查询字符串用来追踪用户，Firefox 现在可以自动剥离这些查询字符串。结果，Facebook 居然修改了自己的 URL，把查询字符串加密了，让你无法剥离，真是叹为观止。
 
-4、[什么发行版属于 GNU/Linux？](https://ariadne.space/2022/03/30/it-is-correct-to-refer-to-gnu-linux-as-gnu-linux/)（英文）
+4、[什么发行版属于 GNU/Linux？](https://ariadne.space/2022/03/30/it-is-correct-to-refer-to-gnu/linux-as-gnu/linux/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071905.webp)
 
