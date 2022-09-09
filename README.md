@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 九月
 
+- 第 222 期：[四十年编程感想](docs/issue-222.md)
 - 第 221 期：[全世界最繁荣的行业](docs/issue-221.md)
 
 八月
