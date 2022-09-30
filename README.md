@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 九月
 
+- 第 225 期：[游戏 NPC 也是一种职业](docs/issue-225.md)
 - 第 224 期：[Figma 为什么赢了 Sketch](docs/issue-224.md)
 - 第 223 期：[程序员需要担心裁员吗？](docs/issue-223.md)
 - 第 222 期：[四十年编程感想](docs/issue-222.md)
