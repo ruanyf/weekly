@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/2483)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/2666)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索 
 
@@ -27,6 +27,26 @@ $ grep -nri css docs | cat --number
 ```
 
 ## 2022
+
+十月
+
+- 第 227 期：[脸书的公司入职教育](docs/issue-227.md)
+- 第 226 期：[谷歌出了什么问题？](docs/issue-226.md)
+
+九月
+
+- 第 225 期：[游戏 NPC 也是一种职业](docs/issue-225.md)
+- 第 224 期：[Figma 为什么赢了 Sketch](docs/issue-224.md)
+- 第 223 期：[程序员需要担心裁员吗？](docs/issue-223.md)
+- 第 222 期：[四十年编程感想](docs/issue-222.md)
+- 第 221 期：[全世界最繁荣的行业](docs/issue-221.md)
+
+八月
+
+- 第 220 期：[人工智能的机会在哪里](docs/issue-220.md)
+- 第 219 期：[如何防止帐号被黑](docs/issue-219.md)
+- 第 218 期：[葡萄酒，樱花，全球变暖](docs/issue-218.md)
+- 第 217 期：[沙特的新未来城](docs/issue-217.md)
 
 七月
 

@@ -112,7 +112,7 @@ Uber 架构师分享在搭建分布式支付系统过程中，遇到的最重要
 
 ## 工具
 
-1、[Mustard UI](https://mustard-ui.com/)
+1、[Mustard UI](https://kylelogue.github.io/mustard-ui/)
 
 ![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042811.png)
 
