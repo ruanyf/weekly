@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 十月
 
+- 第 228 期：[人类和人生的意义](docs/issue-228.md)
 - 第 227 期：[脸书的公司入职教育](docs/issue-227.md)
 - 第 226 期：[谷歌出了什么问题？](docs/issue-226.md)
 
