@@ -272,11 +272,7 @@ C/C++ 的单元测试框架。
 
 一个安卓应用，内置 SSH 客户端，可以登陆服务器，以图形展示服务器的实时状态。
 
-10、[craiyon](https://www.craiyon.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102707.webp)
-
-开源 AI 绘图引擎 [DALL·E mini](https://github.com/borisdayma/dalle-mini) 改名后的样子，根据文本生成图像，免费使用。特点是速度比较快（不超过2分钟），效果也不错。
 
 ## 资源
 
