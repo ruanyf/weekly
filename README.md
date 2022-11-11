@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 十一月
 
+- 第 230 期：[电子产品的用电量](docs/issue-230.md)
 - 第 229 期：[手机充电问题的解决](docs/issue-229.md)
 
 十月
