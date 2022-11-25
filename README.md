@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 十一月
 
+- 第 232 期：[好用的平面设计软件](docs/issue-232.md)
 - 第 231 期：[互联网公司需要多少员工？](docs/issue-231.md)
 - 第 230 期：[电子产品的用电量](docs/issue-230.md)
 - 第 229 期：[手机充电问题的解决](docs/issue-229.md)
