@@ -28,6 +28,10 @@ $ grep -nri css docs | cat --number
 
 ## 2022
 
+十二月
+
+- 第 233 期：[生活就像一个鱼缸](docs/issue-233.md)
+
 十一月
 
 - 第 232 期：[好用的平面设计软件](docs/issue-232.md)
