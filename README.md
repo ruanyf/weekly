@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 十二月
 
+- 第 236 期：[中国的阳光地带](docs/issue-236.md)
 - 第 235 期：[青年失业率与选择创业](docs/issue-235.md)
 - 第 234 期：[AI 聊天有多强](docs/issue-234.md)
 - 第 233 期：[生活就像一个鱼缸](docs/issue-233.md)
