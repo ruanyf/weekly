@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 一月
 
+- 第 239 期：[未来两种人会增加](docs/issue-239.md)
 - 第 238 期：[停止寻找的最佳时间](docs/issue-238.md)
 
 ## 2022
