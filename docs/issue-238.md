@@ -132,7 +132,7 @@ C 语言分配内存空间有两个方法：malloc() 和 calloc()。一般认为
 
 3、[BeOS 系统的故事](https://www.abortretry.fail/p/be-is-nice-end-of-story)（英文）
 
-1996年，苹果公司频临破产，决定收购一个外部系统，作为自己的操作系统。当时有两个候选者：BeOS 和 NeXT，都是苹果前员工创建的。
+1996年，苹果公司濒临破产，决定收购一个外部系统，作为自己的操作系统。当时有两个候选者：BeOS 和 NeXT，都是苹果前员工创建的。
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111603.webp)
 
