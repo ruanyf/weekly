@@ -140,7 +140,7 @@
 
 如果不使用 XML 作为数据传递的格式，应该使用什么格式？答案是 S 表达式。
 
-4、[提交信息的规范](https://www.conventionalcommits.org/zh-cn/v1.0.0-beta.4/)（中文）
+4、[提交信息的规范](https://www.conventionalcommits.org/zh-hans/v1.0.0)（中文）
 
 代码仓库的提交信息应该怎么写，这份规范标准可以参考。
 
