@@ -139,7 +139,7 @@ Flutter 开发的一个简单教程。
 
 本文介绍 GraphQL 的概念和优点，演示如何用 Express.js 搭建一个 GraphQL 后端。
 
-8、[HTML 网页的 head 元素 指南](https://gethead.info/)（英文）
+8、[HTML 网页的 head 元素 指南](https://htmlhead.dev/)（英文）
 
 网页的 `<head>` 元素可以放置很多东西，本文列出了其中一些主要的内容，可以当作参考手册。
 
