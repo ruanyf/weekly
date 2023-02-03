@@ -28,7 +28,11 @@ $ grep -nri css docs | cat --number
 
 ## 2023
 
-一月
+**二月**
+
+- 第 240 期：[教育年限可以缩短吗？](docs/issue-240.md)
+
+**一月**
 
 - 第 239 期：[未来两种人会增加](docs/issue-239.md)
 - 第 238 期：[停止寻找的最佳时间](docs/issue-238.md)
