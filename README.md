@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **三月**
 
+- 第 247 期：[扎克伯克的裁员信](docs/issue-247.md)
 - 第 246 期：[永不丢失的网络身份](docs/issue-246.md)
 - 第 245 期：[摩天大楼是反人类的](docs/issue-245.md)
 - 第 244 期：[大数据已死](docs/issue-244.md)
