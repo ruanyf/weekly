@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/2960)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3022)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索 
 
@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **三月**
 
+- 第 248 期：[不要夸大 ChatGPT](docs/issue-248.md)
 - 第 247 期：[扎克伯克的裁员信](docs/issue-247.md)
 - 第 246 期：[永不丢失的网络身份](docs/issue-246.md)
 - 第 245 期：[摩天大楼是反人类的](docs/issue-245.md)
