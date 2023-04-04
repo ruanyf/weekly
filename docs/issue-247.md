@@ -160,7 +160,7 @@ Stripe 公司前首席运营官克莱尔写了一篇文章，告诉新同事怎�
 
 5、[网页元素的 fetchpriority 属性](https://imkev.dev/fetchpriority-opportunity)（英文）
 
-HTML 网页种，`<img>`、`<link>`、`<script>`和`<iframe>`等元素可以设置`fetchpriority`属性，本文介绍该属性。
+HTML 网页中，`<img>`、`<link>`、`<script>`和`<iframe>`等元素可以设置`fetchpriority`属性，本文介绍该属性。
 
 6、[如何零基础完成 SketchUp 建筑渲染](https://www.strongtowns.org/journal/2017/8/29/a-simple-guide-to-architectural-rendering)（英文）
 
