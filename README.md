@@ -28,6 +28,10 @@ $ grep -nri css docs | cat --number
 
 ## 2023
 
+**四月**
+
+- 第 249 期：[最成功的软件企业家](docs/issue-249.md)
+
 **三月**
 
 - 第 248 期：[不要夸大 ChatGPT](docs/issue-248.md)
