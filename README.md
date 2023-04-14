@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
+- 第 250 期：[新技术的最大风险](docs/issue-250.md)
 - 第 249 期：[最成功的软件企业家](docs/issue-249.md)
 
 **三月**
