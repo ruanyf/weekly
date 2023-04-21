@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
+- 第 251 期：[国产单板机值得推荐](docs/issue-251.md)
 - 第 250 期：[新技术的最大风险](docs/issue-250.md)
 - 第 249 期：[最成功的软件企业家](docs/issue-249.md)
 
