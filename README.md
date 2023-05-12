@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **五月**
 
+- 第 254 期：[人生是一个长板问题](docs/issue-254.md)
 - 第 253 期：[训练材料用完之日](docs/issue-253.md)
 
 **四月**
