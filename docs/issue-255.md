@@ -140,7 +140,7 @@ AI 模型可以生成一模一样的声音，很多名人不允许 AI 使用自�
 
 Bun.js 是 Node.js 的替代品，最近内置了打包器，号称比 Webpack、Esbuild 都要快。
 
-5、[数据库分片是怎么回事](https://www.vox.com/money/2023/3/23/23649926/argentina-economy-explained-dollar-blue-inflation)（英文）
+5、[数据库分片是怎么回事](https://planetscale.com/blog/how-does-database-sharding-work)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040703.webp)
 
