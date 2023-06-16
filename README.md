@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **六月**
 
+- 第 259 期：[如何免费使用 ChatGPT](docs/issue-259.md)
 - 第 258 期：[卡马克的猫](docs/issue-258.md)
 - 第 257 期：[黄仁勋的 Nvidia 故事](docs/issue-257.md)
 
