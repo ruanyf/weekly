@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3157)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3222)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索 
 
@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **六月**
 
+- 第 260 期：[你的旅程不会停在 Day 1](docs/issue-260.md)
 - 第 259 期：[如何免费使用 ChatGPT](docs/issue-259.md)
 - 第 258 期：[卡马克的猫](docs/issue-258.md)
 - 第 257 期：[黄仁勋的 Nvidia 故事](docs/issue-257.md)
