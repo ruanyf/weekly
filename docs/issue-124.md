@@ -164,7 +164,7 @@ Chrome 浏览器提供的 Web API 非常多，本文介绍其中10个。
 
 MongoDB 是现在最流行的 NoSQL 数据库，本文详尽介绍了它的历史，以及早期的设计决定。
 
-8、[55K 月用户的 Web 应用成本](https://keepthescore.co/blog/posts/costs-of-running-webapp/)（英文）
+8、[55K 月用户的 Web 应用成本](https://casparwre.de/blog/cost-of-running-webapp/)（英文）
 
 作者维护着一个 Python flask 应用，每月有5.5万访问者。本文总结了他每月花在这个网站上的账单。
 
