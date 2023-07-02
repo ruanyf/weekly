@@ -102,7 +102,7 @@ Rust 语言入门教程
 
 Uber 架构师分享在搭建分布式支付系统过程中，遇到的最重要的几个概念：SLA、scaling、Consistency、Durability、Idempotency等。
 
-8、[电子书] [解谜计算机科学](http://www.yinwang.org/blog-cn/2018/04/13/csbook-chapter1)
+8、[电子书] [解谜计算机科学](http://www.yinwang.org/blog-cn/2018/04/13/computer-science)
 
 王垠正在写的新书，目前只公布了第一章。
 
@@ -154,7 +154,7 @@ ReactOS 是一个开源的操作系统，目标是兼容 Windows，能够运行 
 
 > 全世界网游市场排名是：中国、美国、日本、其他国家。第四到第十的市场全部加起来还没有日本大，而中国占了整个市场的三成到四成。我们的游戏在日本排第一，它的一天收入只是中国的十分之一。
 
-2、[黑产和大数据风控之间的攻守之战](https://xw.qq.com/cmsid/20180413A1LJBD)
+2、[黑产和大数据风控之间的攻守之战](https://zhuanlan.zhihu.com/p/35688597)
 
 ![641.jpeg | center | 406x371](https://cdn.yuque.com/yuque/2018/jpeg/84141/1523843579567-237452d2-2b56-4b37-89d4-84373cfe956c.jpeg "")
 
