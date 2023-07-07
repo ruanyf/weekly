@@ -28,6 +28,10 @@ $ grep -nri css docs | cat --number
 
 ## 2023
 
+**七月**
+
+- 第 261 期：[黑客马拉松的正确方式](docs/issue-261.md)
+
 **六月**
 
 - 第 260 期：[你的旅程不会停在 Day 1](docs/issue-260.md)
