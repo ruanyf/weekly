@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
+- 第 262 期：[告别密码](docs/issue-262.md)
 - 第 261 期：[黑客马拉松的正确方式](docs/issue-261.md)
 
 **六月**
