@@ -64,9 +64,9 @@ Passkey 这个方案可以做到，登录不需要密码，解决了上面提到
 
 Passkey 是一个很复杂的协议，上面我说的只是它的核心思路，也不知道说清楚了没有。但是，**对于用户来说，它是很简单的**，就是按一下指纹，或者扫一下人脸，就登录网站了。至于密码，忘了它吧。
 
-我预测，再过一两年，等过这个协议的封装库和框架出台，它就会迅速流行，大大减少密码的使用。
+我预测，再过一两年，等到这个协议的封装库和框架出台，它就会迅速流行，大大减少密码的使用。
 
-大家现在可以去[Passkey.io](https://passkeys.io)，亲身体验一下无密码登录，更详细的细节请参考后面的文章（[1](https://www.slashid.dev/blog/passkeys-security-implementation/)，[2](https://css-tricks.com/passkeys-what-the-heck-and-why/)，[3](https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/)）。
+大家现在可以去[Passkeys.io](https://passkeys.io)，亲身体验一下无密码登录，更详细的细节请参考后面的文章（[1](https://www.slashid.dev/blog/passkeys-security-implementation/)，[2](https://css-tricks.com/passkeys-what-the-heck-and-why/)，[3](https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/)）。
 
 ## 科技动态
 
