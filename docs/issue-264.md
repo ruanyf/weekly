@@ -12,7 +12,7 @@
 
 ## Elasticsearch 的启示
 
-上月的“红帽事件”，说明开源软件的“客服模式”行不通，我在[上一期](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)已经写了自己的看法。
+上周的“红帽事件”，说明开源软件的“客服模式”行不通，我在[上一期](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)已经写了自己的看法。
 
 那么，开源软件如何赚钱呢？**既不能卖软件，又不能卖支持服务，该怎么办呢？**
 
