@@ -202,7 +202,7 @@ Rhino 是一个 Linux 发行版，基于 Ubuntu，但是采用滚动更新模式
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081005.webp)
 
-一款[开源](https://github.com/pddon/pddon-win)的在线画图工具，提供低代码和 AI 智能辅助工具。（[@pddon](https://github.com/ruanyf/weekly/issues/3351) 投稿）
+一款在线画图工具，提供低代码和 AI 智能辅助工具。（[@pddon](https://github.com/ruanyf/weekly/issues/3351) 投稿）
 
 8、[Ruff](https://github.com/astral-sh/ruff)
 
