@@ -88,7 +88,7 @@ Rust 语言入门教程
 
 4、[视频课程] [GitHub 最受欢迎的20个课程仓库](https://education.github.community/t/20-of-the-most-popular-courses-on-github/27832)
 
-很多开放课程的仓库放在 GitHub 上面，GItHub 官方列出了最受欢迎的20个仓库。
+很多开放课程的仓库放在 GitHub 上面，GitHub 官方列出了最受欢迎的20个仓库。
 
 5、[文章] [Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 

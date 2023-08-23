@@ -53,7 +53,7 @@
 > 
 > "它的大脑和复杂的神经系统，相机般的眼睛，灵活的身体，通过切换颜色和形状的能力进行即时伪装，这些特征都是突然出现在生物进化之中。"。
 
-5、[随身咖啡机](http://www.alphr.com/technology/1008859/makita-coffee-maker-drill-batteries)
+6、[随身咖啡机](http://www.alphr.com/technology/1008859/makita-coffee-maker-drill-batteries)
 
 ![](https://www.wangbase.com/blogimg/asset/201805/bg2018053004.jpg)
 
@@ -61,7 +61,7 @@
 
 一家日本的电钻制造商 Makita 推出了随身咖啡机，据说主要用来满足建筑工人在工地喝咖啡的需求。最大亮点在于，它的锂电池就是手持电钻的电池。钻孔作业结束后，可以把电池拆下来，装在咖啡机上。一块电池可以煮约640毫升的咖啡，或约5.3杯。
 
-6、[GDPR 生效，Whois 查询实质关闭](https://www.alibabacloud.com/zh/notice/yuming0525)
+7、[GDPR 生效，Whois 查询实质关闭](https://www.alibabacloud.com/zh/notice/yuming0525)
 
 5月25日，欧盟《通用数据保护条例》生效，要求网站不得在没有用户同意的情况下，使用或泄漏用户的个人数据。一个直接后果就是，Whois 域名查询以前有用户的姓名、地址、电话，现在都不再返回了，你只能查到注册商的信息。下面是阿里云的公告。
 
@@ -224,7 +224,7 @@ Bash 脚本的开源语法检查器。
 
 ## 本周图片
 
-1、[Dribble 的按钮](https://www.toptal.com/designers/ui/button-design-dribbble-timeline)
+1、[Dribbble 的按钮](https://www.toptal.com/designers/ui/button-design-dribbble-timeline)
 
 ![](https://www.wangbase.com/blogimg/asset/201805/bg2018053016.jpg)
 

@@ -154,9 +154,9 @@ Git 的 JavaScript 实现，这意味着你可以在 JS 里进行 Git 操作，�
 
 自从苹果采用 Intel 的处理器，OS X 被黑客破解后可以安装在 Intel CPU 与部分 AMD CPU 的机器上。从而出现了一大批非苹果设备而使用苹果操作系统的机器，被称为黑苹果（Hackintosh）。这个仓库收集了各种型号的黑苹果安装方法。
 
-8、[Sci-hub 的论文 BT 种子文件](http://gen.lib.rus.ec/scimag/repository_torrent/)
+8、[Sci-Hub 的论文 BT 种子文件](http://gen.lib.rus.ec/scimag/repository_torrent/)
 
-Sci-hub 是最大的免费论文下载网站，几个主要的论文数据库公司都在起诉它。现在，它放出了它的所有论文的 BT 下载种子文件。
+Sci-Hub 是最大的免费论文下载网站，几个主要的论文数据库公司都在起诉它。现在，它放出了它的所有论文的 BT 下载种子文件。
 
 ## 文摘
 

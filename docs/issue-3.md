@@ -62,7 +62,7 @@
 
 7、[GitHub Pages 支持自定义域名的 HTTPS 访问](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/)
 
-以前，GitHub Pages 绑定的自定义域名，只能使用 HTTP 协议访问。如果想开通加密访问，只有使用官方域名 [myrepo.github.io](https://t.co/c4faaiTV58)。现在，GitHub 使用 Let's encrypt ，终于做到可以对自定义域名签发 HTTPS 证书了。
+以前，GitHub Pages 绑定的自定义域名，只能使用 HTTP 协议访问。如果想开通加密访问，只有使用官方域名 [myrepo.github.io](https://t.co/c4faaiTV58)。现在，GitHub 使用 Let's Encrypt ，终于做到可以对自定义域名签发 HTTPS 证书了。
 
 ## 教程
 

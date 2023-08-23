@@ -106,7 +106,7 @@ __《Web 前端高级开发工程师》__课程原价是8980元，__《JavaScrip
 
 ![](https://www.wangbase.com/blogimg/asset/201805/bg2018051811.png)
 
-多线程编程之中，有一种 go 结构，就是主线程之外分出一个线程，这个线程完成任务以后，再回到主线程。作者认为，这种结构是有害的。他的最精彩观点就是：如果允许使用 go 结构，那么所有的语言功能都可以用这种结构实现，程序很快就会乱做一团。
+多线程编程之中，有一种 go 结构，就是主线程之外分出一个线程，这个线程完成任务以后，再回到主线程。作者认为，这种结构是有害的。他的最精彩观点就是：如果允许使用 go 结构，那么所有的语言功能都可以用这种结构实现，程序很快就会乱作一团。
 
 4、[代码] [Elm + Rust 开发桌面应用](https://github.com/huytd/kanban-app)（英文）
 
@@ -224,6 +224,10 @@ Facebook 推出 Python 的静态类型检查工具，有点像 Flowtype 对于 J
 > 这本书原计划250页，定价59.99美元。完成时，它只有160页，定价39.99美元。由于我们两个作者合写了这本书，我们每个人可以拿到每本书收入的5％，电子书是12.5％（个别作者可以拿到10％和25％）。这相当于我们每个人从实体书得到0.99美元，从电子书得到0.46美元。
 > 
 > 从2017年12月到2018年3月，这本书售出了__1337__份。截止2018年4月份，我已经赚取了11,554.15美元。
+
+<!-->
+Each full book sponsorship for one month nets me $3,705 and partial sponsorships give an amount based on percentage of the book sponsored (e.g. 5 chapters in a 10 chapter book is 50% sponsored). That’s much better than I expected because a one month full sponsorship is more than all other sales combined. I’m not going to say exactly what percentage I get from the sponsorship simply because I don’t want to disclose how much any of these 3rd parties pay and their finances are not my business to disclose.
+-->
 
 ## 本周图片
 
