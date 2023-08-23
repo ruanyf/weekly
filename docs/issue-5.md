@@ -225,6 +225,10 @@ Facebook 推出 Python 的静态类型检查工具，有点像 Flowtype 对于 J
 > 
 > 从2017年12月到2018年3月，这本书售出了__1337__份。截止2018年4月份，我已经赚取了11,554.15美元。
 
+<!-->
+Each full book sponsorship for one month nets me $3,705 and partial sponsorships give an amount based on percentage of the book sponsored (e.g. 5 chapters in a 10 chapter book is 50% sponsored). That’s much better than I expected because a one month full sponsorship is more than all other sales combined. I’m not going to say exactly what percentage I get from the sponsorship simply because I don’t want to disclose how much any of these 3rd parties pay and their finances are not my business to disclose.
+-->
+
 ## 本周图片
 
 1、[堆积如山的废弃共享自行车](https://www.theatlantic.com/photo/2018/03/bike-share-oversupply-in-china-huge-piles-of-abandoned-and-broken-bicycles/556268/?single_page=true)
