@@ -105,7 +105,7 @@ Web Components 是浏览器原生的组件解决方案。如果你愿意对新�
 
 [![bm3.png | center | 206x206](https://www.wangbase.com/blogimg/asset/201806/bg2018060813.png "")](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)
 
-另外，[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)承诺会将[本次活动](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)利润的 5% 捐赠给开源社区，<span data-type="color" style="color:rgb(34, 34, 34)">包括 vuejs , webpack , element,  vux, babel 等项目。
+另外，[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)承诺会将[本次活动](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)利润的 5% 捐赠给开源社区，<span data-type="color" style="color:rgb(34, 34, 34)">包括 Vue.js、webpack、Element、VUX、Babel 等项目。
 
 ## 教程
 
