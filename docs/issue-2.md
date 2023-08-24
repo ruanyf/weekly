@@ -43,7 +43,7 @@ Flutter 的最大特点在于，它是跨平台的，不仅可以开发安卓应
 
 > 尽管还是 beta 版，但谷歌已经在多款应用使用 Flutter，最引人注目的是谷歌的广告平台 AdWords。谷歌表示，在 Android 和 iOS 应用商店中已经有数百个 Flutter 应用。
 > 
-> Flutter 也可以看作，谷歌的实验性 Fuchsia OS[ ](https://arstechnica.com/gadgets/2018/01/googles-fuchsia-os-on-the-pixelbook-it-works-it-actually-works/)又向前推进了一步。虽然这个新操作系统被称为 Fuchsia，更好的名字可能是 Flutter OS。Fuchsia 的用户界面完全是用 Flutter 编写的。
+> Flutter 也可以看作，谷歌的实验性 [Fuchsia OS](https://arstechnica.com/gadgets/2018/01/googles-fuchsia-os-on-the-pixelbook-it-works-it-actually-works/)又向前推进了一步。虽然这个新操作系统被称为 Fuchsia，更好的名字可能是 Flutter OS。Fuchsia 的用户界面完全是用 Flutter 编写的。
 
 
 如果想更多了解 Flutter 框架，可以看看这篇《[Flutter 框架研究和与 RN 对比](http://szuwest.github.io/flutterkuang-jia-yan-jiu-he-yu-rndui-bi.html)》。
