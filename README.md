@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **八月**
 
+- 第 268 期：[生产力是形容机器，不是形容人](docs/issue-268.md)
 - 第 267 期：[5G 的春天要来了](docs/issue-267.md)
 - 第 266 期：[自己做双语 EPUB 电子书](docs/issue-266.md)
 - 第 265 期：[WiFi 的后面是 LiFi](docs/issue-265.md)
