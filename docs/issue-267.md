@@ -210,7 +210,7 @@ Windows 命令行包管理器 Winget 的 非官方 UI 界面。
 
 一个开源的简历生成器，还支持将现有的简历导入。
 
-9、[Glitch Text Gernerator](https://glitchtext.net/)
+9、[Glitch Text Generator](https://glitchtext.net/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081703.webp)
 
@@ -375,4 +375,3 @@ Windows 命令行包管理器 Winget 的 非官方 UI 界面。
 [世界进入负利率时代，这意味什么](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)（2019 #70）
 
 （完）
-
