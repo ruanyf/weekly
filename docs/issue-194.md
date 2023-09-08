@@ -252,7 +252,7 @@ esbuild 是新一代的 JavaScript 打包工具，作者初次使用，发现它
 
 ![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020602.webp)
 
-腾讯官方发布的免费 MacOS 系统的磁盘清理软件，一键释放磁盘空间。（[@ifrontend-xyz](https://github.com/ruanyf/weekly/issues/2178) 投稿）
+腾讯官方发布的免费 macOS 系统的磁盘清理软件，一键释放磁盘空间。（[@ifrontend-xyz](https://github.com/ruanyf/weekly/issues/2178) 投稿）
 
 5、[Perspec](https://github.com/feramhq/Perspec)
 

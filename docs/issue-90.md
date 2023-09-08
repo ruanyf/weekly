@@ -226,7 +226,7 @@ Cloud Run 是谷歌云的一个 Serverless 服务，特点是直接抓取 Docker
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019120607.jpg)
 
-一个基于 Ubuntu 的 Linux 发行版，目标用户是不懂计算机的人，用户界面高度模仿 MacOS。
+一个基于 Ubuntu 的 Linux 发行版，目标用户是不懂计算机的人，用户界面高度模仿 macOS。
 
 2、[Koko Analytics](https://www.kokoanalytics.com/)
 

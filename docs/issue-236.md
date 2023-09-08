@@ -227,11 +227,11 @@ Adobe 公司推出的一个工具，用来增强语音效果，使得普通的�
 
 一本 Ruby 语言参考教程，免费在线阅读。
 
-3、[MacOS 默认壁纸下载](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
+3、[macOS 默认壁纸下载](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071426.webp)
 
-这个网址提供 MacOS 所有版本的默认壁纸的 6K 清晰度下载。
+这个网址提供 macOS 所有版本的默认壁纸的 6K 清晰度下载。
 
 4、[The Algorithms](https://the-algorithms.com/zh_Hans)
 

@@ -204,7 +204,7 @@ OpenSSL 与 OpenSSH 都是开源软件，它们的区别是：前者是 C 语言
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062406.webp)
 
-一个 MacOS 系统的开源软件，可以保存系统剪贴版的历史，查看每一次复制粘贴的内容。
+一个 macOS 系统的开源软件，可以保存系统剪贴版的历史，查看每一次复制粘贴的内容。
 
 2、[Nude UI](https://nudeui.com/)
 
@@ -238,7 +238,7 @@ OpenSSL 与 OpenSSH 都是开源软件，它们的区别是：前者是 C 语言
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081813.webp)
 
-实时显示 MacOS 每个进程的网络速率，适配明暗两个主题。（[@foamzou](https://github.com/ruanyf/weekly/issues/2568) 投稿）
+实时显示 macOS 每个进程的网络速率，适配明暗两个主题。（[@foamzou](https://github.com/ruanyf/weekly/issues/2568) 投稿）
 
 8、[diskusage](https://github.com/chenquan/diskusage)
 

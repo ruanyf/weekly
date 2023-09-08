@@ -231,7 +231,7 @@ HTTP 的 GET 方法没有数据体，查询参数必须放在 URL。如果参数
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031407.webp)
 
-一种基于 Webkit 的新浏览器，只能用于 MacOS 和 iOS，但是能安装 Chrome 的插件，目前还是测试版。据说体验非常好，胜过 Safari。
+一种基于 Webkit 的新浏览器，只能用于 macOS 和 iOS，但是能安装 Chrome 的插件，目前还是测试版。据说体验非常好，胜过 Safari。
 
 3、[密码生成器](http://www.icosaedro.it/PasswordGenerator.htm)
 

@@ -192,7 +192,7 @@ SHA-256 是常用的哈希算法，作者用一个例子，一步步演示它怎
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032203.webp)
 
-一个复古的终端窗口模拟器，可以模拟以前阴极管显示器的效果，支持 MacOS 和 Linux。
+一个复古的终端窗口模拟器，可以模拟以前阴极管显示器的效果，支持 macOS 和 Linux。
 
 3、[Tkinter Helper](https://github.com/iamxcd/tkinter-helper)
 

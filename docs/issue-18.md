@@ -207,7 +207,7 @@ termgraph 是一个命令行脚本，可以在命令行画出柱状图。
 
 ![](https://www.wangbase.com/blogimg/asset/201808/bg2018081722.jpg)
 
-通过虚拟机在 Linux 系统安装 MacOS。
+通过虚拟机在 Linux 系统安装 macOS。
 
 ## 资源
 

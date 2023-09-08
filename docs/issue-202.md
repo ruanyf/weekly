@@ -272,7 +272,7 @@ GitHub 有一个 bug，你可以在他人的仓库里面，显示他没有写过
 
 ![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020703.webp)
 
-一个 Python 跨平台图形框架，号称只要写一次代码，就能编译出 iOS、Android、Windows、MacOS、Linux、Web 等各种平台的图形界面应用程序。 
+一个 Python 跨平台图形框架，号称只要写一次代码，就能编译出 iOS、Android、Windows、macOS、Linux、Web 等各种平台的图形界面应用程序。 
 
 ## 活动
 

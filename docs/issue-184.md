@@ -237,7 +237,7 @@ Cloudflare 公司本周宣布，他们的静态网页寄存服务 Cloudflare Pag
 
 ![](https://cdn.beekka.com/blogimg/asset/202110/bg2021101001.jpg)
 
-MacOS 系统的平铺式窗口管理器，苹果电脑命令行工作者的福音。
+macOS 系统的平铺式窗口管理器，苹果电脑命令行工作者的福音。
 
 5、[ROAPI](https://github.com/roapi/roapi)
 

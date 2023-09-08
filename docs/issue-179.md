@@ -276,7 +276,7 @@ youtube-dl 的图形界面封装，支持多个视频网站的视频下载。
 
 ![](https://cdn.beekka.com/blogimg/asset/202110/bg2021101406.jpg)
 
-MacOS 应用，可以对系统播放的声音（比如浏览器、视频播放器、音乐播放器）进行语音识别，然后实时生成字幕。（[@yujinqiu](https://github.com/ruanyf/weekly/issues/1993) 投稿）
+macOS 应用，可以对系统播放的声音（比如浏览器、视频播放器、音乐播放器）进行语音识别，然后实时生成字幕。（[@yujinqiu](https://github.com/ruanyf/weekly/issues/1993) 投稿）
 
 10、[message-box](https://github.com/kingcc/message-box)
 

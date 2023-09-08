@@ -176,7 +176,7 @@ Chrome 浏览器离线时，会出现一个恐龙跳跃的游戏。为了庆祝 
 
 5、[mas](https://github.com/mas-cli/mas)
 
-Mac 应用商店的命令行界面，可以用来从命令行安装 MacOS App。（@[ansiz](https://github.com/ruanyf/weekly/issues/377) 投稿）
+Mac 应用商店的命令行界面，可以用来从命令行安装 macOS App。（@[ansiz](https://github.com/ruanyf/weekly/issues/377) 投稿）
 
 6、[AP Studio](https://androidpal.com/studio/about)
 

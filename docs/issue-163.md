@@ -86,7 +86,7 @@
 
 2、
 
-[Windows 11](https://www.theverge.com/2021/6/15/22535123/microsoft-windows-11-leak-screenshots-start-menu) 截图泄露，任务栏和开始菜单有很大的变化，应用程序图标变成居中放置，与 MacOS 类似。
+[Windows 11](https://www.theverge.com/2021/6/15/22535123/microsoft-windows-11-leak-screenshots-start-menu) 截图泄露，任务栏和开始菜单有很大的变化，应用程序图标变成居中放置，与 macOS 类似。
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061601.jpg)
 

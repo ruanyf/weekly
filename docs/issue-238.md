@@ -254,11 +254,11 @@ jq 是 JSON 数据的查询工具，类似于 JSON 的 SQL 查询。
 
 这个网站收集了所有被微软公司关闭的自家产品。
 
-4、[MacOS 的 zsh 教程](https://scriptingosx.com/2019/06/moving-to-zsh/)（英文）
+4、[macOS 的 zsh 教程](https://scriptingosx.com/2019/06/moving-to-zsh/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072303.webp)
 
-zsh 已经替代 Bash，成为 Mac 电脑的默认 Shell。这是针对 MacOS 的 zsh 系列教程，一共8个部分。
+zsh 已经替代 Bash，成为 Mac 电脑的默认 Shell。这是针对 macOS 的 zsh 系列教程，一共8个部分。
 
 ## 图片
 

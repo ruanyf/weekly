@@ -208,11 +208,11 @@ Firefox 的安卓版现在有一个功能，可以在电脑上选定一组插件
 
 可视化图表的一个问题就是太复杂，不容易看懂（上图）。本文用实例解释，一张图表只适合表达一个信息，如果信息太多，就应该拆分图表。
 
-9、[MacOS 开启 sudo 的指纹认证](https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/)（英文）
+9、[macOS 开启 sudo 的指纹认证](https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082701.webp)
 
-sudo 命令需要输入根用户的密码，MacOS 支持用指纹替代 sudo 密码。
+sudo 命令需要输入根用户的密码，macOS 支持用指纹替代 sudo 密码。
 
 ## 工具
 

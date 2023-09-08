@@ -250,7 +250,7 @@ SQLite 官方的 wasm 项目终于来了，方便了以后网页调用 SQLite �
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081810.webp)
 
-大家知道，MacOS 是基于 FreeBSD 开发的。 ravynOS 这个项目就是想创造一个尽可能像 MacOS 的 FreeBSD 分支，但是完全开源。
+大家知道，macOS 是基于 FreeBSD 开发的。 ravynOS 这个项目就是想创造一个尽可能像 macOS 的 FreeBSD 分支，但是完全开源。
 
 4、[Colorize Pictures](https://palette.fm/)
 

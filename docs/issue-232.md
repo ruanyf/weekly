@@ -206,7 +206,7 @@ CNAME 域名指的是，将一个域名指向另一个域名的一种机制。�
 
 ![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091301.webp)
 
-一个 MacOS 应用，将 Stable Diffusion 模型做成一个安装包，带有图形界面，号称是苹果电脑使用该模型的最容易方法。另有一个同类应用 [CHARL-E](https://www.charl-e.com/)，以及一个命令行应用 [ImaginAIry](https://github.com/brycedrennan/imaginAIry)。
+一个 macOS 应用，将 Stable Diffusion 模型做成一个安装包，带有图形界面，号称是苹果电脑使用该模型的最容易方法。另有一个同类应用 [CHARL-E](https://www.charl-e.com/)，以及一个命令行应用 [ImaginAIry](https://github.com/brycedrennan/imaginAIry)。
 
 3、[SkyWater SKY130 PDK](https://github.com/google/skywater-pdk)
 

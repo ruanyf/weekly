@@ -213,7 +213,7 @@ H.264 视频编码器需要交纳专利费，这篇文章介绍了这方面的�
 
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021011908.jpg)
 
-一个 Linux 系统的 Snap 包文件，可以在 Linux 系统运行 MacOS。
+一个 Linux 系统的 Snap 包文件，可以在 Linux 系统运行 macOS。
 
 2、[Brave 浏览器](https://brave.com/ipfs-support/)
 

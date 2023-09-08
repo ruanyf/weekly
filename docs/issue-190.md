@@ -207,7 +207,7 @@ IndexedDB 是浏览器内置的数据库接口，但是运行速度很慢，本�
 
 ![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121110.webp)
 
-Windows 系统有一个 alt-tab 组合键切换桌面的功能，这个开源软件将这个组合键移植到 MacOS 电脑。
+Windows 系统有一个 alt-tab 组合键切换桌面的功能，这个开源软件将这个组合键移植到 macOS 电脑。
 
 3、[稀土掘金插件](https://juejin.cn/extension)
 

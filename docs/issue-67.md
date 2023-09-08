@@ -250,13 +250,13 @@ lit-html 是一个极其简单好用的网页模板渲染库，使用 ES6 语法
 
 ## 资源
 
-1、 [MacOS Mojave 动态壁纸](https://dynamicwallpaper.club/)
+1、 [macOS Mojave 动态壁纸](https://dynamicwallpaper.club/)
 
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019062505.jpg)
 
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019062506.jpg)
 
-MacOS 目前支持动态壁纸，壁纸会随着一天里面时间的不同，而自动变换。该网站提供各种动态壁纸下载。
+macOS 目前支持动态壁纸，壁纸会随着一天里面时间的不同，而自动变换。该网站提供各种动态壁纸下载。
 
 2、[独角兽公司榜单](https://dujiaoshou.io/)
 

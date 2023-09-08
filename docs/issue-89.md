@@ -162,7 +162,7 @@ Nvidia 公司的并行计算平台 CUDA 将不再支持 Mac 电脑，而 Mac 电
 
 ![](https://www.wangbase.com/blogimg/asset/201911/bg2019112810.jpg)
 
-从 OSX 10.9 版本开始，MacOS 每个版本的命名都是美国加州的一个地名，同时会发布一张或者一套该地拍摄的系统壁纸。我想尝试重新拍摄 Mac 每个版本的默认壁纸。（@[baochuquan](https://github.com/ruanyf/weekly/issues/980) 投稿）
+从 OSX 10.9 版本开始，macOS 每个版本的命名都是美国加州的一个地名，同时会发布一张或者一套该地拍摄的系统壁纸。我想尝试重新拍摄 Mac 每个版本的默认壁纸。（@[baochuquan](https://github.com/ruanyf/weekly/issues/980) 投稿）
 
 7、[谷歌的 AGPL 许可证政策](https://opensource.google/docs/using/agpl-policy/)（英文）
 

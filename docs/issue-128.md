@@ -201,7 +201,7 @@ CSS 的 clamp() 函数已经可以用了，最新浏览器都支持了，只用�
 
 ![](https://www.wangbase.com/blogimg/asset/202009/bg2020092804.jpg)
 
-磁盘空间占用统计工具，支持 Linux 和 MacOS。
+磁盘空间占用统计工具，支持 Linux 和 macOS。
 
 4、[pup](https://github.com/ericchiang/pup)
 

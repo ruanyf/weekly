@@ -159,11 +159,11 @@ fast.ai 免费的深度学习课程。
 
 谷歌的一个数据可视化项目，将14000种鸟叫进行分类，可以在页面上选择收听这些鸟叫。
 
-5、[MacOS system6](https://archive.org/details/mac_MacOS_6.0.8)
+5、[Mac OS System 6](https://archive.org/details/mac_MacOS_6.0.8)
 
 ![](https://www.wangbase.com/blogimg/asset/201808/bg2018082414.jpg)
 
-MacOS system6 是 Macintosh计算机的操作系统，1988年由苹果公司发布。这里用虚拟机在浏览器里面启动这个操作系统。
+Mac OS System 6 是 Macintosh 计算机的操作系统，1988年由苹果公司发布。这里用虚拟机在浏览器里面启动这个操作系统。
 
 ## 工具
 

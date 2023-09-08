@@ -200,7 +200,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031401.webp)
 
-MacOS 的某些 UI 采用 Web 技术开发，本文教你如何用开发者工具查看这些 UI 的代码。
+macOS 的某些 UI 采用 Web 技术开发，本文教你如何用开发者工具查看这些 UI 的代码。
 
 5、[HTML 注释也适用于 JavaScript](https://smitop.com/post/js-html-comments/)（英文）
 

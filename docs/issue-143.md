@@ -200,7 +200,7 @@ MacBook 用作开发笔记本时，长期下来，大量空间会被占用。本
 
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021011909.jpg)
 
-一个 MacOS 视频播放器，为视频实时生成字幕，不需要任何网络请求，采用本地语音识别。（[@yujinqiu](https://github.com/ruanyf/weekly/issues/1593) 投稿）
+一个 macOS 视频播放器，为视频实时生成字幕，不需要任何网络请求，采用本地语音识别。（[@yujinqiu](https://github.com/ruanyf/weekly/issues/1593) 投稿）
 
 3、[在线视频片段合并](https://slowapi.com/merge-videos-files/)
 

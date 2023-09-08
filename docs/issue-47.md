@@ -166,7 +166,7 @@ Polymer 项目推出的一个 JS 基类库，基于这个基类，可以方便�
 
 ![](https://www.wangbase.com/blogimg/asset/201903/bg2019031517.jpg)
 
-开源的飞行模拟器，可在 Linux，MacOS 和 Windows 上运行。
+开源的飞行模拟器，可在 Linux，macOS 和 Windows 上运行。
 
 7、[send](https://github.com/mozilla/send)
 

@@ -229,7 +229,7 @@ PHP 的论坛程序，功能强大，也很美观。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080304.webp)
 
-Chrome 浏览器插件，将标签显示为类似 MacOS 底部 Dock 图标栏的风格。（[@Developer27149](https://github.com/ruanyf/weekly/issues/3318) 投稿）
+Chrome 浏览器插件，将标签显示为类似 macOS 底部 Dock 图标栏的风格。（[@Developer27149](https://github.com/ruanyf/weekly/issues/3318) 投稿）
 
 8、[AI Code Translator](https://aicodeconvert.com/)
 

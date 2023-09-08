@@ -210,7 +210,7 @@ Go 语言互动式的 REPL 环境，可以直接运行 Go 脚本。
 
 ![](https://www.wangbase.com/blogimg/asset/201907/bg2019071525.jpg)
 
-MacOS 菜单栏系统时钟的替代品，显示月历和时区，免费软件。
+macOS 菜单栏系统时钟的替代品，显示月历和时区，免费软件。
 
 5、[osgood](https://github.com/intrinsiclabs/osgood)
 

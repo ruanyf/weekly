@@ -146,7 +146,7 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 ![](https://www.wangbase.com/blogimg/asset/201909/bg2019091603.jpg)
 
-> - [苹果公司](https://www.apple.com/ipados/)正式发布 iPadOS，现在就可以安装升级。它将一些桌面电脑的功能引入了 iPad，比如 程序坞 dock 和支持直接插入U盘。苹果公司的产品线目前有五个操作系统：MacOS、iOS、iPadOS、WatchOS、tvOS。
+> - [苹果公司](https://www.apple.com/ipados/)正式发布 iPadOS，现在就可以安装升级。它将一些桌面电脑的功能引入了 iPad，比如 程序坞 dock 和支持直接插入U盘。苹果公司的产品线目前有五个操作系统：macOS、iOS、iPadOS、WatchOS、tvOS。
 
 ![](https://www.wangbase.com/blogimg/asset/201909/bg2019092501.jpg)
 
@@ -220,7 +220,7 @@ Linux 是作为命令行下的服务器系统开发的，桌面环境一直不�
 
 4、[Skim](https://skim-app.sourceforge.io/)
 
-MacOS 平台的一个开源 PDF 文件阅读器。
+macOS 平台的一个开源 PDF 文件阅读器。
 
 5、[pagemap](https://larsjung.de/pagemap/)
 

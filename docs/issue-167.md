@@ -272,7 +272,7 @@ Kindle 笔记导出工具，可以在线导出，然后写入笔记软件 Flomo�
 
 ![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071508.jpg)
 
-MacOS 的 SFTP 服务的开源客户端，用来向 FTP 上传或下载文件。（[@newham](https://github.com/ruanyf/weekly/issues/1843) 投稿）
+macOS 的 SFTP 服务的开源客户端，用来向 FTP 上传或下载文件。（[@newham](https://github.com/ruanyf/weekly/issues/1843) 投稿）
 
 8、[check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
 

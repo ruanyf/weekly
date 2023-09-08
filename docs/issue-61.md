@@ -172,7 +172,7 @@ ssh 登录的时候，比较安全的做法是使用公钥认证。但是，这�
 
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019062120.jpg)
 
-将任何脚本或程序的输出直接放在 Mac OS X 菜单栏的工具。
+将任何脚本或程序的输出直接放在 macOS 菜单栏的工具。
 
 6、[fusuma](https://github.com/hiroppy/fusuma)
 

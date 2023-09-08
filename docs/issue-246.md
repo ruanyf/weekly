@@ -256,7 +256,7 @@ Chrome 浏览器插件，类似于 Notion AI，支持在任意编辑器网页上
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031401.webp)
 
-MacOS 系统 PHP 和 Web 开发环境管理工具，方便各软件的启动/重启、配置查看修改、日志排查等等（[@xpf0000](https://github.com/ruanyf/weekly/issues/2973) 投稿）
+macOS 系统 PHP 和 Web 开发环境管理工具，方便各软件的启动/重启、配置查看修改、日志排查等等（[@xpf0000](https://github.com/ruanyf/weekly/issues/2973) 投稿）
 
 3、[Huntly](https://github.com/lcomplete/huntly)
 

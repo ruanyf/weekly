@@ -245,7 +245,7 @@ CORS 是跨域 HTTP 请求，实际会发出两个 HTTP 请求（预检请求 + 
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111011.webp)
 
-一个 Go 语言开发的博客平台，支持 Linux/Windows/MacOS，系统资源占用小，自带管理后台。（[@1379](https://github.com/ruanyf/weekly/issues/2736) 投稿）
+一个 Go 语言开发的博客平台，支持 Linux/Windows/macOS，系统资源占用小，自带管理后台。（[@1379](https://github.com/ruanyf/weekly/issues/2736) 投稿）
 
 7、[Netease Recent Profile](https://github.com/zonemeen/netease-recent-profile)
 

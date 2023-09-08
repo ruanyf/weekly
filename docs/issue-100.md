@@ -84,7 +84,7 @@
 
 ![](https://www.wangbase.com/blogimg/asset/202003/bg2020032307.jpg)
 
-苹果公司上周发布的 iPad Pro 支持触摸板和鼠标。国外评论认为，这实际上是苹果在尝试 ARM CPU 的笔记本电脑。如果成功，下一步就要将 MacOS 从 x86 CPU 移植到 ARM CPU。
+苹果公司上周发布的 iPad Pro 支持触摸板和鼠标。国外评论认为，这实际上是苹果在尝试 ARM CPU 的笔记本电脑。如果成功，下一步就要将 macOS 从 x86 CPU 移植到 ARM CPU。
 
 苹果自己可以生产 ARM CPU，而 x86 CPU 都需要从 Intel 购买。更换 CPU 的主要好处是，ARM CPU 比较节能，电池可以使用更长时间。而且更换后，手机和笔记本的操作系统就可以统一了，理论上手机 App 就可以直接在笔记本运行。目前，主要指标是看 Xcode 何时能移植到 iPad Pro，现在还不行。
 
