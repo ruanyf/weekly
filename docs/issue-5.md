@@ -76,13 +76,13 @@ Firefox 60 按照最新的标准，为 Cookie 新增了一个 SameSite 属性，
 
 [![](https://www.wangbase.com/blogimg/asset/201805/bg2018051807.jpg)](http://edu.51cto.com/px/train/186?ryf)
 
-1、__《JavaScript 深度揭秘之高级前端开发》：__适合已在职、有基础的技术人员提升技术，挑战更高的薪资。该课程深入探讨函数、事件循环机制、异步编程、面向对象、浏览器渲染、数据交互等的内部原理和高级应用，使用 ES6/ES7 语法讲解，涵盖日常开发及面试所需的技能。并且结合当下技术热点实时更新课程。
+1、__《JavaScript 深度揭秘之高级前端开发》__：适合已在职、有基础的技术人员提升技术，挑战更高的薪资。该课程深入探讨函数、事件循环机制、异步编程、面向对象、浏览器渲染、数据交互等的内部原理和高级应用，使用 ES6/ES7 语法讲解，涵盖日常开发及面试所需的技能。并且结合当下技术热点实时更新课程。
 
 2、__《Web 前端高级开发工程师》__：主要针对纯小白的学员，比如在校学生、在职想转行的人士等等，从基础讲起，并且包含了《JavaScript 深度揭秘之高级前端开发》课程的部分内容。
 
 [![](https://www.wangbase.com/blogimg/asset/201805/bg2018051808.jpg)](http://edu.51cto.com/px/train/186?ryf)
 
-__《Web 前端高级开发工程师》__课程原价是8980元，__《JavaScript 深度揭秘之高级前端开发》__原价 7980 元，现在点击[这个链接](http://edu.51cto.com/px/train/186?ryf)购买，可以__享受半价！__报名之后马上开始学习，无需等待开班，并且采用授课老师、助教老师、班主任、就业指导老师四对一的服务模式，保证每一位学员都能真正掌握学习内容。
+__《Web 前端高级开发工程师》__ 课程原价是8980元，__《JavaScript 深度揭秘之高级前端开发》__ 原价 7980 元，现在点击[这个链接](http://edu.51cto.com/px/train/186?ryf)购买，可以 __享受半价！__ 报名之后马上开始学习，无需等待开班，并且采用授课老师、助教老师、班主任、就业指导老师四对一的服务模式，保证每一位学员都能真正掌握学习内容。
 
 感兴趣的朋友，可以[点击这里](http://edu.51cto.com/px/train/186?ryf)了解更多。
 
@@ -225,7 +225,7 @@ Facebook 推出 Python 的静态类型检查工具，有点像 Flowtype 对于 J
 > 
 > 从2017年12月到2018年3月，这本书售出了__1337__份。截止2018年4月份，我已经赚取了11,554.15美元。
 
-<!-->
+<!--
 Each full book sponsorship for one month nets me $3,705 and partial sponsorships give an amount based on percentage of the book sponsored (e.g. 5 chapters in a 10 chapter book is 50% sponsored). That’s much better than I expected because a one month full sponsorship is more than all other sales combined. I’m not going to say exactly what percentage I get from the sponsorship simply because I don’t want to disclose how much any of these 3rd parties pay and their finances are not my business to disclose.
 -->
 
