@@ -227,7 +227,7 @@ React 的视频播放器组件。
 
 5、[github-rank](https://github.com/jaywcjlove/github-rank)
 
-Github 中国用户排名。（@[xurui3762791](https://github.com/ruanyf/weekly/issues/461) 投稿）
+GitHub 中国用户排名。（@[xurui3762791](https://github.com/ruanyf/weekly/issues/461) 投稿）
 
 6、[今日掘金](http://zy2071.com/Fun/todayJueJin.html)
 

@@ -262,7 +262,7 @@ Chrome 浏览器引入了一项试验性功能，在开发者工具里面提供 
 
 ![](https://www.wangbase.com/blogimg/asset/202011/bg2020112010.jpg)
 
-一个 Github actions 模板工具，用来生成个人简历页面和 PDF 文件。
+一个 GitHub Actions 模板工具，用来生成个人简历页面和 PDF 文件。
 
 11、[Presenta](https://play.presenta.cc/)
 

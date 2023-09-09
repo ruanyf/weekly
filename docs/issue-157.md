@@ -111,7 +111,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021032304.jpg)
 
-[iOS 14.5](https://www.imore.com/facebook-and-instagram-threaten-charge-access-ios-145-unless-you-give-it-your-data?hm=r) 开始，只有用户同意，app 才能追踪用户的活动。Facebook 在这个版本的手机上，会跳出警告，声称如果用户不同意被追踪，可能无法免费提供服务。（[@jwenjian](https://github.com/ruanyf/weekly/issues/1746) 投稿）
+[iOS 14.5](https://www.imore.com/facebook-and-instagram-threaten-charge-access-ios-145-unless-you-give-it-your-data?hm=r) 开始，只有用户同意，App 才能追踪用户的活动。Facebook 在这个版本的手机上，会跳出警告，声称如果用户不同意被追踪，可能无法免费提供服务。（[@jwenjian](https://github.com/ruanyf/weekly/issues/1746) 投稿）
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050407.jpg)
 

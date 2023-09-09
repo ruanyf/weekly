@@ -235,7 +235,7 @@ Chrome 浏览器插件，将标签显示为类似 macOS 底部 Dock 图标栏的
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080305.webp)
 
-该网站可以将一种语言的程序，转换成另一种语言。用户也可以描述想要什么程序，它来生成代码。（[@JustAIGithub](https://github.com/ruanyf/weekly/issues/3322) 投稿）
+该网站可以将一种语言的程序，转换成另一种语言。用户也可以描述想要什么程序，它来生成代码。（[@JustAIGitHub](https://github.com/ruanyf/weekly/issues/3322) 投稿）
 
 9、[Slashbase](https://github.com/slashbaseide/slashbase)
 

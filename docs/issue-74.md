@@ -227,7 +227,7 @@ Flutter 的二维码扫描插件。（@[leyan95](https://github.com/ruanyf/weekl
 
 一个浏览大型 JSON 数据文件专用的桌面 JSON 查看器。
 
-4、[Node.js 爬虫示例](https://github.com/ZY2071/Crawler-for-Github-Trending)
+4、[Node.js 爬虫示例](https://github.com/ZY2071/Crawler-for-GitHub-Trending)
 
 一个 Node.js 爬虫的示例项目，帮助感兴趣的同学了解爬虫的实现。（@[ZY2071](https://github.com/ruanyf/weekly/issues/773) 投稿）
 

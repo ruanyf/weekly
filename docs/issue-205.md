@@ -231,7 +231,7 @@ Create React App 是 React 的官方工具，它的默认打包器是 Webpack，
 
 bilibili 视频命令行下载工具。（[@sansui-orz](https://github.com/ruanyf/weekly/issues/2344) 投稿）
 
-6、[GithubX](https://github.com/riskers/github-plus-extension)
+6、[GitHubX](https://github.com/riskers/github-plus-extension)
 
 ![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050516.webp)
 

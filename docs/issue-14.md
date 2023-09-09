@@ -174,7 +174,7 @@ Chrome 可以启用"show saved copy" 按钮。如果网站下线，而本地又�
 ![](https://www.wangbase.com/blogimg/asset/201807/bg2018072012.jpg)
 
 
-开源的代码片段管理的服务，类似 Github Gists。
+开源的代码片段管理的服务，类似 GitHub Gists。
 
 3、[Feather App](https://feather-apps.com/)
 

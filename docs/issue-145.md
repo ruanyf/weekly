@@ -158,7 +158,7 @@ YInMn blue 能够更好地吸收其他颜色的光谱，所以呈现的蓝色更
 
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021013002.jpg)
 
-Apple 为了严格管理 app 的发布，制定了一套复杂的基于证书的校验机制，这对于开发者非常不友好。本文从技术面，图文并茂地介绍了 iOS 开发各种证书之间的关系及其背后的原理。（[@baochuquan](https://github.com/ruanyf/weekly/issues/1620) 投稿）
+Apple 为了严格管理 App 的发布，制定了一套复杂的基于证书的校验机制，这对于开发者非常不友好。本文从技术面，图文并茂地介绍了 iOS 开发各种证书之间的关系及其背后的原理。（[@baochuquan](https://github.com/ruanyf/weekly/issues/1620) 投稿）
 
 4、[20年前参加高中信息学奥赛（NOIP）的经历](https://justyy.com/archives/45269)（中文）
 

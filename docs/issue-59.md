@@ -248,9 +248,9 @@ uber 公司开源的 React 组件库，风格比较简单干净。
 
 该仓库收集了1994～2018年任正非400余篇讲话。这里是可下载的[合集](https://github.com/microease/Renzhengfeiwenji)。（@[wikiios](https://github.com/ruanyf/weekly/issues/565) 投稿）
 
-7、[Dork-Admin](https://github.com/No-Github/Dork-Admin)
+7、[Dork-Admin](https://github.com/No-GitHub/Dork-Admin)
 
-这是一个中文仓库，盘点世界上比较重大的数据泄漏事件。（@[No-Github](https://github.com/ruanyf/weekly/issues/581) 投稿）
+这是一个中文仓库，盘点世界上比较重大的数据泄漏事件。（@[No-GitHub](https://github.com/ruanyf/weekly/issues/581) 投稿）
 
 ## 图片
 

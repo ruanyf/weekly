@@ -127,9 +127,9 @@ IPFS 是一个具有 web 接口的分布式数据库，一旦写入，你的内�
 
 ActivePub 是一种分布式的通信协议，本文以 Mastodon 为例，介绍为什么它可以改变互联网。
 
-8、[Github 的语义搜索](https://githubengineering.com/towards-natural-language-semantic-code-search/)（英文）
+8、[GitHub 的语义搜索](https://githubengineering.com/towards-natural-language-semantic-code-search/)（英文）
 
-Github 正在测试语义搜索，匹配的依据不再是关键字，而是搜索的语义。比如，搜索"连接两个字符串"，就会跳出相关的代码。本文介绍实现细节。
+GitHub 正在测试语义搜索，匹配的依据不再是关键字，而是搜索的语义。比如，搜索"连接两个字符串"，就会跳出相关的代码。本文介绍实现细节。
 
 9、[为什么 Reason 语言合适写 React 应用？](https://medium.freecodecamp.org/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035)（英文）
 

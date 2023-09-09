@@ -328,7 +328,7 @@ Pepper 是一只1970年出生在实验室的大猩猩，她一直被用于医学
 
 创建一个手机操作系统有多难？
 
-2014年，六个移动操作系统企图替代 iOS 和 android：Blackberry OS，Sailfish，Ubuntu Mobile，Firefox OS，Tizen 和 Windows Phone，现在它们都死了或不再有这种可能。
+2014年，六个移动操作系统企图替代 iOS 和 Android：Blackberry OS，Sailfish，Ubuntu Mobile，Firefox OS，Tizen 和 Windows Phone，现在它们都死了或不再有这种可能。
 
 -- [《创建 Linux 手机操作系统》 ](https://www.zdnet.com/article/kde-is-partnering-with-purism-to-create-a-linux-smartphone/)
 

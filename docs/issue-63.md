@@ -172,7 +172,7 @@ ReCAPTCHA 是谷歌防止爬虫的工具，用来确定访问者是真人。它�
 
 具有互动界面的命令行 Youtube 下载器，基于 youtube-dl。
 
-3、[Ubuntu touch](https://ubuntu-touch.io/)
+3、[Ubuntu Touch](https://ubuntu-touch.io/)
 
 ![](https://www.wangbase.com/blogimg/asset/201905/bg2019052701.jpg)
 

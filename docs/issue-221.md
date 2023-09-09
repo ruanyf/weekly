@@ -202,11 +202,11 @@ iPhone 手机和 iPad 平板的 Safari 浏览器，可以安装插件。本文�
 
 本文一步步介绍如何在 Apple M1 机器上，通过 qemu 虚拟机，安装基于 x86 架构的 Linux 系统。
 
-7、[Macbook 的触摸栏设置成 git 操作](https://refruity.xyz/macbook-touch-bar-in-iterm2/)（英文）
+7、[MacBook 的触摸栏设置成 git 操作](https://refruity.xyz/macbook-touch-bar-in-iterm2/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032805.webp)
 
-本文介绍如何在 Macbook 触摸栏上放置按钮，只要点一下，就能在命令行执行 git 命令。
+本文介绍如何在 MacBook 触摸栏上放置按钮，只要点一下，就能在命令行执行 git 命令。
 
 8、[Unix 时间戳还是 ISO-8601？](https://nickb.dev/blog/designing-a-rest-api-unix-time-vs-iso-8601)（英文）
 

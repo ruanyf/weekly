@@ -219,7 +219,7 @@ FFmpeg 的 Python 包装库，将复杂的命令行参数转成易用的 API。
 
 一个使用 EXIF 信息的图片文件批量改名工具，支持 macOS 和 Windows。（[@Arman19941113](https://github.com/ruanyf/weekly/issues/1674) 投稿）
 
-8、[Github Star Count](https://chrome.google.com/webstore/detail/github-star-count/jahogeehepfohgakggfeeimokcgnmdid)
+8、[GitHub Star Count](https://chrome.google.com/webstore/detail/github-star-count/jahogeehepfohgakggfeeimokcgnmdid)
 
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021031502.jpg)
 

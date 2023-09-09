@@ -205,7 +205,7 @@ BBC 的长篇图片报道。Safa 和 Marwa 是一对头部连在一起的连体�
 
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019062005.jpg)
 
-这个软件可以把 Macbook 笔记本的 Dock 栏都搬到 Touchbar。
+这个软件可以把 MacBook 笔记本的 Dock 栏都搬到 Touchbar。
 
 6、[web-flash](https://github.com/enilu/web-flash)
 

@@ -67,7 +67,7 @@ Linux 发行版 OpenSUSE 的母公司被收购了，价格是25亿美元。 这�
 
 Python 语言的创始人和最高决策者 Guido van Rossum，由于他主导的提案 PEP572 被社区反对，今天宣布非常疲倦，将不再执行最高决策者的角色。 但是，他没说接下来怎么决策，只说以后你们自己讨论决定。
 
-8、[Gentoo 的 GitHub 账户被黑](https://wiki.gentoo.org/wiki/Github/2018-06-28)
+8、[Gentoo 的 GitHub 账户被黑](https://wiki.gentoo.org/wiki/GitHub/2018-06-28)
 
 ![](https://www.wangbase.com/blogimg/asset/201807/bg2018071309.jpg)
 
