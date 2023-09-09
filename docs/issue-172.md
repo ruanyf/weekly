@@ -266,7 +266,7 @@ git switch 用来切换分支，git restore 用来恢复原样，可以取代 gi
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080701.jpg)
 
-MacOS 系统的 PostgreSQL 数据库安装包，并且内置了许多常用插件，号称是在 Mac 上使用 PostgreSQL 的最简单方法。
+macOS 系统的 PostgreSQL 数据库安装包，并且内置了许多常用插件，号称是在 Mac 上使用 PostgreSQL 的最简单方法。
 
 7、[Calligrapher.ai](https://www.calligrapher.ai/)
 

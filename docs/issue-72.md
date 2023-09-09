@@ -212,7 +212,7 @@ SVG 是文本文件，有很多冗余的标签。本文介绍怎么压缩它的�
 
 ![](https://www.wangbase.com/blogimg/asset/201907/bg2019073006.jpg)
 
-一个国产软件，MacOS 系统的多视图文件管理器，支持很多特色功能。让你摆脱多窗口来回切换的繁琐，和拖拽时找不准目标的尴尬。（@[vitacoding](https://github.com/ruanyf/weekly/issues/733) 投稿）
+一个国产软件，macOS 系统的多视图文件管理器，支持很多特色功能。让你摆脱多窗口来回切换的繁琐，和拖拽时找不准目标的尴尬。（@[vitacoding](https://github.com/ruanyf/weekly/issues/733) 投稿）
 
 6、[Pictool](https://github.com/chenshenhai/pictool)
 

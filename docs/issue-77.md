@@ -236,7 +236,7 @@ Java 程序员招聘非常常见，本文总结了企业对于初级、中级、
 
 ![](https://www.wangbase.com/blogimg/asset/201908/bg2019083001.jpg)
 
-MacOS 的桌面 RSS 阅读器，免费软件。
+macOS 的桌面 RSS 阅读器，免费软件。
 
 6、[KeeWeb](https://keeweb.info/)
 

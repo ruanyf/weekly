@@ -225,7 +225,7 @@ Git 提交代码的时候，必须给出一段文字说明。有时候，会想�
 
 ![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012501.webp)
 
-一个屏幕分享软件，可以把桌面电脑的屏幕（Windows、MacOS、Linux）分享到局域网内的任意设备，只要对方有浏览器就可以接收。
+一个屏幕分享软件，可以把桌面电脑的屏幕（Windows、macOS、Linux）分享到局域网内的任意设备，只要对方有浏览器就可以接收。
 
 3、[数独求解](https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms)
 

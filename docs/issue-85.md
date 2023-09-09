@@ -164,9 +164,9 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 ![](https://www.wangbase.com/blogimg/asset/201910/bg2019102708.jpg)
 
-6、[MacOS、Windows、Ubuntu 性能比较](https://www.phoronix.com/scan.php?page=article&item=macos1015-win10-ubuntu&num=1)（英文）
+6、[macOS、Windows、Ubuntu 性能比较](https://www.phoronix.com/scan.php?page=article&item=macos1015-win10-ubuntu&num=1)（英文）
 
-作者在同一台 MacBook Pro 上面安装 MacOS、Windows、Ubuntu 的最新版本，比较它们的性能。
+作者在同一台 MacBook Pro 上面安装 macOS、Windows、Ubuntu 的最新版本，比较它们的性能。
 
 7、[代码移入数据库](https://sivers.org/pg)（英文）
 

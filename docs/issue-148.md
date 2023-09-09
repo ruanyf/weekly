@@ -258,7 +258,7 @@ Linux 服务器的 Web 控制台。
 
 ![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022701.jpg)
 
-MacOS 的虚拟机应用，可以很轻松地在苹果电脑上运行 Windows 和 Linux，属于 qemu 的 UI 封装，另有 [iOS 的虚拟机](https://github.com/utmapp/UTM)，在 iPhone 和 iPad 上运行 Windows。
+macOS 的虚拟机应用，可以很轻松地在苹果电脑上运行 Windows 和 Linux，属于 qemu 的 UI 封装，另有 [iOS 的虚拟机](https://github.com/utmapp/UTM)，在 iPhone 和 iPad 上运行 Windows。
 
 7、[Deep Nostalgia](https://www.myheritage.com/deep-nostalgia)
 

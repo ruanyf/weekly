@@ -232,7 +232,7 @@ Chrome 浏览器的插件，在新标签页展示中国传统色的层叠波浪�
 
 4、[苹果开源仓库](https://opensource.apple.com/)
 
-苹果公司官方的开源网站，提供 MacOS、iOS、开发者工具的源码。此外，还有一个非官方的[镜像](https://github.com/apple-open-source/macos)。
+苹果公司官方的开源网站，提供 macOS、iOS、开发者工具的源码。此外，还有一个非官方的[镜像](https://github.com/apple-open-source/macos)。
 
 5、[高性能 Go 代码工坊](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)
 

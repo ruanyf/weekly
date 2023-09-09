@@ -159,9 +159,9 @@ Webpack 是现在最流行的模块打包器，可以将脚本依赖打包成一
 
 介绍 Chrome 开发者工具各个部分的用法。
 
-8、[MacOS 内核与 Linux 内核的差异](https://itsfoss.com/mac-linux-difference/)（英文）
+8、[macOS 内核与 Linux 内核的差异](https://itsfoss.com/mac-linux-difference/)（英文）
 
-介绍 MacOS 内核的历史演变，跟 Linux 的差异还是很大的。
+介绍 macOS 内核的历史演变，跟 Linux 的差异还是很大的。
 
 9、[什么是 Web 应用程序防火墙（WAF）？](https://www.webarxsecurity.com/web-application-firewall/)（英文）
 

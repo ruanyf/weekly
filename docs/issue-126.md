@@ -228,7 +228,7 @@ CS107e 是斯坦福大学的一门计算机课程，内容关于硬件、底层�
 
 ![](https://www.wangbase.com/blogimg/asset/202009/bg2020091903.jpg)
 
-一个 Python 的 UI 框架，可以打包成 Windows、Linux、MacOS、 Android 和 iOS 应用，特别为多点触摸设备而设计。（[@qinhanlei](https://github.com/ruanyf/weekly/issues/1418) 投稿）
+一个 Python 的 UI 框架，可以打包成 Windows、Linux、macOS、 Android 和 iOS 应用，特别为多点触摸设备而设计。（[@qinhanlei](https://github.com/ruanyf/weekly/issues/1418) 投稿）
 
 7、[OpenGLCamera2](https://github.com/githubhaohao/OpenGLCamera2)
 
@@ -244,7 +244,7 @@ CS107e 是斯坦福大学的一门计算机课程，内容关于硬件、底层�
 
 ![](https://www.wangbase.com/blogimg/asset/202009/bg2020092008.jpg)
 
-一个树莓派的操作系统，可以让桌面变得像 MacOS 或 Windows。
+一个树莓派的操作系统，可以让桌面变得像 macOS 或 Windows。
 
 10、[Visual Mind AI](https://myraah.io/visualmind)
 

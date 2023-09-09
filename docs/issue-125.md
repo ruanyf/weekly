@@ -262,7 +262,7 @@ ELK 平台（Elasticsearch，Logstash，Kibana）的定时任务管理工具，�
 
 ![](https://www.wangbase.com/blogimg/asset/202009/bg2020091701.jpg)
 
-一个 Python 工具，让你的 Python 代码可以打包成跨平台图形界面应用，尤其是可以打包成手机 App，支持 iOS、Android、Windows、MacOS、Linux、Web 等平台。
+一个 Python 工具，让你的 Python 代码可以打包成跨平台图形界面应用，尤其是可以打包成手机 App，支持 iOS、Android、Windows、macOS、Linux、Web 等平台。
 
 ## 资源
 

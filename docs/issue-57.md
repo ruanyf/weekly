@@ -216,9 +216,9 @@ Caddy 是一种非常好用的 Web 服务器，作者演示如何根据 HTTP 请
 
 一个在浏览器运行的完整的 Python 解释器，可以执行 Python 脚本。
 
-12、[Microsoft Edge MacOS 预览版](https://blogs.windows.com/msedgedev/2019/05/20/microsoft-edge-macos-canary-preview/#OohksKQlAgRq1Qij.97)
+12、[Microsoft Edge macOS 预览版](https://blogs.windows.com/msedgedev/2019/05/20/microsoft-edge-macos-canary-preview/#OohksKQlAgRq1Qij.97)
 
-Microsoft 公司的 Edge 浏览器发布第一个 MacOS 的版本。（@[sedgwickz](https://github.com/ruanyf/weekly/issues/561) 投稿）
+Microsoft 公司的 Edge 浏览器发布第一个 macOS 的版本。（@[sedgwickz](https://github.com/ruanyf/weekly/issues/561) 投稿）
 
 ## 资源
 

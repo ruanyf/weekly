@@ -32,7 +32,7 @@ Figma 有一个竞争对手 [Sketch](https://www.sketch.com/)，功能差不多�
 
 我不是设计师用户，无法全面分析，只想指出在技术上，它们有一个重大差异。
 
-Sketch 是一个原生 MacOS 应用，只能在苹果电脑上安装运行，没有免费版。**Figma 则是一个 Web 应用，只要有浏览器就能用，而且有免费版。** 下图是浏览器打开 Figma 的样子。
+Sketch 是一个原生 macOS 应用，只能在苹果电脑上安装运行，没有免费版。**Figma 则是一个 Web 应用，只要有浏览器就能用，而且有免费版。** 下图是浏览器打开 Figma 的样子。
 
 ![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092004.webp)
 

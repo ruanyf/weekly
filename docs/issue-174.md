@@ -245,11 +245,11 @@ Firefox 91 提供了强化版 Cookie 删除，可以将某个网站引入的所�
 
 一个 Mac 应用，用来设计 iOS app 的页面，不用编写代码，用可视化的方式制作页面原型，可以在手机上预览页面效果。
 
-4、[Mac OS Monterey Web](https://github.com/puruvj/macos-web)
+4、[macOS Monterey Web](https://github.com/puruvj/macos-web)
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081422.jpg)
 
-使用 Svelte 框架在网页上模拟 Mac OS Monterey 的 UI。
+使用 Svelte 框架在网页上模拟 macOS Monterey 的 UI。
 
 5、[OneDev](https://github.com/theonedev/onedev)
 
@@ -285,11 +285,11 @@ Excel 公式的 JS 版，目前有300多个公式。同时，这个库也提供�
 
 下周一（9月6日）开始，三个晚上直播课，微信添加助理老师报名。
 
-2、[MacOS Bliss](https://basicappleguy.com/basicappleblog/macosbliss)
+2、[macOS Bliss](https://basicappleguy.com/basicappleblog/macosbliss)
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081019.jpg)
 
-作者参照 Windows XP 著名的草地壁纸，为 MacOS 和 iOS 也创建了多张类似风格的壁纸，可以免费下载，挺好看的。
+作者参照 Windows XP 著名的草地壁纸，为 macOS 和 iOS 也创建了多张类似风格的壁纸，可以免费下载，挺好看的。
 
 3、[如何在 Linux 上玩任天堂 Switch 模拟器](https://boilingsteam.com/emulating-nintendo-switch-games-on-linux-2/)（英文）
 

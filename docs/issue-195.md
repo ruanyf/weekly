@@ -72,7 +72,7 @@
 
 [FinClip](https://www.finclip.com/?from=ruanyifeng) 完全遵循微信小程序的开发标准与规范。也就是说，现有的微信小程序可以不改一行代码，直接放进你的 App 里面，运行效果保持不变，不必额外二次开发和改造，大大节省了人力成本。
 
-不仅如此，[FinClip](https://www.finclip.com/?from=ruanyifeng) 还支持手机以外的多种终端，包括 Linux、Windows、MacOS、麒麟等操作系统。这意味着，PC 端、车载设备、智能电视都能使用小程序了，实现了小程序的“一次开发，到处运行”，同时触达众多流量平台，而不仅仅局限于微信生态。
+不仅如此，[FinClip](https://www.finclip.com/?from=ruanyifeng) 还支持手机以外的多种终端，包括 Linux、Windows、macOS、麒麟等操作系统。这意味着，PC 端、车载设备、智能电视都能使用小程序了，实现了小程序的“一次开发，到处运行”，同时触达众多流量平台，而不仅仅局限于微信生态。
 
 ![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012107.webp)
 
@@ -238,7 +238,7 @@ Robert Nystrom 是一位拥有20年工作经验的谷歌软件工程师。他花
 
 ![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021701.webp)
 
-谷歌推出了 Chrome OS 的通用安装版，可以在现有的 PC 和 Mac 上安装，为普通用户提供了 Windows/MacOS 以外的第三种操作系统的选择。
+谷歌推出了 Chrome OS 的通用安装版，可以在现有的 PC 和 Mac 上安装，为普通用户提供了 Windows/macOS 以外的第三种操作系统的选择。
 
 6、[SolidJS](https://www.solidjs.com/)
 

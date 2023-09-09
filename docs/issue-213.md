@@ -216,7 +216,7 @@ PyScript 是一个用于网页的 Python 解释器，能够在网页上运行 Py
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070607.webp)
 
-这个 MacOS 工具可以提取短信里面的验证码，自动复制到剪贴板，参考[这篇教程](https://taohan.xyz/article/maccopier)。短信需要苹果手机设定转发到桌面电脑。（[@DreamSaddle](https://github.com/ruanyf/weekly/issues/2489) 投稿）
+这个 macOS 工具可以提取短信里面的验证码，自动复制到剪贴板，参考[这篇教程](https://taohan.xyz/article/maccopier)。短信需要苹果手机设定转发到桌面电脑。（[@DreamSaddle](https://github.com/ruanyf/weekly/issues/2489) 投稿）
 
 5、[doctree](https://github.com/sourcegraph/doctree)
 

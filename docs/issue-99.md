@@ -221,7 +221,7 @@ GitHub 的官方手机客户端，安卓和 iOS 都支持，可以发 issue、�
 
 ![](https://www.wangbase.com/blogimg/asset/202003/bg2020031907.jpg)
 
-一个 MacOS 应用，可以在系统菜单栏显示一个图标，点击后直接显示摄像头画面。
+一个 macOS 应用，可以在系统菜单栏显示一个图标，点击后直接显示摄像头画面。
 
 6、[jira_clone](https://github.com/oldboyxx/jira_clone)
 

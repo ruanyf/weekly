@@ -201,7 +201,7 @@ Notion 最近开放了 API，作者详细介绍如何写一个 Python 脚本，�
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050901.jpg)
 
-gdu 是 du 命令的 Go 语言版，用来分析 Linux 和 MacOS 系统的磁盘占用情况，提升了执行速度，并且有命令行图形界面。
+gdu 是 du 命令的 Go 语言版，用来分析 Linux 和 macOS 系统的磁盘占用情况，提升了执行速度，并且有命令行图形界面。
 
 5、[为什么我们从 Webpack 切换到 Vite？](https://blog.replit.com/vite)（英文）
 

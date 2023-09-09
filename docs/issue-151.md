@@ -238,7 +238,7 @@ GitBook 的 Rust 语言移植，可以将 markdown 源文件转成一个在线�
 
 ![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022703.jpg)
 
-一个 MacOS 应用，自动根据外部光线的强弱，调整桌面为亮模式或暗模式。
+一个 macOS 应用，自动根据外部光线的强弱，调整桌面为亮模式或暗模式。
 
 10、[Arrow](https://github.com/arrow-py/arrow)
 

@@ -228,7 +228,7 @@ Cloudflare Pages 开始了 beta 测试，可以自动构建 GitHub 仓库，发�
 
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030705.jpg)
 
-MacOS 应用，通过火焰图，进行磁盘可视化分析和清理。([@yujinqiu](https://github.com/ruanyf/weekly/issues/1665) 投稿)
+macOS 应用，通过火焰图，进行磁盘可视化分析和清理。([@yujinqiu](https://github.com/ruanyf/weekly/issues/1665) 投稿)
 
 9、[Encode Mighty Things](https://projects.noahliebman.net/encodemightythings/)
 

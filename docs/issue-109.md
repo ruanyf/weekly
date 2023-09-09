@@ -212,7 +212,7 @@ Playwright 跟 Puppeeter 很像，也是一个浏览器自动化引擎，两者�
 
 ![](https://www.wangbase.com/blogimg/asset/202005/bg2020052203.jpg)
 
-微软官方的命令行 Windows 包管理工具，估计是为了从 Linux 和 MacOS 系统抢夺开发者。不知道能否最终取代 Chocolatey。（[@jwenjian](https://github.com/ruanyf/weekly/issues/1255) 投稿）
+微软官方的命令行 Windows 包管理工具，估计是为了从 Linux 和 macOS 系统抢夺开发者。不知道能否最终取代 Chocolatey。（[@jwenjian](https://github.com/ruanyf/weekly/issues/1255) 投稿）
 
 9、[qqwry2mmdb](https://github.com/leolovenet/qqwry2mmdb)
 

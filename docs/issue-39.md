@@ -196,7 +196,7 @@ Linux 命令的搜索入口，提供中文解释。（@[jaywcjlove](https://gith
 
 ![](https://www.wangbase.com/blogimg/asset/201901/bg2019011116.jpg)
 
-国人开发的 MacOS 视频播放器，特点是点击文本字幕，会显示英语单词的中文解释，英语学习者的小帮手。
+国人开发的 macOS 视频播放器，特点是点击文本字幕，会显示英语单词的中文解释，英语学习者的小帮手。
 
 3、[tabulator](https://github.com/olifolkerd/tabulator)
 

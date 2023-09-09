@@ -229,7 +229,7 @@ AI 热潮使得`.ai`域名炙手可热，为安圭拉带来巨大财富。一个
 
 ![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090404.webp)
 
-一款 MacOS 刘海屏工具，将快捷键藏在刘海里面，鼠标移入时显示。（[@fengyiqicoder](https://github.com/ruanyf/weekly/issues/3445) 投稿）
+一款 macOS 刘海屏工具，将快捷键藏在刘海里面，鼠标移入时显示。（[@fengyiqicoder](https://github.com/ruanyf/weekly/issues/3445) 投稿）
 
 9、[文件桥](https://github.com/ppz-pro/file-bridge)
 

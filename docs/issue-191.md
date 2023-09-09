@@ -230,7 +230,7 @@ SQL 查询有 where 子句和 having 子句，它们的区别是什么？
 
 ![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121405.webp)
 
-一个 Rust 语言写的轻量级代码编辑器，速度极快，功能上模仿了 VS Code，支持 Windows 和 MacOS。
+一个 Rust 语言写的轻量级代码编辑器，速度极快，功能上模仿了 VS Code，支持 Windows 和 macOS。
 
 5、[console-helper](https://marketplace.visualstudio.com/items?itemName=AT-9420.console-helper)
 
@@ -248,7 +248,7 @@ SQL 查询有 where 子句和 having 子句，它们的区别是什么？
 
 ![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010612.webp)
 
-一个 MacOS 的网页收藏器，支持分类、标记、收集图像、添加标签，所有数据都保存在你的 iCloud。（[@hite](https://github.com/ruanyf/weekly/issues/2144) 投稿）
+一个 macOS 的网页收藏器，支持分类、标记、收集图像、添加标签，所有数据都保存在你的 iCloud。（[@hite](https://github.com/ruanyf/weekly/issues/2144) 投稿）
 
 8、[Internal App Store](https://github.com/SimonMarquis/InternalAppStore)
 

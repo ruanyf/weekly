@@ -234,7 +234,7 @@ VS Code 插件，使用 GPT 模型自动生成 Git 提交说明。（[@pwwang](h
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111905.webp)
 
-一个开源的 MacOS 应用，可以精细调节苹果电脑的各种显示参数。
+一个开源的 macOS 应用，可以精细调节苹果电脑的各种显示参数。
 
 10、[berty](https://berty.tech/)
 
