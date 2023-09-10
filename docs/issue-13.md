@@ -105,7 +105,7 @@ Python 语言的创始人和最高决策者 Guido van Rossum，由于他主导�
 
 5、[Web Assembly 和 Go](https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/)（英文）
 
-Go 1.11 将支持 Web Assembly，作者尝试用 Go 写了一个 TodoMVC。他的结论是："WebAssembly是 Web 开发的未来。两年后，Go、Swift、Rust 将占到前端代码的三分之一。
+Go 1.11 将支持 Web Assembly，作者尝试用 Go 写了一个 TodoMVC。他的结论是：WebAssembly 是 Web 开发的未来。两年后，Go、Swift、Rust 将占到前端代码的三分之一。
 
 这里还有一篇[文章](https://blog.lazyhacker.com/2018/06/go-with-webassembly-early-examples.html)，展示了两个用 Go 语言写的 WebAssebmly demo。
 
