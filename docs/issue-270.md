@@ -289,7 +289,7 @@ NASA 的宇航服就采用过这种颜色。
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040616.webp)
 
-金门大桥也采用这种颜色。
+四月二十五号大桥（葡萄牙里斯本）也采用这种颜色。
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040617.webp)
 
