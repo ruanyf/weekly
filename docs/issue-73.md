@@ -261,7 +261,7 @@ Bash 的日志工具，出错时打印调用堆栈，方便快速定位问题和
 
 4、[HelloDjango - Django 博客教程](https://www.zmrenwu.com/courses/HelloDjango-blog-tutorial/)
 
-Django 框架的中文入门教程，免费带你学 django 全栈。（@[521xueweihan](https://github.com/ruanyf/weekly/issues/775) 投稿）
+Django 框架的中文入门教程，免费带你学 Django 全栈。（@[521xueweihan](https://github.com/ruanyf/weekly/issues/775) 投稿）
 
 5、[Linux Journey](https://linuxjourney.com/)
 

@@ -215,7 +215,7 @@ Raw 格式的数码照片处理桌面软件，跨平台。
 
 3、[web-clipper](https://github.com/webclipper/web-clipper)
 
-Chrome 浏览器插件，支持一键将网页内容存储到多个平台，包括 Github、Notion、OneNote、语雀、有道等。（@[DiamondYuan](https://github.com/ruanyf/weekly/issues/173) 投稿）
+Chrome 浏览器插件，支持一键将网页内容存储到多个平台，包括 GitHub、Notion、OneNote、语雀、有道等。（@[DiamondYuan](https://github.com/ruanyf/weekly/issues/173) 投稿）
 
 4、[MarioHTML](https://github.com/nbarkhina/MarioHTML)
 

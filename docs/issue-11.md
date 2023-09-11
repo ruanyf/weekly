@@ -245,7 +245,7 @@ Google Analytics 是网站访问量的监控工具，这篇文章介绍了几个
 
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018062921.jpg)
 
-图上公司依次为诺基亚、LinkedIn、Skype、Minecraft、GitHub。有人说，下一个目标会是 ubuntu。
+图上公司依次为诺基亚、LinkedIn、Skype、Minecraft、GitHub。有人说，下一个目标会是 Ubuntu。
 
 3、[Emoji 的鸭子符号](https://emojiratings.tumblr.com/post/173579088393/duck-emoji-rates)
 

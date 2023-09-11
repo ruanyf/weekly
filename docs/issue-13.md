@@ -67,7 +67,7 @@ Linux 发行版 OpenSUSE 的母公司被收购了，价格是25亿美元。 这�
 
 Python 语言的创始人和最高决策者 Guido van Rossum，由于他主导的提案 PEP572 被社区反对，今天宣布非常疲倦，将不再执行最高决策者的角色。 但是，他没说接下来怎么决策，只说以后你们自己讨论决定。
 
-8、[Gentoo 的 GitHub 账户被黑](https://wiki.gentoo.org/wiki/Github/2018-06-28)
+8、[Gentoo 的 GitHub 账户被黑](https://wiki.gentoo.org/wiki/GitHub/2018-06-28)
 
 ![](https://www.wangbase.com/blogimg/asset/201807/bg2018071309.jpg)
 
@@ -105,7 +105,7 @@ Python 语言的创始人和最高决策者 Guido van Rossum，由于他主导�
 
 5、[Web Assembly 和 Go](https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/)（英文）
 
-Go 1.11 将支持 Web Assembly，作者尝试用 Go 写了一个 TodoMVC。他的结论是："WebAssembly是 Web 开发的未来。两年后，Go、Swift、Rust 将占到前端代码的三分之一。
+Go 1.11 将支持 Web Assembly，作者尝试用 Go 写了一个 TodoMVC。他的结论是：WebAssembly 是 Web 开发的未来。两年后，Go、Swift、Rust 将占到前端代码的三分之一。
 
 这里还有一篇[文章](https://blog.lazyhacker.com/2018/06/go-with-webassembly-early-examples.html)，展示了两个用 Go 语言写的 WebAssebmly demo。
 

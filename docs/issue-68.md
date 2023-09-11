@@ -283,15 +283,15 @@ GitHub 官方的命令行客户端。
 
 美国政府的官方网页，有几百条单词建议，指导你怎么写出简单的文章，不要用复杂的单词。比如说，“a 和 b 可以同时使用，也可以单独使用”，不要用`a and/or b`，而要用`a or b or both`。
 
-5、[数字隐私档案](https://github.com/No-Github/Digital-Privacy)
+5、[数字隐私档案](https://github.com/No-GitHub/Digital-Privacy)
 
-该仓库收集互联网上保护用户隐私的各种工具和方案。（@[No-Github](https://github.com/ruanyf/weekly/issues/670) 投稿）
+该仓库收集互联网上保护用户隐私的各种工具和方案。（@[No-GitHub](https://github.com/ruanyf/weekly/issues/670) 投稿）
 
 6、[今日热榜](https://tophub.today/)
 
 ![](https://www.wangbase.com/blogimg/asset/201907/bg2019071303.jpg)
 
-这是一个信息聚合服务，聚合各站热点，包括微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、华尔街见闻等，有 Web 版和 App 下载。
+这是一个信息聚合服务，聚合各站热点，包括微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、GitHub、华尔街见闻等，有 Web 版和 App 下载。
 
 ## 图片
 

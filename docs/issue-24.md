@@ -231,7 +231,7 @@ React 应用的原型设计工具。
 
 6、[reminiscence](https://github.com/kanishka-linux/reminiscence)
 
-一个架设在本地的网络书签管理系统，会自动抓取书签内容，并生成标签和摘要，使用 django 框架开发。
+一个架设在本地的网络书签管理系统，会自动抓取书签内容，并生成标签和摘要，使用 Django 框架开发。
 
 7、[xsv](https://github.com/BurntSushi/xsv)
 

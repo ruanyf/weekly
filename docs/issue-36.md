@@ -248,7 +248,7 @@ Chrome 浏览器的扩展，使用类似 Vim 的快捷键，通过键盘操作�
 
 Markdown 的 lint 工具，检查编写格式是否规范。（@[hustcc](https://github.com/ruanyf/weekly/issues/98)__ __投稿）
 
-11、[Get Github User's Public Events](https://able8.github.io/github-events/)
+11、[Get GitHub User's Public Events](https://able8.github.io/github-events/)
 
 查看某个用户的所有 GitHub 公开活动。（@[able8](https://github.com/ruanyf/weekly/issues/129) 投稿）
 

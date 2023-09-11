@@ -192,7 +192,7 @@ OAuth 是最常用的身份认证协议，本文分析它的一些难点，为�
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040601.webp)
 
-一篇详细的指南，教你怎么把过时的 Macbook 利用起来，装上 Linux。
+一篇详细的指南，教你怎么把过时的 MacBook 利用起来，装上 Linux。
 
 7、[MySQL 和 MariaDB 的差异](https://www.skeema.io/blog/2023/05/10/mysql-vs-mariadb-schema/)（英文）
 

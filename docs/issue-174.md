@@ -237,13 +237,13 @@ Firefox 91 提供了强化版 Cookie 删除，可以将某个网站引入的所�
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081312.jpg)
 
-在 M1 架构的 Macbook 上运行 iOS app 时，这个开源工具可以让鼠标和键盘支持 iOS app。
+在 M1 架构的 MacBook 上运行 iOS App 时，这个开源工具可以让鼠标和键盘支持 iOS App。
 
 3、[Judo](https://www.judo.app/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081413.jpg)
 
-一个 Mac 应用，用来设计 iOS app 的页面，不用编写代码，用可视化的方式制作页面原型，可以在手机上预览页面效果。
+一个 Mac 应用，用来设计 iOS App 的页面，不用编写代码，用可视化的方式制作页面原型，可以在手机上预览页面效果。
 
 4、[macOS Monterey Web](https://github.com/puruvj/macos-web)
 

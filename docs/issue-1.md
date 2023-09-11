@@ -163,11 +163,11 @@ DNS 响应时间的命令行比较脚本。
 
 Braille Neue 是布里叶盲文系统与正常字母的结合，无障碍设计的典范，为什么没有人早点想到这个点子呢。
 
-2、[Macbook 一美元改成触摸屏](https://github.com/bijection/sistine)
+2、[MacBook 一美元改成触摸屏](https://github.com/bijection/sistine)
 
 ![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042307.jpg)
 
-一个非常牛的项目，作者在 Macbook 的摄像头上面，架了一块镜子。然后，自动捕捉并识别手指的坐标。
+一个非常牛的项目，作者在 MacBook 的摄像头上面，架了一块镜子。然后，自动捕捉并识别手指的坐标。
 
 3、[Jelly Mario Bros](http://jellymar.io/)
 

@@ -42,7 +42,7 @@
 
 如果再往前推，2010年初，推特只有130个员工，活跃用户是3000万。现在，用户数是那时的十多倍，而130个员工的十多倍，正好接近7500人裁员75%。这是巧合吗？
 
-事实上，即使裁员75%，跟其他一些公司相比，推特的员工还是偏多的。一个极端的例子是，脸书收购 Instagram 时，后者的用户数量已经到了3亿，但只有13个员工。Telegram 有[7亿活跃用户](https://telegram.org/blog/700-million-and-premium)，员工人数在500人至1000人之间。Whatsapp 有20亿用户，[员工数量](https://webtribunal.net/blog/whatsapp-statistics/)是50个工程师 + 55个其他人员。
+事实上，即使裁员75%，跟其他一些公司相比，推特的员工还是偏多的。一个极端的例子是，脸书收购 Instagram 时，后者的用户数量已经到了3亿，但只有13个员工。Telegram 有[7亿活跃用户](https://telegram.org/blog/700-million-and-premium)，员工人数在500人至1000人之间。WhatsApp 有20亿用户，[员工数量](https://webtribunal.net/blog/whatsapp-statistics/)是50个工程师 + 55个其他人员。
 
 这告诉我们，**互联网软件开发不需要很多员工，一个精干的工程师团队就可以维护了。** 
 

@@ -163,7 +163,7 @@ axios 是一个非常流行的 JavaScript 语言的 HTTP 请求库，本文分�
 
 ![](https://www.wangbase.com/blogimg/asset/201808/bg2018083114.jpg)
 
-一个 Electron 的实验环境。对于小型项目，把代码贴进去，自动编译出一个 Electron 窗口供调试。编辑完还可以把所有代码发上 Github Gist，用来分享。
+一个 Electron 的实验环境。对于小型项目，把代码贴进去，自动编译出一个 Electron 窗口供调试。编辑完还可以把所有代码发上 GitHub Gist，用来分享。
 
 6、[dumper.js](https://github.com/zeeshanu/dumper.js)
 
