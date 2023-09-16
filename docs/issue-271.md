@@ -168,7 +168,7 @@ Meta 公司最近发布了 Threads 应用，跟推特竞争。这篇文章告诉
 
 一个免费服务，你可以定制这台服务器返回的 HTTP 数据头，适合用来测试。
 
-2、[DocuSign](https://github.com/docusealco/docuseal)
+2、[DocuSeal](https://github.com/docusealco/docuseal)
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072101.webp)
 
