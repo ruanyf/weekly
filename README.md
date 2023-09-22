@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **九月**
 
+- 第 272 期：[Unity 的安装费，游戏业的缩影](docs/issue-272.md)
 - 第 271 期：[非线性的世界，线性的你](docs/issue-271.md)
 - 第 270 期：[“精益开发”的精益是什么？](docs/issue-270.md)
 - 第 269 期：[为什么英雄不使用炸药](docs/issue-269.md)
