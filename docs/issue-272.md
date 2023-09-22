@@ -90,7 +90,7 @@ Unity 自身的经营状况并不乐观。它是上市公司，自从2020年上�
 
 美国笔记本电脑品牌 Framework，主打零件的可替换、可复用。它的笔记本都可以自己动手组装。
 
-现在，它又与 Cool Master 合作，推出了一个很酷的产品：主板盒。
+现在，它又与 Cooler Master 合作，推出了一个很酷的产品：主板盒。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080801.webp)
 
