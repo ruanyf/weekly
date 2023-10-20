@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **十月**
 
+- 第 274 期：[加密通信的最后一块拼图](docs/issue-274.md)
 - 第 273 期：[任正非的三篇最新谈话](docs/issue-273.md)
 
 **九月**
