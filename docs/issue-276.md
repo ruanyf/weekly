@@ -248,7 +248,7 @@ Instagram 在2010年10月发布，一年之内就拥有了1400万用户。它那
 
 一个 Web 白板工具，支持多人实时协作。
 
-8、[Rspark](https://www.rspack.dev/zh/)
+8、[Rspack](https://www.rspack.dev/zh/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103103.webp)
 
