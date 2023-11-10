@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **十一月**
 
+- 第 277 期：[工作台副屏的最佳选择](docs/issue-277.md)
 - 第 276 期：[内容行业的衰落](docs/issue-276.md)
 
 **十月**
