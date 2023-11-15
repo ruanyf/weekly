@@ -180,7 +180,7 @@
 
 一个越南程序员的自述，辞职两年，做了4个应用，最近收入达到了每月4.5万美元。
 
-4、[男孩概率问题](https://www.maa.org/external_archive/devlin/devlin_04_10.html)（英文）
+4、[男孩概率问题](https://web.archive.org/web/20230828043838/https://www.maa.org/external_archive/devlin/devlin_04_10.html)（英文）
 
 本文讨论一个概率问题：有两个孩子，已知一个是男孩，请问另一个也是男孩的概率是多少。很多人会回答是50%，这个答案是错的。
 
