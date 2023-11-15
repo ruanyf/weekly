@@ -246,9 +246,7 @@ Oculus Quest 2 是目前最畅销的 VR 头盔，自带一个浏览器可以浏�
 
 5、[伽马影迷](https://ggt1024.com/#/productJwksExt)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022506.webp)
-
-一个浏览器插件，可以在 B 站/豆瓣/IMDb/烂番茄/MetaCritic 等网站上，聚合显示电影评分、短视频解说和片源信息。（[@tonytony2020](https://github.com/ruanyf/weekly/issues/2217) 投稿）
+一个浏览器插件，可以在 B 站/豆瓣/IMDb/烂番茄/MetaCritic 等网站上，聚合显示电影评分和第三方跳转搜索链接。（[@tonytony2020](https://github.com/ruanyf/weekly/issues/2217) 投稿）
 
 6、[Clover](https://cloverapp.com/)
 
