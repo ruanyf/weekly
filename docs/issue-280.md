@@ -274,7 +274,7 @@ Python 的 Web 框架 streamlit 的一个组件库。（[@ObservedObserver](http
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112710.webp)
 
-一个 LLM 应用，根据根据需求生成开发文档，然后生成软件代码。（[@qinwanglsm](https://github.com/ruanyf/weekly/issues/3664) 投稿）
+一个 LLM 应用，根据需求生成开发文档，然后生成软件代码。（[@qinwanglsm](https://github.com/ruanyf/weekly/issues/3664) 投稿）
 
 ## 资源
 
