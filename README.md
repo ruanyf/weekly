@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **十二月**
 
+- 第 281 期：[新基建的政策选择](docs/issue-281.md)
 - 第 280 期：[机器点餐与宅文化](docs/issue-280.md)
 
 **十一月**
