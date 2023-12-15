@@ -188,19 +188,19 @@ Chrome 团队的总结，2023年 CSS 增加了哪些功能。
 
 网站的静态资源，通常不会经常变动，它们的缓存应该怎么写 HTTP 标头呢。
 
-1、[如何将 MP3 文件转为 Opus 格式？](https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html)（英文）
+7、[如何将 MP3 文件转为 Opus 格式？](https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082108.webp)
 
 Opus 是新的音乐编码格式，比 MP3 音频质量更好，而且压缩后体积还更小。
 
-7、[如何降低手机的亮度](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)（英文）
+8、[如何降低手机的亮度](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110713.webp)
 
 有时候，即使调到最暗，手机屏幕依然很亮，本文教你如何在苹果和安卓手机上，将屏幕调到极暗。
 
-8、[如何使用 GPT-3 解析非结构化数据](https://marcotm.com/articles/information-extraction-with-large-language-models-parsing-unstructured-data-with-gpt/)（英文）
+9、[如何使用 GPT-3 解析非结构化数据](https://marcotm.com/articles/information-extraction-with-large-language-models-parsing-unstructured-data-with-gpt/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092401.webp)
 
