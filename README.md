@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **十二月**
 
+- 第 283 期：[[年终感想] 没有目的地，向前走](docs/issue-283.md)
 - 第 282 期：[电动皮卡 Cybertruck 的 48V 供电](docs/issue-282.md)
 - 第 281 期：[新基建的政策选择](docs/issue-281.md)
 - 第 280 期：[机器点餐与宅文化](docs/issue-280.md)
