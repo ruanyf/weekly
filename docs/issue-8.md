@@ -101,11 +101,11 @@ Web Components 是浏览器原生的组件解决方案。如果你愿意对新�
 
 [![bm2.png | center | 826x276](https://cdn.yuque.com/yuque/0/2018/png/84141/1528279458174-ac6c630c-6ed6-427d-95f8-0281913653ec.png "")](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)
 
-现在，[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)<span data-type="color" style="color:#3E3E3E">推出了[贝米战队](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)<span data-type="color" style="color:#3E3E3E">活动。专门针对程序员群体，提供更高的收益。一个战队2~5人，所有队员均可邀请好友入队，成功组队投资，最高可获得2958元现金红包。活动到6月20日就结束了，扫描以下二维码了解更多！
+现在，[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)<span data-type="color" style="color:#3E3E3E">推出了[贝米战队](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)<span data-type="color" style="color:#3E3E3E">活动。专门针对程序员群体，提供更高的收益。一个战队2~5人，所有队员均可邀请好友入队，成功组队投资，最高可获得2958元现金红包。活动到6月20日就结束了，扫描以下二维码了解更多！</span></span>
 
 [![bm3.png | center | 206x206](https://www.wangbase.com/blogimg/asset/201806/bg2018060813.png "")](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)
 
-另外，[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)承诺会将[本次活动](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)利润的 5% 捐赠给开源社区，<span data-type="color" style="color:rgb(34, 34, 34)">包括 Vue.js、webpack、Element、VUX、Babel 等项目。
+另外，[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)承诺会将[本次活动](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)利润的 5% 捐赠给开源社区，<span data-type="color" style="color:rgb(34, 34, 34)">包括 Vue.js、webpack、Element、VUX、Babel 等项目。</span>
 
 ## 教程
 
@@ -251,7 +251,7 @@ Facebook 和 Airbnb 设计系统的创造者[@soopa](https://twitter.com/soopa) 
 
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018060825.jpg)
 
-1941年，<span data-type="color" style="color:rgb(68, 68, 68)">美国《生活》（LIFE）杂志摄影师迈登斯（ Carl Mydans）来到中国，拍摄中国人民的抗战。现在，他拍摄的3332张照片已经可以在互联网免费下载。
+1941年，<span data-type="color" style="color:rgb(68, 68, 68)">美国《生活》（LIFE）杂志摄影师迈登斯（ Carl Mydans）来到中国，拍摄中国人民的抗战。现在，他拍摄的3332张照片已经可以在互联网免费下载。</span>
 
 2、[监视器上的燕子](https://www.mobile01.com/topicdetail.php?f=629&t=5445008&p=8#68506804)
 
