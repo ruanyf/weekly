@@ -86,27 +86,6 @@ Web Components 是浏览器原生的组件解决方案。如果你愿意对新�
 
 美国一个组织发现，Facebook 允许广告主指定受众的年龄范围，结果导致40岁以上的访问者看不到招聘广告，而美国法律明文禁止招聘的年龄歧视。就像上面的广告，只有25～36岁的人才能看到。
 
-## 贝米钱包
-
-本期《每周分享》很高兴得到了[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)（[www.bmqb.com](https://www.bmqb.com/?track_id=ryf_zutuan)）的赞助。
-
-[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)，2014年12月成立于上海，是一家专业网络借贷信息中介平台，已获得源码资本A轮千万级融资，出资人包括王兴、张一鸣等互联网巨头高管。
-
-[![bm1.png | center | 400x128](https://www.wangbase.com/blogimg/asset/201806/bg2018060811.png "")](https://www.bmqb.com/?track_id=ryf_zutuan)
-
-平台主打中短期优质投资服务，目前共有定存计划、分红计划两款产品。
-
-* 定存计划：中长期投资，历史年化收益率达10.5%以上。
-* 分红计划：15天锁定期，30天后可以支取，低到100元起投，历史平均年化收益率达10%。
-
-[![bm2.png | center | 826x276](https://cdn.yuque.com/yuque/0/2018/png/84141/1528279458174-ac6c630c-6ed6-427d-95f8-0281913653ec.png "")](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)
-
-现在，[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)<span data-type="color" style="color:#3E3E3E">推出了[贝米战队](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)<span data-type="color" style="color:#3E3E3E">活动。专门针对程序员群体，提供更高的收益。一个战队2~5人，所有队员均可邀请好友入队，成功组队投资，最高可获得2958元现金红包。活动到6月20日就结束了，扫描以下二维码了解更多！</span></span>
-
-[![bm3.png | center | 206x206](https://www.wangbase.com/blogimg/asset/201806/bg2018060813.png "")](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)
-
-另外，[贝米钱包](https://www.bmqb.com/?track_id=ryf_zutuan)承诺会将[本次活动](https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan)利润的 5% 捐赠给开源社区，<span data-type="color" style="color:rgb(34, 34, 34)">包括 Vue.js、webpack、Element、VUX、Babel 等项目。</span>
-
 ## 教程
 
 1、[文章] [深度学习在线课程比较](https://hackernoon.com/deeplearning-101-coursera-vs-udemy-vs-udacity-b4eb3de06dbe)（英文）
