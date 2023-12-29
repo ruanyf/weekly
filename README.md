@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3684)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3814)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索 
 
@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **十二月**
 
+- 第 284 期：[YouTube 有多少个视频？](docs/issue-284.md)
 - 第 283 期：[[年终感想] 没有目的地，向前走](docs/issue-283.md)
 - 第 282 期：[电动皮卡 Cybertruck 的 48V 供电](docs/issue-282.md)
 - 第 281 期：[新基建的政策选择](docs/issue-281.md)
