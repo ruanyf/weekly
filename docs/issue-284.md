@@ -96,7 +96,7 @@ YouTube 也没有透露过，这个编号是怎么产生的。
 
 ![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122205.webp)
 
-早先媒体已经确认，Cybertruck 的菜单里面确实有一个“涉水模式”（ward mode）（下图），看来真的可以在水里开。
+早先媒体已经确认，Cybertruck 的菜单里面确实有一个“涉水模式”（wade mode）（下图），看来真的可以在水里开。
 
 ![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122206.webp)
 
