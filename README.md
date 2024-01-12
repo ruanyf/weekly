@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **一月**
 
+- 第 286 期：[蓝色指示灯的解决方案](docs/issue-286.md)
 - 第 285 期：[为什么 PPT 不如备忘录](docs/issue-285.md)
 
 ## 2023
