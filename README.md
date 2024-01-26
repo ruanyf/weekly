@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **一月**
 
+- 第 288 期：[技术写作的首要诀窍](docs/issue-288.md)
 - 第 287 期：[禄丰恐龙谷记行](docs/issue-287.md)
 - 第 286 期：[蓝色指示灯的解决方案](docs/issue-286.md)
 - 第 285 期：[为什么 PPT 不如备忘录](docs/issue-285.md)
