@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **二月**
 
+- 第 290 期：[苹果头盔的最大问题](docs/issue-290.md)
 - 第 289 期：[宽容从何而来](docs/issue-289.md)
 
 **一月**
