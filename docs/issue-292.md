@@ -299,7 +299,7 @@ Docker 容器里运行 Windows 系统，可选择 Win7，Win10，Win11 等，支
 
 4、[Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
 
-这个收集各种常用的 Docker Compose 配置文件。
+这个仓库收集各种常用的 Docker Compose 配置文件。
 
 5、[学习 x86-64 汇编语言](http://www.egr.unlv.edu/~ed/x86.html)
 
