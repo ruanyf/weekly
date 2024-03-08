@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **三月**
 
+- 第 292 期：[所有代码都是技术债](docs/issue-292.md)
 - 第 291 期：[AI 没有护城河](docs/issue-291.md)
 
 **二月**
