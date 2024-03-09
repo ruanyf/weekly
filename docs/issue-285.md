@@ -286,7 +286,7 @@ Vercel 的 [v0.dev](https://v0.dev/) 可以通过输入需求，直接生成网�
 
 9、[stt](https://github.com/jianchang512/stt)
 
-离线运行的本地语音识别转文字工具，基于 fast-whipser 模型。（[@jianchang512](https://github.com/ruanyf/weekly/issues/3829) 投稿）
+离线运行的本地语音识别转文字工具，基于 fast-whisper 模型。（[@jianchang512](https://github.com/ruanyf/weekly/issues/3829) 投稿）
 
 10、[Vue TSX Admin](https://github.com/manyuemeiquqi/vue-tsx-admin)
 
