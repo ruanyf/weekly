@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **三月**
 
+- 第 294 期：[崖门海战的感想](docs/issue-294.md)
 - 第 293 期：[一周是一年的2%](docs/issue-293.md)
 - 第 292 期：[所有代码都是技术债](docs/issue-292.md)
 - 第 291 期：[AI 没有护城河](docs/issue-291.md)
