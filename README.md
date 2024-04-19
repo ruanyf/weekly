@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
+- 第 297 期：[饮水鸟玩具](docs/issue-297.md)
 - 第 296 期：[xz 后门的作者 Jia Tan 是谁？](docs/issue-296.md)
 
 **三月**
