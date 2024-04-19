@@ -4,7 +4,7 @@
 
 本杂志开源（GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)），欢迎提交 issue，投稿或推荐你的项目。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082201.jpg)
 
 封面图：南浦大桥，上海，2019。
 
@@ -32,11 +32,11 @@
 
 国内领先的在线教育平台[“开课吧”](https://www.kaikeba.com/)，邀请廖雪峰和阿里前端架构师，制作了一份脑图 **《Web 全栈架构师所需技术栈》** ，高清大图免费赠送给大家。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082009.jpg)
 
 最新录制的 **《Vue 源码解析》** 视频课程（定价799元），也是免费赠送。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082008.jpg)
 
 微信扫描上方二维码，添加好友，即可领取，本期的免费名额一共是300位。
 
@@ -48,9 +48,9 @@
 
 1、[太阳帆](http://www.planetary.org/blogs/jason-davis/lightsail-2-successful-flight-by-light.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080113.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080114.jpg)
 
 一个全球性的民间组织“行星协会”，为了验证太阳帆的可行性，于2019年6月25日发射了一个小型飞行器，日前已经打开了太阳帆。
 
@@ -58,7 +58,7 @@
 
 2、[3D 打印皮肤和骨骼](https://www.esa.int/Our_Activities/Space_Engineering_Technology/Upside-down_3D-printed_skin_and_bone_for_humans_to_Mars)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080210.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080210.jpg)
 
 德国德累斯顿大学的科学家正在研发，3D 打印人体皮肤和骨骼。皮肤使用人体血浆细胞打印，骨骼使用磷酸钙加上人体干细胞打印（上图）。
 
@@ -66,53 +66,53 @@
 
 3、[飞越英吉利海峡](https://www.bbc.com/news/world-europe-49225001)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080501.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080502.jpg)
 
 8月4日，40岁的法国发明家弗兰基·萨帕塔（Franky Zapata）依靠一个背负式喷气式飞行器，飞越了英吉利海峡，耗时22分钟（35.4公里），最高速度170公里/小时。
 
 该飞行器采用装满煤油的背包提供动力。法国军方赞助了这个项目，希望未来用于军事用途。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080503.jpg)
 
 4、[新能源样本房](https://www.bloomberg.com/news/features/2019-08-03/a-deluge-of-batteries-is-about-to-rewire-the-power-grid)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080505.jpg)
 
 特斯拉公司在澳大利亚展示新能源样本房。这是一套五个居室的乡间别墅，屋顶安装了33块太阳能板，电能储存在车库的两个 Powerwall 电池组里面。不过，太阳能只能满足一半的用电需求，每天用电几个小时之后，还是需要当地电网供电。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080506.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080507.jpg)
 
 5、[太阳能道路试验失败](https://www.curbed.com/2019/7/25/8929870/france-solar-roadway-experiment-normandy)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082202.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080803.jpg)
 
 2016年，法国宣布了一个大胆计划，将用光伏电池板铺设1000公里道路，完成后可以为500万个家庭供电。第一阶段一公里的道路已经完成，计划为5,000个家庭供电，但是看上去这条道路已经失败了。
 
 主要原因是光伏板在高速公路上的磨损，远远超过预期。2800平方米的光伏池板已经剥落，其中100米路段破损严重而无法修复。另外，这条道路每年仅产生15万度电，效率远低于普通的倾斜式太阳能电池板。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082203.jpg)
 
 6、[印尼的屋顶村庄](https://www.theguardian.com/cities/2019/aug/05/suburb-in-the-sky-how-jakartans-built-an-entire-village-on-top-of-a-mall)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080807.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080809.jpg)
 
 西方媒体最近发现，印尼首都雅加达的一座购物中心10楼的楼顶，居然有一个78座两层别墅构成的居民小区。小区里面有道路、绿地、网球场和游泳池，汽车可以一直从地面开到楼顶。
 
 雅加达有1000万人口，十分拥挤，交通堵塞，严重污染。而且由于地势低，经常被水淹。这个居民小区反映了这种现实。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080808.jpg)
 
 7、[去除海洋微塑料的新方法](https://www.ecowatch.com/google-science-award-irish-teenager-2639623184.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081508.jpg)
 
 16岁的爱尔兰少年 Fionn Ferreira 发明了一种从海洋中去除微塑料的新方法，获得了2019年谷歌科学节（Google Science Fair）的大奖。
 
@@ -126,27 +126,27 @@ Ferreira 的方法是将磁铁碎屑液化倒入水中，可以吸附微塑料�
 
 > - [一位加拿大摄影师](https://www.nationalgeographic.com/animals/2019/07/humpback-whale-sea-lion-mouth-photo/)在出海时，拍到了鲸鱼捕食海狮的一瞬间。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019073101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019073101.jpg)
 
 > [俄罗斯](https://www.theguardian.com/world/2019/aug/15/miracle-russia-ural-airlines-plane-lands-cornfield-moscow-gulls)一架空中巴士8月14日在莫斯科起飞后，撞到一群海鸥，导致发动机故障，迫降在玉米田，233名乘客无一死亡。在俄罗斯坐飞机，真是需要勇气。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081509.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081510.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081510.jpg)
 
 > - [一个波兰团队](https://www.theguardian.com/science/2019/aug/01/most-detailed-ever-3d-map-of-milky-way-shows-warped-shape-cepheid)发现，银河系的形状不是一个平的圆盘，而是像一个两端翘起的黑胶唱片，一端向上翘，另一端向下翘。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080209.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080209.jpg)
 
 > - [NEC 公司](https://www.bloomberg.com/news/articles/2019-08-05/new-japanese-flying-car-gets-off-the-ground-for-about-a-minute)展示新研制的飞行汽车。日本政府计划2023年通过飞行汽车运送货物，2030年之前开始城市的载人飞行。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080504.jpg)
 
 ## 文章
 
 1、[为什么一天有两次潮汐](https://book.douban.com/review/6653141/)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080203.jpg)
 
 潮汐是月球引力引起的，这样的话，应该最靠近月球的时候，才会发生涨潮。但是事实上，地球上大多数地方，一天有两次涨潮，某个地点最远离月球的时候也会涨潮，这是为什么？
 
@@ -176,13 +176,13 @@ Syslog 是一种日志协议，Linux 系统普遍使用这种日志，其他系�
 
 8、[22岁奥地利 PHP 程序员专访](https://www.nocsdegree.com/22-year-old-self-taught-web-developer-earns-15k-a-month-in-rural-austria/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080804.jpg)
 
 22岁的皮特完全通过自学，掌握 PHP 编程。他介绍自己如何通过互联网接项目，找到远程工作，目前的收入每月税前可以达到15K欧元。
 
 9、[狗狗克劳斯的历史](https://512pixels.net/dogcow/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080904.png)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080904.png)
 
 狗狗克劳斯（Clarus the dogcow）曾经是苹果公司技术的吉祥物，现在已经不用了。本文回顾它的历史。
 
@@ -194,7 +194,7 @@ Syslog 是一种日志协议，Linux 系统普遍使用这种日志，其他系�
 
 1、[exa](https://the.exa.website/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072001.jpg)
 
 目录查看命令`ls`的替代品。
 
@@ -216,13 +216,13 @@ Syslog 是一种日志协议，Linux 系统普遍使用这种日志，其他系�
 
 6、[SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072301.jpg)
 
 一个 SVG 图标库，提供100多个常用的 Logo 图标。
 
 7、[Ananas Analytics](https://ananasanalytics.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072302.jpg)
 
 数据可视化的桌面工具，可以连接各种数据源，进行图形可视化操作。
 
@@ -240,13 +240,13 @@ Syslog 是一种日志协议，Linux 系统普遍使用这种日志，其他系�
 
 11、[Gissue](https://gissue.github.io/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080805.jpg)
 
 GitHub issues 备份工具，只要填入仓库地址就可以下载压缩文件包，一次性下载所有 issue。（@[tangkaichuan](https://github.com/ruanyf/weekly/issues/760) 投稿）
 
 12、[Zdog](https://github.com/metafizzy/zdog)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080806.jpg)
 
 一个 JavaScript 的 3D 设计和动画制作库。（@[ifrontend-xyz](https://github.com/ruanyf/weekly/issues/761) 投稿）
 
@@ -266,13 +266,13 @@ GitHub issues 备份工具，只要填入仓库地址就可以下载压缩文件
 
 4、[美国的废弃建筑](https://www.abandonedamerica.us/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072101.jpg)
 
 该网站专门探访美国废弃的建筑，有民宅，也有工厂和商店，然后拍摄照片，撰写游记，放到网上。
 
 5、[互动式元素周期表](https://ptable.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072204.jpg)
 
 点击查看各种元素的介绍，以及其他一些互动功能。
 
@@ -284,27 +284,27 @@ GitHub issues 备份工具，只要填入仓库地址就可以下载压缩文件
 
 1、[哈尔格林姆教堂](https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071310.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071310.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071311.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071311.jpg)
 
 哈尔格林姆教堂（Hallgrímskirkja）是冰岛首都雷克雅未克最大的教堂，高74.5米，也是冰岛最高的建筑之一。该教堂从1937年开始设计，1945年开工，于1986年完工。
 
 教堂外观借鉴了冰岛常见的景观：玄武岩山脉和冰川。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071312.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071312.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071313.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071313.jpg)
 
 2、[Watchman](https://en.wikipedia.org/wiki/Sony_Watchman)
 
 Sony 公司生产的便携式音乐播放器 Walkman，开创了一个时代，影响了几代人。其实，Sony 公司同时还推出了便携式电视机 Watchman，用来收看电视。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071315.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071315.jpg)
 
 第一代 Watchman 于1982年推出，后来陆续又推出了其他机型，前后共有65种。由于它只能接收模拟信号，随着数字电视的兴起，最终在2000年 Watchman 停产。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071316.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071316.jpg)
 
 ## 文摘
 
@@ -336,7 +336,7 @@ Dan 开始到处找合适的佛像，有天他看到一尊大约60公分高的�
 
 就这样，Dan 每天早上起床喝咖啡的时候，就可以看到佛像是否还安好。这算是在公有土地上做私有的事，Dan可不管，他觉得有些事就是先做再说，别管什么行政程序了。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071704.jpg)
  
 佛像就静静地坐在那块草地上，一开始，垃圾少了，然后大约四个月后的某天一早，他发现有人坐在草地上给佛陀上漆。那人非常小心翼翼，他把佛像漆成了白色的。而且那人还留了一颗橘子在佛陀前。
 
@@ -348,11 +348,11 @@ Dan 开始到处找合适的佛像，有天他看到一尊大约60公分高的�
 
 这尊佛雕除了外型变了，还有人为她盖了一栋房子，若你个子娇小，还可以钻进去跟佛陀一起睡一晚的那种小房子。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071705.jpg)
 
 每天早上七点，就会有人来膜拜诵经，他们会敲着木鱼念唱一段时间。有时候，神坛前会出现一排桌子摆满食物与祭品，然后这些虔诚的信徒们会先进行祭拜仪式，接着他们就在树下闲聊，过一会再把祭品收拾干净，或者坐在草地上分享祭品一起吃掉。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071706.jpg)
 
 这些信徒都是从别处来的，不是这个社区的，他们英文不好，有的甚至不会说英文。现在一天大概会有70-80个人特别来这里祭拜佛陀，甚至还有从明尼苏达来的。
 
@@ -402,7 +402,7 @@ Dan 开始到处找合适的佛像，有天他看到一尊大约60公分高的�
 
 1、**厦门铃盛软件**
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082002.png)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082002.png)
 
 职位：**前端软件工程师**，工作地点：**福建省厦门市**
 
@@ -412,7 +412,7 @@ RingCentral（NYSE: RNG）是纽约交易所上市公司，总部在美国硅谷
 
 2、**秘猿科技**
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080701.png)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)
 
 秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。以下职位的工作地点为杭州，也可以 remote。
 
@@ -427,7 +427,7 @@ RingCentral（NYSE: RNG）是纽约交易所上市公司，总部在美国硅谷
 
 去年的本周：[第 18 期](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-18.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081701.jpg)
 
 ## 订阅
 

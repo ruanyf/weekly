@@ -8,7 +8,7 @@
 
 ## 刊首图
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071304.jpg)
 
 7月12日凌晨，哈尔滨医生、天文摄影爱好者姜雪鹏拍到了 C/2020F3 彗星。他表示这颗彗星特别明亮，北半球已经好多年没有见到这么亮的彗星了。该彗星大约在北京时间凌晨4点出现北半球东北方仰角15度的方向，持续5到10分钟。
 
@@ -18,7 +18,7 @@
 
 2007年，他搬到上海，发现很多中国公司财务造假。他就开了一家咨询公司，根据成语“浑水摸鱼”起名为“浑水投资”，专门做空财务造假的中国公司。瑞幸咖啡就是他揭露的。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071503.jpg)
 
 最近，他接受[采访](https://finance.sina.com.cn/stock/usstock/clues/hg/2020-07-08/doc-iirczymm0128209.shtml)，说现在的美国经济就像“一个巨大的、打破历史记录的火药桶”。
 
@@ -36,7 +36,7 @@
 
 现在是互联网时代，业务产生的数据越来越多。数据分析正成为日常工作必备的技能，相关的招聘岗位不断增加，企业日益重视。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071425.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071425.jpg)
 
 数据分析可以分成两个层次。（1）基础层：发现数据包含的趋势，对产品经理和业务人员比较有用。（2）进阶层：运用数据去构造模型，再用来处理新的数据，对算法人员和开发者比较有用。
 
@@ -53,25 +53,25 @@
 
 同时，还会赠送数字版的《数据科学技能树》海报，适合打印出来张贴。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071423.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071423.jpg)
 
 只要扫描下面的二维码，添加助理老师，就可以免费领取。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071424.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071424.jpg)
 
 ## 资讯
 
 1、[视频会议的画面布局](https://lvv2.com/t/2453409/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070701.jpg)
 
 视频会议软件 Zoom 的画面布局，是所有人平均分配屏幕空间。日本很多用户感到不习惯，纷纷向 Zoom 反馈，上下级的头像一样大，搞不清楚谁是领导，不好区分地位级别，希望能更改界面。日本网友就画出了下面的屏幕布局，这才是日本企业想要的界面吧。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070702.jpg)
 
 2、[锂电池的环境威胁](https://www.greencarcongress.com/2020/07/20200704-un.html)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070501.jpg)
 
 电动汽车正在淘汰燃油车，造成了锂电池的巨大需求。联合国贸发会议（UNCTAD）最近呼吁全社会关注，锂电池原料的开采对环境破坏巨大，需要寻找替代品。
 
@@ -79,9 +79,9 @@
 
 3、[MEMS 扬声器](https://www.anandtech.com/show/15894/xmems-announces-worlds-first-monolithic-mems-speaker)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071003.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071004.jpg)
 
 美国一家创业公司宣布，已经造出了世界首个 MEMS 扬声器成品，预计明年春季可以量产。MEMS 扬声器采用全新的发声原理，可能会颠覆扬声器市场。
 
@@ -89,9 +89,9 @@
 
 4、[保加利亚的悲惨现状](https://balkaninsight.com/2020/07/09/bulgaria-writes-new-chapter-in-long-story-of-demographic-decline/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071008.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071007.jpg)
 
 1988年，保加利亚人口达到890万的顶峰，现在只剩下690万人。不到三十年，人口下降了惊人的22.5％，是世界人口萎缩最多的国家。根据预测，该国人口还会持续减少，2050年将只剩下500多万人。
 
@@ -99,15 +99,15 @@
 
 5、[快舟十一号火箭发射失利](https://m.k.sohu.com/d/465541200)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071409.jpg)
 
 7月10日，中国固体运载火箭快舟十一号首次发射失利。这是中国2020年第16次火箭发射，也是今年的第三次发射失败。该火箭上面携带了哔哩哔哩网站的遥感科普卫星，也同时报销。
 
 该火箭的最大亮点，就是使用固体燃料，而不是传统的液体燃料。由于固体燃料稳定性高，可以长期保存，所以发射机动性高，不需要发射架，可以在移动车辆上发射，因此，大幅降低了发射成本。另一方面，它跟导弹车的发射技术是一样的。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071411.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071411.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071410.jpg)
 
 它的每公斤发射费用降到7万人民币左右，每次发射费用约7000万人民币，只是液态燃料火箭的几分之一。中国航天科工集团开发这款火箭，就是作为低成本商业发射的解决方案。
 
@@ -115,15 +115,15 @@
 
 > - [荷兰政府](https://tech.sina.com.cn/roll/2020-07-06/doc-iirczymm0708279.shtml)宣布，公民身份证将不再注明性别，因为性别属于“非必要信息”。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070604.jpg)
 
 > - [Nvidia](https://www.techspot.com/news/85932-nvidia-passes-intel-most-valuable-us-chipmaker.html) 已经超过英特尔，成为美国市值最高的芯片公司。它没有自己的工厂，只是一家芯片设计公司，生产外包给台积电。英特尔有自己的工厂，但工艺不如台积电，业绩受到拖累。台积电不生产自己的芯片，只实现别人的设计，现在是世界市值最大半导体公司。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070904.jpg)
 
 > - [芝加哥市](https://www.chicagoreporter.com/chicago-police-department-arrest-api-shutdown-is-its-own-kind-of-cover-up/)在从7月4日开始的独立日周末，一共发生了80多起枪击案，17人死亡。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071002.jpg)
 
 > - [科学家](https://scitechdaily.com/microbiologists-discover-bacteria-that-feed-on-metal-ending-a-century-long-search/)发现第一种食用金属的细菌。该细菌利用金属锰将二氧化碳转化为有机物，产生热量。
 
@@ -131,7 +131,7 @@
 
 1、[6个最常见的网页可访问性问题](https://blog.scottlogic.com/2020/07/02/6-most-common-accessibility-problems.html#empty-links-and-empty-buttons)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070803.jpg)
 
 可访问性（accessibility）指的是，网页对生理缺陷的用户是否友好。本文总结了6个最常见的可访问性问题及其解决方法，比如上图是文字对比度不够，导致弱视用户阅读困难。
 
@@ -141,13 +141,13 @@
 
 3、[GitHub 的个人描述页怎么实现？](https://rushter.com/blog/github-profile-markdown/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070905.jpg)
 
 GitHub 最近改版以后，允许个人页面使用 Git 代码库定制，而且还允许插入外部图片，这意味着会出现很多有趣的玩法。这篇文章就教你怎么用外部图片，反映个人动态。
 
 [还有人](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)用 GitHub Actions 每天自动跑代码，生成个人描述文件，让主页自动更新。这个更酷，也很实用。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071211.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071211.jpg)
 
 4、[如何使用 S3 + CloudFront 托管静态资源](https://www.sankalpjonna.com/posts/hosting-your-entire-web-application-using-s3-cloudfront)（英文）
 
@@ -178,13 +178,13 @@ WebGL 是浏览器对 OpenGL API 的调用接口，可以在浏览器里面实�
 
 2、[icdiff](https://www.jefftk.com/icdiff)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070606.jpg)
 
 一个命令行的彩色 diff 工具。
 
 3、[EasyOCR](https://github.com/JaidedAI/EasyOCR)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070801.jpg)
 
 一个开源的 OCR 软件，支持识别40种语言，包括中日韩文字。
 
@@ -194,19 +194,19 @@ WebGL 是浏览器对 OpenGL API 的调用接口，可以在浏览器里面实�
 
 5、[XP-Paint](https://chowderman.github.io/xp-paint.html)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071005.jpg)
 
 Windows 画板程序的浏览器实现。
 
 6、[MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071006.jpg)
 
 Mac 电脑小工具，可以在系统菜单栏显示亮度、对比度、音量滑块。
 
 7、[Rome](https://romefrontend.dev/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071202.jpg)
 
 Babel 和 Yarn 作者推出的新工具，目标是将所有 JavaScript 开发工具集中在一个软件包里面，取代 ESLint、Babel、Webpack、Prettier 等。整个软件包没有任何依赖，即每一个功能都完全从零实现。
 
@@ -216,7 +216,7 @@ Babel 和 Yarn 作者推出的新工具，目标是将所有 JavaScript 开发�
 
 9、[hugo-leetcode-dashboard](https://github.com/lryong/hugo-leetcode-dashboard)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071702.jpg)
 
 一个将个人的 LeetCode 答题记录汇总的工具，展示题号、题目、你的解答、 题目通过率等，然后一键生成一个 Hugo 网站。（[@lryong](https://github.com/ruanyf/weekly/issues/1341) 投稿）
 
@@ -228,7 +228,7 @@ Babel 和 Yarn 作者推出的新工具，目标是将所有 JavaScript 开发�
 
 1、[Project Audio for GitHub](https://github.audio/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070504.jpg)
 
 一个将 GitHub 事件（提交、PR、issue）转成声音的网站，让你可以听到 GitHub 的动态。
 
@@ -246,7 +246,7 @@ CRDT 是一种数据结构，用于分布式网络的数据同步，最典型的
 
 5、[网页设计博物馆](https://www.webdesignmuseum.org/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070503.jpg)
 
 该网站收集了1600多个经过精心挑选和分类的网页，展示了1991年至2006年之间的网站设计趋势。
 
@@ -260,127 +260,127 @@ CRDT 是一种数据结构，用于分布式网络的数据同步，最典型的
 
 1、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070703.jpg)
 
 美国堪萨斯州中部，巨大的旷野之中，有一个不起眼的大门，通往一座豪华的地下公寓，称为幸存者公寓（Survival Condo），专门为富豪躲避核战争之类的世界末日而建。
 
 2、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070704.jpg)
 
 公寓四周有铁丝网，提供24小时的保安，防止外来者闯入。
 
 3、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070705.jpg)
 
 公寓大门每扇重达8吨，一共是16吨的钢板。
 
 4、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070706.jpg)
 
 这个地方的前身是1960年代建造的核导弹发射井，属于美国核武库的一部分。导弹井深达地下60多米，钢筋混凝土墙厚达2米多。
 
 5、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070707.jpg)
 
 导弹井退役以后，卖给了一家房地产开发公司，改建成了今天的幸存者公寓，一共有15层，地上只有一个圆顶，远远看上去就是一个隆出地面的小山丘。
 
 6、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070708.jpg)
 
 上图是改造时从上往下看的电梯井。
 
 7、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070721.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070721.jpg)
 
 这是当年的防爆门，通向导弹的控制室，门外就是核导弹。这些门能够承受核导弹发射时的高温高压。 
 
 8、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070722.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070722.jpg)
 
 防爆门后面是一段通往控制室的走廊。
 
 9、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070723.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070723.jpg)
 
 当年绝密的核导弹发射控制室，可以容纳6人，24小时永远有人值班。
 
 10、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070709.jpg)
 
 改建以后，导弹井变成了一栋公寓楼，分成多套公寓，对外出售。每套公寓都有自己的停车位，方便外出。
 
 11、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070710.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070710.jpg)
 
 公寓设有应急物资供应室，提供各种紧急情况下所需的物质，包括迷彩装备、头盔等。
 
 12、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070711.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070711.jpg)
 
 公寓还设置了枪械室，提供功能齐全的枪支，供居民用来防身。
 
 13、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070712.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070712.jpg)
 
 医疗区可以进行简单的手术，并且配备了足够七年使用的药品。  
 
 14、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070713.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070713.jpg)
 
 食品室提供各种各样的食品，从冷冻黑莓到炒鸡蛋，所有食品的保存时间长达35年。 
 
 15、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070714.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070714.jpg)
 
 最令人吃惊的是，公寓还设置了全尺寸游泳池，可以自动补充水并对其进行消毒，甚至还配备水滑梯。
 
 16、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070719.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070719.jpg)
 
 电影院可以播放2,000部精选电影。
 
 17、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070720.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070720.jpg)
 
 公寓最底层是图书馆和教室。 
 
 18、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070715.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070715.jpg)
 
 公寓内部提供了现代住宅的所有便利，厨房配备了全新的电器，以及触摸屏控制的灯光和暖气。
 
 19、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070716.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070716.jpg)
 
 房间墙上有电视屏幕，可以通过摄像头看到外面的世界。
 
 20、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070717.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070717.jpg)
 
 每套公寓都有宽敞的客厅。
 
 21、
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070718.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070718.jpg)
 
 房间的窗口都是电视屏幕。
 
@@ -400,11 +400,11 @@ CRDT 是一种数据结构，用于分布式网络的数据同步，最典型的
 
 幸运的是，人们真的找到了这样一种材料。大多数欧美国家的公共交通工具都采用一种叫做 Moquette（法语为“地毯”的意思）的面料。这是一种羊毛和短绒棉的混合织物。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071203.jpg)
 
 羊毛是天然的阻燃剂，绒毛织物的特殊织法（下图）又比平织布具有更高的耐用性。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071204.jpg)
 
 由于这种面料没有平坦的表面，所以可以抵抗污渍，也可以隐藏掉其中的小颗粒。它的表面还可以加上各种涂层，确保符合安全标准，并且可以定期进行大力清洗。另外，它还具有柔软的质感和触感，并可以织出复杂的图案。
 
@@ -452,7 +452,7 @@ CRDT 是一种数据结构，用于分布式网络的数据同步，最典型的
 
 -- [swiftbysundell.com](https://www.swiftbysundell.com/special/javascript-free/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070906.jpg)
 
 4、
 
@@ -460,7 +460,7 @@ CRDT 是一种数据结构，用于分布式网络的数据同步，最典型的
 
 -- [一项对美国人事经理的调查](https://www.watercoolertrivia.com/blog/insights)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071001.jpg)
 
 5、
 
@@ -478,11 +478,11 @@ CRDT 是一种数据结构，用于分布式网络的数据同步，最典型的
 
 2019年的本周（第 65 期）：[周刊开设“谁在招人”的招聘服务](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071806.jpg)
 
 2018年的本周（第 13 期）：[周刊为什么只谈技术？](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-13.html)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018071301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018071301.jpg)
 
 ## 订阅
 

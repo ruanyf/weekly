@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121401.jpg)
 
 媒体[报道](https://finance.sina.com.cn/stock/usstock/c/2018-11-13/doc-ihmutuea9782259.shtml)，50岁以上的日本男性每四人就有一人独自生活，女性每七人就有一人独自生活。由于独居人口越来越多，日本开始推出“一人份”的服务，专门针对独自一人就餐、娱乐、旅行的消费者。
 
@@ -20,27 +20,27 @@
 
 1、[嫦娥四号](https://cn.nytimes.com/science/20181210/china-moon-change-4/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121402.jpg)
 
 12月8日，嫦娥四号在西昌卫星发射中心发射成功。它预定将在月球的背面登陆，如果成功，这将是人类第一次。登陆时间还没有公布，预计将在1月初。
 
 嫦娥一号和嫦娥二号分别于2007年和2010年发射，只是进入月球轨道，并没有登陆。嫦娥三号2013年在月球登陆，这是1976年后第一次有航天器在月球上登陆。嫦娥四号将登陆地点改到了月球背面。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121403.jpg)
 
 嫦娥四号分成两个部分：1吨的主着陆器和一个100多公斤的月球探测车。由于月球背面收不到地球发出的无线电波信号，2018年5月特别发射了“鹊桥”卫星，该卫星在月球远端高空运行，承担地球与嫦娥四号之间通信的中继。上图为月球的背面。
 
 2、[中国的核动力潜艇](https://www.armscontrolwonk.com/archive/1206320/counting-type-094-jin-class-ssbns-with-planet-imagery/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121404.jpg)
 
 美国一个民间机构发表文章，认为美国国防部错了。他们通过11月16日的卫星照片，发现中国至少有5艘094型核动力潜艇（渤海船厂2艘，三亚基地3艘），而美国国防部认为中国只有4艘。上图是三亚基地卫星照片，下图是渤海船厂。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121405.jpg)
 
 3、[不加热的烘干机](https://finance.yahoo.com/news/scientists-invented-dryer-dry-clothes-170600085.html)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121406.jpg)
 
 美国能源部的科学家发明了超声波烘干机，不加热就能烘干衣服。它的原理是超声波使得水滴产生高频振动，离开衣服。科学家表示，这种方法可以让衣物在20分钟内干燥，而普通的烘干机一般需要50分钟。
 
@@ -48,16 +48,16 @@
 
 4、[树袋熊的粪便](https://www.bbc.com/news/world-australia-46258616)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121407.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121408.jpg)
 
 澳大利亚树袋熊的粪便是2厘米的立方体，这是全世界唯一的动物，会产生方形粪便。美国乔治亚理工学院的科学家研究后认为，在食物残渣进入之前，树袋熊的大肠末端会清空肠道，并用气囊给它充气，导致那段肠腔变成方形。
 
 5、[安装到家的云主机](https://www.nerdalize.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121409.jpg)
 
 荷兰一家云计算公司，将云主机安装到居民家中，以节省机房费用。对于居民来说，主机产生的热量可以烧热水（50度左右），从而节省燃气费用。
 
@@ -65,27 +65,27 @@
 
 6、[Hiawatha 冰川](https://en.wikipedia.org/wiki/Hiawatha_Glacier)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121410.jpg)
 
 Hiawatha 冰川位于格陵兰岛西北部，2018年11月地质学家发现，这个冰川的下面居然有一个巨大的陨石坑。下图是去除冰川的模拟照片。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121411.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121411.jpg)
 
 这个陨石坑有31公里宽，藏在冰层下面一公里的地方。估计在距今1.2万年~300万年之间，有一颗直径为1.5公里的铁陨石落在了这个地方。
 
 7、[伴侣机器人 Zora](https://www.nytimes.com/interactive/2018/11/23/technology/robot-nurse-zora.html?mtrref=www.instapaper.com)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121412.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121412.jpg)
 
 法国科学家开发了一个机器人 Zora，主要用来陪伴老年人，减轻他们的孤独。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121413.jpg)
 
 这个机器人可以由护士远程操作。护士将文本输入笔记本电脑，Zora 就会把这段话说出来，从而代替护士跟病人交流。它目前还不会分发药物、喂食、量血压或更换床单。每个机器人的造价约1.8万美元，
 
 8、[太阳能玻璃](https://pv-magazine-usa.com/2018/11/21/a-15-efficient-solar-window-that-delivers-120-of-us-electricity/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121414.jpg)
 
 密歇根大学的科学家正在开发太阳能玻璃，可以用作窗户，同时还能发电。这种玻璃可以让50%的太阳光通过，目前光电转化率是8%，科学家希望提高到15%。作为比较，普通光伏板的效率可以达到20%以上。
 
@@ -93,7 +93,7 @@ Hiawatha 冰川位于格陵兰岛西北部，2018年11月地质学家发现，�
 
 9、[奶牛的甲烷排放](https://www.technologyreview.com/s/612452/how-seaweed-could-shrink-livestocks-global-carbon-hoofprint/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121415.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121415.jpg)
 
 牛和其他一些动物会排放甲烷，因为草料在它们的肠道发酵，使得碳水化合物分解为甲烷。甲烷是比二氧化碳更强的温室气体，据说吸热效果强25倍。全球气候变暖很大一个推动力，就是人类对畜牧业的需求越来越大。
 
@@ -109,13 +109,13 @@ Hiawatha 冰川位于格陵兰岛西北部，2018年11月地质学家发现，�
 
 * [LG 公司](https://www.techretox.com/articles/lg-preparing-a-16-camera-phone)申请了一个 16 颗手机镜头的专利，手机背面有一个 4 x 4 的镜头矩阵。这种设计有利于拍摄 3D 照片，可以用不同的镜头拍摄不同的角度，然后合成在一起。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121416.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121416.jpg)
 
 ## 教程
 
 1、[地址表单不应该分成两行](http://uxmovement.com/forms/why-you-should-use-a-text-area-for-address-form-fields/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121417.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121417.jpg)
 
 本文提出地址输入不应该有两个输入框，而是应该只是一个 textarea。
 
@@ -141,10 +141,10 @@ Hiawatha 冰川位于格陵兰岛西北部，2018年11月地质学家发现，�
 
 7、[《超人特工队2》的设计过程](http://joshholtsclaw.com/blog/2018/3/5/the-graphic-art-of-incredibles-2)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121418.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121418.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121419.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121419.jpg)
 
 《超人特工队2》的设计师介绍他们如何从现实生活吸收灵感，设计画面，多图。
 
@@ -164,19 +164,19 @@ TOML 格式的介绍、中文文档翻译和解析工具。（@[LongTengDao](htt
 
 1、[艺术品图像](https://www.artic.edu/collection?is_public_domain=1)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121420.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121420.jpg)
 
 芝加哥艺术学院的网站提供5万多张艺术品图片，全部都是高分辨率，而且可以免费使用。
 
 2、[大峡谷全景地图](https://project.gcpano.org/?node=Eminence.trl_RedwallPoint.pan#)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121421.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121421.jpg)
 
 效果不错，但是目前只做了几个点，无法在地图上自由移动，操作也不够便利。
 
 3、[城市模型](https://marian42.itch.io/wfc)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121422.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121422.jpg)
 
 使用 WFC 模型生成的城市模型，没有游戏功能，但是可以无限漫游，有飞行模式，只支持 Windows 系统。
 
@@ -198,7 +198,7 @@ FPGA 是可编程的逻辑电路。该站是 FPGA 入门与学习的网站，有
 
 8、[Code Combat](https://codecombat.com/)（游戏）
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121423.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121423.jpg)
 
 一款学习编程的网页游戏。（@[Ynjxsjmh](https://github.com/ruanyf/weekly/issues/117) 投稿）
 
@@ -206,7 +206,7 @@ FPGA 是可编程的逻辑电路。该站是 FPGA 入门与学习的网站，有
 
 1、[CycleGAN](https://github.com/junyanz/CycleGAN)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121424.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121424.jpg)
 
 图像处理软件，可以把马变成斑马、苹果变成橙子。（[@nivance](https://github.com/ruanyf/weekly/issues/61)__ __投稿）
 
@@ -216,7 +216,7 @@ FPGA 是可编程的逻辑电路。该站是 FPGA 入门与学习的网站，有
 
 3、[SimpleNote](https://simplenote.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121425.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121425.jpg)
 
 一个多端支持的笔记软件，开发商就是 WordPress 的开发商。（[@JsonLeex](https://github.com/ruanyf/weekly/issues/70) 投稿）
 
@@ -226,7 +226,7 @@ FPGA 是可编程的逻辑电路。该站是 FPGA 入门与学习的网站，有
 
 5、[ISH](https://ish.app/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121426.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121426.jpg)
 
 ISH 通过使用一个 x86 模拟器，在iOS 设备上面模拟 Linux Shell。
 
@@ -248,7 +248,7 @@ ISH 通过使用一个 x86 模拟器，在iOS 设备上面模拟 Linux Shell。
 
 10、[ydcv](https://github.com/felixonmars/ydcv)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121427.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121427.jpg)
 
 有道辞典的命令行版本。（@[Seven-Steven](https://github.com/ruanyf/weekly/issues/72)__ __投稿）
 
@@ -284,10 +284,10 @@ ISH 通过使用一个 x86 模拟器，在iOS 设备上面模拟 Linux Shell。
 
 我家有一张宜家买来的装饰画《阿姆斯特丹街头》。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121428.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121428.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121429.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121429.jpg)
 
 朋友问我，这张照片到底好看在哪里，看上去很普通的一张风景照，为什么全世界到处都有人买去，挂在自己的屋子里。我于是就很想搞清楚它背后的故事，宜家为什么会选中这张照片。
 
@@ -297,7 +297,7 @@ ISH 通过使用一个 x86 模拟器，在iOS 设备上面模拟 Linux Shell。
 
 阿夫卡米回忆道，这张照片是在1999年3月拍摄的。他们一起去荷兰旅行，但是途中发生了争吵，费尔南多一人在阿姆斯特丹的街头散心，随手拍了一些照片，用它们向阿夫卡米道歉。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121430.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121430.jpg)
 
 费尔南多在印度洋海啸中过世以后，他的所有未发表的照片作为遗物，都放在 Corbis.com 网站上出售。宜家就是在那里购买照片版权的。
 
@@ -307,21 +307,21 @@ ISH 通过使用一个 x86 模拟器，在iOS 设备上面模拟 Linux Shell。
 
 1、[最大的陨石](https://www.thevintagenews.com/2017/09/10/the-hoba-meteorite-estimated-at-66-tons-left-no-crater-when-it-fell-to-earth/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121431.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121431.jpg)
 
 地球上，已知的最大陨石是纳米比亚的 Hoba 陨石，长 x 宽 x 高 为 2.7m x 2.7m x 0.9m，重66吨，含有84%的铁和15%的镍。
 
 该陨石是8万年前掉落到地球上，在1920年被发现，当时完全埋在土里。目前，科学家还没有办法解释，为什么这么大一块陨石掉下来，却没有形成陨石坑？
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121432.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121432.jpg)
 
 2、[各国谷歌搜索最多的汽车品牌](https://www.veygo.com/wp-content/uploads/2018/09/the-worlds-most-desired-motors.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121433.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121433.jpg)
 
 3、[海洋塑料垃圾](https://www.theguardian.com/environment/2018/nov/13/the-plastic-backlash-whats-behind-our-sudden-rage-and-will-it-make-a-difference)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121434.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121434.jpg)
 
 太平洋中途岛环礁中发现的一只信天翁尸体，腹腔里面都是塑料垃圾。
 
@@ -329,7 +329,7 @@ ISH 通过使用一个 x86 模拟器，在iOS 设备上面模拟 Linux Shell。
 
 1、[Squatty Potty](https://www.theguardian.com/news/2018/nov/30/bowel-movement-change-the-way-you-poo-squatty-potty-toilet)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121435.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121435.jpg)
 
 2011年，Squatty Potty 作为新发明，进入美国市场。它是一款7英寸高的塑料凳子，让你坐在马桶上大便的时候，双脚踩在上面，使得你的膝盖高于臀部，更接近人类原始的排泄姿势。
 

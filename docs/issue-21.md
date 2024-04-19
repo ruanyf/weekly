@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090701.jpg)
 
 漫画家蔡志忠有一个演讲，题目叫做[《努力是没有用的》](https://www.yuque.com/book-academy/share/shp7tu)。读完这份演讲稿，我觉得他说的有道理。
 
@@ -26,7 +26,7 @@
 
 1、[Chrome 浏览器 10 周年](https://techcrunch.com/2018/09/04/chrome-gets-a-new-look-for-its-10th-birthday/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090702.jpg)
 
 本周一（9月2日）是 Chrome 浏览器的10岁生日。十年来，这个项目带动了无数创新，让互联网产生了天翻地覆的变化。
 
@@ -36,13 +36,13 @@
 
 2、[机器充电臂](https://electrek.co/2018/08/14/robot-electric-car-fast-charging-station-tesla-metal-snake/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090703.jpg)
 
 德国科学家发明了一种机器充电臂，它能自动给电动汽车充电，完全不用司机下车。电动车开到它的旁边，摄像头自动识别出充电口，然后将充电臂伸进去，充满后再缩回去。
 
 3、[车窗广告](https://techcrunch.com/2018/08/15/grabb-it-wants-to-turn-your-cars-window-into-a-trippy-video-billboard/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090704.jpg)
 
 美国一家创业公司推出车窗广告服务。他们在车内安装微型投影仪，在车窗上向外播放全彩广告，车主可以获取广告分成。
 
@@ -50,7 +50,7 @@
 
 4、[DIY 人工胰脏](https://www.bloomberg.com/news/features/2018-08-08/the-250-biohack-that-s-revolutionizing-life-with-diabetes)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090705.jpg)
 
 糖尿病患者对血糖含量是非常敏感的，血糖过高，就需要立刻注射胰岛素，否则会有严重后果。但是怎么能实时知道血糖过高呢？科学家发明了人工胰脏，它每隔几分钟自动检测血糖含量，一旦发现血糖过高，就向血液注入胰岛素。
 
@@ -58,7 +58,7 @@
 
 5、[贝佐斯的财富](http://theweek.com/speedreads/794105/amazon-ceo-jeff-bezos-net-worth-rose-67-billion-year--8-million-hour)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090706.jpg)
 
 
 亚马逊的市值本周突破了1万亿美元，成为历史上第二家万亿美元公司（第一家是苹果）。这使得亚马逊的老板贝佐斯的财富暴涨，2018年就增加了670亿美元，总资产到达了1670亿美元，成为世界最富有的人。
@@ -67,15 +67,15 @@
 
 6、[Stratolaunch 飞机](https://arstechnica.com/science/2018/08/stratolaunch-announces-not-one-but-an-entire-fleet-of-rockets/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090707.jpg)
 
 微软共同创始人保罗艾伦投资的 Stratolaunch 飞机，最近正式亮相。它是世界上最大的飞机，翼展可以达到117米，主要用来在空中发射火箭。由于它可以多次使用，因此显著降低了火箭的发射成本。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090708.jpg)
 
 7、[Lerna 修改许可证](https://github.com/lerna/lerna/pull/1616)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090709.jpg)
 
 多仓库管理工具 Lerna 修改了 MIT 许可证，加了一个条款：凡是帮助美国海关移民执行局（ICE）虐待非法移民的公司，一律不得使用该工具，排在第一名的是微软。[其他开发者](https://github.com/jamiebuilds/license)在这个名单的基础上，又加上了一些虐待劳工的公司，包括苹果、沃尔玛和特斯拉。
 
@@ -83,13 +83,13 @@
 
 8、[亚马逊电子书销售主题排行榜](https://www.kindleranker.com/articles/top-50-niche-amazon-categories/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090710.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090710.jpg)
 
 有人统计了，什么主题的电子书在亚马逊销售额最高。前5名全部是教科书，里面有4种是医学教科书。排名最高的计算机类书籍是 Access 数据库。
 
 9、[TempleOS 作者去世](https://steemit.com/computers/@winstonalden/schizophrenia-and-genius-templeos-and-the-strange-sad-case-of-terry-a-davis)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090711.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090711.jpg)
 
 最近，TempleOS 操作系统的作者特里.戴维斯（Terry a. Davis）去世了。他生于1969年，是一个程序员，曾经为一些大公司工作。工作十年后，他患上了精神分裂症，必须接受治疗。
 
@@ -141,7 +141,7 @@ Swift 语言一般用于开发 iPhone 的 App，现在开始有人尝试将它�
 
 10、[人脸检测服务对比](https://www.liip.ch/en/blog/face-detection-an-overview-and-comparison-of-different-solutions-part1)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090712.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090712.jpg)
 
 本文比较了谷歌、微软、亚马逊、IBM 四家公司的人脸检测服务的准确性。
 
@@ -157,7 +157,7 @@ Swift 语言一般用于开发 iPhone 的 App，现在开始有人尝试将它�
 
 3、[世界各国护照效力排名](https://www.passportindex.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090713.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090713.jpg)
 
 中国护照排在第55位，免签国29个，落地签国49个。
 
@@ -171,7 +171,7 @@ Swift 语言一般用于开发 iPhone 的 App，现在开始有人尝试将它�
 
 6、[计算机网络：系统方法](https://github.com/SystemsApproach/book)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090714.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090714.jpg)
 
 《计算机网络：系统方法》英文原版开源了（[下载地址](https://github.com/ruanyf/book-computer-networks)）。 
 
@@ -179,7 +179,7 @@ Swift 语言一般用于开发 iPhone 的 App，现在开始有人尝试将它�
 
 1、[termtosvg](https://www.ostechnix.com/how-to-record-terminal-sessions-as-svg-animations-in-linux/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090715.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090715.jpg)
 
 一个命令行操作录制成 SVG 动画的工具，[效果](https://svgur.com/s/7t5)不错。
 
@@ -193,13 +193,13 @@ Node 脚本里面加载 wasm 模块的处理器，即让 Node 可以方便地运
 
 4、[Symmetry Groups](http://www.coloring-book.co/wallpaper)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090716.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090716.jpg)
 
 一个生成对称图形的网站，可以用来生成墙纸。
 
 5、[Kakoune](http://kakoune.org/why-kakoune/why-kakoune.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090717.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090717.jpg)
 
 Kakoune 是一个类似 Vim 的编辑器，它的主要特点是更友好合理的命令语法。 Vim 的命令是"动词 + 对象"，Kakoune 的命令是"对象 + 动词"。
 
@@ -209,7 +209,7 @@ Mithril 是一个类似 React 的轻量级前端端架，比 React 简单。主�
 
 8、[Favioli](https://favioli.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090718.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090718.jpg)
 
 Favioli 是一个很好玩的 Chrome 浏览器插件。它可以将网页的 Favicon 替换成 Emoji。
 
@@ -235,39 +235,39 @@ mobiledoc 是一种数据格式，用于所见即所得编辑器的底层数据�
 
 第二次世界大战，希特勒包围列宁格勒长达900天，切断了200万居民的所有食物供应，企图饿死俄国人。冬天的时候，成千上万的人饿死了。列宁格勒居民饿到吃木屑，许多人试图在零下30°C的天气里步行几公里到食品配送亭，结果冻死在路上。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090719.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090719.jpg)
 
 当时，列宁格勒瓦维洛夫植物研究所藏有近20万种植物的种子，其中约四分之一可食用，是世界上最大的粮食作物遗传多样性库之一。其中有大量的大米，小麦，玉米，豆类和土豆，足以支撑研究所的植物学家吃饱。但是，科学家们并没有用食物来挽救自己的生命，而是保护这些种子不受纳粹以及街头寻找食物的人们的破坏。
 
 科学家全天候轮流保护着仓库，冷得麻木，饥饿消瘦。随着围困时间越来越长，他们一个接一个地开始饿死，但至死没有吃过一粒研究所的种子。1942年1月，花生专家 Alexander Stchukin 在写字台上去世。植物学家德米特里·伊万诺夫（Dmitri Ivanov）也死于饥饿，他的周围是数千包大米种子。1944年春天，德军撤退时，有9人已经饿死。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090720.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090720.jpg)
 
 这个种子库是世界第一个植物多样性种子库。它由俄罗斯最杰出的植物学家和遗传学家尼古拉·瓦维洛夫于1926年建立。他是首批预见植物多样性消失的科学家之一，并认识到这可能对粮食生产造成灾难性影响。瓦维洛夫在一个贫困的乡村长大，饱受经常性的作物歉收和食物配给困扰，从很小的时候就开始痴迷于他的祖国俄罗斯和世界的饥荒。20世纪早期，他在五大洲进行了广泛的访问，共访问了64个国家，收集了各种植物和粮食作物标本。他自学了15种语言，以便与当地农民交谈。经过近十年的旅行和数百次旅行后，成立了列宁格勒植物研究所。
 
 下图是瓦维洛夫制作的种子标本。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090721.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090721.jpg)
 
 ## 新奇
 
 1、[Predator Thronos](https://www.theverge.com/circuitbreaker/2018/8/29/17795164/acer-predator-thronos-gaming-chair-ifa-2018)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090722.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090722.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090723.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090723.jpg)
 
 宏碁公司新推出了一款 Predator Thronos 游戏椅，自带三个27寸显示器，可以让你躺着（140度后仰）打游戏，还会随着游戏一起震动。
 
 这个产品有前途，如果能解决睡眠问题就好了，打累了睡一会，醒了接着打。以后网吧可能都是这种椅子。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090724.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090724.jpg)
 
 2、[卷起来的触摸屏](https://techcrunch.com/2018/08/31/scientists-make-a-prototype-touch-tablet-that-rolls-and-scrolls/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090725.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090725.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090726.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090726.jpg)
 
 加拿大科学家做出来了一个原型设备，可以把触摸屏卷起来。
 
@@ -275,11 +275,11 @@ mobiledoc 是一种数据格式，用于所见即所得编辑器的底层数据�
 
 1、[各大 IT 公司的架构图](http://bonkersworld.net/organizational-charts)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090727.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090727.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090728.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090728.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018090729.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090729.jpg)
 
 ## 本周金句
 

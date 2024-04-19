@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100714.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100714.jpg)
 
 每年新疆的红辣椒丰收时，人们就会在戈壁滩上晾晒辣椒。（[via](https://www.instagram.com/p/CFz0JQkDIEA/)）
 
@@ -16,7 +16,7 @@
 
 下个月，热门游戏[《赛博朋克2077》](https://store.steampowered.com/app/1091500/Cyberpunk_2077/)就要上市了，发布了好多新闻和预告片。我突然觉得，“赛博朋克”这个词（Cyberpunk）很值得谈一下。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100502.jpg)
 
 “赛博朋克”是两个英语单词的组合：Cyber（赛博）和 punk（朋克）。
 
@@ -24,15 +24,15 @@
 
 连在一起，“赛博朋克”就是指高科技社会的另类青年。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100503.jpg)
 
 朋克大多数都是没钱的底层边缘人，所以“赛博朋克”后来就被引申为一种未来高科技社会的景象：
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100504.jpg)
 
 一切受到高度控制，所有东西都自动化运作，富人、社会名流、精英享受着美好生活；但是，底层的大量贫民生活条件恶劣，没钱消费，没办法把握自己的命运，内心苦闷，不知出路何在，非常迷茫。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100506.jpg)
 
 他们的心理非常压抑，看不到翻身的希望，行为和价值观完全是叛逆的。精神萎靡，沉迷于各种娱乐，寻求麻醉和逃避。
 
@@ -50,7 +50,7 @@
 
 本周的课程资料特别为大家准备了 **开课吧 提供的《Vue 进阶攻略》** ，内容包括下面三个模块，帮助你实现 Vue 的有效进阶！
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092504.jpg)
 
 模块一：**《Vue3 响应式原理剖析》** ：Vue3 响应式初体验、Vue2 & Vue3 响应式原理对比、Vue3 响应式源码实现等。
 
@@ -60,44 +60,44 @@
 
 微信扫描下方二维码，就可以 **免费领取** 这个 Vue 资料礼包了。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092704.jpg)
 
 ## 资讯
 
 1、[人工智能玩《威利在哪里？》](https://buzzorange.com/techorange/2018/08/10/lets-ruin-where-is-willy/)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092310.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092310.jpg)
 
 《威利在哪里？》（There's Waldo）是欧美著名的儿童图画读物，每一幅图画都是人山人海，读者根据长相和打扮，在里面找到主人公威利在哪里。一家美国公司制作了一只由树莓派控制的机械手臂，并配备摄像头，利用电脑视觉库 OpenCV 自动比对每一个人物，再通过机器学习工具 Google AutoML Vision 分析，找出威利的位置，只需要4.5秒。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092311.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092311.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092312.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092312.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092313.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092313.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092314.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092314.jpg)
 
 工程师透露，他收集了62 张威利大头照，以及45 张威利全身照，作为训练材料，最后的比对结果相对准备。在此之前，他没有接触过 Google AutoML，他花了整整一周时间，学习 API 然后用 Python 完成了这个项目。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092309.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092309.jpg)
 
 
 2、[搬货机器人](https://www.cnn.com/2020/09/14/business/robots-japan-supermarkets-spc-intl/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092101.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092102.jpg)
 
 日本的 Lawson 便利店在东京启用了搬运机器人。这个机器人可以通过远程动作复制，完成货物的搬运和上架。店员戴上 VR 头盔和专用手套，就可以操作机器人，还能通过麦克风和耳机与顾客交流。
 
 由于人口老龄化，日本出现了劳动力短缺。便利店找不到足够的店员，即使能找到，也往往是老年人，干不了体力活。这个机器人就是为了解决这个问题，下一步会大量推广。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092103.jpg)
 
 3、[云监考](https://www.washingtonpost.com/technology/2020/04/01/online-proctoring-college-exams-coronavirus/)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092506.jpg)
 
 疫情期间都是远程上课，考试怎么办呢？美国一些大学委托第三方公司，进行“云监考”，学生必须在摄像头前面，直播自己答题的过程。监考人员在云端进行监视，保证考生没有作弊。
 
@@ -107,11 +107,11 @@
 
 4、[室内无人机](https://spectrum.ieee.org/automaton/robotics/drones/ring-indoor-security-drone)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092605.jpg)
 
 如果室内空间很大，每个角落或每个房间配一个摄像头，会非常麻烦。为了解决这个问题，亚马逊旗下的智能家居公司 Ring 最近发布了一个室内无人机。平时放在底座上，想要监控的时候，就远程遥控起飞，传回影像。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092606.jpg)
 
 如果房间有异常情况，比如房门或窗户被打开，它也可以自动起飞，去查看情况。你可以事先指定无人机的飞行路线，也可以选择自由飞行，它的顶部有一个激光雷达，可以自动避障。飞行结束后，它会自己回到底座去充电。这个无人机的售价是250美元，
 
@@ -119,23 +119,23 @@
 
 > - [科学家](https://www.nature.com/articles/d41586-020-02751-1)在火星南极的冰层底下发现了一个大型咸水湖，湖泊面积约为德国的五分之一。如果是真的，就意味着火星有大量的液态水。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092906.jpg)
 
 > - [川藏铁路](https://news.mydrivers.com/1/716/716431.htm)雅安至林芝段，今年内将正式动工。这是世界难度最大的铁路，穿越高原雪山地震带，30公里以上的隧道有6座，最长一座隧道长达54公里。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020093015.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020093015.jpg)
 
 > - [美国一项研究](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3665046)提出，很多州要求必须为儿童在汽车上安装安全座椅，这极大地影响了第三胎的生育，因为一般汽车装不了三个儿童座椅。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100201.jpg)
 
 > - [本田公司](https://arstechnica.com/cars/2020/10/honda-shocks-f1-says-it-will-quit-the-sport-after-2021/)宣布退出 F1 赛车运动，原因是该公司将转型生产电动车，不再对汽油引擎的研究进行投资。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100501.jpg)
 
 > - [中国人民银行](https://finance.sina.com.cn/china/2020-10-01/doc-iivhuipp7535244.shtml)统计，2020年6月底中国大陆地区共有 ATM 机105万台，由于在线支付的冲击，上半年 ATM 减少了超过4万台。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100202.jpg)
 
 > - [Timescale 数据库](https://blog.timescale.com/blog/building-open-source-business-in-cloud-era-v2/)宣布使用“云保护许可证”，即他们的开源软件不得用于提供云服务。这主要是为了防止亚马逊之类的公司使用别人的开源软件，开设自己的云服务赚钱。
 
@@ -147,7 +147,7 @@
 
 2、[美国从来没有放弃制造业](https://finance.sina.com.cn/china/2020-09-18/doc-iivhuipp5079056.shtml)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020093014.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020093014.jpg)
 
 国家发改委前司长的演讲，谈怎么看待制造业。
 
@@ -163,7 +163,7 @@ Next.js 是一个基于 React 的框架，将 React 全家桶封装在一起，�
 
 5、[改变世界的一次代码提交](https://hutusi.com/the-greatest-git-commit)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100203.jpg)
 
 Linus 在假期十天时间完成了 Git 的首个版本，第一次提交仅有 848 行代码实现了 Git 的核心功能，本文通过分析这第一个 Git 提交来分析 Git 的设计及产品实现。（[@hutusi](https://github.com/ruanyf/weekly/issues/1429) 投稿）
 
@@ -173,13 +173,13 @@ Linus 在假期十天时间完成了 Git 的首个版本，第一次提交仅有
 
 7、[班公湖科考](https://mp.weixin.qq.com/s/-KYoAfLg-PJ2h0jujr6bSg)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100402.jpg)
 
 近期，在中印实际控制线附近-班公湖地区的中印两军对峙，引起了全球关注。而就在这一对峙区附近，第二次青藏科考队的队员们正有条不紊地进行班公湖科学考察研究。
 
 8、[只用 CSS 的 clamp() 函数的响应式布局](https://dev.to/dip15739/responsive-website-with-only-1-css-property-3ea9)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100404.jpg)
 
 CSS 的 clamp() 函数已经可以用了，最新浏览器都支持了，只用这个函数就能实现响应式布局。如果元素的属性值有上限和下限，它比 min() 和 max() 都方便，语法是 `clamp(最小值, 属性值, 最大值)` 。
 
@@ -187,19 +187,19 @@ CSS 的 clamp() 函数已经可以用了，最新浏览器都支持了，只用�
 
 1、[吃豆人迷宫生成器](https://shaunlebron.github.io/pacman-mazegen/)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092802.jpg)
 
 一个很老的项目，生成《吃豆人》游戏的迷宫。
 
 2、[Go-Diagrams](https://github.com/blushft/go-diagrams)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092803.jpg)
 
 一个 Go 语言的图表生成软件。
 
 3、[duf](https://github.com/muesli/duf)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092804.jpg)
 
 磁盘空间占用统计工具，支持 Linux 和 macOS。
 
@@ -209,7 +209,7 @@ CSS 的 clamp() 函数已经可以用了，最新浏览器都支持了，只用�
 
 5、[Wireflow](https://wireflow.co/)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020093001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020093001.jpg)
 
 一个开源的在线工具，用来画流程图和线框图。
 
@@ -227,13 +227,13 @@ Facebook 推出的一个静态代码分析工具，可以分析 Java、C++、Obj
 
 9、[alldocs.app](https://github.com/ueberdosis/alldocs.app)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100312.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100312.jpg)
 
 一个开源的在线文档格式转换器，底层是 Pandoc。（[@hmsjy2017](https://github.com/ruanyf/weekly/issues/1435) 投稿）
 
 10、[big_screen](https://github.com/TurboWay/big_screen)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100301.jpg)
 
 数据大屏生成工具，后端使用 flask。只要传一下数据，就可以制作出数据大屏，适合不了解前端的数据工作者。（[@TurboWay](https://github.com/ruanyf/weekly/issues/1428) 投稿）
 
@@ -241,13 +241,13 @@ Facebook 推出的一个静态代码分析工具，可以分析 Java、C++、Obj
 
 1、[Asmrion](https://defonic.netlify.app/)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020093013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020093013.jpg)
 
 一个声效网站，用户点击不同图标（比如下雨、刮风、海边），就可以听到不同的声效作为背景音。
 
 2、[Git Exercises](https://gitexercises.fracz.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100405.jpg)
 
 Git 学习网站，通过示例仓库，提供一系列 Git 的小练习，帮助用户掌握这个版本管理工具。
 
@@ -265,15 +265,15 @@ Git 学习网站，通过示例仓库，提供一系列 Git 的小练习，帮�
 
 网友分享了他只用圆形拼接而成的灯罩。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092902.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092903.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092904.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092901.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020092905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020092905.jpg)
 
 2、[金字塔之巅](https://mashable.com/2017/02/12/visiting-the-pyramids/)
 
@@ -281,15 +281,15 @@ Git 学习网站，通过示例仓库，提供一系列 Git 的小练习，帮�
 
 当时，攀登金字塔在埃及的欧洲人之中很流行，留下了很多照片。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020093008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020093008.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020093010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020093010.jpg)
 
 下面就是金字塔的尖顶之上的样子，现在已经无法上去了。
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020093007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020093007.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020093011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020093011.jpg)
 
 ## 文摘
 
@@ -297,7 +297,7 @@ Git 学习网站，通过示例仓库，提供一系列 Git 的小练习，帮�
 
 作者：凯文·凯利（原文写于2014年）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100709.jpg)
 
 想象一下，在1985年成为一名创业者，是多么棒的事情！你想要的几乎任何域名，都可以轻易获得。
 
@@ -365,11 +365,11 @@ Git 学习网站，通过示例仓库，提供一系列 Git 的小练习，帮�
 
 2019年的本周（第 77 期）：[韩剧《阿尔布拉罕宫的回忆》](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100907.jpg)
 
 2018年的本周（第 25 期）：[安卓手机十周年的感想](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html)
 
-![](https://www.wangbase.com/blogimg/asset/201810/bg2018100501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100501.jpg)
 
 ## 订阅
 

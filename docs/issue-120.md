@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080205.jpg)
 
 8月5日，伦敦自然历史博物馆重新开馆。工作人员为蛇颈龙化石展品做清洁。（来源：[Instagram](https://www.instagram.com/p/CDNxThJHMcB/)）
 
@@ -18,13 +18,13 @@
 
 华为最近[宣布](https://www.sohu.com/a/412195424_114837)，9月15日以后，手机的麒麟芯片无法生产了，可能将成为绝响，因为台积电迫于美国的禁令，不再接受华为的订单了。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081110.jpg)
 
 此前，华为手机已经不能预装谷歌服务框架了。但是，安卓系统是开源的，就算不能用上层的谷歌服务，系统本身还是可以用的。
 
 这就是开源软件的好处，它不受美国政府的控制，禁令影响不到它。如果安卓系统是闭源的，华为手机就麻烦了，将没有操作系统可用。有人说，可以自己搞操作系统啊。事实上，这是不现实的。华为的鸿蒙系统就算能搞出来，到哪里去找应用软件呢？怎么说服腾讯和阿里，为你开发鸿蒙版的微信和支付宝呢？最后只能搞一个虚拟机，让安卓应用跑在里面，但那也是建立在安卓是开源系统的基础上啊。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081109.jpg)
 
 正是因为有了开源软件，才有办法对抗美国的技术封锁。要是有一天，美国不允许中国使用 Windows，那么至少还有 Linux。为了国家的技术安全，就应该考虑多使用开源软件。
 
@@ -45,55 +45,55 @@
 - 项目三：电商数据分析及可视化展示。
 - 项目四：玩转高精文本分析。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081102.jpg)
 
 该课程由资深大数据专家潘海超老师讲授。现在限时优惠，仅需 0 元。
 
 点击[这里](https://wx.kaikeba.com/vip_course/2y5levuvrj/9na1can5ob?tenant=wx5046bc7413796142)或者手机扫描下面二维码，微信添加课程助理，就可以免费领取，只有 50 个名额，先到先得。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081103.jpg)
 
 ## 资讯
 
 1、[空气净化机箱](https://tieba.baidu.com/p/6845657970?see_lz=1)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080303.jpg)
 
 百度贴吧上面，一个网友贴出了照片。他将小米空气净化器改装成了机箱，放入了一块 itx 小主板。电脑的发热量越来越大，需要的散热风扇越来越多，而空气净化机本质上就是一个带有空气过滤功能的风扇，所以两者确实可以合二为一。
 
 空气净化器的风量风压，以及噪音控制能力，是绝大多数机箱风扇无法比的。而且，空气净化器也用直流电，跟机箱可以共用一个电源。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080304.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080305.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080301.jpg)
 
 2、[智能尿布](https://www.indiegogo.com/projects/conquering-parenthood-with-wondermom-smart-nappies#/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080514.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080514.jpg)
 
 一家香港护理用品公司推出了婴儿的“智能尿布”，正在众筹。这种尿布里面装有无线传感器，可以通过手机 App 查看尿布的实时数据。
 
 一旦尿布的温度和湿度超标，父母就会立刻得到通知，从而更换尿布或检查婴儿是否正常。除了检查婴儿是否排尿以及尿量，它还可以监视宝宝的姿势和活动，一旦有异常睡姿，也会通知家长。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080515.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080515.jpg)
 
 3、[5D 国际象棋](https://en.chessbase.com/post/what-on-earth-is-5d-chess)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080606.jpg)
 
 Steam 游戏平台最近出现了一款 5D 国际游戏，除了棋盘是 3D 以外，还有时间轴和决策轴。
 
 这种象棋游戏可以回溯每一步，并且每一步都可以做多种决策，显示成一个决策树，有点像同时玩一盘棋的“平行宇宙”。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080607.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080607.jpg)
 
 4、[太阳能运河](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081107.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081108.jpg)
 
 印度是一个人多地少的国家，虽然日照充沛，但是缺乏发展太阳能的土地。古吉拉特邦想出了一个解决方法，就是把太阳能电池板架设在河道的上方，覆盖了一整条运河。
 
@@ -101,7 +101,7 @@ Steam 游戏平台最近出现了一款 5D 国际游戏，除了棋盘是 3D 以
 
 5、[Mozilla 裁员](https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081309.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081309.jpg)
 
 Mozilla 本周宣布裁员250人。这其实不算意外，它的全球雇员超过1000人，但是主要产品都是免费的，这样的雇员规模可能确实太大了。
 
@@ -113,30 +113,30 @@ Mozilla 本周宣布裁员250人。这其实不算意外，它的全球雇员超
 
 > - [三个澳大利亚男子](https://apnews.com/1566b3c6a377ee907a0f2e143a5b26c9)乘坐的小船，在南太平洋上偏离航线，漂流到一个小岛上。通过在沙滩上摆出 SOS 求救符号而获救。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080603.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080604.jpg)
 
 > - [马里兰大学](https://phys.org/news/2020-08-glass-like-wood-insulates-tough-blocks.html)的工程师发明了一种透明木材，可以替代玻璃，还比玻璃更坚硬，更隔热，可以阻挡紫外线。
 
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080722.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080722.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080723.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080723.jpg)
 
 > - [波音747飞机](https://gizmodo.com/boeing-747s-still-use-floppy-disks-to-get-critical-soft-1844683811)仍然使用3.5英寸软盘，进行数据库更新。（[@regomne](https://gizmodo.com/boeing-747s-still-use-floppy-disks-to-get-critical-soft-1844683811) 投稿）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081302.jpg)
 
 > - [我国](https://hunan.voc.com.cn/article/202007/202007300905139132.html)研发成功世界最强马力的电力机车"神24"，可以牵引一万吨货物或者100节车厢。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081306.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081306.jpg)
 
 ## 文章
 
 1、[我参加 Pixar 2020 渲染大赛的作品](https://blog.yiningkarlli.com/2020/07/shipshape-renderman-challenge.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080505.jpg)
 
 Pixar 动画公司每年举办一个比赛，提供一些数字模型，邀请全世界爱好者对它们进行渲染着色，评选出优胜者。作者介绍了他如何创作第一名作品（上图）。
 
@@ -154,7 +154,7 @@ Deno 是一个 TypeScript 运行时，可以替代 Node.js。它有一个模块�
 
 5、[2020年值得推荐的13本 Java 书籍](https://medium.com/javarevisited/10-books-java-developers-should-read-in-2020-e6222f25cc72)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080806.jpg)
 
 作者列了一个书单，推荐了13本 Java 学习书籍。
 
@@ -164,13 +164,13 @@ Deno 是一个 TypeScript 运行时，可以替代 Node.js。它有一个模块�
 
 7、[张汝京谈中国半导体产业的发展](https://www.tmtpost.com/4616621.html)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080904.jpg)
 
 张汝京是中芯国际创始人，他在最近一次演讲中，回顾了第一到第三代半导体的发展，以及谈了中国半导体产业如何实现“超车”、第三代半导体未来的发展模式是什么等问题。
 
 8、[停电时，冰箱会保持低温多长时间？](https://woodgears.ca/heating/freezer.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081004.jpg)
 
 作者做了一个有趣的实验，在冰箱里面放入传感器和树莓派，看看停电后，冷冻室能保持低温多长时间。结果发现，室温19°C的房间中，冷冻室每小时损失的冷度为2.6％，大约26小时后温度将达到0°。
 
@@ -178,13 +178,13 @@ Deno 是一个 TypeScript 运行时，可以替代 Node.js。它有一个模块�
 
 1、[Fast](https://fast.design/docs/introduction)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080803.jpg)
 
 微软官方的 Web Components 组件库。
 
 2、[P2](https://wordpress.com/p2/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080804.jpg)
 
 WordPress 团队新发布的团队协作工具，有点类似公司内部的博客系统，可以免费使用，计划会在未来开源。
 
@@ -194,7 +194,7 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 4、[codota](https://www.codota.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080903.jpg)
 
 一个人工智能的代码提示和补全插件，支持各大主要的 IDE。（[@dllen](https://github.com/ruanyf/weekly/issues/1371) 投稿）
 
@@ -204,7 +204,7 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 6、[github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081301.jpg)
 
 一个可以自己部署的服务，生成个人 GitHub 账户的统计，可以插在自述文件里面。这里还有另一个[类似的服务](https://github.com/athul/waka-readme)。（[@Imfondof](https://github.com/ruanyf/weekly/issues/1373) 投稿）
 
@@ -218,7 +218,7 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 9、[lazyhub](https://github.com/ryo-ma/lazyhub)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020032701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020032701.jpg)
 
 命令行的 GitHub 客户端，有图形 UI 界面。
 
@@ -234,7 +234,7 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 2、[谷歌职业证书](https://grow.google/certificates/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080509.jpg)
 
 谷歌推出了职业证书，第一批有四个职业：数据分析、项目经理、UX 设计师、IT 支持。
 
@@ -246,13 +246,13 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 4、[如何管理 Redis 数据库](https://www.digitalocean.com/community/books/how-to-manage-a-redis-database-ebook)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080610.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080610.jpg)
 
 DigitalOcean 发布的免费英文电子书，向初学者介绍什么是 Redis 和它的基本用法。
 
 5、[BUI App 开发教程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNjQxNjUwMg==&action=getalbum&album_id=1338511290868006913&subscene=159&subscene=158&scenenote=https://mp.weixin.qq.com/s?__biz=MzIyNjQxNjUwMg==&mid=2247483675&idx=1&sn=fc494fc7e05dd5d05c2049e04816190d&chksm=e8718302df060a14dc64d5ffddc76c319fd7cbfc8f7ac9c2ca09975a5431f23e85309cdb1820&scene=158#rd#wechat_redirect)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080902.jpg)
 
 BUI 是一个国产的移动端 H5 框架，这是框架作者写的系列教程，演示如何用 BUI 开发一个网易新闻 App。（[@imouou 投稿](https://github.com/ruanyf/weekly/issues/1369)）
 
@@ -264,11 +264,11 @@ BUI 是一个国产的移动端 H5 框架，这是框架作者写的系列教程
 
 2010年，菲律宾的一个22岁的建筑专业学生，经过大量的计划和反复试验，在《模拟城市》里面创建一个拥有600万居民的极限城市。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080511.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080511.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080512.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080512.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080513.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080513.jpg)
 
 这个城市没有任何空间浪费，道路极小化，所有交通都是大众运输，不存在私人车辆。水电都由邻近城市提供，从而消除了对许多基础设施的土地需求。
 
@@ -278,9 +278,9 @@ BUI 是一个国产的移动端 H5 框架，这是框架作者写的系列教程
 
 冷战时期，中央情报局曾经采用一种鞋带暗语。只要根据鞋面上，鞋带交叉的位置和次数，就能传递事先约定的信息。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081105.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081106.jpg)
 
 上面图片中，黄色表示鞋面上方的鞋带交叉位置。
 
@@ -292,17 +292,17 @@ BUI 是一个国产的移动端 H5 框架，这是框架作者写的系列教程
 
 lululemon 是一家运动服饰公司，主要生产健身裤。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071412.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071412.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071413.jpg)
 
 最近，lululemon 以5亿美元的巨资，收购了一家创业公司 Mirror。
 
 Mirror 的产品是一种用于家庭健身的全身镜，但实际上相当于一台巨型的悬挂在墙上的 iPad，价格为1,495美元。用户每月支付39美元的订阅费，就可以在这面镜子上看到健身课程，然后跟着一起做。这面镜子支持点播，以及老师的现场直播，从瑜伽到拳击都有课程。 
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071415.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071415.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071414.jpg)
 
 为什么生产健身裤的公司要收购开发智能镜子和健身视频的公司呢？ 
 
@@ -354,11 +354,11 @@ SSD 固态硬盘变成主流，导致 Windows 10 在 HDD 机械硬盘上几乎�
 
 2019年的本周（第 69 期）：[做得好 vs 做得快](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081403.jpg)
 
 2018年的本周（第 17 期）：[全球变暖，在劫难逃](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081001.jpg)
 
 ## 订阅
 

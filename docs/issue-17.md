@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081001.jpg)
 
 （图片说明：2018年6月的气温与1951-1980年平均气温的对比，来自推特[@SimonLeeWx](https://twitter.com/SimonLeeWx/status/1021130752199725059)）
 
@@ -23,7 +23,7 @@
 
 现在的计算是，如果人类排放10000亿吨二氧化碳，地球就会升高2度，目前人类已经排放了6237亿吨。[有一个网站](http://trillionthtonne.org/)实时显示目前排放了多少亿吨。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081002.jpg)
 
 根据计算，2036年3月7日，人类将达到1万亿吨排放量。更热的日子还在后面。
 
@@ -31,7 +31,7 @@
 
 1、[中国的二氧化碳排放](https://cn.nytimes.com/china/20180720/china-climate-change-report/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081003.jpg)
 
 《纽约时报》报道，一个美国教授认为，按照中国现在的二氧化碳排放水平，人类无法达到《巴黎协定》规定的减排目标，即全球平均温度比工业化之前上升不超过2摄氏度，除非中国的排放量大幅下降。
 
@@ -47,7 +47,7 @@
 
 3、[开放式办公室](https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081004.jpg)
 
 Ruby on Rails 的创始人 DHH 公开抨击，开放式办公室是一个极其糟糕的坏主意。
 
@@ -57,7 +57,7 @@ Ruby on Rails 的创始人 DHH 公开抨击，开放式办公室是一个极其�
 
 4、[皮质醇贴片](https://spectrum.ieee.org/view-from-the-valley/biomedical/diagnostics/new-wearable-sensor-detects-stress-hormone-in-sweat)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081005.jpg)
 
 斯坦福大学的科学家发明了一种皮肤贴片，可以实时测量汗液里面的皮质醇含量。一般来说，我们觉得压力很大的时候，皮质醇分泌就会增加。
 
@@ -65,17 +65,17 @@ Ruby on Rails 的创始人 DHH 公开抨击，开放式办公室是一个极其�
 
 5、[微型机器人竞赛](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/darpa-wants-your-insect-scale-robots-for-a-micro-olympics)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081006.jpg)
 
 美国国防部高级研究局（DARPA）发起了一次微型机器人竞赛。现在大多数机器人都是模仿人类的外形，但是昆虫大小的机器人也有巨大的用处。DARPA 要求，这次参赛的机器人重量小于1克，体积小于1立方厘米。DARPA 为所有参赛者提供3200万美元资助，比赛可能在明年3月举行。
 
 6、[最古老的面包](https://www.independent.co.uk/news/science/archaeology/bread-history-cooking-stone-age-middle-east-archaeology-discovery-a8450276.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081007.jpg)
 
 考苦学家在约旦的沙漠里面，发现了一个石头砌的炉子，里面居然还有古人烤剩下来的面包屑。这是现存最古老的面包。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081008.jpg)
 
 上图是显微镜下的面包屑，可以看到面包经过了充分发酵。
 
@@ -83,13 +83,13 @@ Ruby on Rails 的创始人 DHH 公开抨击，开放式办公室是一个极其�
 
 7、[代码搜索](https://blogs.bing.com/search-quality-insights/2018-07/Intelligent-search-Coding-answers-at-your-fingertips/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081009.jpg)
 
 微软的 Bing 搜索引擎新增了代码搜索功能，你问一个编程问题，现在可以直接给出示例代码。
 
 8、[机器狗 Spotmini](http://fortune.com/2018/07/21/boston-dynamics-spotmini-robot-dog/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081010.jpg)
 
 波士顿动力公司在成立16年后，终于要发售第一款产品了：一个类似小狗的四足机器人，高91厘米，重25公斤。这家公司以前的产品，都是供给美国国防部，这是第一款商业产品，预计明年上市。
 
@@ -103,7 +103,7 @@ Ruby on Rails 的创始人 DHH 公开抨击，开放式办公室是一个极其�
 
 10、[AMD 游戏主机](https://www.anandtech.com/show/13153/amd-creates-quad-core-zen-soc-with-24-vega-cus-for-chinese-consoles)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081011.jpg)
 
 上海的 ChinaJoy 展会上，AMD 宣布与中山小霸王公司合作推出新的[游戏主机](http://www.expreview.com/63224.html)，CPU 是锐龙，GPU 是Vega，搭配 8GB GDDR5显存，性能将超过索尼 PS4 及微软 Xbox One 游戏机。
 
@@ -111,7 +111,7 @@ Ruby on Rails 的创始人 DHH 公开抨击，开放式办公室是一个极其�
 
 11、[AI 取得 Dota2 的胜利](https://blog.openai.com/openai-five-benchmark-results/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081012.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081012.jpg)
 
 OpenAI Five 与人类高级玩家的 Dota2 第一场比赛结束，AI 以 2：1 获胜。值得一提的是，AI 输掉的第三局是人类故意为它分配了能力较低的角色，而不是让它自己选择角色，AI 自己预估第三局的胜率只有2.9%。8月下旬将进行 AI 与职业团队的比赛。
 
@@ -122,7 +122,7 @@ OpenAI Five 与人类高级玩家的 Dota2 第一场比赛结束，AI 以 2：1 
 * [Android 9.0](https://blog.google/products/android/introducing-android-9-pie/) 发布，这个版本大量增加了 AI 支持，可以对每个用户提供更好的个性化服务。
 * [Mozilla 浏览器](https://evertpot.com/firefox-rss/)计划取消 RSS 支持，原因是缺乏用户。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081013.jpg)
 
 ## 教程
 
@@ -148,13 +148,13 @@ WebAssembly 是浏览器可以执行的字节码，使得非 JS 编写的程序�
 
 6、[Hash 算法简介](https://medium.com/zkcapital/the-state-of-hashing-algorithms-the-why-the-how-and-the-future-b21d5c0440de)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081014.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081014.jpg)
 
 Hash 算法的概念性介绍。
 
 7、[为什么飞机驾驶舱不使用触摸屏？](https://aviation.stackexchange.com/questions/22729/why-are-traditional-knobs-not-replaced-by-touchscreens-in-cockpits)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081015.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081015.jpg)
 
 现在的飞机驾驶舱还是使用物理仪表盘，而不是触摸屏，这是为什么？主要的原因还是物理按钮会形成肌肉记忆，比操作触摸屏更快。
 
@@ -170,19 +170,19 @@ Hash 算法的概念性介绍。
 
 1、[nouns](https://getnous.app/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081016.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081016.jpg)
 
 一个侦测用户眨眼的装置，让用户通过眨眼控制电脑，可以供霍金那样的用户使用。
 
 2、[模拟电路生成器](https://www.falstad.com/circuit/circuitjs.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081017.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081017.jpg)
 
 生成模拟电路的网站。
 
 3、[Zotero](https://www.zotero.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081018.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081018.jpg)
 
 管理各种论文和报告的免费桌面软件。
 
@@ -192,7 +192,7 @@ Hash 算法的概念性介绍。
 
 5、[jsinspect](https://github.com/danielstjules/jsinspect)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081019.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081019.jpg)
 
 软件项目中，同一段逻辑不应该有多个实现。jsinspect 就是用来查出重复代码的工具。
 
@@ -202,13 +202,13 @@ Hash 算法的概念性介绍。
 
 7、[Glances](https://nicolargo.github.io/glances/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081020.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081020.jpg)
 
 Glances 是一个用Python编写的跨平台系统监视工具。它自带 Web UI，可以远程监控。
 
 8、[Code with Mu](https://codewith.mu/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081021.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081021.jpg)
 
 一个 Python 语言专用的代码编辑器。
 
@@ -220,7 +220,7 @@ Git 的合并算法是三方合并（three-way），有人认为这种算法并�
 
 1、[机械键盘](https://scrapbox.io/MECHKEYS/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081022.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081022.jpg)
 
 这个网站收集各种各样的机械键盘。
 
@@ -234,13 +234,13 @@ Git 的合并算法是三方合并（three-way），有人认为这种算法并�
 
 4、[Meteor Wrongs](http://meteorites.wustl.edu/meteorwrongs/meteorwrongs.htm)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081023.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081023.jpg)
 
 华盛顿大学维护的一个网站，收集各种假陨石的照片，并附上说明，讲解为什么某块石头不是陨石。
 
 5、[Byte 杂志](https://archive.org/details/byte-magazine)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081024.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081024.jpg)
 
 Byte 杂志是上个世纪很有影响的 IT 杂志，archive.org 提供免费下载。
 
@@ -268,7 +268,7 @@ Byte 杂志是上个世纪很有影响的 IT 杂志，archive.org 提供免费�
 
 以下摘自奥地利作家茨威格的《人类群星闪耀时》一书。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081025.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081025.jpg)
 
 1851年，欧洲大陆都已经连通了电报。但是，美洲一直被排除在世界电报网之外。
 
@@ -284,7 +284,7 @@ Byte 杂志是上个世纪很有影响的 IT 杂志，archive.org 提供免费�
 
 下图是160年前第一代的大西洋海底电缆。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081026.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081026.jpg)
 
 3、[中美电影周的真相](http://www.kanunu8.com/book3/6860/131447.html)
 
@@ -300,7 +300,7 @@ Byte 杂志是上个世纪很有影响的 IT 杂志，archive.org 提供免费�
 
 1、[2060年的世界人口大国](http://thesoundingline.com/the-worlds-most-populous-countries-from-1950-to-2060/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081027.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081027.jpg)
 
 上图是2060年的世界人口预测。印度是人口最多的国家，17亿左右；其次是中国，13亿左右；后面是尼日利亚，美国，巴基斯坦，印尼，刚果，巴西，埃塞俄比亚，坦桑尼亚和墨西哥。
 
@@ -308,13 +308,13 @@ Byte 杂志是上个世纪很有影响的 IT 杂志，archive.org 提供免费�
 
 2、[Java 的类](https://www.azul.com/javas-magic-sauce/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081028.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081028.jpg)
 
 Java 语言以众多的类著称，但是你知道它一共有多少个 public Class 吗？
 
 3、[LED 街灯](https://medium.com/@caseorganic/energy-saved-sleep-lost-the-unintended-consequences-of-led-lighting-c0909d4872d0)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081029.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081029.jpg)
 
 随着 LED 产业的发展，街灯已经大量改成了节能的 LED 灯。传统的昏黄温暖的橙色灯光，变成了明亮的蓝色灯光。有人提出，蓝色的明亮灯光容易对人类造成影响，使得效率降低，失眠和焦虑增加。
 

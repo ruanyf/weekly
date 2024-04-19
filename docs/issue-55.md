@@ -3,7 +3,7 @@
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
-：![](https://www.wangbase.com/blogimg/asset/201905/bg2019051001.jpg)
+：![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051001.jpg)
 
 （题图：昆山火车站，苏州，2018）
 
@@ -21,7 +21,7 @@
 
 1、[.amazon 顶级域名的纠纷](https://www.bbc.com/news/business-47794353)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051002.jpg)
 
 亚马逊公司申请了 .amazon 顶级域名，遭到了玻利维亚、巴西、哥伦比亚、厄瓜多尔、圭亚那、秘鲁、苏里南和委内瑞拉八个南美洲国家的反对。它们要求与亚马逊公司共用 .amazon 域名。后者不同意，只让出国别的二级域名，比如巴西是 br.amazon。双方争执不下，目前，这起纠纷将交给 ICANN 裁决。
 
@@ -29,7 +29,7 @@
 
 2、[太阳能农业](https://cleantechnica.com/2019/04/12/fraunhofer-reports-combining-farming-with-solar-186-more-efficient-in-summer-of-2018/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051003.jpg)
 
 德国正在进行一项实验，将太阳能发电与农业结合起来。在农地上方5米处架设光伏板，进行太阳能发电，下方依然是传统的农业耕作和放牧，发现这样可以使得土地的产值提高160%。
 
@@ -37,7 +37,7 @@
 
 3、[韩国的食物垃圾回收](https://www.weforum.org/agenda/2019/04/south-korea-recycling-food-waste/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051004.jpg)
 
 经过多年努力，韩国已经将食物垃圾的回收率，提高到了令人乍舌的95%。早在2005年，韩国就禁止食物垃圾倾倒在垃圾填埋场，必须专门回收。
 
@@ -45,7 +45,7 @@
 
 4、[《人类简史》作者谈 AI](http://tech.sina.com.cn/csj/2019-04-25/doc-ihvhiewr8092203.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051005.jpg)
 
 4月22日晚，在斯坦福大学可容纳2000人的大演讲厅，畅销书《人类简史》和《未来简史》的作者以色列著名历史学家尤瓦尔•赫拉利（Yuval Noah Harari），与斯坦福 AI 研究院领导者李飞飞，展开了一场人工智能对话。
 
@@ -61,7 +61,7 @@
 
 5、[特朗普蠕虫](https://en.wikipedia.org/wiki/Dermophis_donaldtrumpi)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051006.jpg)
 
 最近，巴拿马丛林发现了一种新的蠕虫，长度约10厘米，表皮光滑有粘液。它是一种穴居物种，几乎完全生活在地下，基本没有视力，眼睛只能分辨光暗。
 
@@ -69,19 +69,19 @@
 
 6、[带有人类基因的猴子](http://science.caixin.com/2019-04-15/101404121.html)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051007.jpg)
 
 昆明动物研究所宣布，人类的 MCPH1 基因已经移植给了猴子。该基因跟大脑发育有关，研究人员想看看，猴子是否会变得更聪明。现在已经有11只带有人类基因的恒河猴诞生，科学家称，转基因猴比野生猴的记忆能力“明显提高”。
 
 7、[人工智能创造的游戏](https://www.cnbeta.com/articles/tech/838313.htm)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051008.jpg)
 
 设计公司 AKQA 宣布，世界上第一个人工智能设计的运动 [speedgate](https://playspeedgate.org/) 已经诞生。人工智能分析了400个人类游戏的规则，然后创造出了该游戏。
 
 游戏时，每方有6个球员，三个前锋，三个后卫。球场有三个门，通过中间的门，攻入对方球门，就能得分。（@[CharlesCCC](https://github.com/ruanyf/weekly/issues/464) 投稿）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051009.jpg)
 
 8、**一句话新闻**
 
@@ -111,7 +111,7 @@ JSON Web Token 是一种令牌的生成机制，用于网站的授权和认证�
 
 4、[Nokia N9 的闹钟设计](http://nition.momentstudio.co.nz/2014/08/the-nokia-n9-alarm-clock/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051010.jpg)
 
 Nokia N9 手机的闹钟 App 的设计非常出色，作者介绍这个设计的优秀之处。
 
@@ -121,7 +121,7 @@ TypeScript 正变得越来越流行，本文作者谈了自己的看法，何时
 
 6、[如何发现隐藏的摄像头？](https://sixfortwelve.wordpress.com/2019/04/06/how-to-increase-your-chances-of-finding-a-hidden-camera/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051011.jpg)
 
 现在隐藏的摄像头越来越难以发现，比如上图的“6”里面有一个摄像头。本文介绍如何发现这种摄像头，前提是摄像头必须跟你在同一个局域网里面，否则还是发现不了。
 
@@ -131,7 +131,7 @@ TypeScript 正变得越来越流行，本文作者谈了自己的看法，何时
 
 8、[数据储存设备的历史回顾](https://royal.pingdom.com/the-history-of-computer-data-storage-in-pictures/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051012.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051012.jpg)
 
 本文通过图片介绍历史上的数据储存设备，上图是世界第一个超过1 GB的硬盘1980年的 IBM 3380，可以存储2.52 GB，重 250公斤，售价8万美元~14万美元。
 
@@ -145,7 +145,7 @@ TypeScript 正变得越来越流行，本文作者谈了自己的看法，何时
 
 11、[全平台框架 Flutter](https://developers.googleblog.com/2019/05/Flutter-io19.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051013.jpg)
 
 谷歌发布 [Flutter for web](https://github.com/flutter/flutter_web)，正式宣布 Flutter 成为全平台框架，支持手机、Web、桌面电脑和嵌入式设备。现在学跨平台应用开发，第一个要看的可能不是 React Native，而是 Flutter。（@[ifrontend-xyz](https://github.com/ruanyf/weekly/issues/513) 投稿）
 
@@ -153,7 +153,7 @@ TypeScript 正变得越来越流行，本文作者谈了自己的看法，何时
 
 1、[fyne](https://github.com/fyne-io/fyne)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051014.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051014.jpg)
 
 跨平台的 Go 语言的图形界面库。
 
@@ -183,7 +183,7 @@ React 的视频播放器组件。
 
 8、[scscmsMusic](https://github.com/scscms/scscmsMusic)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051015.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051015.jpg)
 
 一个 Chrome 浏览器扩展，用来听歌，支持远程音乐和播放列表。（@[scscms](https://github.com/ruanyf/weekly/issues/407) 投稿）
 
@@ -193,13 +193,13 @@ React 的视频播放器组件。
 
 10、[asciiflow](http://asciiflow.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051016.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051016.jpg)
 
 一个画 ASCII 码框图的网站。（@[bzhux](https://github.com/ruanyf/weekly/issues/409) 投稿）
 
 11、[avataaars generator](https://getavataaars.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051017.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051017.jpg)
 
 开源的卡通头像生成器，可以定制各种头像参数。（@[ifrontend-xyz](https://github.com/ruanyf/weekly/issues/488) 投稿）
 
@@ -239,7 +239,7 @@ GitHub 中国用户排名。（@[xurui3762791](https://github.com/ruanyf/weekly/
 
 以下摘自日本纪实书籍《无缘社会》（上海译文出版社，2014）。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051018.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051018.jpg)
 
 社会学把五十岁时仍未结过一次婚的人的比率称为“终生不婚率”，一般认为这个比率今后会呈增长趋势。
 
@@ -277,19 +277,19 @@ GitHub 中国用户排名。（@[xurui3762791](https://github.com/ruanyf/weekly/
 
 1、[世界最大灵骨塔](https://www.buddhistdoor.org/tc/news/%E9%80%99%E6%98%AF%E5%85%A8%E7%90%83%E5%AE%B9%E7%B4%8D%E6%9C%80%E5%A4%9A%E9%AA%A8%E7%81%B0%E9%BE%95%E7%9A%84%E5%9C%B0%E6%96%B9%E6%A8%93%E5%85%A7%E5%AE%89%E6%8E%92%E5%9B%9E%E6%87%89%E4%BA%86%E5%A4%9A%E7%A8%AE%E7%95%B6%E4%BB%A3%E5%A4%A7%E8%AD%B0%E9%A1%8C%E5%80%BC%E5%BE%97%E6%B7%B1%E6%80%9D)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051019.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051019.jpg)
 
 台湾新北市，一座白色巨塔矗立在三芝区，外形呈六角形，顶层为宫殿式的望楼塔造型。楼高达二十层的巨塔在翠绿的山峦中尤其突出！这座建筑其实是一个多层式的骨灰盒大楼──龙岩真龙殿生命纪念馆。
 
 该大楼聘请了日本建築大師安藤忠雄事务所負責設計，2002年正式開幕。一共可以容纳38万个骨灰盒。二楼到四楼是三宝佛殿，四楼以上是骨灰盒放置场所。目前，所有位置几乎已经全部售出。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051020.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051020.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051021.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051021.jpg)
 
 2、[《黑客帝国》的片头](https://www.wired.com/story/the-matrix-code-sushi-recipe/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051022.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051022.jpg)
 
 电影《黑客帝国》的片头非常著名，一阵绿色的“字符雨”从天而降。很多人很好奇，这些字符到底是什么内容？
 
@@ -350,7 +350,7 @@ Stack Overflow 已经成立11年了，现在，世界上每个开发者实际上
 
 这个公号属于是我少数订阅的金融号之一。如果你想要了解保险，或者最近想要购买保单，不妨关注看看。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051023.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051023.jpg)
 
 ## 订阅
 

@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060801.jpg)
 
 （题图：烟台山历史保护区，烟台，2017。我小时候的商店都是这种样子。）
 
@@ -20,7 +20,7 @@
 
 1、[日本82岁老奶奶开发 App](https://www.aarp.org/work/working-at-50-plus/info-2018/worlds-oldest-app-developer-fd.html)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060802.jpg)
 
 日本82岁的老奶奶 Masako Wakamiya 2017年初开始学习编程，现在已经开发了一款免费的 iOS 游戏 [Hinadan](https://itunes.apple.com/us/app/hinadan/id1199778491?mt=8)，专门面向老年日本人。该 App 在苹果商店获得获得近5颗星，全球下载量大约为53,000。
 
@@ -28,7 +28,7 @@
 
 2、[无人帆船 Saildrones](https://www.bloomberg.com/businessweek)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060803.jpg)
 
 每年春天，成千上万的大白鲨开始神秘的迁徙，从美国西海岸直奔太平洋深处。生物学家一直希望了解，这些鲨鱼在那里干什么。今年总算有答案了，这要归功于一对名叫 Saildrones 无人帆船。
 
@@ -38,7 +38,7 @@
 
 3、[3纳米的芯片](https://www.digitimes.com/news/a20180523PD210.html)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060804.jpg)
 
 三星宣布可以生产3纳米的芯片了，但还没有具体的投产时间。现在最先进的骁龙845芯片是10纳米。这意味着，未来同样大小的芯片，能够容纳10倍以上的晶体管，那是不是说计算能力起码还能强10倍？
 
@@ -48,7 +48,7 @@
 
 4、[YeeLight 停止向欧洲用户提供服务](http://gdprhallofshame.com/7-sorry-your-light-bulbs-and-gdpr-dont-work/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060805.jpg)
 
 小米旗下的智能灯具品牌 Yeelight 近日宣布，由于无法满足 GDPR 的要求，将不再向欧洲用户提供服务。作为该品牌的中国用户，我立刻得出结论，它的服务器上一定保存着我所有开灯/关灯的记录......
 
@@ -56,9 +56,9 @@
 
 5、[30年后，QBasic 依然是入门的儿童编程语言](http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060806.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060808.jpg)
 
 作者想教7岁的孩子编程，尝试了各种语言之后，他发现30年前流行的 QBasic 依然是最好的选择。
 
@@ -74,7 +74,7 @@
 
 6、[Firefox 浏览器支持 Web Components](https://www.cnet.com/news/mozilla-firefox-joins-chrome-safari-making-it-easier-to-build-sophisticated-websites/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060809.jpg)
 
 Firefox 浏览器最新的 [Nightly测试版本](https://twitter.com/FirefoxNightly/status/1001104178146611202) 已经支持 Web Components。这是 Chrome 浏览器5年前开始推广的一种新技术，现在除了 Edge 浏览器，其他主要浏览器都已经支持了。
 
@@ -82,7 +82,7 @@ Web Components 是浏览器原生的组件解决方案。如果你愿意对新�
 
 7、[Facebook 不向40岁以上的访问者推送招聘广告](https://projects.propublica.org/graphics/facebook-job-ads)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060810.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060810.jpg)
 
 美国一个组织发现，Facebook 允许广告主指定受众的年龄范围，结果导致40岁以上的访问者看不到招聘广告，而美国法律明文禁止招聘的年龄歧视。就像上面的广告，只有25～36岁的人才能看到。
 
@@ -94,7 +94,7 @@ Web Components 是浏览器原生的组件解决方案。如果你愿意对新�
 
 2、[文章] [前端人工智能？TensorFlow.js 学会游戏通关](https://zhuanlan.zhihu.com/p/35451395)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060814.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060814.jpg)
 
 作者使用 TensorFlow.js，让程序自动完成 Chrome 浏览器的内置小游戏"恐龙快跑"。
 
@@ -116,7 +116,7 @@ awk 是 Unix 命令行处理文本的有用工具，这里是1988年出版的 aw
 
 7、[教程] [高性能矩阵乘法](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060815.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060815.jpg)
 
 矩阵乘法需要计算每一行与所有列的乘积之和，如果矩阵很大，乘法计算是非常耗时的。这篇文章讨论如何实现一个高性能的矩阵乘法算法。
 
@@ -134,49 +134,49 @@ awk 是 Unix 命令行处理文本的有用工具，这里是1988年出版的 aw
 
 1、[CalVer](http://calver.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060816.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060816.jpg)
 
 语义版本（SemVer）现在很流行，就是根据 API 的变动为版本编号。这个网址提出另一种编号方法：根据日历编号，版本号就是发布日期。很多软件已经在用了，最有名的就是 Ubuntu，它的版本格式是 yy.mm，比如 16.04。
 
 2、[Jadesktop](https://github.com/codesardine/Jadesktop)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060817.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060817.jpg)
 
 一个使用 HTML5、CSS、JavaScript 和 Python 开发 Linux 桌面应用的工具。对的，你不需要 Electron。
 
 3、[Asteroid OS](https://asteroidos.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060818.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060818.jpg)
 
 开源的手表操作系统。
 
 4、[AutoCAD 在线版](https://web.autocad.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060819.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060819.jpg)
 
 三月份的消息，今天才看到。AutoCAD 浏览器版上线了，跟桌面版基本一致，背后的技术是 Webassembly。
 
 5、[Winds 2.0](https://getstream.io/winds/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060820.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060820.jpg)
 
 一个开源的桌面 RSS 阅读器。
 
 6、[self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060821.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060821.jpg)
 
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 7、[Chromely](https://github.com/mattkol/Chromely)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060822.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060822.jpg)
 
 Electron 的挑战者越来越多，这个是 .NET 框架包装的 Chrome 浏览器内核。你现在可以使用 .NET 开发类似 Electron 的桌面应用。
 
 8、[Cool Backgrounds](https://coolbackgrounds.io/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060823.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060823.jpg)
 
 自动生成背景图片的工具网站，现在提供五种风格，每种都可以定制，看上去赏心悦目。
 
@@ -184,7 +184,7 @@ Electron 的挑战者越来越多，这个是 .NET 框架包装的 Chrome 浏览
 
 1、[有史以来最复杂的软件](https://www.quora.com/What-is-the-most-sophisticated-piece-of-software-code-ever-written)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060824.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060824.jpg)
 
 作者认为，Stuxnet 蠕虫病毒可能是有史以来最复杂的软件。
 
@@ -228,21 +228,21 @@ Facebook 和 Airbnb 设计系统的创造者[@soopa](https://twitter.com/soopa) 
 
 1、[《迈登斯的中国摄影集》](https://shuge.org/ebook/carl-mydans-world-war-ii/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060825.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060825.jpg)
 
 1941年，<span data-type="color" style="color:rgb(68, 68, 68)">美国《生活》（LIFE）杂志摄影师迈登斯（ Carl Mydans）来到中国，拍摄中国人民的抗战。现在，他拍摄的3332张照片已经可以在互联网免费下载。</span>
 
 2、[监视器上的燕子](https://www.mobile01.com/topicdetail.php?f=629&t=5445008&p=8#68506804)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060826.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060826.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060828.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060828.jpg)
 
 网友拍到有一窝燕子在监视器上著巢，燕妈妈飞来喂食。
 
 3、[芬兰的图书馆](https://www.theguardian.com/cities/2018/may/15/why-finlands-cities-are-havens-for-library-lovers-oodi-helsinki)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060829.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060829.jpg)
 
 芬兰是一个热爱读书、有很多图书馆的国家。上面照片里面如此具有现代感的图书馆，建成于1927年，照片拍摄于1935年。
 
@@ -252,7 +252,7 @@ Facebook 和 Airbnb 设计系统的创造者[@soopa](https://twitter.com/soopa) 
 
 到了2050年，海洋里面的塑料垃圾的数量将超过鱼。（[BBC](https://www.theguardian.com/environment/2018/jun/05/the-planet-is-on-edge-of-a-global-plastic-calamity)）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060830.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060830.jpg)
 
 2、
 

@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072417.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072417.jpg)
 
 元上都遗址位于内蒙古草原，是元朝定都北京之前的首都，距今约750年的历史。马可波罗就在这里，第一次见到了元世祖忽必烈。（来源：[Instagram](https://www.instagram.com/p/CDA5dbFnNHs/)）
 
@@ -20,7 +20,7 @@
 
 理由很简单，对于普通人家的子弟，理工科会比文科更容易谋生和赚钱。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020073001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020073001.jpg)
 
 最近，有一条[新闻](https://www.bbc.com/worklife/article/20200728-why-australia-is-charging-more-to-study-history)，澳大利亚因为工程师短缺，决定理工科的大学学费降低20%，同时提高文科学费，鼓励学生优先选择理工科。国内其实也是同样的情况，市场对工程师的需求很大，理工科的就业普遍好于文科。
 
@@ -42,21 +42,21 @@
 
 第二季是 H5 游戏开发实战，通过短时间的培训，带大家走进前端图形学工程师的世界。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072904.jpg)
 
 好消息是这两季现在都可以 **免费领取** ！
 
 扫描下图二维码，进群后领取免单卡，获取《前端图形学教程》（说明：由于腾讯课堂的限制，需支付0.02元），仅发放给前150位进群的同学。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072905.jpg)
 
 ## 资讯
 
 1、[NBA 虚拟观众](https://www.cnetwsj.com/news/nba-is-using-microsoft-teams-to-brings-virtual-fans-into-its-real-world-games/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072501.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072502.jpg)
 
 由于疫情，NBA 今年的季后赛没有现场观众。NBA 就与微软的  Teams 软件合作，引入了“虚拟观众”。
 
@@ -66,23 +66,23 @@
 
 2、[红砖的新制造方法](https://www.cnn.com/style/article/going-green-kbriq-sustainable-brick-spc-intl/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071405.jpg)
 
 红砖是常见的建筑材料，它是粘土在1000多度的高温中烧制而成。大量开采粘土会破坏土壤和环境，而且烧制和运输红砖会消耗大量能源，产生碳排放。
 
 为了解决这些问题，伦敦的一家科技公司发明了一种红砖的新制作方法，将废砖、砾石、沙子、石膏板粉碎后，与水和粘合剂混合，然后在定制的模具中压制成形。整个过程不需要入窑烧制，碳排放量不到传统砖的十分之一，而且直接在城市中制作，运输成本大幅降低。它还能作为城市建筑废料的一种解决方案。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071408.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071407.jpg)
 
 该公司声称，这种砖的价格将与传统砖头相当，而且比粘土砖更坚固，更耐用，并且还提供更好的隔热性。目前，正尝试在苏格兰推广使用。
 
 3、[降噪窗户](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071302.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071301.jpg)
 
 新加坡南洋理工大学的科学家根据降噪耳机的原理，造出了一个降噪窗户。
 
@@ -92,7 +92,7 @@
 
 4、[无法切割的材料](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072106.jpg)
 
 英国科学家发明了一种新材料，各种电锯都将它无法切开，可以用于自行车锁和安全门。
 
@@ -102,7 +102,7 @@
 
 5、[三星可能放弃高通芯片](https://www.ubergizmo.com/2020/07/samsung-galaxy-s21-exynos/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071205.jpg)
 
 外媒报道，三星的下一部手机 Galaxy S21 可能会放弃高通芯片，改用自家的 Exynos（猎户座）芯片作为 CPU。原因据说是，高通芯片原先由三星代工，但是为了防止三星偷技术，最新的865芯片交给了台积电代工。这样一来，三星就没有了顾忌，而且高通的下一代875芯片非常贵，继续使用会导致三星手机涨价。
 
@@ -112,29 +112,29 @@
 
 > - [世界最大的水陆两栖飞机 AG600](http://www.chinanews.com/gn/2020/07-26/9248429.shtml) 在青岛完成了首次海上试飞。该机与波音737一样大小，最大起飞重量53.5吨，可以在水面取水，进行森林灭火。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020073003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020073003.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020073004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020073004.jpg)
 
 > - [重庆](http://www.jiaodong.net/news/system/2020/07/23/014070809.shtml)建成世界最高秋千，高108米，最高可以荡88米。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020073005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020073005.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020073006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020073006.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020073007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020073007.jpg)
 
 > - [南京玄武湖](https://baijiahao.baidu.com/s?id=1673456282965445543)长出了一株并蒂莲，却被一名外地游客趁管理人员不备偷偷采摘了下来，准备带回家欣赏。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072805.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072806.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072807.jpg)
 
 > - [剑桥大学研究人员](https://www.slashgear.com/cambridge-researchers-create-a-touchscreen-you-dont-have-to-touch-24630475/)发明了一种无需触摸的触摸屏，采用“触摸预测”算法，只要手指悬停在按钮上方，屏幕就会自动感知。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072419.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072419.jpg)
 
 > - [加拿大医生](https://montrealgazette.com/news/local-news/hema-quebec-study-shows-covid-19-antibodies-gradually-disappear/wcm/7c5f2e74-39fa-4b67-bd83-ec4f1edba78e/)发现 COVID-19 抗体几个月后会从血液中消失，这意味着患者康复后有可能再次感染，不过那时免疫系统可能会根据记忆，自动消灭这种病毒。
 
@@ -148,7 +148,7 @@
 
 2、[NAND Flash 基础知识简介](http://blog.coderhuo.tech/2020/07/18/flash_basics/)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072704.jpg)
 
 NAND Flash 是一种存储介质（掉电后数据不会丢失），常见的 U 盘、TF 卡/SD 卡，以及大部分 SSD（固态硬盘）都是由它组成的。 本文主要介绍它的种类及工作原理。（[@sigusr1](https://github.com/ruanyf/weekly/issues/1356) 投稿）
 
@@ -180,7 +180,7 @@ NAND Flash 是一种存储介质（掉电后数据不会丢失），常见的 U 
 
 1、[wiby](https://wiby.org/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072312.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072312.jpg)
 
 一个极简的搜索引擎，加载速度很快。
 
@@ -190,25 +190,25 @@ Visual Studio Code 的插件，提供一个嵌入式的 RSS 阅读器，可以�
 
 3、[React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072402.jpg)
 
 Adobe 公司的 React 组件库，用法非常简单干净。
 
 4、[css-sweeper](https://github.com/propjockey/css-sweeper)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072403.jpg)
 
 一个只用 HTML 和 CSS 实现的扫雷游戏，不使用 JavaScript。
 
 5、[SimpleOps](https://simpleops.io/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072008.jpg)
 
 网站性能监控服务，可以监控加载速度和网站是否下线。
 
 6、[project-citadel](https://github.com/JordanKnott/project-citadel)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072101.jpg)
 
 一个开源的看板程序，用于项目管理。
 
@@ -232,31 +232,31 @@ React 的表格组件库，新的 7.0 版完全采用 Hooks 设计。
 
 1、[数据可视化图表目录](https://datavizcatalogue.com/ZH/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072301.jpg)
 
 这个网站收集各种数据可视化的图表类型，简要讲解每种类型的用途和特点，而且有中文版。
 
 2、[Gradio](https://hub.gradio.app/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072401.jpg)
 
 该网站提供一系列可以在线使用的 AI 工具，比如识别物体、识别手写数字、老照片着色、绘画生成等等。
 
 3、[impossible-objects](https://github.com/Matsemann/impossible-objects)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072705.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072706.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072707.jpg)
 
 这个仓库提供 3D 打印源码，可以打印一些不可思议的物体，在镜子里面呈现另一个形状。
 
 4、[OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072803.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072804.jpg)
 
 丹麦艺术家根据开源地图 OpenStreetMap 的数据，让建模软件 Unity 3D 引擎基于真实城市的面貌，自动生成一座虚拟城市。
 
@@ -270,33 +270,33 @@ C/2020 F3 彗星最近光临地球，是20多年来北半球最明亮的彗星�
 
 7 月23 日是它最接近地球的日子，此后亮度逐渐衰减。它下一次出现将是6800年之后。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072404.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072405.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072406.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072407.jpg)
 
 下面是中国摄影爱好者[“阿五在路上”](https://www.instagram.com/alvinwufoto/)拍摄的彗星。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072413.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072414.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072415.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072415.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072416.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072416.jpg)
 
 [还有人](https://twitter.com/djulik/status/1286053695956881409)拍到下面的照片，彗星被星联计划 StarLink 的人造卫星挡住了，长曝光拍摄后就变成了下面的样子。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072408.jpg)
 
 2、[市值最大的公司](https://www.techspot.com/news/86160-ceos-amazon-apple-facebook-google-preparing-their-defense.html)
 
 下图是2010年市值最大的五家公司与2020年的对比。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020073002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020073002.jpg)
 
 2010年最大的五家公司（单位：美元）。
 
@@ -322,11 +322,11 @@ C/2020 F3 彗星最近光临地球，是20多年来北半球最明亮的彗星�
 
 俄罗斯的安东诺夫 AN-225 运输机是全世界最大的飞机，翼下装了六台涡轮发动机，翼展几乎相当于一个足球场的长度。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072305.jpg)
 
 无论它飞到哪里，都是人们目光的焦点。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072306.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072306.jpg)
 
 它诞生于冷战时期。1981年4月，美国发射了第一架航天飞机，将军事卫星送入了轨道。苏联认为这是一种威胁，开始制造自己的航天飞机 Buran（俄语“暴雪”）。
 
@@ -334,13 +334,13 @@ C/2020 F3 彗星最近光临地球，是20多年来北半球最明亮的彗星�
 
 安东诺夫设计局就设计出了 AN-225 这架世界最大的飞机。除了6个发动机，巨大的起落架下有惊人的32个轮子，以及为了增加稳定度而设置的两个尾翼。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072307.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072307.jpg)
 
 AN-225 的制造只用了短短三年半，但仍跟不上航天飞机 Buran 的完工日期。航天飞机最终是由一队轰炸机携带零件，运到发射场组装的。
 
 1988年底，Buran 和 AN-225 差不多同一个时间进行了首飞。那一年，柏林墙倒塌，随后苏联解体。结果， Buran 仅执行一次正式任务，就被永久放弃了，而 AN-225 只在大约12次试飞中，搭载过航天飞机（下图）。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072308.jpg)
 
 随着 Buran 被放弃，AN-225 也就没用了。有人提议，将这架飞机改成酒店，未被采纳。后来，它被锁进机库，在那里放了7年，静静地生锈。
 
@@ -348,11 +348,11 @@ AN-225 的制造只用了短短三年半，但仍跟不上航天飞机 Buran 的
 
 2001年，AN-225 进行了除尘和设备升级，然后重新投入使用，一口气创造了124项世界纪录，包括货物长度、载重量、载货飞行高度等等。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072309.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072309.jpg)
 
 AN-225 最多可容纳16个集装箱或80辆家用汽车，最大有效载荷为250吨。2009年，AN-225创下了空运单件货物重量的记录，当时它将一台重达187吨的发电机从德国运到亚美尼亚。它还运输过史上最长的空运货物——两台42米的风力涡轮机，从中国运往丹麦；甚至在1万米高空举行过一次画展，创造了吉尼斯世界纪录。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072310.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072310.jpg)
 
 2020年4月，AN-225 再创纪录，将100吨 Covid-19 防护设备和药品，从中国天津运到波兰华沙。由于世界各地需要防护用品，两个半月的时间里，AN-225 进行了10次从中国飞往世界各地的飞行。”
 
@@ -363,7 +363,7 @@ AN-225 的单次飞行成本很高，每小时使用20吨以上的燃料，所�
 1996年，美国司法部发现，微软公司内部使用“拥抱，扩展，扑灭”（Embrace, extend, and extinguish，简称 EEE
 ）这个短语，描述对付竞争对手的策略。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020072901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072901.jpg)
 
 首先，拥抱对方的产品种类，进入对方的市场；然后，使用自己的专有功能扩展产品标准；最后，利用这些差异，使竞争对手处于不利地位。
 
@@ -421,11 +421,11 @@ AN-225 的单次飞行成本很高，每小时使用20吨以上的燃料，所�
 
 2019年的本周（第 67 期）：[复杂系统无法维护，侏罗纪公园必定失败](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080109.jpg)
 
 2018年的本周（第 15 期）：[周刊的内容从何而来？](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-15.html)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072701.jpg)
 
 ## 订阅
 

@@ -4,7 +4,7 @@
 
 本杂志开源（GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)），欢迎提交 issue，投稿或推荐你的项目。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090502.jpg)
 
 封面照片：昆山火车站，2018
 
@@ -36,17 +36,17 @@
 
 课程时间四个月，学员最终开发出基于 Vue 和 React 的工程级项目，作为结课标准。下面是学员的一些优秀作品。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090401.jpg)
 
 扫描下方二维码两次，即可成功添加小助理。大家关心的开课时间、具体知识点、讲师资历、线下交流等信息都可以去咨询。现在报名有减 1000元 的优惠，前200名添加微信的读者还能领取2019独家前端面试资料一份。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090402.jpg)
 
 ## 资讯
 
 1、[矮种马上飞机](https://www.nytimes.com/2019/08/17/travel/mini-horse-service-plane.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081804.jpg)
 
 美国交通部通过法规，三种服务性动物可以带上客机，分别是猫、狗和矮种马。
 
@@ -54,35 +54,35 @@
 
 2、[机器人飞行员](https://newatlas.com/us-air-force-robopilot-flight/61105/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081901.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081902.jpg)
 
 2019年8月9日，美国空军在犹他州试验场，测试了机器人飞行员。那是一个可以代替人，操作各种飞机开关的传动装置，用来为现有的飞机提供一个便宜的无人驾驶方案。
 
 这个装置使用摄像头读取仪表盘，使用机械臂操作方向舵、制动器、油门和开关，就像人类飞行员一样。测试飞机是一架1968年生产的小型飞机，实验完全成功，飞机在空中飞行了两个小时。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081903.jpg)
 
 3、[特斯拉跑车绕太阳一周](https://electrek.co/2019/08/18/tesla-roadster-starman-completed-first-orbit-sun/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081904.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081905.jpg)
 
 2018年2月，SpaceX 公司发射了第一枚猎鹰重型火箭。这是一次试验飞行，需要发射一个“假装置”，放在整流罩里面以展示其能力。CEO 马斯克就决定把一辆特斯拉跑车，放在火箭。为了逼真，驾驶座上还配了一个穿太空服的假人，命名为“Starman”。
 
 这辆跑车就这样进入了太空，被太阳引力吸引，围绕太阳以每秒11.9公里的速度高速行驶。现在，已经完成围绕太阳运行一圈。这辆汽车创造了多个记录，比如第一辆进入太空的汽车、距离地球最遥远的汽车、行驶里程最多的汽车等等。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081906.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081907.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081908.jpg)
 
 4、[互联网法院](https://tech.sina.com.cn/it/2019-08-18/doc-ihytcitm9985125.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081910.jpg)
 
 2019年8月17日，北京互联网法院成立一周年之际，展示了移动微法院、屏幕共享、智能审判应用、天平链等多项互联网技术的实际司法应用。
 
@@ -92,19 +92,19 @@
 
 5、[北斗卫星多于 GPS](https://asia.nikkei.com/Business/China-tech/China-s-version-of-GPS-now-has-more-satellites-than-US-original)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082005.jpg)
 
 2018年，中国发射了18颗北斗导航卫星。目前，一共有35颗北斗卫星在运行，而美国的 GPS 卫星只有31颗，欧盟的伽利略系统22颗，俄罗斯的 GLONASS 系统24颗。另外，日本（4颗）和印度（6颗）的系统只限于本国可用。
 
 全世界195个国家和地区中的130个（多是一带一路沿线国家），接收到的北斗卫星要多于 GPS 卫星。这使得在这些国家，使用北斗定位会信号更强，定位更快速。上图中，深蓝的区域是北斗占优，红色的区域是 GPS 占优。下图是主要国家的北斗和 GPS 的对比。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082006.jpg)
 
 6、[迪斯尼+ 视频服务](https://www.engadget.com/2019/08/23/disney-plus-first-look-user-profiles-d23-expo/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082406.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082407.jpg)
 
 迪斯尼公司定于11月12日，推出自己的视频订阅服务，近日披露了该服务的用户界面。里面收录了它旗下电影和电视公司的节目，每月收费6.99美元。另外，还有一个每月的12.00美元的订阅包，可以额外收看 ESPN + Hulu 的节目。
 
@@ -112,9 +112,9 @@
 
 7、[克隆警犬](http://news.fjsen.com/2019-08/23/content_22639173_all.htm)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082409.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082410.jpg)
 
 8月22日，中国首只克隆警犬“昆勋”，在昆明编入现役。“昆勋”2018年12月在北京出生，是从另一只名为“化煌马”警犬的体细胞克隆而来。经鉴定，克隆犬“昆勋”的 DNA 与体细胞供体犬“化煌马”有99.9%以上的相似度。
 
@@ -128,17 +128,17 @@
 
 > - [日本庆应大学](https://www.theguardian.com/world/video/2019/aug/15/japanese-researchers-build-robotic-tail-video)正在开发机器人尾巴，模仿了猎豹和猴子的尾巴，用于在跑步和攀爬时保持机器人或真人的平衡。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081601.jpg)
 
 > - [巴西最大城市圣保罗](https://www.reddit.com/r/UrbanHell/comments/csxbwu/s%C3%A3o_paulo_at_3_pm_today_in_the_afternoon_the/)2019年8月20日下午三点的情景。由于亚马逊雨林大火，整个城市烟雾笼罩，白昼彷佛黑夜。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082602.jpg)
 
 > - [一家法国夜总会](https://news.sky.com/story/robot-pole-dancers-to-debut-at-french-nightclub-11799391)推出了机器人钢管舞。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090204.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090205.jpg)
 
 ## 文章
 
@@ -164,7 +164,7 @@ SVG 是文本文件，有很多冗余的标签。本文介绍怎么压缩它的�
 
 6、[计算机语言的保留字数量](https://github.com/e3b0c442/keywords)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081504.jpg)
 
 一门语言的保留字数量，反映了语法的复杂度。有人统计了流行的计算机语言，发现保留字最少的是Elixir（15个），最多的是C#（77个）。出乎意料的是，Go的保留字少于C，JS少于Python，Python又少于 Ruby。
 
@@ -174,7 +174,7 @@ SVG 是文本文件，有很多冗余的标签。本文介绍怎么压缩它的�
 
 8、[Switch 游戏机安装安卓系统](https://arstechnica.com/gadgets/2019/08/android-on-the-nintendo-switch-a-hardware-hacking-extravaganza/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081703.jpg)
 
 任天堂公司的 Switch 游戏机，本质上是一个手机零件组成的游戏机，而且配置很低。CPU 是四核 Nvidia Tegra X1 ARM，4GB 内存，720p 触摸屏和 4310mAh 电池。本文介绍如何在它上面安装安卓系统。
 
@@ -198,25 +198,25 @@ SVG 是文本文件，有很多冗余的标签。本文介绍怎么压缩它的�
 
 3、[wewe](https://github.com/t9tio/wewe)
 
- ![](https://www.wangbase.com/blogimg/asset/201907/bg2019072905.jpg)
+ ![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072905.jpg)
 
 微信群聊同步到 Web 的开源工具。（@[timqian](https://github.com/t9tio/wewe) 投稿）
 
 4、[Gogh](https://github.com/Mayccoll/Gogh)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072906.jpg)
 
 一个终端窗口颜色主题的安装工具，目前有170多种配色方案可选择，支持 Linux 和 Mac。
 
 5、[QSpace](https://apps.apple.com/cn/app/id1469774098)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019073006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019073006.jpg)
 
 一个国产软件，macOS 系统的多视图文件管理器，支持很多特色功能。让你摆脱多窗口来回切换的繁琐，和拖拽时找不准目标的尴尬。（@[vitacoding](https://github.com/ruanyf/weekly/issues/733) 投稿）
 
 6、[Pictool](https://github.com/chenshenhai/pictool)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019073007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019073007.jpg)
 
 一个较为轻巧的前端 JS 库，用来处理图像效果。（@[chenshenhai](https://github.com/ruanyf/weekly/issues/738) 投稿）
 
@@ -234,7 +234,7 @@ Git 钩子管理器，可以用在各种项目之中。特点是功能强大，�
 
 10、[plyr](https://github.com/sampotts/plyr)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080112.jpg)
 
 一个前端 HTML5 的视频/音频播放器，特点是简单易用，定制性好。
 
@@ -250,19 +250,19 @@ Git 钩子管理器，可以用在各种项目之中。特点是功能强大，�
 
 1、[Standard Ebooks](https://standardebooks.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080301.jpg)
 
 一个对版权过期的英文小说进行精心排版，提供电子书下载的网站。
 
 2、[Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080302.jpg)
 
 Ruby on Rails 在线英文教程。
 
 3、[基于 JAMstack 的 Web 开发](https://www.netlify.com/oreilly-jamstack/#download)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080403.jpg)
 
 Netlify 公司的免费电子书。
 
@@ -272,7 +272,7 @@ Netlify 公司的免费电子书。
 
 5、[CS Rankings](https://csrankings.org/#/index?ai&asia)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080801.jpg)
 
 该网站提供计算机科学各领域研究机构的排名，可以查看全球排名，也可以查看每个大洲的排名。上图是亚洲人工智能研究机构的排名。
 
@@ -280,7 +280,7 @@ Netlify 公司的免费电子书。
 
 1、[电子游戏的总收入](https://twitter.com/RebellionJason/status/1126808328166936576/photo/1)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019073005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019073005.jpg)
 
 十年前开始，电子游戏的总收入已经超过电影业和音乐业的总和，现在更是远远不止。
 
@@ -288,7 +288,7 @@ Netlify 公司的免费电子书。
 
 2、[第一个手机](https://www.nytimes.com/2019/07/31/business/how-phones-made-the-world-your-office-like-it-or-not.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080103.jpg)
 
 1973年4月3日，摩托罗拉副总裁 John F. Mitchell 在纽约向新闻界展示该公司的最新产品：DynaTAC。这是世界上第一款手持无线手机。这个产品直到10年后，才会正式上市。它的特征就是像一块砖头。
 
@@ -298,7 +298,7 @@ Netlify 公司的免费电子书。
 
 以下摘自杰瑞德·戴蒙德（Jared Diamond）的《枪炮、病菌与钢铁》。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019083101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019083101.jpg)
 
 20世纪之前，只有14种哺乳动物被驯化。其中9种是区域性的（比如骆驼、印度野牛、牦牛），只有5种是全球性的，而且对人类很重要：牛、绵羊 、山羊、猪和马。
 
@@ -324,7 +324,7 @@ Netlify 公司的免费电子书。
 
 这个中译书名实在糟糕，其实这本书并不好笑，正确的译法应该是《让人不舒服的妇产科医生日记》。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072604.jpg)
 
 妇产科晚班时，紧急警报响了——这次是肩难产。
 
@@ -388,7 +388,7 @@ Netlify 公司的免费电子书。
 
 1、**秘猿科技**
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080701.png)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)
 
 秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。以下职位的工作地点为杭州，也可以 remote。
 
@@ -403,7 +403,7 @@ Netlify 公司的免费电子书。
 
 去年的本周：《[周刊第 20 期](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html)》
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018083101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018083101.jpg)
 
 ## 订阅
 

@@ -6,7 +6,7 @@
 
 周刊讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/983)，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019113002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019113002.jpg)
 
 封面图：白化病袋鼠，育儿袋里面的小袋鼠是正常的。（出处澳大利亚政府[官方 Instagram](https://www.instagram.com/p/B5cfkT2oXsq/)）
 
@@ -14,7 +14,7 @@
 
 最近，我读到两段话，都是用蛇比喻企业管理。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122601.jpg)
 
 第一段话出自 Netscape 公司的首席执行官 James  Barksdale。
 
@@ -28,7 +28,7 @@
 
 他的意思是，第一个看到问题的人，就要立刻着手解决，不要拖延。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122602.jpg)
 
 第二段话出自亿万富翁 Ross Perot 评论通用汽车公司的管理。
 
@@ -52,11 +52,11 @@
 
 开课吧的免费课程 **《Vue.js 3.0 数据响应式原理》** ，完全基于新版本的代码，介绍了 UI 层和 Model 层数据双向响应的实现原理，2.0 版和 3.0 版的底层差异，主讲老师还会教大家如何自己动手搞定 Vue3 响应式实现，以及相关的源码分析。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122409.jpg)
 
 微信扫描下方二维码（手机端可以长按两次），添加小助理，就能领取免费的听课资格。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122410.jpg)
 
 开课吧总部在北京，是国内最大的职业教育平台之一，在 IT 培训方面投入很大，网上搜索一下可以看到他们的更多介绍。
 
@@ -64,7 +64,7 @@
 
 1、[《蒙娜丽莎》](https://www.nytimes.com/2019/11/06/arts/design/mona-lisa-louvre-overcrowding.html)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110805.jpg)
 
 上图是今年10月24日法国卢浮宫《蒙娜丽莎》画像前的情景。每天都有3万人来卢浮宫看这幅画，参观体验非常糟糕。大多数人只能隔着人群，远远看到一个影子。即使你好不容易挤到前面，看两眼就会被挤开。
 
@@ -74,7 +74,7 @@
 
 2、[骨髓移植的 DNA 问题](https://www.nytimes.com/2019/12/07/us/dna-bone-marrow-transplant-crime-lab.html)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120902.jpg)
 
 美国内华达州警察局的 DNA 分析实验室（上图），遇到了一个棘手的问题。一个白血病患者进行骨髓移植四年后，他的血液、嘴唇、脸颊都出现了骨髓捐助者的 DNA。也就是说，此人身上现在同时有两个人的 DNA。而且，他的精液（主要是白细胞）里面所有的 DNA，都来自捐助者。
 
@@ -82,7 +82,7 @@
 
 3、[抗酒精的细菌](https://arstechnica.com/science/2018/08/hospital-superbugs-are-evolving-to-survive-hand-sanitizers/)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120903.jpg)
 
 为了消灭细菌，医院通常使用酒精消毒液。洗手和擦拭医疗器具，都需要使用酒精，并且浓度不是一般家用的23％，而是高达70％。酒精会破坏细菌的细胞膜，导致细菌迅速死亡。
 
@@ -90,7 +90,7 @@
 
 4、[美国太空部队](https://www.spaceforce.mil/)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122103.jpg)
 
 美国太空部队于2019年12月20日正式成立，保卫美国在宇宙空间的安全和利益，成为美国的第六个军种。前五个是陆军，海军，空军，海军陆战队，海岸警卫队。上面是它的官网，还比较简陋。
 
@@ -100,9 +100,9 @@
 
 5、[Mac Pro 顶配超过5万美元](https://www.theverge.com/circuitbreaker/2019/12/10/21003636/apple-mac-pro-price-most-expensive-processor-ram-gpu)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019121107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121107.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019121108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121108.jpg)
 
 苹果公司新型 Mac Pro 电脑开始接受订购，起价为5,999美元，顶配为52,599美元，是有史以来最昂贵的 Mac 电脑。
 
@@ -110,7 +110,7 @@
 
 6、[猪猴混合体](http://www.sohu.com/a/359450277_139908)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019121109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121109.jpg)
 
 中国科学院动物研究所做了一个突破性的实验，创造出世界上第一个“猪猴混合体”生物。研究团队将猴子的胚胎干细胞，在受精五天后注射到猪的胚胎中。最后，母猪生出了十只仔猪，其中两只仔猪身上测到了猴子的 DNA，成为“猪猴混合体”。可惜的是，所有仔猪都在一周之内死亡，原因不明。
 
@@ -124,23 +124,23 @@
 
 > - **Instagram 用户 Joemanweng** 访问谷歌台北分公司，一般公司的卫生间贴的都是公司信息或心灵鸡汤，但是谷歌卫生间贴的是如何找到代码 Bug。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122002.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122003.jpg)
 
 > - [黎巴嫩](http://www.xinhuanet.com/english/2019-12/17/c_138636252_4.htm)搭建了一棵巨大的圣诞树，高度近30米，由12万个回收的塑料饮料瓶组成，希望引起人们对回收塑料垃圾的重视。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122403.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122404.jpg)
 
 > - [研究人员](https://phys.org/news/2019-09-oak-trees-southern-cities-natural.html)发现，美国南部的两种橡树会吸附空气中的碳颗粒，因此可以用来清洁城市空气。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092901.jpg)
 
 > - [一项研究](https://www.theguardian.com/environment/2019/nov/22/light-pollution-insect-apocalypse)提出，夜晚的灯光对昆虫有巨大影响。因此，城市的灯火越亮，昆虫的数量越稀少。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112503.jpg)
 
 ## 文章
 
@@ -154,13 +154,13 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 3、[我如何创建一个每月获利6万美元的手机 App](https://www.starterstory.com/stripe-in-person-payments)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111713.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111713.jpg)
 
 作者介绍如何一个人开发一个手机 App，让用户使用银行卡通过 Stripe 的 API 进行付款。目前，每月处理的资金量为600万美元，利润为6万美元。
 
 4、[新能源汽车的未来在哪？](https://www.guancha.cn/ouyangminggao/2019_11_03_523711.shtml)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111715.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111715.jpg)
 
 中科院院士、新能源汽车专家欧阳明高的演讲，分析电动车技术与电动车行业目前的形势与展望。
 
@@ -170,17 +170,17 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 6、[隧道掘进机示意图](http://www.cat-bus.com/2018/01/far-from-boringmeet-the-most-interesting-tunnel-boring-machines/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111805.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111806.jpg)
 
 本文收集了大量动画图片，展示各种隧道掘进机的工作原理。
 
 7、[我如何制作 3D 网页？](https://medium.com/@bruno_simon/bruno-simon-portfolio-case-study-960402cc259b)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112012.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112012.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112013.jpg)
 
 作者的主页是一个 3D 网页，他介绍了这是怎么制作的。
 
@@ -204,7 +204,7 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 2、[Sourcetrail](https://www.sourcetrail.com/blog/open_source/)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112116.jpg)
 
 可视化源码浏览器，可以对 C、C ++、Java、Python 源代码进行静态分析，并以图形可视化的形式呈现。
 
@@ -214,45 +214,45 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 4、[linjiashop](https://github.com/microapp-store/linjiashop)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112209.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112209.jpg)
 
 一个开源的 Web 商城项目，基于 Spring Boot 和 Vue.js，支持 Web 端和移动端。（@[enilu](https://github.com/ruanyf/weekly/issues/966) 投稿）
 
 5、[NBAsh](https://github.com/rogerzhu/NBAsh)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112210.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112210.jpg)
 
 命令行的 NBA 直播查看工具，包括比分和球员统计。（@[rogerzhu](https://github.com/ruanyf/weekly/issues/967) 投稿）
 
 6、[resumd](https://github.com/timqian/resumd)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112211.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112211.jpg)
 
 一个在线的简历编辑器，可以分享给他人一个可编辑的简历，也可以导出 PDF。（@[timqian](https://github.com/ruanyf/weekly/issues/968) 投稿）
 
 7、[MQTTX](https://github.com/emqx/MQTTX/blob/master/README-CN.md)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112212.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112212.jpg)
 
 一款跨平台的 MQTT 消息网关的开源桌面客户端，可以用来测试消息收发。（@[ysfscream](https://github.com/ruanyf/weekly/issues/970) 投稿）
 
 8、[KubeSphere](https://github.com/kubesphere/kubesphere/blob/master/README_zh.md)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112213.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112213.jpg)
 
 一个开源的容器管理平台，构建在 Kubernetes 之上，帮助企业管理容器环境。（@[FeynmanZhou](https://github.com/ruanyf/weekly/issues/971) 投稿）
 
 9、[mdr](https://github.com/MichaelMure/mdr)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112401.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112402.jpg)
 
 一个命令行的 Markdown 文件阅读器。
 
 10、[react-mosaic](https://github.com/nomcopter/react-mosaic)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122619.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122619.jpg)
 
 一个基于 React 的浏览器窗格框架，可以让网页显示多窗格的效果。
 
@@ -268,13 +268,13 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 3、[社交媒体挖掘](http://socialdata.site/)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120605.jpg)
 
 免费书籍，介绍如何使用 Python 数据收集和分析社交媒体数据。
 
 4、[软件架构编年史](https://www.jianshu.com/p/b477b2cc6cfa)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120705.jpg)
 
 系列文章的中译，逐篇回顾软件架构的历史发展，从单层架构到多层架构，再到更复杂的架构。（@[Y024](https://github.com/ruanyf/weekly/issues/992) 投稿）
 
@@ -286,15 +286,15 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 1、[旋转式监狱](https://www.amusingplanet.com/2019/10/rotary-jails.html)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102419.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102419.jpg)
 
 20世纪初，两名美国工程师发明了旋转式监狱。牢房围绕着一根大柱子，呈圆柱形，最外面还有一层可以旋转的铁网。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102420.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102420.jpg)
 
 只有当铁网的门与牢房的门对齐时，犯人才可以出来。由于铁网只有一扇门，一次只能放一间牢房的犯人出来，所以这种监狱的犯人很难逃脱。由于它很像松鼠笼，所以又称为“松鼠笼监狱”。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102421.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102421.jpg)
 
 美国一共造了16所这样的监狱，但是由于太不方便，到了1930年就几乎全部停止了使用。目前，有4所旋转式监狱保留了下来，都改为了博物馆。
 
@@ -302,10 +302,10 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 早年的苹果笔记本电脑，上盖的苹果 Logo 从旁观者的角度看是颠倒的。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102503.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102504.jpg)
 
 之所以这样设计，是因为虽然旁观者眼中 Logo 位置颠倒，但是打开笔记本的那一刻，对笔记本的使用者来说，Logo 位置是正的。
 
@@ -319,7 +319,7 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 2019年10月12日，肯尼亚选手 Eliud Kipchoge 在奥地利维也纳，创造了马拉松世界最佳成绩1小时59分40秒。他穿的是耐克跑鞋。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102002.jpg)
 
 女子马拉松世界记录 2小时14分04秒，选手穿的也是耐克跑鞋。
 
@@ -329,13 +329,13 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 我们知道，较厚的鞋底会产生更多的弹力，所以可以制造出更强弹力的鞋子。以前跑鞋的鞋底不超过31毫米，耐克当前的 Vaporfly 跑鞋的鞋底达到36毫米。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102003.jpg)
 
 但是，鞋底并非越厚越好。1960年，一位名叫阿贝比·比基拉（Abebe Bikila）的埃塞俄比亚选手，甚至赤脚赢得了奥运会马拉松。这里的关键是，跑鞋的重量最小时，你的跑步效率更高。鞋底厚的跑鞋，重量都很重，会影响跑步效率。
 
 这种情况在2016年发生了改变。耐克在那一年推出了 Vaporfly 跑鞋，包含一种新的鞋底泡沫 Pebax，重量轻，几乎就像赤脚跑步一样。它所提供的能量回馈比大多数跑鞋的鞋底泡沫多30％。这使 Pebax 几乎像腿部肌肉一样起作用，不会造成选手的肌肉疲劳在20英里后使腿部衰弱。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102004.jpg)
 
 耐克鞋的鞋底还包括碳纤维板。该板可能会增加能量的回馈，或者可能会改善跑步过程中的脚部功能。无论是哪个方面，该板在耐克的专利申请中都被突出提及。
 
@@ -353,7 +353,7 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 那一天，公司大约有85％的员工被解雇了，而我属于“幸运儿”之一，留了下来，但后面的事态并没有好转。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122621.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122621.jpg)
 
 随后发生的事情就像是电视剧。管理层知道我们现有的产品已经走到了尽头，但是85％的员工被解雇，使得剩下的风投资金还能支撑一段时间，因此他们决定转向，看看能不能找到新的机会。整个公司剩下的15个人，坐在会议室，尝试头脑风暴，提出新的产品创意。不用说，那根本无济于事。
 
@@ -409,7 +409,7 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 去年的本周：[《周刊第 36 期》](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122129.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122129.jpg)
 
 ## 订阅
 

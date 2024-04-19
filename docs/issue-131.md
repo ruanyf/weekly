@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102809.jpg)
 
 浙江省舟山群岛的舟岱大桥，包含一个海上立交桥。该桥9月主桥合拢，预计明年通车。（via: [Instagram](https://www.instagram.com/p/CG4FnfNgIQG/)）
 
@@ -24,7 +24,7 @@
 
 我们知道，扔硬币只有两种结果：正面或反面。 **这种只有两种结果的判断系统，称为[二值逻辑](https://baike.baidu.com/item/%E4%BA%8C%E5%80%BC%E9%80%BB%E8%BE%91)。**
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102808.jpg)
 
 很多人的思维模式就是二值逻辑。他们看任何问题，都是两分法，只有两种结果，非黑即白。一个物品要么有用，要么没用；一个命题要么真，要么伪；一个人物要么是好人，要么是坏人。
 
@@ -52,43 +52,43 @@
 
 这个培训课的目标，就是让初出茅庐的同学能够快速上手前端业务，并且能够有实际的项目代码产出！
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102901.jpg)
 
 主讲的孔德健老师，毕业于西安电子科技大学，有10年互联网产品开发经验，主持编撰了《微信小程序开发实战》等教材。他曾在京东和国内著名游戏公司任职，有千万级并发的商业项目经验。
 
 孔老师会详细讲解 JS 和 CSS 难点，通过一个真实项目 “视频实时弹幕”，带你学习和实践 BiliBili 视频弹幕的技术实现，亲身感受商业项目开发流程和开发难点，提升开发能力。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102804.jpg)
 
 这个课程原价 399 元，开课吧现在为周刊读者提供了100 个 **0 元学习名额**，访问[这个网址](https://wx.kaikeba.com/vip_course/3crtn3yge0/lvvfp5ipn9?tenant=wx5046bc7413796142)，或者扫描下面的二维码就能获得！  
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102806.jpg)
 
 ## 资讯
 
 1、[最长的脚印足迹化石](https://theconversation.com/fossil-footprints-the-fascinating-story-behind-the-longest-known-prehistoric-journey-147520)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101506.jpg)
 
 美国新墨西哥州白沙国家公园的一个湖泊干涸以后，考古学家在湖床发现了已知最长的脚印足迹化石。这些足迹形成在一万多年前，长达1.5公里。
 
 这个人的行走速度很快，大约每秒1.7米以上（舒适的行走速度约为每秒1.2至1.5米）。脚印比较小，很可能是女性或少年男性的脚印。这个人走到目的地后，又走了回来，在折返点还出现了一些两三岁婴儿的脚印。目前的推测是，可能是一个母亲抱着婴儿在奔跑（被野兽追逐？），到了目的地，让婴儿下地走了一会，然后又抱着返回，或者将婴儿交过当地的某个人。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101507.jpg)
 
 2、[公交车尾的红绿灯提示](https://finance.sina.com.cn/tech/2020-10-16/doc-iiznctkc5897927.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102706.jpg)
 
 由于公交车的车身比较高大，跟在后面的小汽车往往看不见前方的红绿灯。为了解决这个问题，湖南长沙的公交315线会在车尾显示前方路口的红绿灯，方便后方的司机了解路况。
 
 它的原理是，公交车经过路口时，会通过物联网连网，将路口红绿灯的信息同步到公交车上。除了红绿灯状态，还能同步读秒信息，显示多少秒后红绿灯改变状态。据介绍，长沙目前已有2000余辆公交车完成了改造。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102705.jpg)
 
 3、[农作物的用户协议](https://www.vice.com/en/article/m7jm4y/proprietary-grapes-come-with-draconian-end-user-license-agreement)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101705.jpg)
 
 一位美国消费者从超市买了一包葡萄，回家后惊讶地发现，包装袋子上竟然印着一段《用户使用协议》。
 
@@ -98,7 +98,7 @@
 
 4、[遥控叉车](https://www.bbc.com/news/business-54431056)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102102.jpg)
 
 疫情期间，美国很多工人不能上班，一家创业公司就发明了“远程叉车系统”，让工人可以在家里操作叉车搬运货物。据称，已经有十几家公司购买了这套系统。
 
@@ -106,17 +106,17 @@
 
 理论上，该系统可以用于所有需要现场操作的工作，比如远程驾驶汽车。但是，最大的问题是它需要很好的无线网络条件，万一汽车开到忙碌的大街上，突然断网，后果不堪设想。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102103.jpg)
 
 5、[星链计划的火星协议](https://www.reddit.com/r/Starlink/comments/jjc270/found_a_gem_in_the_starlink_tos_the_parties/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102803.jpg)
 
 10月26日晚上，SpaceX 公司向参加星链计划（Starlink）的用户发邮件，宣布 Beta 测试开始，意味着这个卫星上网项目已经可以正式提供服务了。用户必须以499美元购买接收器，然后每月的上网费是99美元。
 
 但是，最轰动的是，它的用户协议里面有这样一段不寻常的话。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102802.jpg)
 
 > “对于地球或月球服务引起的纠纷，适用美国加利福尼亚州的法律管辖。对于我们在火星上提供的服务，或在飞往火星的星际飞船上提供的服务，当事方均承认火星为自由星球，没有任何一个地球政府对火星拥有管辖权或主权。因此，争端将通过火星定居者之间订立的自治原则来解决。”
 
@@ -126,15 +126,15 @@
 
 > - [一个西方研究团队](https://www.statista.com/chart/19256/the-most-surveilled-cities-in-the-world/)列出了2020年世界上摄像头密度最高的城市排名，排名前10的城市有9个在中国。他们没有说数据从何而来，所以未必可靠。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102702.jpg)
 
 > - [德国科学家](https://www.bbc.com/news/science-environment-54721921)发表论文，认为城市夜晚的照明（广告、建筑物、停车场、体育场等）大部分都浪费了，因为很大一部分灯光都向上发射到太空，形成光污染，而没有集中照亮路标、街道或建筑物。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102902.jpg)
 
 > - [摩根士丹利分析师](https://finance.sina.com.cn/stock/usstock/c/2020-10-29/doc-iiznctkc8235190.shtml)提出，郑州10月份的空气质量突然下降，表明iPhone 12 正在加紧生产。富士康的郑州工厂是苹果手机的主要生产地之一。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102903.jpg)
 
 > - [杭州](https://finance.sina.com.cn/tech/2020-10-29/doc-iiznctkc8321299.shtml)拟立法，禁止居民小区强制采集住户的生物信息，“不得强制业主通过指纹、人脸识别等生物信息方式使用共用设施设备。”
 
@@ -148,13 +148,13 @@
 
 2、[Python 的 `eval()` 函数很危险](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102506.jpg)
 
 本文解释为什么 Python 语言的 `eval()`函数是一个危险的操作，不能用于不信任的数据。
 
 3、[React Ref 详解](https://www.robinwieruch.de/react-ref)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102505.jpg)
 
 一篇写得很好的 React 教程，解释了`useRef()`钩子和`ref`属性的用法。 
 
@@ -190,31 +190,31 @@
 
 2、[SVG Favicon Maker](https://formito.com/tools/favicon)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102101.jpg)
 
 一个在线工具，制作 SVG 格式的 Favicon。
 
 3、[Microsoft Edge 的 Linux 版本](https://blogs.windows.com/msedgedev/2020/10/20/microsoft-edge-dev-linux/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102205.jpg)
 
 微软正式发布 Edge 浏览器的 Linux 版本。
 
 4、[react-chrono](https://github.com/prabhuignoto/react-chrono)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102401.jpg)
 
 React 的时间轴组件。
 
 5、[Masonry](https://masonry.desandro.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102402.jpg)
 
 网页瀑布流的布局库。
 
 6、[Glow](https://github.com/charmbracelet/glow)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102507.jpg)
 
 一个命令行的 Markdown 阅读工具。
 
@@ -228,13 +228,13 @@ Diode 可以将本机（localhost）的网站公开到互联网上，提供一�
 
 9、[HIPA](https://hipacloud.com/)（黑帕云）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102707.jpg)
 
 国产的在线表格数据库，类似国外的 Airtable，提供了强大电子表格功能，比如多表关联、一对多的自动聚合运算、看板视图、多人实时协作、行级数据权限等等。（[@mechiland](https://github.com/ruanyf/weekly/issues/1468) 投稿）
 
 10、[Running page](https://github.com/yihong0618/running_page)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102708.jpg)
 
 国产的跑步数据管理软件，可以备份 Nike、Runtastic（Adidas Run）、佳明的 gpx 跑步数据，生成个人的跑步主页。（[@yihong0618](https://github.com/ruanyf/weekly/issues/1469) 投稿）
 
@@ -242,37 +242,37 @@ Diode 可以将本机（localhost）的网站公开到互联网上，提供一�
 
 1、 [The Old Net](http://theoldnet.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101801.jpg)
 
 这个网站复原了2000年以前的网站访问体验。
 
 2、[《人工智能编程的 LISP 范例》](https://github.com/norvig/paip-lisp)（Paradigms of Artificial Intelligence Programming）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101805.jpg)
 
 一本很好的英文教科书，解释人工智能编程原理。作者是谷歌公司著名的科学家 Peter Norvig。
 
 3、[Sharkle](https://sharkle.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101806.jpg)
 
 点击网页上的按钮，它会随机打开一个有趣的网站。
 
 4、[Deepwork.fm](https://deepwork.fm/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101807.jpg)
 
 一个在线电台，播放适合工作时收听的音乐，提供几个不同风格的频道，比如平静的音乐或有节奏感的音乐。
 
 5、[HelloDjango](https://www.zmrenwu.com/courses/django-rest-framework-tutorial/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101902.jpg)
 
 Django REST framework 中文教程。（[@521xueweihan](https://github.com/ruanyf/weekly/issues/1456) 投稿）
 
 6、[数据保护指南](https://ssd.eff.org/en)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102501.jpg)
 
 这个英文网站提供了一个计算机数据保护的指南，有各种工具的详细用法介绍，比如[如何在 Windows 删除数据](https://ssd.eff.org/en/module/how-delete-your-data-securely-windows)，[如何使用密码管理器](https://ssd.eff.org/en/module/how-use-keepassxc)等等。
 
@@ -282,19 +282,19 @@ Django REST framework 中文教程。（[@521xueweihan](https://github.com/ruany
 
 西方媒体揭露，俄罗斯经常使用充气道具冒充部队。这不仅可以欺骗敌人的侦查兵，而且对付卫星照片极为有效。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102403.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102404.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102405.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102406.jpg)
 
 2、[最早的错觉图片](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion)
 
 已知历史上最早的视觉错觉图片，发表在1892年10月23日的一本德国幽默杂志上，要求读者分辨下面的图片更像鸭子，还是更像兔子。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102502.jpg)
 
 3、[Doggerland](https://en.wikipedia.org/wiki/Doggerland)
 
@@ -302,7 +302,7 @@ Django REST framework 中文教程。（[@521xueweihan](https://github.com/ruany
 
 公元前6000年海平面上升，这个地区开始沉入海底，使得英国脱离了欧洲大陆。下图的红色圆圈部分就是 Doggerland 的位置，在英格兰东海岸与荷兰之间。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102703.jpg)
 
 ## 文摘
 
@@ -312,7 +312,7 @@ Django REST framework 中文教程。（[@521xueweihan](https://github.com/ruany
 
 最近，印度最著名的作家之一的[切坦·巴加特](https://en.wikipedia.org/wiki/Chetan_Bhagat)（Chetan Bhagat）在《印度时报》上发表了这封公开信，呼吁印度年轻人不要沉溺于手机。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102503.jpg)
 
 亲爱的年轻朋友们，
 
@@ -370,7 +370,7 @@ Django REST framework 中文教程。（[@521xueweihan](https://github.com/ruany
 
 -- [一个美国人](https://twitter.com/searls/status/1320411053910609921)在日本生活的感想
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102601.jpg)
 
 5、
 
@@ -382,11 +382,11 @@ Django REST framework 中文教程。（[@521xueweihan](https://github.com/ruany
 
 2019年的本周（第 80 期）：[企业软件创业，为什么在中国不容易成功？](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019103101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019103101.jpg)
 
 2018年的本周（第 28 期）：[软件开发是真正的知识吗？](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)
 
-![](https://www.wangbase.com/blogimg/asset/201810/bg2018102601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201810/bg2018102601.jpg)
 
 ## 订阅
 

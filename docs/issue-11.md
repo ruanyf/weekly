@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062901.jpg)
 
 （题图：虎跑后山，杭州，2016。
 
@@ -22,19 +22,19 @@
 
 1、[Keynote 支持 LaTex](https://support.apple.com/en-sg/HT202501)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062902.jpg)
 
 苹果公司的幻灯片软件 Keynote 支持 LaTeX 语法了。虽然我很少使用这个软件，这个功能真的很赞，系统级别的数学公式支持。
 
 2、[谷歌云支持 Node](https://cloudplatform.googleblog.com/2018/06/Now-you-can-deploy-your-Node-js-app-to-App-Engine-standard-environment.html?m=1)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062903.jpg)
 
 谷歌云宣布支持 Node 应用托管，小型应用免费。以后架设一个 Web 服务就太简单了。
 
 3、[Deepin 创始人王勇宣布离职](https://www.linuxidc.com/Linux/2018-06/152866.htm)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062904.jpg)
 
 Deepin 是一个很有人气的国产 Linux 发行版。创始人兼 CTO 王勇在 Deepin 官网论坛发表声明，表示因个人原因离职。在离职声明里面，他谈到创立公司八年，遇到了很多困难。
 
@@ -47,15 +47,15 @@ Deepin 是一个很有人气的国产 Linux 发行版。创始人兼 CTO 王勇�
 
 马来西亚总理马哈蒂尔92岁，整天出席竞选活动做演讲；朝鲜议长金永南90岁，出席世界杯开幕式会见普金。
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062905.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062906.jpg)
 
 他们刷新了我的认识，90+岁的人还具有工作能力，未来也许会出现百岁工人。顺便说一句，他们的头发还都是黑的，至少马哈蒂尔看上去不是染的。
 
 5、[Airbnb 放弃使用 React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062907.jpg)
 
 Airbnb 是 React Native 的早期使用者，经过2年多的使用以后，他们现在宣布放弃React Native，改用基于 Native 技术的自有框架开发 App。
 
@@ -69,7 +69,7 @@ Airbnb 是 React Native 的早期使用者，经过2年多的使用以后，他�
 
 7、[VR180 视频](https://itsfoss.com/vr180-creator/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062908.jpg)
 
 各种 VR 头盔、VR 眼镜，现在看到的都是360度的全景视频。谷歌提出了一种新的视频格式 VR180，即只录制180度的平面视频。它的原理很简单，就是两个镜头模仿人的双眼，播放的时候重合起来就会有立体效果。
 
@@ -77,7 +77,7 @@ Airbnb 是 React Native 的早期使用者，经过2年多的使用以后，他�
 
 8、[Youtube 的赞助费功能](https://techcrunch.com/2018/06/21/youtube-introduces-channel-memberships-merchandise-and-premieres/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062909.jpg)
 
 Youtube宣布，如果你的订阅者超过10万，就可以向粉丝收赞助费，每月4.99美元。交钱的粉丝将拥有定制的头像徽章和独家表情。 中国人的发明又一次赢得了世界。 
 
@@ -85,7 +85,7 @@ Youtube宣布，如果你的订阅者超过10万，就可以向粉丝收赞助�
 
 以下消息在微博流传，不知道真假。
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062910.jpg)
 
 10、__一句话新闻__
 
@@ -105,7 +105,7 @@ Youtube宣布，如果你的订阅者超过10万，就可以向粉丝收赞助�
 
 3、[IPFS 教程](https://github.com/miaoski/ipfs-tutorial)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062911.jpg)
 
 如果你想把一个文件放到网上，从此任何人无法删除和屏蔽，别人只要想看就能看到，你可以使用 IPFS。
 
@@ -117,13 +117,13 @@ Puppeteer 是谷歌推出的 Chrome 无头浏览器，是目前的浏览器自�
 
 5、[GRAIL 笔迹识别算法](https://jackschaedler.github.io/handwriting-recognition/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062912.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062912.jpg)
 
 这篇教程详细介绍一种手写识别算法，并且附有多个可视化示例可以操作。这篇的英语看起来有点费劲，但是耐心看一定可以看懂，因为解释得很好，也没有复杂的数学。
 
 6、[网页如何适配 WatchOS5](https://developer.apple.com/videos/play/wwdc2018/239/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062914.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062914.jpg)
 
 苹果手表的最新系统 WatchOS5，可以在手表上浏览网页。WWDC 2018 放出一段8分钟视频，介绍网页如何适配苹果手表，还算挺简单的。
 
@@ -137,7 +137,7 @@ Python 语言之中，元组（tuple）和列表（list）都表示数据的序�
 
 **9、纯 CSS 效果展示**
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062915.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062915.jpg)
 
 * [转动的电风扇](https://codepen.io/zschaffter/pen/GdWQeV/)
 * [动态火焰效果](https://codepen.io/jkantner/pen/gKRKKb)
@@ -150,7 +150,7 @@ Python 语言之中，元组（tuple）和列表（list）都表示数据的序�
 
 2、[2018 世界杯 API](http://worldcup.sfg.io/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062916.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062916.jpg)
 
 这个网站的 API 返回世界杯的各种 JSON 数据，比如 [http://worldcup.sfg.io/matches](http://worldcup.sfg.io/matches) 是所有比赛数据（每分钟更新）。 
 
@@ -170,13 +170,13 @@ Google Analytics 是网站访问量的监控工具，这篇文章介绍了几个
 
 2、[neofetch](https://github.com/dylanaraps/neofetch)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062917.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062917.jpg)
 
 一个显示 Linux 服务器信息的命令行工具。
 
 3、[vivid.js](https://webkul.github.io/vivid/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062918.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062918.jpg)
 
 一个 SVG 图标库。SVG 图标的最大好处，就是可以定制大小和颜色。
 
@@ -208,7 +208,7 @@ Google Analytics 是网站访问量的监控工具，这篇文章介绍了几个
 
 1、__古代中国为什么领先欧洲？__
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062919.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062919.jpg)
 
 
 《世界通史 : 1500年以前的世界》（by 【美】斯塔夫里阿诺斯">）这样解释，为什么古代中国比欧洲更先进？
@@ -233,7 +233,7 @@ Google Analytics 是网站访问量的监控工具，这篇文章介绍了几个
 
 1、[我在南疆的10天](http://news.migage.com/articles/%E6%88%91%E5%9C%A8%E5%8D%97%E7%96%86%E7%9A%8410%E5%A4%A9_1161211_9.html#p=1)（组图）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062920.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062920.jpg)
 
 2018年4月，我从北京飞抵喀什，开始了10天的南疆之旅。
 
@@ -243,13 +243,13 @@ Google Analytics 是网站访问量的监控工具，这篇文章介绍了几个
 
 2、[微软来了](https://twitter.com/netlookers/status/1004284958167486464)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062921.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062921.jpg)
 
 图上公司依次为诺基亚、LinkedIn、Skype、Minecraft、GitHub。有人说，下一个目标会是 Ubuntu。
 
 3、[Emoji 的鸭子符号](https://emojiratings.tumblr.com/post/173579088393/duck-emoji-rates)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062922.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062922.jpg)
 
 Emoji（颜文字）有一个鸭子符号，上面是各家的实现。你最喜欢哪个？我觉得三星那个不错。
 
@@ -257,9 +257,9 @@ Emoji（颜文字）有一个鸭子符号，上面是各家的实现。你最喜
 
 4、[天网](https://twitter.com/MrThreadzilla/status/1006300933813223424)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062923.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062923.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062924.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062924.jpg)
 
 
 上面这件作品叫做《天网》，近看都是一个个按键。

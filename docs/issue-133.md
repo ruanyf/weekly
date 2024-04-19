@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111123.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111123.jpg)
 
 11月1日，2020中国科幻大会在北京举行，会场外有占地面积近1000平方米的科幻艺术展区。（via：[Instagram](https://www.instagram.com/p/CHUjgysF5OC/)）
 
@@ -22,13 +22,13 @@
 
 我来了贵州，亲眼看了以后，觉得情况发生了很大变化。贵州比想象的好得多，过去限制发展的最大瓶颈，已经没了，具备了经济起飞的条件，前景很看好。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111121.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111121.jpg)
 
 （图片说明：铜仁市三江公园）
 
 首先，交通已经变得比较方便了。主要城市之间都有高铁和高速公路直达，一路上都是高架和隧道，已经没有盘山公路了。其次，全省都在大建设，更新基础设施，我到过的黔东南每个城市（铜仁、凯里、都匀、独山、荔波）都遍布工地，城市面貌都非常新，道路整齐，高楼林立，生活没有任何不方便，跟沿海省份差不多。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111122.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111122.jpg)
 
 （图片说明：荔波小七孔景区的上己定湖）
 
@@ -42,13 +42,13 @@
 
 为了解决这个问题，“服务器端渲染”（Server-side rendering，简称 SSR）就诞生了。它的原理是，服务器执行前端脚本，将渲染结果直接发给浏览器，从而提升 SEO 效果、加快网页显示。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111005.jpg)
 
 Vue 作为国内主流的前端框架， 有自己的一套 SSR 解决方案。但由于同时涉及到前端和后端，很多刚刚入门的同学反映不容易上手，不理解原理，看文档一知半解。到了真正写代码时，只能拷贝示例，自己修改和定制很困难。
 
 本周，开课吧提供给周刊读者的 **《手把手教你打造 Vue SSR》** 视频教程，就会教大家 Vue 服务端渲染的基本原理，从零开始带你打造一个Vue SSR 环境，让使用者知其然，更知其所以然。主讲老师是前高伟达高级软件工程师杨老师。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111006.jpg)
 
 这个视频教程有如下特点。
 
@@ -61,13 +61,13 @@ Vue 作为国内主流的前端框架， 有自己的一套 SSR 解决方案。�
 
 手机扫描下面二维码，就可以立即领取，不需要其他条件，不用转发，不用分享。仅限200名！
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111004.jpg)
 
 ## 资讯
 
 1、[日本的氢能源计划](https://techxplore.com/news/2020-11-ambitious-controversial-japan-hydrogen.html)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110304.jpg)
 
 日本是一个海岛，自身没有石油和煤炭资源，都依靠进口。为了保证能源供应和保护环境，日本政府正在研究一个氢能源计划，尝试使用氢气作为国家的常规能源。
 
@@ -77,9 +77,9 @@ Vue 作为国内主流的前端框架， 有自己的一套 SSR 解决方案。�
 
 2、[中国载人潜水器](https://www.cnfeol.com/taicai/n_145035315085.aspx)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111112.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111113.jpg)
 
 北京时间11月10日，中国“奋斗者”号载人潜水器成功到达地球最深处——水下10909米的马里亚那海沟底部。当天凌晨4时，潜水器开始入水；8时12分，在马里亚纳海沟成功坐底（海底着陆）后，3位潜航员在海底进行了约6个小时的采样工作；17时左右，潜水器浮出水面，被回收至母船。
 
@@ -89,23 +89,23 @@ Vue 作为国内主流的前端框架， 有自己的一套 SSR 解决方案。�
 
 3、[气球宽带](https://interestingengineering.com/alphabets-loon-balloon-breaks-record-by-spending-312-days-in-the-stratosphere)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103004.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103003.jpg)
 
 为了让边远地区的人们可以上网，SpaceX 公司的方案是卫星宽度（StarLink 计划），谷歌公司则另辟蹊径，提供气球宽带的方案，项目叫做 Loon。最近，这个项目取得了重大进展，有一只气球在空中停留312天，打破了世界记录。
 
 这只气球在美国加州放飞，然后飞到南美洲，接着飞过了大西洋，然后又飞过太平洋，最后在墨西哥降落。下图是它的飞行路线。 
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103005.jpg)
 
 这种大型气球停留在距地面18公里～25公里的平流层，那里几乎没有垂直的气流，所以气球可以保持在固定高度，为下方80公里的区域提供稳定的互联网服务。遇到水平方向的大风时，气球会自动上升或下降，避开大风。气球的动力完全来自太阳能。
 
 4、[粉红菠萝](https://www.foodandwine.com/news/pink-pineapples-buy-online)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110706.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110707.jpg)
 
 一家美国水果公司经过15年的研究，终于培育出了粉红色的菠萝。除了果肉的颜色不一样，这种菠萝与普通菠萝并无差异。
 
@@ -113,79 +113,79 @@ Vue 作为国内主流的前端框架， 有自己的一套 SSR 解决方案。�
 
 5、[超级高铁](https://www.theverge.com/2020/11/8/21553014/virgin-hyperloop-first-human-test-speed-pod-tube)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111101.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111102.jpg)
 
 上周日，英国维珍公司在美国内华达沙漠，完成了该公司的超级高铁 Hyperloop 的第一次载人试验。这种高铁是在直径3.3米的真空管道里面运行，没有空气阻力，采用磁悬浮动力，设计时速高达1000公里/小时。但是，由于试验轨道只有500米，所以试验速度只有171公里/小时。
 
 本次试验只有两名乘客，维珍公司的目标是2030年商业运行。但是，这个目标不太现实。它的造价大大高于普通高铁，巨额资金和所需土地现在还没有落实。由于超级高铁的转弯很困难，最好是直线行驶，所以线路设计受限大。另外，还有一些技术问题没有解决，比如，这么长距离的管道如何保持真空。最后，就算能够造出来，票价恐怕非常昂贵，会有多少乘客都是疑问。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111103.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111104.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111105.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111106.jpg)
 
 6、**一句话消息**
 
 > - [美国](https://www.cbsnews.com/news/debt-collectors-unlimited-text-email-messages-consumer-financial-protection-bureau/)通过新法律，讨债人每周最多只能给同一个债务人打7个电话，但可以发无限的电子邮件和即时消息。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110604.jpg)
 
 > - [科学家](https://www.goodnewsnetwork.org/rare-chameleon-rediscovered-in-hotel-garden/)在马达加斯加岛发现了一种消失了106年的变色龙，上一次见到这个物种还是在1913年。这种变色龙安静时是绿色的，但是在生气或交配时，就会呈现白、黑、靛蓝的条纹色，并出现三个红色斑点。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110413.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110414.jpg)
 
 > - [美国政府](https://arstechnica.com/tech-policy/2020/11/feds-seize-1-billion-in-bitcoin-from-silk-road-drug-marketplace/)充公了犯罪组织“丝绸之路”的69,369个比特币，价值10亿美元，一次性将它们从“丝绸之路”的钱包转移到了政府控制的钱包。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110606.jpg)
 
 > - [欧盟](https://fm4.orf.at/stories/3008930/)准备立法禁止即时通信软件的端对端加密，除非软件留有后门。这是奥地利的恐怖袭击发生以后，欧盟的应对措施之一。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110904.jpg)
 
 ## 文章
 
 1、[国产运动鞋的鞋底暗战](http://www.lanxiongsports.com/posts/view/id/19913.html)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110704.jpg)
 
 一双运动鞋外在看不到的部分——中底，往往决定了这双鞋的品质。所谓中底，通俗讲是鞋垫和大底中间的部分，其作用是吸收运动中产生的冲击力，提供稳定性，好的中底往往会提供出色的回弹和减震效果。
 
 2、[Photoshop 的 AI 滤镜](https://www.jiqizhixin.com/articles/2020-10-23-8)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110705.jpg)
 
 Photoshop 22.0 版推出了一个新的滤镜包——Neural Filters，实现了很多 AI 论文的研究成果，包括老照片上色、换表情、修改年龄、提升画质、普通图像一键变梵高风格等。
 
 3、[100美元的 iPhone X](https://www.vice.com/en/article/qvmkdd/counterfeit-iphone-x-review-and-teardown)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110902.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110901.jpg)
 
 2018年的文章。一个美国记者在深圳买到100美元的 iPhone X，实际是一台装了 iPhone 皮肤的低端安卓机，但真的很像苹果手机，尤其是有 Lightning 充电口。经过拆解，除了一些可以想到的问题（比如预装了恶意软件），作者对它的评价不完全是负面，而是 interesting（有趣）。
 
 4、[北上广深无人出租车体验报告](https://chedongxi.com/p/238676.html)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110903.jpg)
 
 作者在今年8月到10月份分别体验了北上广深四个一线城市的无人出租车服务，总计乘坐超过11次，并与背后运营公司文远知行、小马智行、AutoX等玩家的高管进行了深入交流。
 
 5、[苹果公司的 M1 芯片](https://daringfireball.net/2020/11/one_more_thing_the_m1_macs)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111203.jpg)
 
 本周，苹果公司首次发布搭载 ARM 架构 CPU 的 Mac 电脑。本文是著名评论家 John Gruber 对这块 M1 芯片的评论，写得很不错，可以了解苹果公司对桌面电脑向 ARM 架构转移的安排。
 
 6、[浏览器的人脸检测能力](https://ckeditor.com/blog/How-to-detect-human-faces-and-other-shapes-in-JavaScript/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110601.jpg)
 
 Chrome 浏览器已经支持 Shape Detection API，直接调用这个 API，不用加载任何外部库，就可以通过浏览器识别人脸和二维码。
 
@@ -213,7 +213,7 @@ Pandoc 是一个文档格式转换工具，本文介绍如何使用它将 Markdo
 
 2、[Snake Classic](https://codeguppy.com/code.html?ad/snk_adrian)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110303.jpg)
 
 一个 JS 代码演示，网页版小游戏《贪吃蛇》。
 
@@ -223,7 +223,7 @@ Pandoc 是一个文档格式转换工具，本文介绍如何使用它将 Markdo
 
 4、[Bucket Brigade Singing](https://www.jefftk.com/p/bucket-brigade-singing)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110406.jpg)
 
 一个实验性的在线工具，让大家远程一起唱歌，解决疫情期间无法唱卡拉 OK 的问题。
 
@@ -237,19 +237,19 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 7、[SvgPathEditor](https://github.com/Yqnn/svg-path-editor)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110602.jpg)
 
 一个开源的 SVG 图形路径编辑的在线工具。
 
 8、[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110603.jpg)
 
 谷歌官方的网页性能的在线评分工具。
 
 9、[ibis](https://github.com/themsaid/ibis)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111209.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111209.jpg)
 
 一个使用 PHP 写的命令行工具，可以把 Markdown 源文件转成 PDF 格式的电子书。
 
@@ -263,31 +263,31 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 1、[线性代数](https://hefferon.net/linearalgebra/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102709.jpg)
 
 《线性代数》的英文免费教材，针对初学者。
 
 2、[ProtoSchool](https://proto.school/tutorials)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110605.jpg)
 
 该网站有各种原创的分布式互联网协议教程。
 
 3、[2020美国总统选举可视化](https://www.anychart.com/blog/2020/11/06/election-maps-us-vote-live-results/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110702.jpg)
 
 这个网页收集了美国各大媒体的2020总统选举的可视化设计。
 
 4、[世界海底光缆](https://www.submarinecablemap.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110801.jpg)
 
 该网站是世界海底光缆的互动式地图。
 
 5、[机器学习书单](http://matpalm.com/blog/cool_machine_learning_books/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111001.jpg)
 
 作者列出的机器学习入门的书单，一共20本左右。
 
@@ -295,7 +295,7 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 1、[《金融时报》：华为的芯片工厂计划](https://archive.vn/SE6ZJ#selection-1817.0-1817.16)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110111.jpg)
 
 华为正在上海，筹备建设一家不使用美国技术的芯片工厂。
 
@@ -315,7 +315,7 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 刚刚过去的11月2日，是国际空间站启用20周年纪念日。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110502.jpg)
 
 上个世纪80年代，美国宇航局决定建造永久空间站，但是一时拿不出那么多经费。没过几年发生了苏联解体，俄罗斯政府愿意获取美国的资助，美国也不想苏联太空专家被其他国家抢走，因此双方同意共同建设一个空间站。
 
@@ -323,19 +323,19 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 1998年，空间站开始组装，直到2011年才最终完成。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110804.jpg)
 
 2000年11月2日，三个宇航员首次进入国际空间站。此后20年，空间站一直有人驻守，从没有空过一天。截止到现在，共有19个国家的241名宇航员到过国际空间站。
 
 国际空间站长约109米，包括6个休息区、两个厕所和一个健身房。生活空间大约相当于一所拥有六间卧室的大房子。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110806.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110807.jpg)
 
 国际空间站的速度是每秒8公里，每90分钟可以绕地球一次，这使宇航员每天可以观看16个日出和日落。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110808.jpg)
 
 国际空间站的建造费用超过1000亿美元，每年的维护和补给费用约40亿美元，其中大部分由美国支付。
 
@@ -345,7 +345,7 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 另外，科学家现在还知道了，长时间的零重力环境会对人体产生影响，宇航员会出现肌肉衰退、骨密度降低、视力和味觉障碍等。科学家发现，宇航员在太空生活4到5个月后，回到地球需要数年时间才能恢复骨密度。
 联网协议教程。
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110809.jpg)
 
 国际空间站的顶部是一个观察舱（cupola），直径约2米，高1.5米，设有6个边窗和1个天窗，能提供360度的视野，使宇航员能够观察机械臂的操作和外部情况。
 
@@ -357,19 +357,19 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 加利福尼亚的摄影师安德鲁·麦卡锡（Andrew McCarthy），使用天文望远镜拍摄了很多国际空间站的惊人照片。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110810.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110810.jpg)
 
 国际空间站掠过太阳。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110812.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110812.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110811.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110811.jpg)
 
 国际空间站掠过月球。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110813.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110813.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110814.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110814.jpg)
 
 2、[世界最大的潜艇](https://ru-submarine.livejournal.com/17486.html)
 
@@ -379,13 +379,13 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 标题网址提供了这种潜艇的大量照片。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110109.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110105.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110106.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110108.jpg)
 
 ## 言论
 
@@ -403,7 +403,7 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 -- [马斯克（Elon Musk）](https://twitter.com/elonmusk/status/1324736076800577537)谈他希望看到的简历。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110701.jpg)
 
 3、
 
@@ -433,11 +433,11 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 2019年的本周（第 82 期）：[就业要选发展最快的行业](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110813.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110813.jpg)
 
 2018年的本周（第 30 期）：[为什么谷歌做不好社交软件？](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110901.jpg)
 
 ## 订阅
 

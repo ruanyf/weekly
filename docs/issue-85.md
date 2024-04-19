@@ -4,7 +4,7 @@
 
 本杂志开源（GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)），欢迎提交 issue，投稿或推荐你的项目。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112509.jpg)
 
 封面图：彩色公寓楼，土耳其伊斯坦布尔，[英国《卫报》](https://www.theguardian.com/artanddesign/gallery/2019/nov/23/the-kaleidoscopic-patterns-of-turkeys-architecture-in-pictures)。
 
@@ -14,7 +14,7 @@
 
 他说，全世界的人都去美国，各种各样的人都有，有上层人，也有底层的难民。美国是世界最大的移民国家，三教九流，各种文化背景的人，你在美国都能看到。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120406.jpg)
 
 美国这个国家很杂，奇怪的是，它不乱。按理说，那么多形形色色的人在一起，蛇鼠一窝，各自都有自己的小算盘，彼此冲突，应该乱成一团才对啊。但是，现实却是互相仇恨的民族，在那里都能共同生活，和平相处。美国社会不仅不乱，而且高度有秩序，社会运行井井有条，这是为什么？
 
@@ -28,7 +28,7 @@
 
 Vue 是主流的 JavaScript 前端框架，国内有着广泛的应用，招聘需求一直很大。因为它上手相对简单，小项目马上可以见效，中文资料也多，所以往往也是新手入门的首选框架。Vue 的生态也非常繁荣，有许多配套的周边工具，被称为全家桶，比如 vuex、vue-router、element、element-admin 等等。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120504.jpg)
 
 下面是两套 Vue 的免费教学视频，深入解读 Vue，帮助学习者深入掌握它的用法。这是国内领先的在线教育平台“开课吧”，特别提供给我们周刊的读者。
  
@@ -38,23 +38,23 @@ Vue 是主流的 JavaScript 前端框架，国内有着广泛的应用，招聘�
   
 感兴趣的读者扫描下方二维码（手机端长按两次即可），就可以免费领取这两个视频教程。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120503.jpg)
 
 ## 资讯
 
 1、[蚯蚓塔](https://mp.weixin.qq.com/s/Azuzo7UVzSMHLzKYyG8Z0g)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112117.jpg)
 
 现在养狗的人很多。遛狗的时候，狗狗往往会在路上排泄，造成环境问题。上海松江的一个居民小区设置了“蚯蚓塔”，专门处理狗粪，目前已有近10座。
 
 蚯蚓塔主要用来让居民投放宠物粪便，也可以投放一些果皮。它的地下部分有20cm，工作人员会定期投放一些蚯蚓在塔周围，蚯蚓通过塔底下的孔钻进去吃掉宠物粪便。蚯蚓活动期间，不仅松弛了土壤，让土壤保持透水及透气，留下的蚯蚓茶（蚯蚓的尿液）和蚯蚓土（蚯蚓的粪便）还含有丰富的微生物以及氮、钾等养分，是非常好的天然肥料，可以滋养植物。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112118.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112118.jpg)
 
 2、[超滑马桶涂层](https://phys.org/news/2019-11-slippery-toilet-coating-cleaner-flushing.html)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112119.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112119.jpg)
 
 每天，全世界用于冲洗厕所的水超过1410亿升，与此同时很多地方水资源短缺。如果可以把厕所用水减少50％，就能节省巨大的水资源。宾夕法尼亚州立大学发明了一种生物涂层，可以喷在马桶内，具有清洁作用，能够明显减少冲洗马桶所需的水量。
 
@@ -62,31 +62,31 @@ Vue 是主流的 JavaScript 前端框架，国内有着广泛的应用，招聘�
 
 3、[铝箔气球](https://www.vox.com/2019/10/29/20925619/foil-balloons-party-instagram-mylar)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112207.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112207.jpg)
 
 在社交媒体名人和网红照片的引导下，越来越多的人喜欢使用派对气球，即包有闪闪发光铝箔的气球。问题是，这种气球充有氦气，会向上飞，一旦碰到电线，铝箔可能会导致短路停电。
 
 2019年10月1日，铝箔气球导致的短路使得南加州一个城市停电了半个小时。电力公司警告，这个问题目前毫无解决办法，整个2018年，铝箔气球在南加州造成了1,128次停电，比四年前几乎增加了一倍。此外，铝箔很难降解，气球飘到野外会造成环境问题。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112206.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112206.jpg)
 
 4、[火星小屋](https://www.nytimes.com/2019/11/08/realestate/a-3d-print-out-you-could-call-home.html)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101903.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112208.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112208.jpg)
 
 一家美国创业公司推出 3D 打印的森林小屋，全部使用玄武岩和生物聚合物打印而成，整个过程由机器完成，不需要工人现场施工。这个小屋是为了火星移民而设计的，因为玄武岩砂土是火星表面的主要材料。屋内的器具也可以用这种方式打印出来。
 
 今年上半年，美国宇航局举办了一个火星住宅设计比赛，纽约一家建筑事务所得到冠军，作品就是这个小屋。现在，这家事务所把小屋的实物建造了出来，就在距离纽约不远的森林中。小屋高8米，面积为46.4平方米，现在可以在线预定住宿体验。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101904.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101905.jpg)
 
 5、[苏门答腊犀牛](https://www.theguardian.com/environment/2019/nov/23/sumatran-rhinoceros-now-extinct-in-malaysia-say-zoologists)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112403.jpg)
 
 马来西亚最后一头苏门答腊犀牛（上图），2019年11月23日死于癌症。自从2014年3月被捕捉以来，这头名叫伊曼（Iman）的雌犀牛就被发现患有子宫肿瘤，过去几年中多次大量失血，动物保护官员已经获取了她的卵细胞进行保存。此前在2019年5月，马来西亚的最后一头雄性苏门答腊犀牛也死了。
 
@@ -94,15 +94,15 @@ Vue 是主流的 JavaScript 前端框架，国内有着广泛的应用，招聘�
 
 6、[直播换宿](https://edition.cnn.com/travel/article/livestream-hotel-room-japan-intl-hnk/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019113008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019113008.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019113009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019113009.jpg)
 
 日本福冈的一家小旅馆想出了一个新招：住宿费一晚只要100日元（相当于6.5元人民币），条件是在该旅馆的 Youtube 频道直播住宿过程。
 
 直播时，只有睡觉时间可以关灯，卫生间和浴室不在直播范围，并且不得有色情内容。没有客人的夜晚，该频道就直播老板的办公室。频道上线一个月，已经有4位客人进行“直播换宿”，频道订阅者达到1000人。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019113010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019113010.jpg)
 
 7、**一句话新闻**
 
@@ -112,25 +112,25 @@ Vue 是主流的 JavaScript 前端框架，国内有着广泛的应用，招聘�
 
 > - [国家网信办](http://www.cac.gov.cn/2019-11/29/c_1576561820967678.htm)的最新规定：（1）人工智能生成的非真实视频音频，必须显著标识。（2）人工智能不得生成非真实新闻。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019113011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019113011.jpg)
 
 > - [芝加哥大学](https://hechingerreport.org/university-of-chicago-projected-to-be-the-first-u-s-university-to-charge-100000-a-year/)每年的学费、杂费、书本费、食宿费和其他费用加在一起，两三年后估计将超过10万美元，成为美国第一所费用达到6位数的大学。今年，芝加哥大学的学费是5.76万美元。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110502.jpg)
 
 > - [美国加州](https://onezero.medium.com/eating-roadkill-is-our-future-and-thats-okay-84fefd333cd4)修改法律，司机意外撞死或发现死亡的动物，可以带回家食用。加州公路每年约有20,000只鹿被撞死，不吃掉它们的肉有点可惜。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102901.jpg)
 
 > - [华为](https://www.bilibili.com/read/cv3763763/)发布 ARM 架构的台式机主板，使用自家的 CPU 鲲鹏920。这块主板是不是可以直接装安卓系统？
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120501.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120502.jpg)
 
 > - [伦敦一所大学的科学家](https://www.eetimes.com/document.asp?doc_id=1335233)开发了新的神经网络算法，可以识别出不同时间走过摄像头的同一个人。而且，这种算法的计算力要求不高，可以部署在摄像设备里面，不用部署在云端。下图每三张一组的照片，算法可以识别出是同一个人。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102709.jpg)
 
 ## 文章
 
@@ -144,7 +144,7 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 3、[为什么会有非绿色植物？](https://plantsandprejudice.wordpress.com/2013/08/07/how-do-non-green-plants-work/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102703.jpg)
 
 植物依靠光合作用，将二氧化碳转变为糖，从而获取能量。完成光合作用的叶绿素是绿色的，所以大部分植物都是绿色。但是，有些植物完全不绿，它们怎么获取能量？
 
@@ -156,13 +156,13 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 5、[我制作了一把智能椅子](https://duro.me/stories/hackathon/technical/ballad-of-turbochair)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102706.jpg)
 
 本文使用大量照片，记录了一个美国少年如何在自己家里，制作一把智能椅子。他先从网上，用25美元淘了一个破沙发（上图），最终改装成下图的样子，可以接受指令进行远程操作。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102707.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102708.jpg)
 
 6、[macOS、Windows、Ubuntu 性能比较](https://www.phoronix.com/scan.php?page=article&item=macos1015-win10-ubuntu&num=1)（英文）
 
@@ -188,7 +188,7 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 1、[幼儿密码](https://www.toddlerpassword.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110303.jpg)
 
 麦克斯是一个一岁半的小孩，经常在笔记本电脑乱按。父母就做了一个网站，用户可以随机获取一个他乱按的字符串，作为密码。
 
@@ -206,13 +206,13 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 5、[日本铁路通](https://github.com/ruanyf/weekly/issues/933)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110406.jpg)
 
 国人开发的适合日本自由行的交通换乘 App，特点是全中文搜索显示，可一键切换查看日语站名，支持日本所有的地铁、电车、新干线，无广告。（@[metromancn](https://github.com/ruanyf/weekly/issues/933) 投稿）
 
 6、[高铁通](https://github.com/ruanyf/weekly/issues/934)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110408.jpg)
 
 爱好者开发的全国高铁 App，可以显示列车的实时位置，支持点选车站，显示列车信息等，无广告。（@[metromancn](https://github.com/ruanyf/weekly/issues/934) 投稿）
 
@@ -230,7 +230,7 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 10、[marktext](https://github.com/marktext/marktext)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110702.jpg)
 
 一个跨平台的桌面 Markdown 编辑器。
 
@@ -262,23 +262,23 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 组图，作者用照片记录了如何搭建自己的帐篷住宅。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101015.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101015.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101016.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101016.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101017.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101017.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101018.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101018.jpg)
 
 2、[狮人](https://en.wikipedia.org/wiki/Lion-man)
 
 狮人是一个人身狮头的象牙雕塑，高31厘米，宽5厘米，是迄今发现的历史最早的人类雕塑品，年代大约在距今4万年～5万年之间。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101202.jpg)
 
 它是1939年在德国的一个洞穴发现的，当时只发现了身子，1970年代才发现了头。1987年，开始将整个雕塑拼了起来，大概完成了原貌的三分之二。背部严重受损，腿部部分缺损。耳朵、眼孔、嘴、鼻子、头后部，大致都保留了下来。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101203.jpg)
 
 目前的样子是2013年完成的，让雕塑的高度从296毫米增加到311毫米。
 
@@ -290,7 +290,7 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 这里可能是地球上最偏远的地方之一，很少有公路可通行，但是它位于世界上最古老、最大、最繁忙的太空中心的主要飞行路线的下方。每次火箭发射的碎片都落在这些偏远的丘陵上，该地区的人们被迫在火箭废料中谋生。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100718.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100718.jpg)
 
 拜科努尔航天中心建于1955年，人类的第一颗人造卫星Sputnik 1 就在这里发射，第一个进入太空的宇航员尤里·加加林（Yuri Gagarin）1961年也是从这里起飞。今天，它是全球各地太空任务的发射地，包括每月一次的商业、科学和军事发射。自从美国航天飞机退役以后，拜科努尔发射的俄罗斯联盟号太空舱就成了国际空间站（ISS）补给的唯一来源。
 
@@ -298,19 +298,19 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 俄罗斯媒体估计 ，自1950年代以来，该地区已有超过2500吨的空间碎片掉落，其中一些碎片的长度达到10米。前苏联为回收助推火箭付出了巨大的努力，部分原因是担心泄漏机密。但是，自从苏联解体，这些碎片就没人管了，越来越多地留在哈萨克斯坦和阿尔泰山区的草地上生锈。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100719.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100719.jpg)
 
 对于那些生活在飞行路线下方的人来说，发射已经成为他们熟悉的景象。一位居民说，碎片落下看起来“像是夜晚愤怒的红眼睛” 。然后是很大的雷声，“小地震”震动地面。为了安全起见，危险区域内的居民会在24小时内收到发射通知。但是，发生在危险区域以外的事故并非罕见。2011年，联盟号火箭发射失败，火箭落到地面时，仍充满燃料。尽管没有人受伤，但爆炸使得远在100公里外的窗户破裂 。
 
 尽管许多居民担心每月一次的火箭发射带来的危险，但其他人则认为这是一个独特的机会。足智多谋的废品商人等待火箭发射的宣布，然后用双筒望远镜注视天空。他们跟踪碎片的路径，开吉普车甚至骑马到现场。除了使用焊接面罩以外，几乎没有防护装备，他们使用喷枪将宝贵的轻金属，钛和铝的合金以及其他有用的组件（例如铜线）从残骸剥落。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100720.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100720.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100721.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100721.jpg)
 
 这是危险的工作。火箭零件坠地时经常仍在燃烧，释放出有害蒸气，并在干燥的草原上引燃野火。然而，该地区不发达的经济意味着额外的收入来源是必不可少的。居民会将部分火箭残骸带回自己的村庄，这构成了严重的危险。火箭燃料往往含有剧毒成分，回落到地面时可能仍有多达10％的燃料。化学物质和太空垃圾的扩散，进入食物和地下水，引起该地区日益严重的健康问题。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100722.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100722.jpg)
 
 2、[我们不知道要花多少时间解决问题](http://kyleprifogle.com/dear-startup/)
 
@@ -318,7 +318,7 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 职业生涯的早期，我从事 Web 开发，比如开发 CRUD 应用、构建 API 等。我注意到，我的经理和更高层的领导都对项目时间有一定的期望，但实际上他们往往不具备评估项目时间的技术能力。如果我花费的时间，超过他们的期望，那么我就会有麻烦。
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120405.jpg)
 
 后来，我的领域转到了分布式计算，涉及集群管理、系统开发、高可用性、功能编程、分布式图形计算、数据科学等等。但是我发现，我的经理对项目时间的评估，与我以前进行简单的 Web 开发工作时大致相同！
 
@@ -382,7 +382,7 @@ HTTP 是一个比较简单的协议，本文在不长的篇幅中，对它的基
 
 去年的本周：[《周刊第 33 期》](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113001.jpg)
 
 ## 订阅
 

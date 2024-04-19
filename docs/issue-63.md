@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019070402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070402.jpg)
 
 前些日子，我看到一则[新闻](https://36kr.com/p/5206184)。
 
@@ -32,7 +32,7 @@
 
 1、[小行星照片](https://www.cnet.com/news/japans-hayabusa2-spacecraft-snaps-close-up-just-30-feet-above-asteroid/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060801.jpg)
 
 日本航天局的小型飞行器 Hayabusa2，已经围绕小行星 Ryugu 运行了将近一年。最近，发回了一张非常清晰的小行星表面照片，距离地面只有9米。
 
@@ -40,19 +40,19 @@
 
 2、[硅谷宿舍楼](https://www.citylab.com/life/2019/06/cohousing-san-jose-room-for-rent-starcity-coliving-housing/590731/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060802.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060803.jpg)
 
 由于硅谷的就业市场不断膨胀，外来的劳动力越来越多，住房日益成为一个大问题，圣何塞一居室的月租金就要2700美元。
 
 一家开发商最近宣布，将在圣何塞投资新建硅谷最大的集体公寓大楼，高达18层，共有803个单元，租金从2000美元起，厨房（下图）和休息娱乐设施（上图）都是公用的。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060804.jpg)
 
 3、[国际空间站向游客开放](https://www.bbc.com/news/world-us-canada-48560874)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060805.jpg)
 
 国际空间站大约在20年前开始建造，主要由美国和俄罗斯管理。去年，美国总统特朗普提出，要将国际空间站私有化，政府会在2025年前退出空间站的运营。
 
@@ -62,7 +62,7 @@
 
 4、[书籍的副标题](https://www.washingtonpost.com/entertainment/books/book-subtitles-are-getting-ridiculously-long-what-is-going-on/2019/06/04/3150bcc8-86c3-11e9-98c1-e945ae5db8fb_story.html)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060806.jpg)
 
 《华盛顿邮报》报道，为了能在搜索引擎里面搜到，书籍的副标题越来越长，很多都超过了20个单词。也就是说，实体书也在想尽办法做 SEO。
 
@@ -70,11 +70,11 @@
 
 下图这本书的主标题是《 W. Kamau Bell 的尴尬思想》，副标题是“一个身高6英尺4英寸、黑人、异性恋、左倾、哮喘、黑胡子、好儿子、好爸爸、脱口秀演员的故事。”
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060807.jpg)
 
 5、[算法的责任](https://www.bloomberg.com/news/articles/2019-05-06/who-to-sue-when-a-robot-loses-your-fortune)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060901.jpg)
 
 香港富豪李建勤（上图）购买了一家基金公司的对冲基金，授权最多可以动用25亿美元。该基金完全使用人工智能算法进行投资，宣传的业绩是2016年12月至2017年10月的共计210个交易日中，回报率高达15.54%，买卖信号的准确度达到69.05%。
 
@@ -84,9 +84,9 @@
 
 6、[欧洲高温](https://www.nationalgeographic.com/environment/2019/06/europe-has-had-five-500-year-summers-in-15-years/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019063001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019063001.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019063002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019063002.jpg)
 
 本周欧洲正在经历高温，法国和西班牙都出现了45度的天气，德国也达到了38度。虽然这比印度好一些，印度出现了51度的高温，但是由于欧洲北方在历史上很少超过30度，许多地方没有安装空调，法国不到5％的家庭有空调，德国更是不到2％，这使得居民的生活非常煎熬。
 
@@ -94,7 +94,7 @@
 
 7、[波音的软件外包](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019063003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019063003.jpg)
 
 波音 737 Max 飞机的最近两起重大空难，目前基本可以确定，跟飞机的软件故障有一定的关系。这可能是有史以来后果最严重的软件 Bug。
 
@@ -110,7 +110,7 @@
 
 - [谷歌地图](https://www.cnn.com/2019/06/26/us/google-maps-detour-colorado-trnd/index.html)出现误报。由于丹佛机场的一条高速公路发生事故而关闭，谷歌地图就显示了一条替代道路。结果那是一条土路，100多辆车浩浩荡荡都开进田里了（下图）。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062907.jpg)
 
 ## 文章
 
@@ -132,19 +132,19 @@
 
 5、[84个认知偏见](https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061307.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061307.jpg)
 
 如何利用心理学上人类的84个认知偏见改进产品，提高转化率。比如，人们会对稀缺的东西有更高的评价，因此要突出产品的稀缺性（上图）。（@d[eveloperchengang](https://github.com/ruanyf/weekly/issues/623) 投稿）
 
 6、[搬到切尔诺贝利的人们](https://www.bbc.com/news/resources/idt-sh/moving_to_Chernobyl)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061308.jpg)
 
 BBC 的长篇图片报道。切尔诺贝利核电站发生事故以后，由于放射物质泄漏，周围半径30公里的地区是无人区。最近这些年，乌克兰国内发生军事冲突，有些人为了逃难，开始搬进了无人区居住。
 
 7、[你可能不需要 ReCAPTCHA](https://kevv.net/you-probably-dont-need-recaptcha/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061310.png)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061310.png)
 
 ReCAPTCHA 是谷歌防止爬虫的工具，用来确定访问者是真人。它有很多弊端，体验也不好，本文提供了一些替代方案。
 
@@ -164,7 +164,7 @@ ReCAPTCHA 是谷歌防止爬虫的工具，用来确定访问者是真人。它�
 
 1、[PaperCSS](https://github.com/papercss/papercss)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052602.jpg)
 
 具有手绘效果的 CSS 组件库。（@[hacker0limbo](https://github.com/ruanyf/weekly/issues/580) 投稿）
 
@@ -174,7 +174,7 @@ ReCAPTCHA 是谷歌防止爬虫的工具，用来确定访问者是真人。它�
 
 3、[Ubuntu Touch](https://ubuntu-touch.io/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052701.jpg)
 
 Ubuntu 系统的触屏设备版本。
 
@@ -184,19 +184,19 @@ React 的一个比较简单的动画组件库。
 
 5、[imgsquash](https://github.com/eashish93/imgsquash)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052801.jpg)
 
 基于 Node.js 的图像压缩服务，有 Web 界面，非常方便部署成微服务。
 
 6、[matomo](https://github.com/matomo-org/matomo)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052901.jpg)
 
 网站访问统计工具，类似 Google Analytics，代码开源，可以自己部署服务。
 
 7、[Mattermost](https://github.com/mattermost/mattermost-server)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052902.jpg)
 
 团队协作工具 Slack 的开源替代品。
 
@@ -206,7 +206,7 @@ React 的一个比较简单的动画组件库。
 
 9、[star-history](https://github.com/timqian/star-history)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052903.jpg)
 
 一个开源服务，帮助用户查看 GitHub 项目 star 数目的历史。它的网站可以免费使用，插件是收费的。（@[timqian](https://github.com/ruanyf/weekly/issues/589) 投稿）
 
@@ -230,7 +230,7 @@ Chrome 浏览器插件，用在那些没做代码高亮的网站，具有代码�
 
 1、[IBM 360 大型机](https://ibms360.co.uk/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052001.jpg)
 
 三个英国的计算机爱好者，集资买了一台报废的 IBM 360 大型机。他们做了一个网站，专门记录他们怎么处理这台机器。
 
@@ -258,19 +258,19 @@ Chrome 浏览器插件，用在那些没做代码高亮的网站，具有代码�
 
 东莞松山湖园区。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052301.jpg)
 
 上班时间。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052303.jpg)
 
 午餐时间。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052302.jpg)
 
 高级来宾的接待室。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019052304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052304.jpg)
 
 2、[DNA 来信](http://www.lettersofnote.com/2015/07/a-most-important-discovery.html)
 
@@ -278,21 +278,21 @@ Chrome 浏览器插件，用在那些没做代码高亮的网站，具有代码�
 
 他后来因此得到了诺贝尔奖。这封信则在2013年4月拍卖出了530万美元的天价。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060302.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060303.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060304.jpg)
 
 3、[东京奥运会的会徽设计](https://www.creativebloq.com/news/is-this-tokyo-2020-logo-better-than-the-official-design)
 
 一个英国设计师在业余时间，设计了一个巧妙的2020年东京奥运会会徽。简洁的图案，可以让人一眼看出年份、国家和奥林匹克。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019070204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070204.jpg)
 
 下面是组委会的正式会徽。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019070205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070205.jpg)
 
 ## 文摘
 
@@ -374,7 +374,7 @@ Chrome 浏览器插件，用在那些没做代码高亮的网站，具有代码�
 
 去年的本周：[《周刊第 11 期》](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062901.jpg)
 
 ## 订阅
 

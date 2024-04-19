@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040501.jpg)
 
 （题图：杭州，2018）
 
@@ -22,21 +22,21 @@
 
 1、[银行模仿科技公司](https://www.reuters.com/article/us-world-work-banks-idUSKBN1QS0BB)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040502.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040503.jpg)
 
 银行通常给人一种严肃保守的感觉。丹麦一家银行决定改变这种印象，向科技公司学习，让银行也变得轻松随便。它重新装修了办公楼，允许员工穿便服，还采用了开放式办公室。
 
 2、[霍金教授的纪念硬币](https://www.bbc.com/news/uk-england-cambridgeshire-47527505)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040504.jpg)
 
 英国皇家造币厂为了纪念去年去世的霍金教授，推出了一枚纪念硬币，面值为50便士。这枚硬币中间有一个洞，象征霍金对黑洞的研究成果。
 
 3、[删除 Facebook](https://www.buzzfeednews.com/article/ryanmac/whatsapp-brian-acton-delete-facebook-stanford-lecture)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040505.jpg)
 
 WhatsApp 于2014年以193亿美元的价格，被 Facebook 收购。但是，2019年3月13日，WhatsApp的联合创始人布莱恩·阿克顿（Brian Acton，上图最右边）在斯坦福大学的一个讲座上，公开呼吁学生删除 Facebook。
 
@@ -44,9 +44,9 @@ WhatsApp 于2014年以193亿美元的价格，被 Facebook 收购。但是，201
 
 4、[月球岩石](https://www.nytimes.com/2019/03/13/science/moon-rocks-nasa.html)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040506.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040507.jpg)
 
 1969年到1972年，阿波罗计划的宇航员多次登录月球，一共采集了382公斤月球岩石，其中大部分都公开了，但是有三个样本一直是保密的。今年是人类登陆月球50周年，美国宇航局决定将所有样本都公开。
 
@@ -54,33 +54,33 @@ WhatsApp 于2014年以193亿美元的价格，被 Facebook 收购。但是，201
 
 5、[圆周率的最新记录](https://www.bbc.com/news/technology-47524760)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040508.jpg)
 
 3月14日是国际圆周率日，谷歌宣布，日本的谷歌员工 Emma Haruka Iwao 打破了世界记录，将圆周率计算到了31万亿位数，远远超过之前的22万亿记录。整个计算使用虚拟机，花了121天才完成。这个新的圆周率保存在硬盘上，需要 170TB 的空间。
 
 6、[VR 电影](https://arstechnica.com/gaming/2019/03/its-time-to-start-caring-about-vr-cinema-and-sxsws-stunners-are-proof/)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040509.jpg)
 
 今年的美国 SXSW 艺术节，推出了 VR 电影体验。观众一人一套设备，每套设备都有很长的电线，以便观看时可以适度的移动。这次展映了20多部 VR 电影，每部长度都在10分钟～15分钟。不同的电影有不同的观看设备，上图是坐在轮椅上观看，观众表示体验还不错。
 
 VR 电影的优势是沉浸式体验，可以360度观看。下面的这部电影讲述第一次世界大战时，一个英国士兵的经历。他走进一所老宅，然后是战地医院，最后在战地营房里，到处是他无法寄出去的明信片。
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040510.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040510.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040511.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040511.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040512.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040512.jpg)
 
 另一部 VR 电影则是观看一对夫妻的故事。
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040513.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040513.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040514.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040514.jpg)
 
 7、[苹果取消 AirPower](https://ifixit.org/blog/14883/what-finally-killed-airpower/)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040515.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040515.jpg)
 
 苹果公司宣布，取消 AirPower 这个产品，理由是无法达到该公司的产品要求。AirPower 是2017年宣布的，它是一个椭圆型的无线充电器，可以同时为三个设备进行无线充电。原定2018年上市，但被推迟了，现在终于宣布放弃。
 
@@ -125,7 +125,7 @@ LFU 是常用的删除过期缓存的算法，本文介绍了它的一种代码�
 
 8、[中国超高压电网](https://spectrum.ieee.org/energy/the-smarter-grid/chinas-ambitious-plan-to-build-the-worlds-biggest-supergrid)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040516.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040516.jpg)
 
 中国已经建成了全国性的超高压电网，用来将西部的电力输送到东部。这是世界上前所未有的，IEEE 的这篇报道进行了长篇介绍。
 
@@ -141,7 +141,7 @@ LFU 是常用的删除过期缓存的算法，本文介绍了它的一种代码�
 
 1、[syncthing](https://github.com/syncthing/syncthing)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040517.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040517.jpg)
 
 多台电脑之间自动同步文件夹的工具，可以在命令行作为服务运行，也提供图形界面。
 
@@ -163,13 +163,13 @@ LFU 是常用的删除过期缓存的算法，本文介绍了它的一种代码�
 
 6、[dbdiagram.io](https://dbdiagram.io/home)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040518.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040518.jpg)
 
 制作数据库关系图的在线工具。（@[linlicro](https://github.com/ruanyf/weekly/issues/318) 投稿）
 
 6、[pagedraw](https://github.com/Pagedraw/pagedraw)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040519.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040519.jpg)
 
 一个浏览器里面的 UI 生成器，可以通过拖曳组件来设计 UI，然后自动生成 JSX 代码。
 
@@ -195,7 +195,7 @@ LFU 是常用的删除过期缓存的算法，本文介绍了它的一种代码�
 
 12、[dust3d](https://github.com/huxingyi/dust3d)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040520.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040520.jpg)
 
 开源的 3D 建模软件，适用于游戏开发，3D打印等。（@[huxingyi](https://github.com/huxingyi) 投稿）
 
@@ -215,13 +215,13 @@ LFU 是常用的删除过期缓存的算法，本文介绍了它的一种代码�
 
 4、[Visu Algo](https://visualgo.net/zh)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040521.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040521.jpg)
 
 各种算法的动态演示网站。（@[wyzlove](https://github.com/ruanyf/weekly/issues/351) 投稿）
 
 5、[7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019)
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040522.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040522.jpg)
 
 这是一个地图探险类（rogue like）游戏的比赛，全世界开发者都可以将自己的作品上传，唯一的条件是该游戏必须是在七天内开发完成。目前，已经有100多个作品，各个平台都有，其中将近一半可以在浏览器里面运行，都可以免费下载。
 
@@ -235,27 +235,27 @@ LFU 是常用的删除过期缓存的算法，本文介绍了它的一种代码�
 
 以前的建筑物追求庞大威严，因此更看重高度和垂直感，会有很多垂直线。但是，现在的建筑物越来越多的是水平线。下图左边是以前的建筑，右边是当代建筑。
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040523.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040523.jpg)
 
 2、[纯 CSS 图片](https://codepen.io/ivorjetski/pen/xMJoYO)
 
 下面图片不是照片，而是纯粹用 CSS 生成的。（[@beiyeqingteng](https://github.com/ruanyf/weekly/issues/276) 投稿）
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040524.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040524.jpg)
 
 3、[佛罗里达钓鱼比赛](https://sites.uw.edu/bevanseries/2018/02/28/data-is-in-the-eye-of-the-beholder/)
 
 美国佛罗里达州每年举办出海钓鱼比赛。下图是1957年的比赛成果。
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040525.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040525.jpg)
 
 下图是80年代初的比赛成果。
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040526.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040526.jpg)
 
  最后是2007年。
 
-![](https://www.wangbase.com/blogimg/asset/201904/bg2019040527.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040527.jpg)
 
 可以看到，五十年间，鱼变得越来越小，种类也越来越少。
 

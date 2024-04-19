@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092801.jpg)
 
 （题图：浦东滨江，上海，2018。）
 
@@ -39,7 +39,7 @@
 
 1、[3D 金属打印](https://www.technologyreview.com/lists/technologies/2018/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092802.jpg)
 
 以前的 3D 打印，一般都使用塑料。今年，3D 金属打印机问世了，可以用金属打印零件，生成更轻、更坚固、更复杂的形状，而且成本更低、速度更快。这为复杂的金属模具和金属部件的生产带来了前所未有的便利。以后再不担心老机器的零件停产了，只要把老零件扫描一下，原样打印可以了。
 
@@ -47,13 +47,13 @@
 
 2、[人工胚胎](https://www.technologyreview.com/lists/technologies/2018/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092803.jpg)
 
 英国剑桥大学的胚胎学家，只使用干细胞就培育出了一个小鼠胚胎。这里的神奇之处在于，这个胚胎没有使用卵子，也没有使用精子，只是一个普通细胞培育出来的。这意味着，只要一个普通的细胞就能创造出生命。
 
 3、[传感器城市](https://www.technologyreview.com/lists/technologies/2018/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092804.jpg)
 
 多伦多正在开展一个智能城市项目，在城市中安装各种类型的传感器，收集空气质量、噪声、人们活动的所有数据。所有数据将开放出来，允许第三方公司在上面开发服务。
 
@@ -61,7 +61,7 @@
 
 4、[植物人评估](https://www.scmp.com/news/china/science/article/2163298/doctors-said-coma-patients-would-never-wake-ai-said-they-would)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092805.jpg)
 
 植物人能不能醒来？中国科学院和中国人民解放军总医院开发了一个人工智能系统，评估病人醒来的机会，据说准确率达到90%。
 
@@ -69,7 +69,7 @@
 
 5、[电动滑板车](https://www.washingtonpost.com/business/economy/scooter-use-is-rising-in-major-cities-so-are-trips-to-the-emergency-room/2018/09/06/53d6a8d4-abd6-11e8-a8d7-0f63ab8b1370_story.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092806.jpg)
 
 越来越多的人使用电动滑板或电动滑板车，受伤的案例不断增加。鼻子、手腕和肩膀骨折、面部裂伤是常见情况，最糟糕时，摔到头部，会导致大脑永久性受损。加州的一家医院在7月的最后两周，治疗了18名在电动滑板车事故中受重伤的病人。旧金山的一家大医院的急诊室医生说，他每周看到多达10起重伤。
 
@@ -77,7 +77,7 @@
 
 6、[动物的对称性](https://www.scientificamerican.com/article/how-mammals-maintain-symmetry-during-development/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092807.jpg)
 
 动物几乎都是对称的，左边的四肢与右边一样，这是怎么产生的？
 
@@ -85,7 +85,7 @@
 
 7、[3D 场景的天气预报](https://blogs.nvidia.com/blog/2018/09/14/in-the-eye-of-the-storm-the-weather-channel-forecasts-hurricane-florence-with-stunning-visuals/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092808.jpg)
 
 美国的气象频道采用 3D 模拟视频，播放天气预报。
 
@@ -93,7 +93,7 @@
 
 8、[自行车骑得最快的人](https://www.npr.org/2018/09/18/649221471/woman-rides-bicycle-to-183-9-mph-a-new-world-record)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092809.jpg)
 
 美国一个45岁的女自行车手 Denise Mueller-Korenek，骑出了每小时295公里（183.932英里/小时）的世界记录，成为世界上骑得最快的人。
 
@@ -117,11 +117,11 @@
 
 你可能不确定它们是否适合自己，优达学城为此提供了299元的"七天试学班"。你可以在七天里面，体验所有服务，并且在助教指导下，自己动手完成第一个项目。到期后，如果想继续学，再缴纳其余的学费。下面是前几期课程的学员评价摘录。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092810.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092810.jpg)
 
 扫码下面海报里面的二维码，就可获取详细的课程大纲，或者咨询课程，进行选课自测。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092811.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092811.jpg)
 
 ## 教程
 
@@ -143,7 +143,7 @@ HTML 网页的 `<input>` 元素有几十个属性，本文介绍其中三个开�
 
 5、[Presentation API](https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092812.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092812.jpg)
 
 Chrome 66 支持 Presentation API，这个 API 允许浏览器定制投射到第二块屏幕的内容，使用脚本进行控制。
 
@@ -165,7 +165,7 @@ Chrome 66 支持 Presentation API，这个 API 允许浏览器定制投射到第
 
 9、[戴维·霍夫曼的人生](https://www.huffmancoding.com/my-uncle/scientific-american)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092813.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092813.jpg)
 
 本文介绍著名的压缩算法霍夫曼编码的发明人戴维·霍夫曼的故事。
 
@@ -181,19 +181,19 @@ Chrome 66 支持 Presentation API，这个 API 允许浏览器定制投射到第
 
 2、[谷歌数据集搜索](https://toolbox.google.com/datasetsearch)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092814.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092814.jpg)
 
 大数据研究需要数据集，谷歌推出数据集搜索，根据关键词找出相关的数据集。
 
 3、[谷歌放弃的产品](https://www.lemonde.fr/pixels/visuel/2018/09/05/google-memorial-les-projets-abandonnes-par-google-depuis-vingt-ans_5350679_4408996.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092815.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092815.jpg)
 
 谷歌推出了很多产品，许多后来都放弃了。这个网页列出所有被谷歌放弃的产品，目前有70个。
 
 4、[东京防灾手册](http://www.metro.tokyo.jp/chinese/guide/bosai/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092816.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092816.jpg)
 
 遇到灾难（地震、洪水、大雪等等）怎么办？东京市政府编写的免费电子书，这里是简体中文版的下载。
 
@@ -205,13 +205,13 @@ Chrome 66 支持 Presentation API，这个 API 允许浏览器定制投射到第
 
 1、[nodebook](https://github.com/netgusto/nodebook)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092817.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092817.jpg)
 
 一般情况下，Node REPL 环境只能在命令行使用。这个工具起了一个服务，让你在浏览器里就能使用 REPL 环境。
 
 2、[Kitty](https://sw.kovidgoyal.net/kitty/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092818.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092818.jpg)
 
 一个使用 GPU 进行渲染的终端模拟器。理论上，视觉效果将非常顺滑，尤其是长文本滚动和窗口切换。
 
@@ -225,7 +225,7 @@ Chrome 66 支持 Presentation API，这个 API 允许浏览器定制投射到第
 
 5、[react-proto](https://github.com/React-Proto/react-proto)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092819.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092819.jpg)
 
 React 应用的原型设计工具。
 
@@ -239,13 +239,13 @@ React 应用的原型设计工具。
 
 8、[Hacklily](https://www.hacklily.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092820.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092820.jpg)
 
 一个在线编写五线谱的工具，可以实时听到编写的旋律。
 
 9、[LiteraryClockScreenSaver](https://github.com/mmattozzi/LiteraryClockScreenSaver)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092821.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092821.jpg)
 
 Mac 的屏保程序，会显示一段文学作品的段落，里面包含了当前时间。
 
@@ -255,23 +255,23 @@ Mac 的屏保程序，会显示一段文学作品的段落，里面包含了当�
 
 有些城市位于山地，平面地图无法显示道路的坡度。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092822.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092822.jpg)
 
 设计师希望，地图能够显示道路的倾斜方向和倾斜程度，最初的想法是加上方向箭头。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092823.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092823.jpg)
 
 箭头太不直观，于是改成三角形。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092824.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092824.jpg)
 
 三角形的含义还是不清晰，考虑改成3D。不同的颜色表示不同的坡度。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092825.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092825.jpg)
 
 下面是最后的成品。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092826.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092826.jpg)
 
 2、[蟑螂工厂](http://www.globaltimes.cn/content/1066448.shtml)
 
@@ -295,7 +295,7 @@ Mac 的屏保程序，会显示一段文学作品的段落，里面包含了当�
 
 1、[1985年的数据可视化](https://medium.economist.com/data-visualisation-from-1987-to-today-65d0609c6017)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092827.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092827.jpg)
 
 1985年个人 PC 刚刚诞生，那时报纸上的饼图都是手绘的。
 
@@ -303,17 +303,17 @@ Mac 的屏保程序，会显示一段文学作品的段落，里面包含了当�
 
 如果变量是一个布尔值，变量名最好加上 is、has 或 can 作为前缀（见下图）。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092828.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092828.jpg)
 
 3、[世界最大的浮动海水浴场](http://themindcircle.com/aarhus-harbor-bath/)
 
 丹麦第二大城市奥胡斯，在海港里建设了一个浮动的海水浴场。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092829.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092829.jpg)
 
 游泳池长50米，还设有儿童游泳池和跳水池，以及日光浴甲板，供人们享受阳光。整个设施一共可以容纳650人。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092830.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092830.jpg)
 
 ## 本周金句
 

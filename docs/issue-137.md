@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120908.jpg)
 
 12月3日，埃及工程师开发的机器人，正在对病人进行超声波检查。（[via](http://www.xinhuanet.com/world/2020-12/07/c_1126831143_7.htm)）
 
@@ -18,17 +18,17 @@ Slack 是一个非常优秀的团队通信协作软件，如果你没用过，�
 
 它在全世界有众多的用户，去年的收入是8.33亿美元。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120807.jpg)
 
 上周，它把自己卖给了 Salesforce，售价高达277亿美元（约1800亿人民币）。从此，Slack 不再作为独立公司运行，而成为 Salesforce 的一个部门。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120808.jpg)
 
 这其实是一件有点奇怪的事情。Slack 的发展势头非常好，疫情期间正流行远程办公，它却在这时选择不当独角兽了，套现离场，这是为什么？
 
 [最主要的原因](https://mattstoller.substack.com/p/an-economy-of-godzillas-salesforce)大概是，它有一个强劲的对手 Microsoft Teams。这是微软模仿 Slack 推出的团队协作软件，可以跟 Office 绑在一起使用，Slack 感到极大的竞争压力。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120809.jpg)
 
 Teams 是2016年10月发布的，到现在的四年间，用户从零变成了1.15亿。同样这段时间，Slack 的用户从400万增加到1200万。也就是说，Teams 的增长速度大概是 Slack 的十几倍！
 
@@ -38,7 +38,7 @@ Teams 是2016年10月发布的，到现在的四年间，用户从零变成了1.
 
 **软件业有一句名言，“没人因为选择 Java 而被开除”。** 选择有大公司支持的技术，可以得到某种保证。那些技术可以不先进、不完美，甚至很乏味，但是它能保证得到积极维护和开发，具有庞大的生态系统和社区，并已经在大型业务环境经受了实战考验。企业就喜欢这样的技术，可以减少技术选型的风险，万一出事就不是决策者的责任。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120810.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120810.jpg)
 
 微软在 Teams 上投入重金，并且还有庞大的销售部门在推销，Slack 怎么可能竞争得过！并非巧合的是，Slack 选择卖身的 Salesforces，技术能力也许不属于世界最强之列，但一定是世界上销售能力最强的软件公司之一。
 
@@ -52,15 +52,15 @@ Teams 是2016年10月发布的，到现在的四年间，用户从零变成了1.
 
 本周的课程资料，就是一个专门的视频教程 **《前端性能优化专项突破》**，主讲老师大圣是前百度/360高级架构师，现在开课吧。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120903.jpg)
 
 他会针对性地分析前端性能优化的高频面试题，比如输入 URL 后的浏览器内部工作流程，如何缩减首屏加载时间等等。他还会提供一些通用的、可实操的性能优化方案。另外，他还会讲一些个人经历，如何提升个人核心竞争力，薪资从刚毕业的 2K 上涨到  40k。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120906.jpg)
 
 这个视频课程长达 325 分钟，内容非常实在。课程原价699元，周刊读者微信扫描下面二维码，就可以 **0 元领**，没有任何条件，不用转发，不用分享。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120905.jpg)
 
 仅限200名，送完即止。
 
@@ -68,7 +68,7 @@ Teams 是2016年10月发布的，到现在的四年间，用户从零变成了1.
 
 1、[最齐全的笔记本](https://expanscape.com/the-aurora-7-prototype/the-story-of-the-aurora-7/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112506.jpg)
 
 一家英国公司做出了史上功能最齐全的笔记本，桌面电脑能够包含的组件，它都包含：
 
@@ -81,35 +81,35 @@ Teams 是2016年10月发布的，到现在的四年间，用户从零变成了1.
 
 目前只是原型机，没有披露售价，最大的缺点是它的重量高达10公斤。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112507.jpg)
 
 2、[隼鸟2号送回岩石样本](https://www.bbc.com/news/science-environment-55201662)
 
 2014年12月3日，日本发射了隼鸟2号探测飞船（Hayabusa-2，下图），飞向一颗叫做“龙宫”（Ryugu）的小行星，2018年到达。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120516.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120516.jpg)
 
 2019年2月22日，隼鸟2号成功登陆小行星“龙宫”表面。4月5日，发射一颗金属弹，击中龙宫表面（下图），收集了弹出的岩石，这是人类首次通过发射金属弹制造陨石坑。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120517.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120517.jpg)
 
 2020年12月5日，隼鸟2号飞近地球时，分离了回收舱。第二天12月6日，回收舱降落在澳大利亚南部沙漠地带，送回了小行星的岩石标本。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120519.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120519.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120518.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120518.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120520.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120520.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120521.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120521.jpg)
 
 目前，隼鸟2号正在继续开展下一个探测计划，飞往另一颗小行星，预计十年后的2031年能飞到那里。
 
 3、[遛狗不牵绳的监控系统](http://static.zhoudaosh.com/6C13A88B1564424729BF877958D0D98C4B39F14DC8C71DB570EAB0B4546D7E8F)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120112.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120113.jpg)
 
 《上海市养犬管理条例》规定，遛狗必须牵绳，违者罚款。最近，虹口公安分局在辖区多个小区，安装了一套智能系统，抓拍遛狗不牵绳者。
 
@@ -119,89 +119,89 @@ Teams 是2016年10月发布的，到现在的四年间，用户从零变成了1.
 
 4、[打捞汽车滚装船](https://jalopnik.com/a-chain-just-cut-through-a-capsized-cargo-ship-filled-w-1845784581)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120304.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120305.jpg)
 
 2019年9月，一艘200米长的汽车滚装船在美国佐治亚州外海沉没，上面装有4000辆汽车。最近，这艘船被打捞起来，场面非常壮观。
 
 为了将它彻底拉出水面，工人把船体一切为二，露出了里面挤压变形的汽车。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120307.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120307.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120308.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120309.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120309.jpg)
 
 5、**一句话消息**
 
 > - [微软](https://gear.xbox.com/products/windows-95-ugly-sweater)在 XBOX 官方商店出售 Windows 95 毛衣，售价69.99美元。蓝白底色大概是象征 Windows 95 默认桌面的蓝天白云。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120513.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120513.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120514.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120514.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120515.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120515.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121006.jpg)
 
 > - [中国的核聚变实验装置](https://www.sohu.com/a/436289282_114986)“环流器二号”，12月4日在成都实现首次放电。核聚变是太阳能的来源，世界各国都在研究，目前还没有任何一个国家可以做到可控的核聚变。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120503.jpg)
 
 > - [新加坡](https://edition.cnn.com/2020/12/02/business/lab-grown-chicken-intl-scli-scn/index.html)成为世界第一个允许“人工鸡肉”上市销售的国家，这是实验室通过培养和分裂鸡肉细胞得到的鸡肉。其他肉类理论上也可能通过这种方式生产出来。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120402.jpg)
 
 > - [汉莎航空](https://edition.cnn.com/travel/article/lufthansa-sleepers-row-lie-flat-economy-seat/index.html)由于疫情期间国际航班乘客锐减，推出了“经济舱卧铺”，将座椅中间的扶手拆掉，允许乘客躺在一排座椅上，票价增加260美元。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112801.jpg)
 
 > - [一个印尼村民](https://www.bbc.com/news/world-asia-55013725)的房屋，8月时被一颗从天而降的约2公斤的陨石砸毁。由于该陨石是很罕见的碳质陨石，被美国人收购，据说价格高达100万美元以上。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112209.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112209.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112205.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112206.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112206.jpg)
 
 > - [一个瑞典工程师](https://www.boredpanda.com/magpies-recycling-machine-bottle-caps/)发明了一种自动喂食器，只要喜鹊将瓶盖之类的垃圾丢在里面，就能得到食物。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112301.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112303.jpg)
 
 ## 文章
 
 1、[中国机床业路在何方？](https://finance.sina.com.cn/stock/s/2020-12-06/doc-iiznctke5115023.shtml)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120702.jpg)
 
 2012年，沈阳机床的销售量世界第一，但是如今已经破产。18家中国大型机床国企几乎全军覆没，中国高档数控机床90%以上靠进口。作为全球机床第一大生产国、第一大消费国，中国机床业，怎么落到这般田地？
 
 2、[云游戏的现状](https://boilingsteam.com/cloud-gaming-services-explained-and-tested-on-linux/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120111.jpg)
 
 云游戏指的是游戏安装和运行都在云端，用户通过网络在本地玩。本文测评了美国目前的各种云游戏服务，包括 Google Stadia、Amazon Luna、Geforce Now、PlayStation Now 等。
 
 3、[2020年中国的获奖建筑](https://www.allnow.com/post/5fcdfff5c84b905ab2b38373)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120918.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120918.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120917.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120917.jpg)
 
 本文介绍上海当代艺术博物馆最近颁发的“中国建筑奖”的获奖建筑，上图是山西省晋城市浙水村的自然书屋。
 
 4、[神经网络的6种基本结构](https://lionbridge.ai/articles/6-types-of-neural-networks-every-data-scientist-must-know/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120203.jpg)
 
 本文介绍学习神经网络必须要了解的6种基本结构，上图就是最简单的感知器（Perceptron）。
 
 5、[Dweb 协议栈](https://blog.space.storage/posts/the-dweb-protocols-behind-space)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120401.jpg)
 
 Dweb 指的是分布式互联网，不再存在中央服务器，本文介绍它涉及的各种协议。
 
@@ -215,7 +215,7 @@ XSS 指的是代码注入，这是一种常见的攻击。React 框架本身带�
 
 8、[CSS 的竖行横书组合](http://www.deathghost.cn/article/css/86)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120901.jpg)
 
 CSS 可以做到中文竖排，并且内部数字是横排的效果（上图）。（[@232650413](https://github.com/ruanyf/weekly/issues/1531) 投稿）
 
@@ -235,25 +235,25 @@ Google Analytics 是世界最大的网站访问统计服务，它最近允许不
 
 2、[screenity](https://github.com/alyssaxuu/screenity)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120201.jpg)
 
 功能强大的 Chrome 浏览器录屏插件。（[@jeff-fe](https://github.com/ruanyf/weekly/issues/1527) 投稿）
 
 3、[texme](https://github.com/susam/texme)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120202.jpg)
 
 一个 JS 库，可以将 Markdown 自动渲染成网页内容。（[@baddate](https://github.com/ruanyf/weekly/issues/1530) 投稿）
 
 4、[dumpster-fire](https://hey.science/dumpster-fire/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112503.jpg)
 
 这个网站挺好玩，你给它发 Email，它会打印出来，自动点火烧掉，全程直播。
 
 5、[buster](https://github.com/dessant/buster)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112706.jpg)
 
 浏览器插件，使用语音识别完成 reCAPTCHA 验证码。
 
@@ -263,13 +263,13 @@ Google Analytics 是世界最大的网站访问统计服务，它最近允许不
 
 7、[twtxt](https://github.com/jointwt/twtxt)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112906.jpg)
 
 一个自己架设的微博客开源平台。
 
 8、[Cyberbrain](https://github.com/laike9m/Cyberbrain)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112907.jpg)
 
 一个 VS Code 插件，提供 Python 程序的可视化调试环境。
 
@@ -279,7 +279,7 @@ Google Analytics 是世界最大的网站访问统计服务，它最近允许不
 
 10、[RegExper](https://regexper.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120108.jpg)
 
 该网站可以将正则表达式转成解释图片。
 
@@ -287,7 +287,7 @@ Google Analytics 是世界最大的网站访问统计服务，它最近允许不
 
 1、[This X Does Not Exist](https://thisxdoesnotexist.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112204.jpg)
 
 这个网站收集各种 AI 生成的仿真项目，比如不存在的人、不存在的猫、不存在的房间等等。
 
@@ -297,19 +297,19 @@ Google Analytics 是世界最大的网站访问统计服务，它最近允许不
 
 [Zoomquilt](https://zoomquilt.org/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112401.jpg)
 
 [Zoomquilt2](http://zoomquilt2.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112402.jpg)
 
 [Arkadia Zoomquilt](http://arkadia.xyz/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112403.jpg)
 
 3、[Unix 操作系统简介](https://chsasank.github.io/classic_papers/unix-time-sharing-system.html)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111502.jpg)
 
 丹尼斯·里奇和肯·汤普森1974年的原始论文，向世界介绍他们发明的新操作系统 Unix，在不长的篇幅里面，使用简单的语言，介绍 Unix 的一些核心设计，至今仍然有参考价值。
 
@@ -331,11 +331,11 @@ Maven 是 Java 项目的管理和构建工具，这是国人原创的针对新�
 
 德国柏林的倍倍尔广场上，有一个装置艺术品，叫做“空图书馆”，是一组空的地下白色书柜。这是为了提醒人们不要忘记，1933年纳粹在这个广场上烧毁犹太人和马克思的书籍。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052601.jpg)
 
 地下空间的大小相当于2万本书籍，跟当时烧毁的数量相仿。这个装置跟地面齐平，白天很难发现，晚上亮灯才能看到。装置内部装有空调，保持跟外部同样温度，防止玻璃窗上出现水汽。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052602.jpg)
 
 2、[最大的愚人节恶作剧](http://hoaxes.org/af_database/permalink/the_eruption_of_mount_edgecumbe/)
 
@@ -343,9 +343,9 @@ Maven 是 Java 项目的管理和构建工具，这是国人原创的针对新�
 
 1974年4月1日星期一的早晨，居民们醒来后，震惊地发现火山居然冒出了黑烟，眼看就要爆发了。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120101.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120102.jpg)
 
 海岸警卫队派出直升飞机，查看情况，才发现原来这是一个愚人节恶作剧。一个伐木工人想跟大家开一个玩笑，他用小飞机将70个旧轮胎运上山，浇上煤油，然后点燃。
 
@@ -357,15 +357,15 @@ Maven 是 Java 项目的管理和构建工具，这是国人原创的针对新�
 
 法克里扎德身边有11人维安小组，但还是被人工智能通过卫星遥控的机关枪射杀。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120803.jpg)
 
 伊朗革命卫队（Revolutionary Guards）副司令法达威向媒体透露了细节。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120804.jpg)
 
 2020年11月27日下午，法赫里扎德与妻子乘坐一辆黑色尼桑轿车，在11名保镖陪同下前往郊区的别墅。由于疫情，高速公路上车辆稀少。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120805.jpg)
 
 法赫里扎德乘坐的车辆先遭到了一下枪击，他以为汽车出现故障，从防弹车上下来查看情况。就在此时，一辆停在150米之外的日产皮卡车，上面安装的机关枪开始射击。
 
@@ -373,7 +373,7 @@ Maven 是 Java 项目的管理和构建工具，这是国人原创的针对新�
 
 暗杀行动是通过卫星操控的，现场未见恐怖分子。开枪后，日产车随即自爆，销毁了自身。整个暗杀过程只用了3分钟。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120806.jpg)
 
 伊朗政府追查这辆日产汽车车主身份，发现车子所有人早在10月29日就已经离开伊朗。
 
@@ -385,19 +385,19 @@ Maven 是 Java 项目的管理和构建工具，这是国人原创的针对新�
 
 游戏开始时就是一个黑夜，你会发现自己在俄罗斯一个普通郊区的一间小公寓里面，灯光黯淡，屋里空无一人。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112910.jpg)
 
 你从窗户望出去，看到白雪覆盖的庭院，在黑暗里被路灯和商店冷清的霓虹灯照亮。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112911.jpg)
 
 你打开厨房的电灯开关，尝试烤面包、煮鸡蛋。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112912.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112912.jpg)
 
 然后，你打开收音机，听了一会，开始洗澡。接着，你取出垃圾，离开公寓，到空无一人的庭院里散步。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112909.jpg)
 
 街道拐角处的商店和美发店都关门了，路上空无一人。实际上，无论你走到哪里，都看不到任何人。
 
@@ -449,11 +449,11 @@ DNS 已经到了如此复杂的地步，以至于没人能完全掌握一切。�
 
 2019年的本周（第 86 期）：[千万不要当完美主义者](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112713.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112713.jpg)
 
 2018年的本周（第 34 期）：[身份证的最终解决方案：人体植入芯片](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018120702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018120702.jpg)
 
 ## 订阅
 

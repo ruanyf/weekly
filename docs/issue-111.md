@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052902.jpg)
 
 板齿犀（Elasmotherium）是一类已经灭绝的大型犀牛，高2米，长5米，前额上有长达2米的角，约1600万年前灭绝。（[出处](https://twitter.com/robertnyman/status/1265626735032381446)）
 
@@ -18,7 +18,7 @@
 
 我不赞成这样的设计，也不愿意购买这样的电视机。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061009.jpg)
 
 这是因为电视机的使用年限很长，可能达到10年。内置的操作系统不可能跟着更新这么久，事实上很多电视机自从出厂，就再也不更新系统了。以后，你一打开电视，就会看到过时的系统。
 
@@ -28,7 +28,7 @@
 
 但是，这在国内恐怕很难做到。因为国内电视机的操作系统，很大的目的是播放开机广告，他们舍不得这一块的利益。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061010.jpg)
 
 同理，自带操作系统的智能家电，我都建议不要购买，比如可以上网的互联网冰箱。
 
@@ -38,7 +38,7 @@
 
 正是因为上面的原因，企业越来越看重数据分析这项技能，招聘市场也出现了巨大的数据人才需求。学好数据分析，会为你增加求职机会，提高求职成功率。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061007.jpg)
 
 但是，数据分析的知识点很散，涉及不同领域的基础知识和多种工具，很多学习者觉得无从下手，抓不住重点，学习起来常常毫无头绪。
 
@@ -56,7 +56,7 @@
 
 这套全新的数据分析资料原价值1980元，现在有168个免费名额。需要的朋友请扫码下面的二维码，添加微信就可以免费领取。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061008.jpg)
 
 开课吧另有 **《大数据分析全栈工程师》** 课程，适合数据分析工程师岗位，具体情况也可以扫描上面二维码了解。
 
@@ -64,7 +64,7 @@
 
 1、[英国两个月不使用煤炭](https://www.bbc.com/news/science-environment-52973089)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061004.jpg)
 
 由于疫情期间用电需求下降，到6月10日为止，英国已经连续60天没有燃烧任何煤炭了。这是工业革命后从没有过的。英国现在只剩下四个燃煤电厂，4月10日英国国家电网让最后一台燃煤发电机停机，直到现在。
 
@@ -72,9 +72,9 @@
 
 2、[共享单车的新去处](https://twitter.com/shenzhilong001/status/1270523302138613763)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061005.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061006.jpg)
 
 缅甸教育部向中国收购了36.5万辆废弃的共享单车。这些车在仰光维修完毕后，免费发放给有需要的贫困的缅甸学生。
 
@@ -82,7 +82,7 @@
 
 3、[模仿特朗普的实验](https://www.businessinsider.com/twitter-donald-trump-suspendthepres-experiment-policies-suspension-glorifying-violence-2020-6)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060505.jpg)
 
 一个推特用户做了一个实验，注册了一个帐号，特拉普发什么推特，他就发一样的内容，不是转发，而是原文复制，除此以外不发其他内容。
 
@@ -90,7 +90,7 @@
 
 4、[桔子皮的功能](https://www.princeton.edu/news/2017/08/22/orange-new-green-how-orange-peels-revived-costa-rican-forest)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060801.jpg)
 
 美国生态学家16年前做了一个实验，说服哥斯达黎加国家公园，允许一家果汁公司将12000吨桔子皮，倾倒在一块贫瘠的土地上，卡车整整运送了1000次。
 
@@ -98,39 +98,39 @@
 
 5、[最老的游戏 Youtuber](https://www.theguardian.com/games/2020/jun/07/japans-video-gaming-grandma-90-plays-her-way-into-record-books)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060803.jpg)
 
 日本90岁的森滨子（Hamako Mori）老人，公认是世界年龄最大的游戏 Youtuber。她每天都会花至少3个小时打游戏，还在 Youtube 上面维护一个自己的频道。接受采访时，她说消灭游戏里面的敌人是一种绝佳的压力缓解剂。
 
 她从40年前的1981年开始玩游戏，已经玩过200多个游戏。她最喜欢的游戏包括侠盗猎车手（Grand Theft Auto）和奇幻角色扮演游戏《上古卷轴5：天际》。2014年，她的孙子为她建了一个 YouTube 频道"Gamer Grandma"，每月上传三四个视频，目前有30万订户。她谈到频道时说：“这件事很有趣，很多人关注你，你就不是一个人玩了。”现在，她正热切期待着 PlayStation 5 发布。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061201.jpg)
 
 6、**一句话新闻**
 
 > - [谷歌](https://www.theverge.com/2020/6/4/21280115/google-search-engine-yellow-highlight-featured-snippet-anchor-text)开始尝试在用户点击跳出搜索结果页后，直接在外部网页上，高亮显示搜索文本，并且浏览器将自动向下滚动至相关部分。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060501.jpg)
 
 > - [Stack Overflow 的《2020年开发者调查》](https://insights.dice.com/2020/06/04/24-programming-languages-pay-top-salaries-scala/)显示，美国平均工资最高的程序员依次是Scala、Go 和 Objective-C。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060502.jpg)
 
 > - [StackOverflow 的《2020年开发者调查》](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)还显示，Rust 语言连续五年排名程序员最喜欢的编程语言。
 
 > - [加密通信软件 Signal](https://signal.org/blog/blur-tools/) 开始提供”一键模糊脸部“的功能，防止在分享的照片中泄露周围人的脸部信息。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061202.jpg)
 
 > - [中国科学家](https://syncedreview.com/2020/06/04/deepfacedrawing-generates-photorealistic-portraits-from-freehand-sketches/)发表了一项研究成果，可以从草图直接生成逼真的人像。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060506.jpg)
 
 > - [德国政府](https://www.reuters.com/article/us-health-coronavirus-germany-autos/germany-forces-all-petrol-stations-to-provide-electric-car-charging-idUSKBN23B1WU)要求所有加油站，都必须提供电动汽车的充电服务。
 
 > - [美国国防部](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)明年开始实验，无人驾驶的战斗机与真人战斗机之间的对抗。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060802.jpg)
 
 ## 文章
 
@@ -152,19 +152,19 @@
 
 5、[根证书到期引发的问题](https://scotthelme.co.uk/impending-doom-root-ca-expiring-legacy-clients/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060901.jpg)
 
 HTTPS 协议加密的基础是证书，但是证书都有时间期限。根证书是其他所有证书可信性的保证，如果它过期了怎么办？
 
 6、[使用 Cloudflare worker 实现 Todo 清单](https://codeforgeek.com/build-a-todo-app-using-cloudflare-workers-and-kv/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061001.jpg)
 
 Cloudflare worker 是一种 Serverless 服务，使用 JavaScript 语言，相对比较简单。本文教大家怎么用它实现一个 Todo 清单，自己不需要架设服务器，还能在后端储存数据。
 
 7、[使用 Graphviz 生成示意图](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061012.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061012.jpg)
 
 本文介绍命令行下如何使用 Graphviz，编写脚本生成示意图。
 
@@ -174,7 +174,7 @@ Cloudflare worker 是一种 Serverless 服务，使用 JavaScript 语言，相�
 
 9、[如何架设 VS Code 服务器](https://hackernoon.com/how-you-can-set-up-remote-development-workflow-with-vs-code-in-your-browser-3y3q3wu9)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061013.jpg)
 
 VS Code 是流行的代码编辑器，它不仅是一个本地软件，也是一个云端服务，可以自己在服务器上架设，然后就能在任何地方通过浏览器使用了。
 
@@ -186,7 +186,7 @@ CHIP-8 是一个很简单的虚拟机，有16个8位寄存器和35个指令，�
 
 1、[Grid.js](https://gridjs.io/)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060504.jpg)
 
 一个网页表格库，可以用作各种前端框架的插件。
 
@@ -196,7 +196,7 @@ CHIP-8 是一个很简单的虚拟机，有16个8位寄存器和35个指令，�
 
 3、[Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060507.jpg)
 
 一个包含 macOS 系统的 Docker 镜像，可以运行在 Linux 系统。也就是说，你能在 Linux 上运行 Mac 系统了。
 
@@ -210,7 +210,7 @@ CHIP-8 是一个很简单的虚拟机，有16个8位寄存器和35个指令，�
 
 6、[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061002.jpg)
 
 一个自动生成中国山水画的 JS 实现。
 
@@ -220,7 +220,7 @@ CHIP-8 是一个很简单的虚拟机，有16个8位寄存器和35个指令，�
 
 8、[stretchly](https://hovancik.net/stretchly/downloads/)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061107.jpg)
 
 一个开源桌面软件，隔一段时间（默认25分钟）就跳出一个提示，提醒你离开电脑运动一下。（[@ketra21](https://github.com/ruanyf/weekly/issues/1276) 投稿）
 
@@ -244,19 +244,19 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 3、[数据科学在线课程](https://davidadrian.cc/top-courses-data-science/)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060701.jpg)
 
 数据科学在线课程那么多，哪些课应该优先考虑？这篇文章列了一个推荐名单。
 
 4、[设计工具收集](https://nodesign.dev/)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020060902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060902.jpg)
 
 该网站收集各种设计工具和设计资源，没有设计师的时候，可以使用它们。
 
 5、[PHP 大事记](https://www.jetbrains.com/lp/php-25/)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061011.jpg)
 
 今年是 PHP 语言诞生25周年，Jetbrains 公司制作了一个网页，列出这25年中 PHP 的各种大事，网页制作得非常精致。
 
@@ -266,7 +266,7 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 下图是第二次世界大战以后，美国报纸业的广告收入变化。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061003.jpg)
 
 互联网出现以后，报纸的广告收入就自由落体般下跌，目前已经低于70年前的水平。
 
@@ -276,13 +276,13 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 这些图显示了当时苏联科幻文学的发达，以及民众对太空探索的好奇。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031908.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031909.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031910.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031911.jpg)
 
 ## 文摘
 
@@ -290,11 +290,11 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 澳大利亚国立大学教授威尔·斯特芬（Will Steffen）提出：“气候变化已经不可逆了，人类文明的崩溃将是最可能的结果。”
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061101.jpg)
 
 无论人类是否减少二氧化碳排放，都已经为时过晚，因为15个已知的全球气候临界点，已经有9个激活了。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061103.jpg)
 
 - [✓] 北极海冰开始融化
 - [✓] 格陵兰冰盖开始融化
@@ -317,7 +317,7 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 目前已经有9个成为了现实。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020061102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061102.jpg)
 
 2、[Xbox 里面的父亲](https://www.facebook.com/Coyoter.Huang/posts/10216945532563571)
 
@@ -419,11 +419,11 @@ just to ensure i wouldnt delete it.
 
 2019年的本周（第 60 期）：[中国人的起源](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061401.jpg)
 
 2018年的本周（第 8 期）：[日本的低生育率](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018060801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060801.jpg)
 
 ## 订阅
 

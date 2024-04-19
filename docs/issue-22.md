@@ -2,11 +2,11 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091401.jpg)
 
 2008年，英国摄影师大卫·斯莱特（David Slater）来到印度尼西亚，拍摄一种珍贵的猕猴。他把照相机固定在三脚架上，放在丛林中，然后躲在远处偷偷观察猕猴。猴子很快发现了照相机，拿起来玩，居然真的按下了快门，留下了几张[自拍](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute)。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091402.jpg)
 
 2011年，大卫·斯莱特把这些照片发表在英国的《每日邮报》。几天以后，有人把它们上传到维基百科，版权归属设定为"公共领域"。理由很简单，照片的版权属于拍摄者，现在拍摄者是一只猴子，所以不存在版权。大卫·斯莱特抗议，认为他才是版权所有者，但是维基百科坚持不改。
 
@@ -20,15 +20,15 @@
 
 1、[改变血型](https://vancouversun.com/health/local-health/ubc-researchers-have-found-a-way-to-make-all-donated-blood-universal)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091403.jpg)
 
 输血需要识别血型，O 型血是全能血，可以给其他血型输血，别的血型都不行。现在，加拿大科学家发现一种特殊类型的肠道细菌可以去除人体血液中的抗原，使任何血型都变成O型血。也就是说，解决了输血血型不匹配的问题。
 
 2、[反向过滤](http://www.sciencemag.org/news/2018/08/improbable-membrane-can-trap-flies-jar-and-odor-toilet)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091404.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091405.jpg)
 
 过滤装置都是让较小的颗粒通过，拦截较大的颗粒。现在，科学家做出了反向过滤的膜，让较大的颗粒通过，拦截较小的颗粒。
 
@@ -36,7 +36,7 @@
 
 3、[无人货轮](https://theconversation.com/unmanned-ghost-ships-are-coming-83324)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091406.jpg)
 
 挪威正在建造的 YARA Birkeland 货轮，是世界第一艘无人驾驶、自主航行的货轮。由于国际航运法规定，远洋船舶必须有船员，因此无人驾驶船舶不得进入国际水域。所以，这艘货轮只能在挪威国内开展业务。不过，联合国国际海事组织可能改变目前的规定。
 
@@ -44,7 +44,7 @@
 
 4、[巴西博物馆大火](https://www.cnet.com/news/20-million-historical-artifacts-destroyed-in-brazil-national-museum-fire/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091407.jpg)
 
 巴西里约热内卢博物馆是美洲最大的博物馆之一，9月2日晚上发生大火。由于火灾发生在闭馆后，目前没有发现人员伤亡。
 
@@ -56,7 +56,7 @@
 
 5、[鸟类可以看见磁场](https://www.sciencealert.com/birds-see-magnetic-fields-cryptochrome-cry4-photoreceptor-2018)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091408.jpg)
 
 每年冬天，候鸟都会沿着相同的路线迁移。它们为什么知道路线，不会迷失方向？很多科学家猜测，候鸟能够感知地球的磁场，最近的研究证实了这个猜测。
 
@@ -64,13 +64,13 @@
 
 6、[无限飞行的无人飞行器](https://www.newscientist.com/article/2178470-the-us-army-is-making-a-laser-powered-drone-that-can-fly-indefinitely/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091409.jpg)
 
 无人飞行器的一个缺点就是太耗电，一块电池只能支持不到30分钟。美国军方正在研制一种无限飞行的无人机，解决方法就是激光充电。激光打中无人机，无人机里面的光伏设备再将激光转换为电能，储存在电池里面。
 
 7、[追踪狗屎](https://abcnews.go.com/International/dog-dna-track-owners-clean-pets/story?id=57119869)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091410.jpg)
 
 有些狗主人遛狗的时候，不清除狗屎，影响环境。意大利一个小镇忍无可忍，对本地2,156只狗的 DNA 全部登记。一旦发现没清理的狗屎，就追查DNA，对主人罚款58美元。
 
@@ -82,7 +82,7 @@
 
 9、[Windows 拦截安装](https://www.ghacks.net/2018/09/12/microsoft-intercepting-firefox-chrome-installation-on-windows-10/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091411.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091411.jpg)
 
 Windows 10 最新的内部测试版，会拦截 Chrome 和 Firefox 的安装，提醒你已经安装了 Edge，不需要别的浏览器了。用户坚持的话，还是可以继续安装。
 
@@ -92,13 +92,13 @@ Windows 10 最新的内部测试版，会拦截 Chrome 和 Firefox 的安装，�
 * [欧洲](https://www.nature.com/articles/d41586-018-06178-7)11个科研管理机构和基金会联合宣布了"S计划"，凡是接受这些机构资助的科研项目，所产生的论文必须让公众免费获取，不得收费。一些科研杂志说，这会导致这些杂志关门。
 * [奔驰公司](https://www.bloomberg.com/news/articles/2018-09-04/mercedes-readies-first-tesla-rival-in-12-billion-attack-plan)将在明年上半年发售电动轿车，挑战特斯拉在高端电动车市场的独占地位。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091412.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091412.jpg)
 
 ## 教程
 
 1、[网站架构101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947?gi=1d3de2ad5843)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091413.jpg)
 
 本文介绍大型网站架构的基本知识。
 
@@ -116,7 +116,7 @@ Go v1.11 引入了模块（module）的概念，主要为了使用语义版本�
 
 5、[使用 Webview 开发跨平台桌面应用](https://sausheong.github.io/posts/cross-platform-games-with-go/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091414.jpg)
 
 跨平台桌面应用一般用 Electron 开发，打包体积很大。对于纯静态应用，其实有另一种轻量级选择。
 
@@ -146,13 +146,13 @@ Serverless 作为服务导向架构的一种形式，有很多优点。本文介
 
 1、[Windows 2000 的浏览器版](https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/win2k.cfg&mem=192&graphic=1&w=1024&h=768)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091415.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091415.jpg)
 
 Windows 2000 通过 WebAssembly，可以在浏览器里运行了。
 
 2、[数据挖掘教材](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091416.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091416.jpg)
 
 《数据挖掘》（第二版）这本书本身没有全部开源，这个网页提供了所有章节的 PPT 教辅材料和实验代码。
 
@@ -162,7 +162,7 @@ Windows 2000 通过 WebAssembly，可以在浏览器里运行了。
 
 4、[Windows 95 App](https://github.com/felixrieseberg/windows95)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091417.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091417.jpg)
 
 Windows 95 被做成了一个 Electron App，可以用来玩 DOS 游戏，底层是 x86 的JS虚拟机。
 
@@ -174,7 +174,7 @@ Windows 95 被做成了一个 Electron App，可以用来玩 DOS 游戏，底层
 
 1、[25种团队通信工具](https://fleep.io/blog/2018/08/best-slack-alternatives/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091418.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091418.jpg)
 
 Slack 是目前最流行的团队协同通信工具。这篇文章列出了25种 Slack 的替代品。
 
@@ -192,13 +192,13 @@ Chrome 插件，可以将用户在浏览器里面的操作，自动生成对应�
 
 5、[JSCPP](https://github.com/felixhao28/JSCPP)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091419.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091419.jpg)
 
 有人用 JS 写了一个 C++ 的解释器，可以在 Node 或浏览器直接运行 C++ 代码。
 
 6、[Crontab UI](https://www.ostechnix.com/how-to-easily-and-safely-manage-cron-jobs-in-linux/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091420.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091420.jpg)
 
 cron 是设置 Linux 系统定时任务的工具，只能在命令行下使用。现在，这个软件为它提供了图形界面。
 
@@ -212,7 +212,7 @@ bat 是 cat 命令的加强版，同样在命令行输出文件内容，但是�
 
 9、[Picular](https://picular.co/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091421.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091421.jpg)
 
 Picular 会抓取谷歌的图片搜索结果，提取并显示每张图片的主要颜色。上图是搜索"夏天"的颜色
 
@@ -222,11 +222,11 @@ Picular 会抓取谷歌的图片搜索结果，提取并显示每张图片的主
 
 1988年的夏天，一位名叫 Wes Cherry 的大学生在微软担任实习生。为了搞懂 Windows，他决定改写 Macintosh 电脑的一个纸牌游戏，写出一个 Windows 版本。根据 Cherry 本人的说法，他写的游戏代码"没有什么特别之处"，并不比其他纸牌游戏更好。对他来说，这个软件最特别之处仅仅在于，纸牌背面的图案由他的女友 Leslie Kooy 绘制。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091422.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091422.jpg)
 
 被问到开发这个游戏最困难的是什么，他说是游戏胜利后纸牌不断弹跳的场景。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091423.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091423.jpg)
 
 暑期实习结束时，他将自己的纸牌游戏放在一个微软内部的服务器上，然后又回到了大学。
 
@@ -236,13 +236,13 @@ Picular 会抓取谷歌的图片搜索结果，提取并显示每张图片的主
 
 Wes Cherry 是上班时间在微软办公室开发这个游戏，因此知识产权属于微软。他创造了历史上最受欢迎的电脑游戏，但是除了一台免费电脑之外，他从来没有得到任何报酬。他说他不介意。他早已离开计算机行业，现在西雅图附近的 Vashon 岛拥有并经营一家[苹果酒酿酒厂](http://www.dragonsheadcider.com/)。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091424.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091424.jpg)
 
 2、[写作技术文档的技巧](https://blog.stoplight.io/writing-documentation-when-you-arent-a-technical-writer-part-one-ef08a09870d1)
 
 用户阅读网页内容的热力图是下面这样。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091425.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091425.jpg)
 
 这就是说，用户以 F 状的方式阅读网页，先看前三行，然后垂直向下阅读，只看每一行的前几个字。
 
@@ -256,15 +256,15 @@ Wes Cherry 是上班时间在微软办公室开发这个游戏，因此知识产
 
 1、[荷马](https://twitter.com/Itsmiketheboxer/status/1030481558644244480)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091426.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091426.jpg)
 
 动画片《辛普森一家》的主角荷马，被人做成现实生活里的样子。
 
 2、[废弃式设计风格](https://www.atlasobscura.com/articles/best-superstores-architecture)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091427.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091427.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091428.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091428.jpg)
 
 上个世纪70年代，美国家居用品零售商 Best Products 店铺都采用废弃式的设计，看上去建筑物未完工或已经废弃了，但实际上是正常使用的。
 
@@ -272,11 +272,11 @@ Wes Cherry 是上班时间在微软办公室开发这个游戏，因此知识产
 
 1956年，英国通过《清洁空气法案》，要求减少空气污染。在此之前，曼彻斯特很多建筑物都被煤烟熏黑了。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091429.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091429.jpg)
 
 《曼彻斯特晚报》将一些建筑物的历史照片与今天的照片做了对比。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091430.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091430.jpg)
 
 ## 新奇
 
@@ -284,13 +284,13 @@ Wes Cherry 是上班时间在微软办公室开发这个游戏，因此知识产
 
 联想新发布的10.8寸笔记本 Yoga Book C930 ，键盘是一块 E-ink 电子墨水屏，可以当作第二块屏幕。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091431.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091431.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091432.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091432.jpg)
 
 使用手写笔的时候，副屏就是一个手写输入板；当作键盘使用的时候，则会有触觉反应。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091433.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091433.jpg)
 
 ## 本周金句
 

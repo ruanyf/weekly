@@ -6,7 +6,7 @@
 
 1、[Popper](https://popper.js.org/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111702.jpg)
 
 一个制作工具提示和弹出框的 JS 库。
 
@@ -16,7 +16,7 @@
 
 1、[Remark42](https://github.com/umputun/remark42)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020710.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020710.jpg)
 
 一个开源的、可以自己搭建的网站留言服务。
 

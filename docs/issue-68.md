@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080702.jpg)
 
 封面图片：松江方塔，上海，2018。
 
@@ -30,11 +30,11 @@
 
 **定价1988元的视频课程《Vue 源码解析》，限时免费领取** ，适合所有想提升技术水平的前端学习者。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080902.jpg)
 
 他们给了我400个名额，微信扫描下面的二维码领取。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080903.jpg)
 
 另外，大家熟知的IT技术大牛 **廖雪峰** 已加盟开课吧，耗时半年研发了精品付费课程—— **《Web全栈架构师》** ，来帮助初级前端工程师实现全方位进阶。课程深度对标百度T6--T7，适合有1-4年开发经验的前端程序员们学习。
 
@@ -49,17 +49,17 @@
 
 1、[新加坡进口澳大利亚太阳能](https://www.theguardian.com/environment/2019/jul/14/just-a-matter-of-when-the-20bn-plan-to-power-singapore-with-australian-solar)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071401.jpg)
 
 新加坡由于国土面积太小，无法发展太阳能。上图是世界最大港口之一的新加坡港，已经拥挤不堪，紧邻住宅区了。另一方面，澳大利亚地广人稀，内陆地区有着大片阳光普照的荒漠。
 
 一家私人公司提出了一个计划，在澳大利亚建设一个大型太阳能电厂，然后通过太平洋的海底电缆，将电能输送到新加坡，两国政府都已经表示有兴趣。按照计划，该电厂可以满足新加坡20%的电力需求。如果可行，世界上的荒漠国家就多了一条发展道路。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071402.jpg)
 
 2、[淘汰纸制教科书](https://www.bbc.com/news/business-48998789)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071612.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071612.jpg)
 
 美国主要的教科书出版公司 Pearson 宣布，将逐步淘汰纸制教科书，向电子书转变。这家公司目前数字业务的收入，已经超过总收入的一半。
 
@@ -67,7 +67,7 @@
 
 3、[儿童的职业选择](https://arstechnica.com/science/2019/07/american-kids-would-much-rather-be-youtubers-than-astronauts/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071701.jpg)
 
 阿波罗11号飞船登月50周年纪念日（7月20日）前夕，乐高公司委托一家民意调查公司，调查了中国、英国和美国的3,000名儿童，让他们选择最想从事的职业。
 
@@ -77,9 +77,9 @@
 
 4、[北极大火](https://earther.gizmodo.com/satellite-images-show-vast-swaths-of-the-arctic-on-fire-1836500468)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072102.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072103.jpg)
 
 根据卫星照片，北极圈内多个地点，从阿拉斯加、西伯利亚到格陵兰，目前都是烟雾缭绕，表明那些地方都正在发生森林大火。
 
@@ -87,9 +87,9 @@
 
 5、[FaceApp 受调查](https://www.forbes.com/sites/zakdoffman/2019/07/17/fbi-and-ftc-told-to-investigate-russias-faceapp-as-u-s-national-security-risk/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072202.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072203.jpg)
 
 最近，FaceApp 非常受欢迎，它使用人工智能，给出用户变成老年人的样子，正在病毒式传播。这是一家俄罗斯公司开发的 App，据估计，它至少已经有了1.5亿人的面孔数据。
 
@@ -97,21 +97,21 @@
 
 6、[AI 绘制地图](https://tech.fb.com/ai-is-supercharging-the-creation-of-maps-around-the-world/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072403.jpg)
 
 人工绘制地图，通常很慢，标识道路、高速公路、桥梁等，需要大量的投入。Facebook 开发了一个人工智能系统，可以从卫星照片自动生成地图。上图中，白色线条是现有道路，粉红色线条是人工智能识别出来的道路。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072404.jpg)
 
 这套系统可以识别出上图中的河边小道，因此对地理信息不全的农村地区尤其有用。该系统已经补全了泰国和印尼现有地图缺失的道路，将泰国地图的道路总里程，从28万英里增加到了60万英里。传统方法需要三到五年，它只用了18个月。
 
 下图是用来训练的卫星照片，白色线条是需要发现的道路。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072405.jpg)
 
 7、[软件外包的风险](https://www.zdnet.com/article/siemens-contractor-pleads-guilty-to-planting-logic-bomb-in-company-spreadsheets/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072508.jpg)
 
 西门子公司的很多软件都是外包开发的。一个外包程序员在软件里面留下了一个逻辑炸弹，设置在指定日期后触发，会使得软件崩溃。
 
@@ -123,17 +123,17 @@
 
 > - [世界第一个商用的核聚变反应堆](https://www.scientificamerican.com/article/worlds-largest-nuclear-fusion-experiment-clears-milestone/)，官方宣布已经取得重大进展，将于2025年12月正式运营。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072501.jpg)
 
 > - [炸弹无人机](https://twitter.com/hackermaderas/status/1132774476389801989)的实物被贴到了推特，可以编程指定飞行轨迹，具有12分钟飞行时间，或20分钟滞空时间。难以想象，这种武器普及的后果。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072505.jpg)
 
 > - [澳大利亚珀斯造币厂](https://www.wsj.com/articles/a-gigantic-gold-coin-makes-its-way-to-wall-street-11563278400?mod=rsswn)在纽约华尔街的马路上，展示世界最大的金币，重达一吨，价值4500万美元。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072502.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072503.jpg)
 
 ## 文章
 
@@ -143,7 +143,7 @@
 
 2、[太空中如何大小便? ](http://www.sohu.com/a/250780697_100136930)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072012.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072012.jpg)
 
 太空没有重力，所有东西都是漂浮的，大小便成了棘手的问题。本文介绍美国宇航局如何在零重力的太空环境，解决宇航员的大小便问题。
 
@@ -163,7 +163,7 @@ CGI 是“通用网关接口”的缩写，用来将任意脚本接入 Web 服�
 
 6、[什么是 CVE 漏洞？](https://resources.whitesourcesoftware.com/blog-whitesource/what-is-cve-vulnerability)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072311.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072311.jpg)
 
 软件漏洞经常有一个 CVE 编号，比如 CVE-2018-8589，这个编号是什么意思？它是怎么来的？请看这篇英语的简单介绍。
 
@@ -173,19 +173,19 @@ CGI 是“通用网关接口”的缩写，用来将任意脚本接入 Web 服�
 
 8、[制造美少女卡通头像自动售货机](https://waifulabs.com/blog/ax)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072406.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072410.jpg)
 
 一个旧金山的动漫团队，在动漫展览会上搭建了一个美少女卡通头像的“自动售货机”（上图）。
 
 用户付款后，可以选择一个头像，然后对头像进行发型和颜色的调整，最后打印出来，拿到头像证书。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072408.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072409.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072407.jpg)
 
 9、[运动平滑正在破坏电影](https://www.vulture.com/2019/07/motion-smoothing-is-ruining-cinema.html)（英文）
 
@@ -193,7 +193,7 @@ CGI 是“通用网关接口”的缩写，用来将任意脚本接入 Web 服�
 
 10、[如何使用 JavaScript 写一个扫雷游戏](https://mitchum.blog/how-to-build-minesweeper-with-javascript/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072504.jpg)
 
 作者讲解如何用 JavaScript 写一个网页的扫雷游戏。
 
@@ -209,25 +209,25 @@ GitHub 官方的命令行客户端。
 
 2、[Zen Flowchart](https://www.zenflowchart.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019070801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070801.jpg)
 
 简单好用的在线流程图工具。
 
 3、[autosetup](https://github.com/shubhampathak/autosetup)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019070802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070802.jpg)
 
 一个 Bash 脚本，可以在 Debian 系的发行版上，让用户通过图形界面，一次性选择所要安装的应用程序，主要用于新系统的装机。
 
 4、[foliate](https://github.com/johnfactotum/foliate)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071002.jpg)
 
 一个使用 GTK 图形框架的 Epub 桌面阅读器，只支持 Linux 系统。
 
 5、[pixelfed](https://github.com/pixelfed/pixelfed)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071003.jpg)
 
 照片分享服务 Instagram 的开源替代品，基于 ActivityPub 协议，可以与其他平台交换信息。
 
@@ -237,13 +237,13 @@ GitHub 官方的命令行客户端。
 
 7、[哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071302.jpg)
 
 这是 Mac 平台上一款智能英语输入法，可以提示单词拼写和中文解释。（@[dongyuwei](https://github.com/ruanyf/weekly/issues/672) 投稿）
 
 8、[rc-leaflet](https://github.com/Coder-JJ/rc-leaflet)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071304.jpg)
 
 一个基于 Leaflet 地图引擎的 React 地图组件库。（@[Coder-JJ](https://github.com/ruanyf/weekly/issues/675) 投稿）
 
@@ -253,7 +253,7 @@ GitHub 官方的命令行客户端。
 
 10、[那样记账](https://www.coolapk.com/apk/me.bakumon.moneykeeper)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071305.jpg)
 
 一个安卓的记账 App，有报表和图表功能，支持多个账户。（@[Chloe-Y](https://github.com/ruanyf/weekly/issues/677) 投稿）
 
@@ -273,13 +273,13 @@ GitHub 官方的命令行客户端。
 
 3、[植物画册](https://www.c82.net/twining/plants/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071005.jpg)
 
 1865年，英国著名女插画家 Elizabeth Twining 出版了二卷本的《植物画册》，包含160幅全彩色的植物插图。该网站将这160幅画都上线，可以下载。打印出来，挂在墙上是很好的装饰品。
 
 4、[简单英语指南](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071108.jpg)
 
 美国政府的官方网页，有几百条单词建议，指导你怎么写出简单的文章，不要用复杂的单词。比如说，“a 和 b 可以同时使用，也可以单独使用”，不要用`a and/or b`，而要用`a or b or both`。
 
@@ -289,7 +289,7 @@ GitHub 官方的命令行客户端。
 
 6、[今日热榜](https://tophub.today/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071303.jpg)
 
 这是一个信息聚合服务，聚合各站热点，包括微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、GitHub、华尔街见闻等，有 Web 版和 App 下载。
 
@@ -299,17 +299,17 @@ GitHub 官方的命令行客户端。
 
 下面是上个世纪90年代前期，Windows 3.1 发布之前，典型的 MS-DOS 图形界面。20多年前的大众软件就是长这个样子。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019063004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019063004.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019063005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019063005.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019063006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019063006.jpg)
 
 2、[iOS 13 的全局变量](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
 
 iOS 13 有一些非常冗长的全局变量，用于联系人标签，比如下图这个变量，长达82个字符，翻译成中文，意思是“表妹或堂妹”。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019070403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070403.jpg)
 
 ## 文摘
 
@@ -381,7 +381,7 @@ iOS 13 有一些非常冗长的全局变量，用于联系人标签，比如下�
 
 1、**秘猿科技**
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080701.png)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)
 
 区块链创业公司，为加密经济提供区块链基础设施和服务，主要产品有 Nervos、火币金融公链、CITA 等。工作地点：杭州 或者 remote。
 
@@ -400,7 +400,7 @@ iOS 13 有一些非常冗长的全局变量，用于联系人标签，比如下�
 
 去年的本周：[《周刊第 16 期》](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-16.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018080301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018080301.jpg)
 
 ## 订阅
 

@@ -4,7 +4,7 @@
 
 欢迎投稿，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113001.jpg)
 
 上周六是台北市长选举。原定下午四点结束投票，但是排队的人太多，于是改成只要四点你还在排队，就可以投票。
 
@@ -22,7 +22,7 @@
 
 1、[俄罗斯船坞沉没](https://warisboring.com/russias-giant-dry-dock-sank-with-an-aircraft-carrier-inside/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113002.jpg)
 
 10月29日，俄罗斯唯一的巨型船坞 PD-50，突然出现事故（起重机倒塌，砸在船坞上），沉没到了海底。尴尬的是，俄罗斯唯一的航空母舰“库兹涅佐夫”号正在船坞里面维修升级，它倒没有沉没，但是修到一半，船坞突然没了！
 
@@ -30,7 +30,7 @@
 
 2、[疑似外星飞船的小行星“奥陌陌”](https://www.nbcnews.com/mach/science/scientists-say-mysterious-oumuamua-object-could-be-alien-spacecraft-ncna931381)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113003.jpg)
 
 2017年底，天文学家发现了一个奇怪的小行星 Oumuamua（中文译名“奥陌陌”）。它有一个橄榄球场那么大，跟别的小行星形状都不一样，是狭长的矩形，有着奇怪的飞行轨迹，还会时不时加速。上图是它的想象图。
 
@@ -38,7 +38,7 @@
 
 3、[储能材料](https://www.chalmers.se/en/departments/chem/news/Pages/Emissions-free-energy-system-saves-heat-from-the-summer-sun-for-winter-.aspx)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113004.jpg)
 
 瑞典科学家发明了一种液态分子材料，可以储存太阳能。这种材料由碳、氢和氮分子组成，被阳光照射时，会转化为一种富含能量的异构体，即分子的排列方式会改变。
 
@@ -46,7 +46,7 @@
 
 4、[高超音速飞机](https://daily.jstor.org/the-alarming-possibilities-of-hypersonic-flight/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113005.jpg)
 
 高超音速飞机指的是飞行速度至少为音速五倍的飞机。分析家认为，特朗普政府退出《中程导弹条约》的主要目的，就是研制高超音速飞机或导弹。
 
@@ -56,13 +56,13 @@
 
 5、[Linux on Dex](https://www.linuxondex.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113006.jpg)
 
 三星公司宣布，三星手机可以启动 Linux 容器。连接显示器，就会变成 Ubuntu 桌面环境，从而在手机上达到 PC 开发的体验。目前，该技术只支持 Note9 和 Tab S4。这比手机上运行办公软件有吸引力多了。
 
 6、[新型厕所](https://www.bloomberg.com/news/articles/2018-11-06/bill-gates-aims-to-save-233-billion-by-reinventing-the-toilet)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113007.jpg)
 
 比尔盖茨在北京“新世纪厕所博览会”上表示，过去七年他的基金会投入了2亿美元，研发了20种新型厕所，可以消除人类粪便里面的病原体，将其转为清洁的水和肥料。盖茨认为，这些厕所可以挽救50万人的生命，并节省2000亿美元以上的资金。
 
@@ -76,7 +76,7 @@ Wifi 信号就是无线电波，充满整个空间。当人们移动时，他们
 
 8、[没有舷窗的飞机](https://www.abc.net.au/news/2018-06-07/would-you-travel-on-a-windowless-plane/9843722?pfmredir=sm)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113008.jpg)
 
 阿联酋航空最新飞机的头等舱，将用液晶屏幕代替舷窗。乘客看到的窗外景象，其实是摄像头拍摄的实时影像。阿联酋航空希望，未来将所有舷窗都替换掉。
 
@@ -128,7 +128,7 @@ HAProxy 是一个负载均衡服务器，自带过滤 HTTP 请求的功能，可
 
 7、[如何定制一个调色板](https://refactoringui.com/previews/building-your-color-palette/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113009.jpg)
 
 本文介绍如何为自己的应用定制一个调色板，指定各种颜色。
 
@@ -144,7 +144,7 @@ HAProxy 是一个负载均衡服务器，自带过滤 HTTP 请求的功能，可
 
 1、[console.love](https://www.console.love/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113010.jpg)
 
 很多公司会在浏览器的控制台隐藏信息，这个网站收集这类有隐藏信息的网站。
 
@@ -154,13 +154,13 @@ HAProxy 是一个负载均衡服务器，自带过滤 HTTP 请求的功能，可
 
 3、[人间乐园](https://tuinderlusten-jheronimusbosch.ntr.nl/en)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113011.jpg)
 
 [《人间乐园》](https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%96%93%E6%A8%82%E5%9C%92)是15世纪荷兰画家博斯的著名作品，该网站将这幅画进行了多级扫描，做成了类似网上地图那样可以自动移动，多级放大的版本。
 
 4、[crushcourse.club](https://crashcourse.club/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113012.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113012.jpg)
 
 Crash Course 是一个 Youtube 的教育频道。B站上面有很多翻译小组。他们组成了一个联盟防止翻译重复，并提供了索引。（@[showerc](https://github.com/ruanyf/weekly/issues/51) 投稿）
 
@@ -170,13 +170,13 @@ Prisma 公司推出的免费课程，分成基础知识、前端、后端三个�
 
 6、[登录页设计](https://cruip.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113013.jpg)
 
 登录页的各种页面设计，可以免费下载模板。
 
 7、[GraphQL 之路](https://www.robinwieruch.de/the-road-to-graphql-book/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113014.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113014.jpg)
 
 开源电子书，介绍如何使用 React.js 和 Node.js 开发 GraphQL 应用。
 
@@ -184,7 +184,7 @@ Prisma 公司推出的免费课程，分成基础知识、前端、后端三个�
 
 1、[DeOldify](https://github.com/jantic/DeOldify)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113015.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113015.jpg)
 
 老照片着色的机器学习库。
 
@@ -194,7 +194,7 @@ Prisma 公司推出的免费课程，分成基础知识、前端、后端三个�
 
 3、[HTML-notepad](https://html-notepad.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113016.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113016.jpg)
 
 一个所见即所得的轻量级、跨平台桌面笔记本，大小为 2MB。
 
@@ -208,19 +208,19 @@ Prisma 公司推出的免费课程，分成基础知识、前端、后端三个�
 
 6、[signale](https://github.com/klauscfhq/signale)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113017.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113017.jpg)
 
 一个 Node 的日志格式库，自带16个级别，可以定制颜色和 Emoji。
 
 7、[ervy](https://github.com/chunqiuyiyu/ervy)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113018.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113018.jpg)
 
 命令行打印图表的库。
 
 8、[JSCity](https://github.com/aserg-ufmg/JSCity)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113019.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113019.jpg)
 
 该工具可以将 JS 项目的源代码显示为一座城市。还有一个类似的[项目](https://github.com/rodrigo-brito/gocity)，专用于 Go 语言。
 
@@ -230,13 +230,13 @@ CSS 的 `position: sticky` 是一个很有用的设置，但是老的浏览器�
 
 10、[GoJS](https://github.com/NorthwoodsSoftware/GoJS)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113020.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113020.jpg)
 
 GoJS 是一个功能丰富的 JS 库，用于在浏览器上实现自定义交互式图表和复杂的可视化图表。 （[@nivance](https://github.com/ruanyf/weekly/issues/56) 投稿）
 
 11、[谷歌的代码托管服务](https://cloud.google.com/source-repositories/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113021.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113021.jpg)
 
 谷歌重新推出了自己的 Git 代码托管服务，可以建多个私有仓库，免费版一个仓库最多5个用户，带有自动构建和测试。
 
@@ -244,7 +244,7 @@ GoJS 是一个功能丰富的 JS 库，用于在浏览器上实现自定义交�
 
 1、[361 艇事件](https://k.sina.cn/article_5941687237_16226f3c501900763f.html?from=mil&http=fromhttp)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018113022.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113022.jpg)
 
 2003年4月26日，北海舰队下属某大队接到基地通知，在我防区有一潜艇漂浮在海面，情况不明。大队派出611和622两艘艇过去侦查。赶到出事地点――渤海和黄海交界处的内长山群岛时，天已微黑，潜艇舷号已涂死，看不出潜艇的任何情况。
 
@@ -254,7 +254,7 @@ GoJS 是一个功能丰富的 JS 库，用于在浏览器上实现自定义交�
 
 70名官兵殉职，现场没有任何伤痕，任谁都想知道、但谁也不知道361艇当时到底发生了什么？这是自人民海军组建以来最严重的一起事故。军委高层震怒，命令将361号潜艇立即拖回旅顺基地，追查事故原因。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018223023.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018223023.jpg)
 
 后来，事故调查组的通报还原了361潜艇的最后时刻。361号潜艇是常规动力潜艇，也叫做柴电潜艇，依靠柴油机和电池保证动力。电池充电需要启动柴油机，而汽柴油机需要大量氧气才能够运作。
 
@@ -304,11 +304,11 @@ create file /tmp/test.txt for input and output as test_file
 
 2017年9月26日，维基解密的创办人阿桑奇与巴塞罗那大学的学生举行视频会议。以后，政治集会大概都会是下图这样，现场与远程结合进行。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018223024.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018223024.jpg)
 
 2、[安斯库姆四重奏](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018223025.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018223025.jpg)
 
 1973年，统计学家弗朗西斯·安斯库姆（Francis Anscombe）提出了上面四个数据集，它们的平均数、方差、相关系数、线性方程式完全一致。也就是说，你从特征值上面，根本不会发现这四个数据集是完全不同的。
 
@@ -318,11 +318,11 @@ create file /tmp/test.txt for input and output as test_file
 
 英国的海岸线有多长，取决于你怎么测量。如果测量单位是 100 公里，英国海岸线长度大约2800公里。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018223026.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018223026.jpg)
 
 如果测量单位为50公里，海岸线总长度为 3400 公里，多出了600公里。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018223027.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018223027.jpg)
 
 ## 本周金句
 

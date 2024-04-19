@@ -6,7 +6,7 @@
 
 周刊讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1106)，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020020201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020020201.jpg)
 
 封面图：巴黎工艺品博物馆的前厅，有一个蒸汽动力的蝙蝠状飞行器。它建造于1897年，可以模拟蝙蝠扇动翅膀，燃料是酒精。由于动力不足，它从未飞行过，只能稍稍脱离地面。（[出处](https://www.smithsonianmag.com/travel/best-little-museum-you-never-visited-180956025/)）
 
@@ -16,11 +16,11 @@
 
 请看下面这段话，你对它留下深刻印象吗？
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031101.jpg)
 
 修改一下，是不是效果好了很多。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031102.jpg)
 
 这里不是推荐大家使用问答体，而是想要展示两个小技巧，可以快速提升表达效果。
 
@@ -32,7 +32,7 @@
 
 这次疫情的高峰看来已经过去，但是经济损失才刚刚显露。很多人受到影响，有的是收入减少，有的是接不到订单，有的是企业歇业。这种时候，财务保障就显得非常重要，个人倒还是次要的，主要是对家人的保障。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030902.jpg)
 
 去年，跟周刊多次合作过的 **孙明展** 老师联系我，希望在这里推广一下，他们谱蓝公司最新开发的《谱蓝 Pro 系统》。这是一个线上财务顾问服务，只要参与体验，都能免费获赠 **“家庭保障定制化服务”** 。
 
@@ -40,11 +40,11 @@
 
 他创立的谱蓝公司是专业的财务顾问，拥有银监会注册的保险代理资格（注册号 202764000000800），为客户提供各种保单和财务保障咨询，提供性价比高的家庭保险配置方案。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030905.jpg)
 
 《谱蓝 Pro 系统》则是通过软件，精准计算你所在地的社保缴费与领取数额，然后你通过与客服以及理财师的沟通，帮你详细梳理家庭财务报表，客观分析未来家庭资产状况，并进行规划。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030901.jpg)
 
 微信扫描关注上面的公众号 **“孙明展”**  ，然后输入 **“阮一峰 + 你的手机号码”**，就可以参加这个活动了。参加者会获赠一份价值 800元 的免费保障规划，并向理财师咨询各种保单和财务问题，防止被坑，获得客观中立的保险建议。
 
@@ -52,7 +52,7 @@
 
 1、[制造业竞争力排名](https://www.forbes.com/sites/rainerzitelmann/2019/07/15/the-leadership-secrets-of-the-hidden-champions/#4f2553de6952)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022803.jpg)
 
 很多优秀的制造业公司由于不面向大众市场，所以并不知名，只有业内人才知道。一个德国管理学教授，统计了2700多家在各行业占据全球市场前3名的制造业公司，然后以国家进行排名（上图）。
 
@@ -60,7 +60,7 @@
 
 2、[雪铁龙两座电动车](https://techcrunch.com/2020/02/27/citroen-introduces-a-two-seat-ev-that-costs-e19-99-a-month/)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022801.jpg)
 
 法国汽车公司雪铁龙推出了一种两座的电动车，作为城市交通的解决方案。这种车体型小，适合欧洲狭窄的街道，而且价格便宜，只要6000欧元（约人民币46000元），使用家用的220v插座充电3小时，就可以行驶70公里，最高时速为每小时45公里，适合城市交通。
 
@@ -68,17 +68,17 @@
 
 3、[第一种不需要氧气的多细胞生物](https://phys.org/news/2020-02-henneguya-salminicola-microscopic-parasite-mitochondrial.html)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022701.jpg)
 
 科学家发现一种多细胞生物（上图），不需要氧气就能生存，成为已知唯一的不需要氧气的多细胞生物。由于多细胞生物的能量来源是细胞内部的线粒体呼吸效应（通过氧气生成三磷酸腺苷获取能量），所以所有的多细胞生物都需要氧气。
 
 这种多细胞生物没有线粒体，因此不需要氧气。它是鲑鱼的一种寄生虫，类似于沙门氏菌。科学家猜测，它可能使用某种蛋白质从宿主体内窃取能量。下图是它的 DNA（蓝色圆圈），看不到线粒体。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022702.jpg)
 
 4、[美国 IT 行业的收入](https://www.bloomberg.com/news/articles/2020-02-24/seattle-tech-employees-earn-56-more-than-nyc-finance-workers)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022501.jpg)
 
 根据美国劳工统计局的数据，2019年第三季度，美国的平均周薪是1093美元，但是西雅图地区的 IT 从业者的收入是这个金额的五倍，平均5,367美元，或每年约279,000美元（包含奖金和期权）。西雅图是微软和亚马逊总部所在地。
 
@@ -86,13 +86,13 @@
 
 5、[静脉投影仪](http://news.workercn.cn/32846/202003/07/200307081252899.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030704.jpg)
 
 静脉注射时，可能很难准确找到静脉的位置。有时针头扎错地方，还必须重新扎一次，增加了患者的痛苦。西安一家科研机构，研制出红外线血管成像仪，利用血管中血红蛋白对近红外光的吸收率与其他组织不同的原理，将皮下血管原位投影显示在皮肤表面，使医护人员能够清晰识别患者皮下8-10毫米的细微血管。
 
 该设备可以解决医护人员在静脉注射过程中血管评估不准确、穿刺点选择不当，继而造成药物外渗或血管损伤等问题。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030705.jpg)
 
 6、**一句话消息**
 
@@ -100,23 +100,23 @@
 
 > - [国际田联](https://www.thestreet.com/investing/nike-rivals-gain-amid-reports-vaporfly-shoes-face-iaaf-ban)打算禁止耐克公司的 Vaporfly Next 跑鞋。肯尼亚选手就是穿这种鞋，马拉松成绩跑进了二小时。据说，该鞋可以提供更好的弹力。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011703.jpg)
 
 > - [一家硅谷创业公司](https://www.theverge.com/2020/1/16/21067683/mojo-smart-contact-lens-augmented-reality-startup)提出智能隐形眼镜，这种眼镜其实是一个眼球前面的显示器，将外界影像对着眼球播放，眼镜里面还含有电池。目标用户是弱视和视力障碍人士。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011701.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011702.jpg)
 
 > - [谷歌公司](https://summerofcode.withgoogle.com/)的 Summer of Code 比赛，3月17日向全世界的学生开放报名，参赛者在指定的开源软件项目上提交代码。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031002.jpg)
 
 > - [欧盟](https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL)正在考虑公共场所禁止面部识别技术，暂时定为五年。这段时间用来研究如何防止滥用这种技术。
 
 > - [布鲁金斯学会](https://www.brookings.edu/blog/the-avenue/2019/11/21/low-wage-work-is-more-pervasive-than-you-think-and-there-arent-enough-good-jobs-to-go-around/)统计发现，美国44%的工人是低薪，年收入中位数约为1.8万美元。这就是说，即使你在美国找到了工作，将近一半的可能还是在贫困线挣扎。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011402.jpg)
 
 ## 文章
 
@@ -130,7 +130,7 @@ YAML 格式虽然简洁，但是语法规则有很多复杂的地方。这个 St
 
 3、[Wacom 绘图板如何追踪我的行为](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020020706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020020706.jpg)
 
 作者发现 Wacom 绘图板这样的鼠标类工具，居然在追踪用户行为，把用户的每一次点击发回服务器。本文介绍他如何破解 Wacom 发送的 HTTPS 请求。
 
@@ -148,7 +148,7 @@ YAML 格式虽然简洁，但是语法规则有很多复杂的地方。这个 St
 
 7、[我如何配置一台 Linux 桌面电脑](https://blog.alexellis.io/building-a-linux-desktop-for-cloud-native-development/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020020303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020020303.jpg)
 
 作者详细记录了架设自己的 Linux 桌面电脑的过程，包括如何选购硬件和安装软件。
 
@@ -162,7 +162,7 @@ YAML 格式虽然简洁，但是语法规则有很多复杂的地方。这个 St
 
 10、[家用太阳能可以维持一个网站吗？](https://www.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020013003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020013003.jpg)
 
 作者把网站架设在一个树莓派上，电力完全来自太阳能。他在自家阳台铺设太阳能板，并使用一个168瓦的电池，网站在线率可以达到98.2%。他由此得到结论，如果提高电池容量，纯太阳能完全可以支持一个个人网站。
 
@@ -186,7 +186,7 @@ YAML 格式虽然简洁，但是语法规则有很多复杂的地方。这个 St
 
 5、[AltSearch](https://altsearch.org/)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020012201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020012201.jpg)
 
 一个谷歌网页搜索的替代品，没有隐私跟踪，无广告。
 
@@ -196,9 +196,9 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 7、[Nototo](https://www.nototo.app/)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011902.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011903.jpg)
 
 一个思路很新颖的笔记软件，以可视化的方式做笔记，目前只有 Web 版。一条笔记就是新建一块地，一个目录就是新建一个岛屿，打标签就是新建建筑物。
 
@@ -212,7 +212,7 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 10、[Rete.js](https://github.com/retejs/rete) 
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011508.jpg)
 
 一个网页可视化编程框架，带有节点编辑器。
 
@@ -244,17 +244,17 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 九龙城寨是香港一个已经拆除的居民区，曾是世界上人口密度最高的地区。它的占地并不大，只有70亩，跟一个现在的大型楼盘差不多。但是，有350座建筑物，几乎全部都是10到14层，有8,500间房屋，1万户家庭和3.3万居民。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011003.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011001.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011004.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011002.jpg)
 
 1987年，香港政府决定拆除九龙城寨，1993年完全拆光，1995年8月于遗址建成九龙城寨公园。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011005.jpg)
 
 2、[天然拱桥协会](https://www.naturalarches.org/big9.htm)
 
@@ -262,9 +262,9 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 根据该协会的统计，世界上跨度超过200英尺（61米）的天然拱桥有19座，其中9座在中国。世界跨度最大的是广西天峨县的仙人桥，跨度177米。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020020202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020020202.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020020203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020020203.jpg)
 
 ## 文摘
 
@@ -274,7 +274,7 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 中国的第一条铁路是1876年（光绪二年），英国怡和洋行擅自铺设的吴淞铁路（上海～吴淞），全长14.5公里。清政府和民众对铁路都非常恐惧，清政府很快以28万5千两白银买下这条铁路，然后拆毁。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031103.jpg)
 
 （图片说明：群众围观闸北至江湾段的吴淞铁路。）
 
@@ -284,7 +284,7 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 李鸿章采纳这个建议，上报朝廷批准，兴建从唐山至胥各荘的铁路。但是，他知道朝廷不会同意的，于是加了一条说明，该铁路没有火车头，都以驴马拖载。朝廷这才准许。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031104.jpg)
 
 1881年11月8日，全长9.7公里的唐胥铁路通车，这是中国的第二条铁路，也是中国自己修建的第一条铁路。不过，令中国人脸红的是，这条铁路上的列车都是用马拉的，时人称之为“马车铁路”！
 
@@ -298,7 +298,7 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 若宫雅子（Makoko Wakamiya）生于1936年，今年84岁。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112407.jpg)
 
 1993年，她58岁时从银行退休，银行送她一台个人计算机。这是她的第一台计算机。退休后，她大部分时间用来照顾母亲，不过也自学如何使用计算机。。
 
@@ -308,7 +308,7 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 她请宫城县的一家 App 开发公司的总裁来制作游戏。这是她在2011年3月日本地震灾区重建时认识的志愿者。那个年轻人对她说：“我建议您自己开发，可以吗？” 她同意了，开始在神奈川县的家中学写程序，并通过 Skype 向他请教。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112406.jpg)
 
 2017年，这款游戏发布了，《朝日新闻》报道了这个消息。CNN 看到了报道，向她发送了一封包含约20个问题的英文电子邮件，要求进行书面采访。她使用谷歌翻译把答复发送回去了，她的故事就出现在美国媒体上。
 
@@ -316,13 +316,13 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 她就这样应邀参加了苹果公司的年度全球开发商大会。大会举行的前一天，她在加利福尼亚州圣何塞遇到了库克。库克特别抽出时间跟她聊天，观看她的 iPhone 和她开发的 App。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112404.jpg)
 
 库克问她会不会觉得 iPhone 字体太小，她说由于 iPhone 屏幕很小，换成更大的字符，文字和图案可能会不协调。库克还问她，能不能把游戏移植到 iPad。最后，库克说与她聊天真是鼓舞人心。告别的时候，他拥抱了一下若宫雅子。
 
 第二天的大会上，库克请她走上舞台，向全世界介绍年纪最大的 App 开发者。一起走上舞台的，还有一个来自澳大利亚的10岁男孩。苹果公司借此暗示 App 开发者的多样性，不分种族、性别和年龄。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112405.jpg)
 
 若宫雅子对新闻媒体说，随着人类的年龄迈向100岁，老年人需要重新学习，财务和 IT 技术的学习尤其重要。
 
@@ -372,7 +372,7 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 去年的本周：[《周刊第 47 期》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019031501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019031501.jpg)
 
 ## 订阅
 

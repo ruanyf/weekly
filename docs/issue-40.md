@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011801.jpg)
 
 我知道一个朋友，他很喜欢咖啡。
 
@@ -20,7 +20,7 @@
 
 1、[最大的质数](https://www.npr.org/2018/12/21/679207604/the-world-has-a-new-largest-known-prime-number)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011802.jpg)
 
 17世纪时，法国修道士梅森（Marin Mersenne）提出了一个质数计算公式：2^n - 1，称为梅森公式。符合该公式的质数，就称为梅森质数。比如，2的3次方等于8，8减1等于7，7就是梅森质数。
 
@@ -28,7 +28,7 @@
 
 2、[食品味道不是专利](https://www.bbc.com/news/world-europe-46193818)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011803.jpg)
 
 欧洲一家奶酪公司起诉另一家奶酪公司，声称后者的奶酪口味跟自己太像，侵犯了版权。法院最近裁决，食物的味道不受版权保护。
 
@@ -36,7 +36,7 @@
 
 3、[长波电台的授时服务](https://www.voanews.com/a/time-may-be-running-out-for-millions-of-clocks/4554376.html)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011804.jpg)
 
 美国政府宣布，打算关闭三个 60KHz 的长波电台，两个在科罗拉多州，一个在夏威夷州。上图为发送长波信号的天线。
 
@@ -44,19 +44,19 @@
 
 4、[机器裁判](https://spectrum.ieee.org/tech-talk/computing/software/fujitsu-plans-to-support-professional-judges-with-lidar-and-ai-at-gymnastics-meets)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011805.jpg)
 
 日本富士通公司使用激光雷达和人工智能软件，开发了一套体操的裁判系统，用来取代人工裁判。
 
 体操有大量的翻转和跳跃，还有很多细节，比如膝盖和肘部弯曲的角度。裁判按照自己的判断打分，常常引起争议。国际体操协会已同意将这套激光雷达系统纳入2019年世界锦标赛，以帮助裁判评估运动员的表现，同时计划到2020年实现全面自动化评分。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011806.jpg)
 
 这套系统通过激光雷达的反射信号，捕捉运动员的身体运动，在屏幕上显示体操运动员身体轮廓的三维图像。然后使用软件，找出各种关节（肘部，膝盖和肩部），这样就可以判断谁旋转的角度更大、难度更高。
 
 5、[气候变暖已经无法阻止](https://www.theguardian.com/environment/2018/dec/02/world-verge-climate-catastophe)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011807.jpg)
 
 2018年的联合国气候大会认为，气候变暖可能已经不可逆转了。我们无法将全球气温上升控制在1.5摄氏度以下，海水上升、珊瑚礁毁灭、沙漠扩散、冰川融化都无法避免了。
 
@@ -64,7 +64,7 @@
 
 6、[穿越南极大陆](https://www.wweek.com/news/2018/12/26/portland-man-becomes-the-first-person-to-cross-antarctica-without-assistance/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011808.jpg)
 
 33岁的美国人科林·奥布拉迪（Colin O&#x27;Brady）成为历史上第一个自力穿越南极大陆的人。他没有借助任何外力，比如机器、雪橇犬、风力，所有装备都放在一个雪橇上，重达170公斤。
 
@@ -72,7 +72,7 @@
 
 7、[瞳孔里的面孔](http://www.kurzweilai.net/reflected-hidden-faces-in-photographs-revealed-in-pupil)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011809.jpg)
 
 现在的很多手机摄像头，能拍出4000万像素的图片。这么高的分辨率，可以从照片里面人物的瞳孔，提取出该人看到的人脸。
 
@@ -80,7 +80,7 @@
 
 8、[智能校服](https://wallstreetcn.com/articles/3459044)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011810.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011810.jpg)
 
 [《环球时报》英文版](http://www.globaltimes.cn/content/1132856.shtml)12月20日报道，贵州仁怀市第十一中学于2016年秋季开始使用“智能校服”，这款智能校服由贵州冠宇科技有限公司开发，其肩部位置植入了两块追踪芯片，可以实时定位到学生的位置。目前该所学校已有超过800名学生穿着这款智能校服。
 
@@ -136,13 +136,13 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 8、[电话键盘与计算器键盘为什么不同？](https://thenextweb.com/syndication/2018/12/31/heres-why-telephones-and-calculators-use-different-numeric-keypads/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011811.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011811.jpg)
 
 左侧是电话的拨号键盘，右侧是计算机的输入键盘，它们的排列方式为何不同？
 
 9、[我如何搭建家庭机房](https://blog.networkprofile.org/6-year-homelab-history-in-pictures/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011812.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011812.jpg)
 
 作者回顾了六年来自己在家里搭建机房的过程，有大量图片。
 
@@ -166,7 +166,7 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 4、[《几何原本》在线版](https://www.c82.net/euclid/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011813.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011813.jpg)
 
 在线还原1847年的欧几里得《几何原本》的彩色版本。（@[arbeitandy](https://github.com/ruanyf/weekly/issues/165) 投稿）
 
@@ -180,7 +180,7 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 7、[Python 算法与数据结构](http://interactivepython.org/runestone/static/pythonds/index.html)（第二版）
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011814.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011814.jpg)
 
 开源教程《Problem Solving with Algorithms and Data Structures Using Python》。网上有网友翻译的[中文版](https://github.com/facert/python-data-structure-cn)。
 
@@ -196,25 +196,25 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 3、[Steward](https://github.com/solobat/Steward)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011815.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011815.jpg)
 
 一个类似 Alfred 的浏览器内的命令起动器，支持 Chrome / Firefox 两种浏览器。（@[solobat](https://github.com/ruanyf/weekly/issues/134) 投稿）
 
 4、[Debucsser](https://github.com/lucagez/Debucsser)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011816.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011816.jpg)
 
 一个用于 CSS 的调试库，鼠标悬浮的时候，网页会显示区块的 CSS 信息。
 
 5、[Comixify](https://comixify.ii.pw.edu.pl/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011817.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011817.jpg)
 
 一个波兰团队做了非常好玩的工具，可以把视频自动转成漫画，上图是他们提供的 demo，效果很棒。
 
 6、[Command-Cache](https://github.com/SkrewEverything/Command-Cache)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011818.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011818.jpg)
 
 一个桌面软件，可以搜索命令行的操作历史，只在 Mac 和 Linux 上可用。
 
@@ -228,7 +228,7 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 9、[devhub](https://github.com/devhubapp/devhub)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011819.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011819.jpg)
 
 将 GitHub 动态以 TweetDeck 形式展示的开源工具。
 
@@ -238,7 +238,7 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 11、[Google Earth Studio](https://www.google.com/earth/studio/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011820.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011820.jpg)
 
 谷歌官方推出的使用 Google Earth 制作 3D 动画的工具。
 
@@ -252,7 +252,7 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 冷战时期，美国航天飞机成功以后，苏联决定模仿开发自己的航天飞机，1980年开始建造。苏联航天飞机的第一次、也是唯一一次飞行是在1988年11月15日，该次飞行成功完成。但是这时，冷战已经接近尾声。俄罗斯总统鲍里斯·叶利钦最终于1993年6月30日取消了航天飞机的发展计划。苏联解体后，根本没有资金让它继续发展下去。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011822.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011822.jpg)
 
 （上图为1988年11月苏联航天飞机唯一一次发射。）
 
@@ -278,11 +278,11 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 （5）Medium 的阅读体验已经变得糟糕。以前读者打开文章，看到的是下面的样子。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011824.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011824.jpg)
 
 现在，看到的是下面这样。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011825.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011825.jpg)
 
 3、[伐木工人的儿子](https://threadreaderapp.com/thread/1081619342377156608.html)
 
@@ -290,7 +290,7 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 高中毕业后，他去了当地的爱达荷大学，学习机械工程。因为家里没钱，他不得不在假期里面做了4年的伐木工作，赚到学费。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011826.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011826.jpg)
 
 大学毕业后，他来到加利福尼亚州，加入了一家传统的航天公司——休斯公司，工作了15年，成为了该公司 TR-106 火箭的首席工程师。TR-106 是航天工业有史以来制造的最强大的火箭之一。
 
@@ -302,17 +302,17 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 1、[人口山](https://pudding.cool/2018/12/3d-cities-story/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011827.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011827.jpg)
 
 如果将人口的聚集状况，以柱状图叠加在地图上，就形成了“人口山”。上图是中国的人口山地图。下图是美国东北部的人口山。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011828.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011828.jpg)
 
 2、[Logo 的改变](https://boingboing.net/2018/12/13/interesting-logos-are-being-re.html)
 
 下图上排是以前的logo，下排是现在的logo。各公司都不约而同，选择了加粗的直线式无衬线字体，这样是为了更醒目、辨识度更高吗？
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011829.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011829.jpg)
 
 网友 [@chun1iu](https://twitter.com/chun1iu/status/1073423775469686785) 评论：“不是更加醒目，而是更加中庸，更容易被所有人接受。不会很喜欢，也不会很反感，就是很大众。这些公司的成长过了标新立异的阶段而已。”
 
@@ -320,13 +320,13 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 1984年，Macintosh 电脑发布。现在，有人把第一版的用户手册扫描，放到了网上。该手册专门用一章，介绍配套的便携包，强调 Macintosh 可以随身携带。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011830.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011830.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011831.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011831.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011832.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011832.jpg)
 
 ## 本周金句
 

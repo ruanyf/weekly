@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011101.jpg)
 
 新年的1月2日，苹果公司发布了一份[公开信](https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/)，长达1400字。主要内容是，由于大中华市场的销售额下滑，该公司预计2019年第一季度，收入会低于预期7%。
 
@@ -26,7 +26,7 @@
 
 1、[Duck.com](https://www.theverge.com/2018/12/12/18137369/duckduckgo-duck-com-google-acquisition)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011102.jpg)
 
 谷歌同意将其拥有的域名 duck.com，转让给搜索引擎 duckduckgo.com。现在访问 duck.com，就会自动跳转到后者。这笔域名交易的金额没有宣布。
 
@@ -34,7 +34,7 @@
 
 2、[数字驾照](https://spectrum.ieee.org/the-human-os/biomedical/devices/louisiana-bars-accept-digital-drivers-licenses)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011103.jpg)
 
 美国路易斯安娜州开始采用数字驾照。用户下载一个 App，输入自己的物理驾照的信息，然后 App 会将这些信息提交到州政府的机动车辆数据库进行验证。通过验证，App 就会生成一个二维码。
 
@@ -42,7 +42,7 @@
 
 3、[脑电波控制电脑](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204566)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011104.jpg)
 
 斯坦福大学的科学家将电极植入瘫痪病人的大脑皮层，接受脑电波，转为数字信号，控制无线蓝牙鼠标，操作平板电脑。参与实验的患者，可以使用常见程序（网页浏览、电子邮件、聊天、发送短信等）。
 
@@ -50,7 +50,7 @@
 
 4、[发电的衣服](https://techxplore.com/news/2018-12-flea-sized-solar-panels-embedded-mobile.html)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011105.jpg)
 
 诺丁汉大学发明了一种微型太阳能电池，每个发电单元的长度为3毫米，宽度为1.5毫米，可以嵌入纱线，进而编织成服装，使得后者具备发电功能，而且肉眼还看不出任何差别。电池封装在树脂之中，所以纺织品可以进行洗涤，也不怕磨损。
 
@@ -58,7 +58,7 @@
 
 5、[拯救虎鲸](https://www.theguardian.com/us-news/2018/dec/14/orcas-washington-state-killer-whales)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011106.jpg)
 
 美国华盛顿州的州长提出，为了拯救当地太平洋沿岸的虎鲸，计划改善它们的生存环境，三年内暂停出海观鲸，并且拆除两座内河的水坝，以便鲑鱼回流到海里，为虎鲸提供食物。整个计划约耗资10亿美元。
 
@@ -66,7 +66,7 @@
 
 6、[第三代 GPS 卫星](https://phys.org/news/2018-12-next-generation-gps-satellites-space.html)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011107.jpg)
 
 12月18日，第三代 GPS 卫星的第一颗由 SpaceX 公司发射上天。最终，全部32颗 GPS 卫星都会更新，取代目前在轨道上的旧卫星，预计最快2022年完成，耗资超过100亿美元。
 
@@ -74,7 +74,7 @@
 
 7、[下水道盖子作为无线发射基地](https://spectrum.ieee.org/tech-talk/telecom/wireless/manhole-covers-serve-as-antennas-expanding-network-coverage)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011108.jpg)
 
 5G 通信的频率（3300-3600MHz 和 4800-5000MHz）比 4G （1880-1900MHz、2320-2370MHz、2575-2635MHz）高很多。频率越高，覆盖能力越差，这注定很多角落收不到 5G 信号，所以需要修建更多的信号发射装置。
 
@@ -82,17 +82,17 @@
 
 8、[无人送货车](https://www.detroitnews.com/story/business/autos/mobility/2018/12/18/unmanned-grocery-delivery-underway-arizona/38762315/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011109.jpg)
 
 美国亚利桑那州最大超市，开始启用无人送货车，自动将面包、牛奶、鸡蛋等，送到用户的家中。该车没有方向盘，没有窗户，也没有司机的座位，不能用于载人。
 
 客户在手机或电脑上下订单后，超市就会安排送货，并用短信通知客户。一旦车辆到达，客户将收到打开车门的密码。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011110.jpg)
 
 9、[德国最后的煤矿](https://www.bloomberg.com/news/articles/2018-11-30/germany-closes-last-coal-mine-despite-decades-of-supplies-needed)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011111.jpg)
 
 2018年底，德国最后一个煤矿宣布关闭，此后德国所需的煤炭将全部依赖进口。德国政府为了向清洁能源转型，取消了煤矿补贴。失去了政府补贴以后，煤矿无法生存下去，因此选择关门。1400名煤矿工人将接受再就业培训。
 
@@ -108,7 +108,7 @@
     
 * [上海奉贤区](https://mp.weixin.qq.com/s?__biz=MzA4NzA4OTczNg%3D%3D&abtest_cookie=BAABAAgACgALABQABACehh4AJpceAFeZHgCbmR4AAAA%3D&ascene=56&chksm=b4b5f50483c27c1231e9f1e1bf81311e268da830ae9cd2ae337e62a7f5a0ad0208965876d149&devicetype=android-25&idx=1&lang=zh_CN&mid=2709512739&nettype=ctnet&pass_ticket=%2Fi4wZEgfJ7b0l0%2F0U%2FbF6ESc7jLtC16sVeQuygfJXVYVo226G4wxSgsBQHibuTLy&scene=90&sessionid=1544838845&sn=83cdfb49fcb0b8020cc37f01306b6a03&version=2607033c&wx_header=1)在闹市路口，设置了类似地铁的屏障门。红灯时关门，绿灯时开门，门上也会有灯光提示。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011112.jpg)
 
 ## 教程
 
@@ -150,7 +150,7 @@ fx 可以方便地在命令行操作 JSON 数据，本文是 fx 用法的教程�
 
 10、[我如何做日本糖果的邮寄服务？](https://www.starterstory.com/stories/starting-a-japanese-candy-subscription-service)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011113.jpg)
 
 一个芬兰程序员搬到日本，介绍他如何创造一个向全世界邮寄日本糖果的服务，从而赚到自己在日本的所有生活费。
 
@@ -158,7 +158,7 @@ fx 可以方便地在命令行操作 JSON 数据，本文是 fx 用法的教程�
 
 1、[火星全景照片](https://www.360cities.net/sets/curiosity-mars)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011114.jpg)
 
 该网站提供美国的好奇号火星车拍摄的多张火星全景照片，各种不同的地貌，可以360度旋转观看。
 
@@ -194,13 +194,13 @@ Linux 命令的搜索入口，提供中文解释。（@[jaywcjlove](https://gith
 
 2、[Source Player](https://circleapps.co/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011116.jpg)
 
 国人开发的 macOS 视频播放器，特点是点击文本字幕，会显示英语单词的中文解释，英语学习者的小帮手。
 
 3、[tabulator](https://github.com/olifolkerd/tabulator)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011117.jpg)
 
 一个生成网页互动表格的 JS 库，提供很多功能。
 
@@ -210,7 +210,7 @@ Linux 命令的搜索入口，提供中文解释。（@[jaywcjlove](https://gith
 
 5、[jerverless](https://github.com/jerverless/jerverless)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011118.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011118.jpg)
 
 jerverless 是一个 Web 服务器，可以将任何语言的程序转为 Serverless 函数，从网络调用。它会把源程序放在 Docker 容器里面运行，然后提供 Web 接口与用户通信。
 
@@ -262,7 +262,7 @@ Puppeteer 现在不仅封装 Chrome，还开始封装 Firefox 了，API 完全�
 
 科学家认为，肉鸡实际上是人工设计的物种，使其适合人类的食物消费，让它成为地球上数量最多的陆生脊椎动物。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011120.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011120.jpg)
 
 3、[什么是音频压缩？](https://www.soundonsound.com/techniques/what-data-compression-does-your-music)
 
@@ -282,7 +282,7 @@ MP3 格式可以把每秒钟的数据量压缩到 128kbps（即 16KB），一分
 
 1、[黑猩猩肖像](http://franknoelker.com/collection/chimp-portraits)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011121.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011121.jpg)
 
 Pepper 是一只1970年出生在实验室的大猩猩，她一直被用于医学研究，曾经307次被麻醉枪击倒，36次肝脏活检，1次开放式肝脏活组织检查，6次宫颈活检，10次淋巴结活检和4次骨髓活检，还被接种了艾滋病病毒。由于恐惧和焦虑，她在实验室生活的后期曾经拒绝饮食，宁愿饿死。
 
@@ -292,27 +292,27 @@ Pepper 是一只1970年出生在实验室的大猩猩，她一直被用于医学
 
 2、[珍珠宫](https://yomadic.com/shams-palace-iran-tour/)（组图）
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011122.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011122.jpg)
 
 珍珠宫是上个世纪70年代，伊朗革命爆发之前，美国建筑师为伊朗国王的妹妹设计的住所，具有未来主义风格，如今已成废墟。本文是珍珠宫的介绍 + 照片。上图是整个建筑的模型，下图是室内游泳池。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011123.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011123.jpg)
 
 3、[AI 的进化](https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842)
 
 2014年，人工智能已经可以生成人脸，但你可以很容易看出哪几张是机器生成的。下图都是那时人工智能生成的人脸。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011124.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011124.jpg)
 
 2018年，AI 生成的人脸，就不太容易跟真实的人脸区分了。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011125.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011125.jpg)
 
 ## 新奇
 
 1、[智能狗屋](https://www.nytimes.com/2019/01/01/us/kansas-city-smart-technology.html)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019011126.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011126.jpg)
 
 美国创业公司 Dogspot 推出了一款智能狗屋，配备了摄像头和温度控制装置，可以用手机查看，遥控开门和关门。它可以方便人们逛商场或者上瑜伽课的时候，把宠物放在里面。
 

@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081802.jpg)
 
 新加坡南洋理工大学的学习中心大楼，有56间智能教室，可以让学生们进行小组活动。这栋楼的垂直绿化与阶梯式阳台，让它像一个花园，同时也减少了太阳光照带来的热量。（[via](https://www.instagram.com/p/CCa2SrYnZR0/)）
 
@@ -20,7 +20,7 @@
 
 这已经是一种趋势了，头部互联网公司的估值都非常高。即将上市的支付宝，市值也几乎肯定超过中国工商银行，后者是世界最大银行。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082601.jpg)
 
 这里不讨论这种现象的原因，以及它是否合理。我只想谈谈这样的现实意味着什么。
 
@@ -52,29 +52,29 @@
 
 课程中，前端专家会剖析大厂面试流程，建立知识体系，梳理关键知识点，让你更高效更全面地进行面试准备，顺利拿到 offer。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082608.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082608.jpg)
 
 只需扫描下图二维码，进群领取优惠券，0.02元即可报名该课程。前100位进群的同学，再送价值98元的《面试高频考点专题课》。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082607.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082607.jpg)
 
 ## 资讯
 
 1、[透明厕所](https://www.theguardian.com/world/2020/aug/18/loo-with-a-view-transparent-public-toilets-installed-in-tokyo-parks)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081904.jpg)
 
 日本东京涩谷区的公园内，最近安装了第一批五个透明厕所。这是由普利兹获奖建筑师设计的，它采用有色的“智能玻璃”，没人时是透明的，当被占用时（门锁上后），它们会变得不透明。
 
 设计师说，透明厕所可以让人们一眼看到内部是否干净，以及有没有人在里面。另外，晚上这些厕所像美丽的灯笼一样照亮公园。根据计划，明年春季之前还会在涩谷的17个地点安装这种厕所。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081905.jpg)
 
 2、[空气压缩储能电站](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081906.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081907.jpg)
 
 加拿大一座废弃的盐矿，最近改造成了世界第一个零排放的空气压缩储能电站。夜间，多余的电能将空气压缩在地下的矿井；白天，当电网需要电力时，再打开阀门让压缩空气跑出来，推动涡轮机发电。
 
@@ -82,9 +82,9 @@
 
 3、[冷管降温](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082204.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082205.jpg)
 
 全球天气越来越热，空调正成为必不可少的日用品。但是，空调的耗能非常大，科学家一直在寻找其他降温方案，加拿大不列颠哥伦比亚大学最近就开发了一种“冷管”系统（Cold Cube）。
 
@@ -92,45 +92,45 @@
 
 4、[最勤奋的回答者](https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082403.jpg)
 
 StackOverflow 是全世界的最大程序员问答网站，每回答一个问题，都可以获得积分。本月，该网站出现了第一个突破100万积分的会员。这个叫做 Gordon Linoff（用户名 Jon Skeet）的人，给出了惊人的71,903个答案。
 
 他是2012年注册的，平均每天回答22.8 次。根据问题的标签，他主要回答 C＃、.NET 和 Java 的问题。这是否也意味着，这几个领域的问题特别多？
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082402.jpg)
 
 5、[墨尔本的奇怪摩天大楼](https://www.gizmodo.com.au/2020/08/we-tracked-down-the-person-responsible-for-the-flight-simulator-melbourne-monolith/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082610.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082610.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082314.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082314.jpg)
 
 微软公司的飞行模拟软件《Microsoft Flight Simulator》最近上市，很多用户惊奇地发现，在这个软件中，澳大利亚城市墨尔本郊区的田野之中，居然耸立着一座212层的摩天大楼（上图）！
 
 这个软件完全是实景模拟，所以大家都很奇怪，这座不存在的摩天大楼从何而来？调查以后才发现，软件数据来自微软的 Bing 地图，而 Bing 地图又复制了开源地图 OpenStreetMap 的数据。在 OpenStreetMap 中，志愿者提交数据时，不小心将这栋两层楼的建筑输错为212层（下图）。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082313.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082313.jpg)
 
 6、**一句话消息**
 
 > - [智利科学家](https://phys.org/news/2020-08-genome-comparison-insight-penguin-evolution.html)经过收集全世界各地企鹅的基因，确认企鹅起源于澳大利亚和新西兰凉爽的沿海地区，而不是寒冷的南极洲。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082001.jpg)
 
 > - [英国科学家](https://www.theguardian.com/environment/2020/aug/05/throng-of-new-penguin-colonies-in-antarctica-spotted-from-space?CMP=oth_b-aplnews_d-1)通过卫星照片，使用人工智能算法，新发现了13个南极帝企鹅的居住地。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081303.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081304.jpg)
 
 > - [德国环境部](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)计划通过一部新法律，降低全国的灯光，禁止探照灯和空中聚光灯，目的是提供夜间黑暗的环境，保护昆虫，应对昆虫数量的急剧减少。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080702.jpg)
 
 > - [加勒比海岛国巴巴多斯](https://www.insider.com/work-remote-live-caribbean-barbados-new-visa-2020-7)推出了远程工作签证，只要2000美元申请费，没有其他条件，就可以到那里远程办公一年。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082404.jpg)
 
 > - [美国政府](https://www.theverge.com/2020/8/26/21402274/white-house-ai-quantum-computing-research-hubs-investment-1-billion)宣布，提供10亿美元资助人工智能和量子计算的研究。
 
@@ -142,7 +142,7 @@ StackOverflow 是全世界的最大程序员问答网站，每回答一个问题
 
 2、[如何用神经网络玩超级马里奥兄弟](https://chrispresso.github.io/AI_Learns_To_Play_SMB_Using_GA_And_NN)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082201.jpg)
 
 作者展示了如何用 Python 写一个神经网络模型，自动玩超级马里奥兄弟，可以很清晰地看懂他的算法，就是将游戏画面转化成一帧帧的像素网格（注意下图两侧画面的对比），根据网格的变化，程序自动做出反应。
 
@@ -156,13 +156,13 @@ StackOverflow 是全世界的最大程序员问答网站，每回答一个问题
 
 5、[如何在谷歌云安装 Pi-Hole](https://medium.com/@devinjaystokes/how-to-set-up-a-pi-hole-ad-blocking-vpn-server-on-google-clouds-always-free-usage-tier-ff1d8a8c407e)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082308.jpg)
 
 一篇非常详细的教程，一步步教你在谷歌云上安装 Pi-Hole，自己搭建一个 DNS 服务器，能够屏蔽广告。
 
 6、[凭借中国一国之力能搞出光刻机吗？](https://news.sina.cn/gn/2020-08-21/detail-iivhvpwy2190590.d.html)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082310.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082310.jpg)
 
 芯片生产的核心设备是光刻机，目前只有荷兰 ASML 能生产，中国自己能搞出来吗？
 
@@ -172,7 +172,7 @@ Firebase 是谷歌的实时数据库服务，本文是一个详细教程，通�
 
 8、[使用 Safari Web Share API 窃取本地文件](https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082603.jpg)
 
 本文介绍如何在苹果设备上，利用 Safari 浏览器的 Web Share API 在用户不知情的情况下，将本地文件分享出去。
 
@@ -180,13 +180,13 @@ Firebase 是谷歌的实时数据库服务，本文是一个详细教程，通�
 
 1、[Ventoy](https://www.ventoy.net/cn/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082301.jpg)
 
 一个制作可启动U盘的开源工具。
 
 2、[Songwhip](https://songwhip.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082401.jpg)
 
 一个音乐搜索引擎，特点是搜索歌曲可以返回各大影音平台的链接，支持中文歌曲搜索。
 
@@ -196,7 +196,7 @@ Firebase 是谷歌的实时数据库服务，本文是一个详细教程，通�
 
 4、[运维外挂脚本](https://github.com/eryajf/magic-of-sysuse-scripts)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082406.jpg)
 
 一个服务器运维脚本，把重复性较多的一些工作都集成在里面，方便使用。（[@eryajf](https://github.com/ruanyf/weekly/issues/1384) 投稿）
 
@@ -210,7 +210,7 @@ Firebase 是谷歌的实时数据库服务，本文是一个详细教程，通�
 
 7、[ztext.js](https://bennettfeely.com/ztext/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082701.jpg)
 
 这个 JS 库可以将任何字体变成 3D 效果，支持中文。
 
@@ -222,7 +222,7 @@ Firebase 是谷歌的实时数据库服务，本文是一个详细教程，通�
 
 1、[CSS 渐变魔法](https://www.gradientmagic.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081701.jpg)
 
 该网站收集各种 CSS 渐变图像，可以复制到自己的项目。
 
@@ -232,7 +232,7 @@ Firebase 是谷歌的实时数据库服务，本文是一个详细教程，通�
 
 3、[不可能的几何形状](https://im-possible.info/english/library/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081902.jpg)
 
 该网站收集各种不可能的几何形状图片，目前已经有两千多张了。
 
@@ -254,15 +254,15 @@ Firebase 是谷歌的实时数据库服务，本文是一个详细教程，通�
 
 日本富山县有一条高速公路。冬天下雪时，积雪有时厚达几米。扫除路上的积雪以后，就形成了公路两边有雪墙的奇特景象。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082510.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082510.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082511.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082511.jpg)
 
 为了保证道路通畅，每逢大雪，数百名除雪车司机的团队就会通宵工作。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082512.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082512.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082513.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082513.jpg)
 
 近年来，气候变暖。以后日本大雪的冬季，可能就会比较少见。
 
@@ -276,7 +276,7 @@ Firebase 是谷歌的实时数据库服务，本文是一个详细教程，通�
 
 X 公司每年需要向 Y 公司支付很大一笔知识产权许可费用，导致它的利润为零，所以就不用缴税了。而 Y 公司由于注册在开曼群岛，即使有很大一笔利润，也不用缴税。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082509.jpg)
 
 2、[肉鸡的由来](https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken)
 
@@ -290,11 +290,11 @@ X 公司每年需要向 Y 公司支付很大一笔知识产权许可费用，导
 
 于是，肉制品公司就开始寻找适合玉米饲料的肉鸡品种。地球上大概有500多种鸡。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082202.jpg)
 
 但是，今天的美国消费者吃的每一块鸡肉，很可能都来自同一种鸡，那是一种 Cornish 鸡和 white rock 鸡的杂交品种。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082203.jpg)
 
 1940年代，美国农业部举办了一个“明日之鸡”竞赛。一种叫做 Vantress的鸡获得了第一名，随后被大量推广，成为标准的肉鸡品种。这种鸡有一些显著优点：大块的鸡胸肉、生长速度快、白色羽毛、个体大小一致、性格温和。
 
@@ -344,11 +344,11 @@ X 公司每年需要向 Y 公司支付很大一笔知识产权许可费用，导
 
 2019年的本周（第 71 期）：[名校毕业，不容易创业](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082601.jpg)
 
 2018年的本周（第 19 期）：[电影《头号玩家》描绘未来的虚拟世界](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018082401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018082401.jpg)
 
 ## 订阅
 

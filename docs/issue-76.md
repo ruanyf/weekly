@@ -4,7 +4,7 @@
 
 本杂志开源（GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)），欢迎提交 issue，投稿或推荐你的项目。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100301.jpg)
 
 封面图片：直播装备。
 
@@ -28,7 +28,7 @@
 
 1、[机器狗 Spot](https://www.bostondynamics.com/spot)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019093005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019093005.jpg)
 
 波士顿动力公司正式现货发售它的机器狗产品 Spot，有意的用户必须填写申请单，然后波士顿动力会从中选择试点用户，跟其单独商定价格。
 
@@ -36,7 +36,7 @@
 
 2、[泰国对含糖饮料加倍征税](https://finance.sina.com.cn/world/gjcj/2019-09-17/doc-iicezueu6328369.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091801.jpg)
 
 泰国从2017年开始对含糖饮料征税，今年10月1日起加倍征收。泰国人嗜甜，饮料非常甜，就连面条也要加糖，平均每天摄取26茶匙的糖，是世界卫生组织（WHO）建议每日摄取量的4倍，多半来自含糖饮料，因此泰国政府希望降低泰国人的糖分摄取量。
 
@@ -44,7 +44,7 @@
 
 3、[Firefox 四周发布周期](https://hacks.mozilla.org/2019/09/moving-firefox-to-a-faster-4-week-release-cycle/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091803.jpg)
 
 Firefox 浏览器宣布，发布周期从6周改成4周，即每个月发一个大版本。相比之下，Chrome 现在是6周一个大版本。
 
@@ -52,7 +52,7 @@ Firefox 浏览器宣布，发布周期从6周改成4周，即每个月发一个�
 
 4、[氢气大巴](https://www.reuters.com/article/us-autos-hydrogen-toyota-olympics-fous-idUSKBN1W22VK)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091807.jpg)
 
 丰田公司将向2022年北京冬季奥运会，提供100辆氢燃料电池公共汽车，在场馆之间运送游客。这应该是中国第一次引入氢气燃料的公共汽车。目前，东京已经有15辆氢气大巴在运营。
 
@@ -60,19 +60,19 @@ Firefox 浏览器宣布，发布周期从6周改成4周，即每个月发一个�
 
 5、[横渡英吉利海峡两个来回](http://sports.xinhuanet.com/c/2019-09/18/c_1125007612.htm)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091903.jpg)
 
 9月17日，37岁的美国妇女萨拉·托马斯不间断横渡英吉利海峡四次（两个来回），成为世界上完成这个壮举的第一人。她总耗时超过54个小时，一共游了大约209公里。英吉利海峡最窄的地方为30多公里，但因为海上风大浪急，她最后游过的距离远超海峡的实际宽度。
 
 此前有四个人完成不间断横渡英吉利海峡三次（一个半来回），但是没有人游过四次。整个过程中，每隔30分钟，团队都从船上将补给品拴在绳子上递给她。更惊人的是，她是一个癌症患者，去年刚刚完成乳腺癌治疗。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091904.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091905.jpg)
 
 6、[特斯拉警车](https://www.eastbaytimes.com/2019/09/24/fremont-police-tesla-runs-low-on-juice-during-high-speed-chase/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092605.jpg)
 
 美国加州弗里蒙特警察局，购买了一辆二手特斯拉汽车作为警车。最近，该车执勤时接到任务，追捕一个驾车逃逸的嫌疑人。当时，警车的电量在40%～50%之间，而嫌疑人在高速公路上以每小时193公里的速度疯狂逃逸。
 
@@ -80,13 +80,13 @@ Firefox 浏览器宣布，发布周期从6周改成4周，即每个月发一个�
 
 7、[SpaceX 宇宙飞船](https://arstechnica.com/features/2019/09/after-starship-unveiling-mars-seems-a-little-closer/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019093002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019093002.jpg)
 
 SpaceX 公司发布自己的宇宙飞船 StarShip，这是第一家私人商业公司推出的载人航天器。这艘飞船高度为118米，使用不锈钢制作，装有几十个发动机，可以多次循环使用，一次搭载100人前往火星。
 
 SpaceX 的 CEO 马斯克预计，该飞船明年可以试飞，最快2022年前往火星。下一步要解决的问题是，前往火星的单程为半年，需要开发一个支持100人的生命保障系统。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019093003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019093003.jpg)
 
 8、**一句话消息**
 
@@ -101,15 +101,15 @@ SpaceX 的 CEO 马斯克预计，该飞船明年可以试飞，最快2022年前�
 
 > - 下图是硅谷科技公司的平均工资。相比之下，2018年，国内科技公司平均工资最高的是华为110万人民币，相当于15万美元，基本上跟硅谷工资一致。虽然，平均工资不代表基层员工的收入，但是可以衡量这些公司的人均薪资支出。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100203.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100302.jpg)
 
 > - [一个美国车主](https://jalopnik.com/why-you-should-give-your-car-a-shitty-paint-job-1795704984)将自己的车漆成涂鸦状，结果发现这种涂装很受欢迎。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090910.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090911.jpg)
 
 ## 文章
 
@@ -123,7 +123,7 @@ Chrome 浏览器最近开始支持`<portal>`元素。它基本上是一个更安
 
 3、[如何用 AWS Amplify 托管网站](https://medium.com/seekrev/why-we-use-aws-amplify-for-hosting-web-clients-f50618dfd650)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090916.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090916.jpg)
 
 AWS Amplify 是亚马逊的持续集成服务，作为一个简单的网站托管方案，可以直接从源码构建网站，然后自动部署。
 
@@ -153,13 +153,13 @@ IPFS 是一种新的 Web 架构，本文作者尝试让自己的静态网站可�
 
 10、[我如何一个人实现亚马逊上的100万美元销售额？](https://dollarsanity.com/amazon-fba-selling-my-products/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091101.jpg)
 
 一个美国大学生讲述，他如何通过代理中国产品，没有雇佣任何人，一个人在亚马逊上年销售额达到100万美元。
 
 11、[中国国庆阅兵展示的新武器](https://www.cnn.com/2019/09/27/asia/china-military-parade-analysis-preview-intl-hnk/index.html?no-st=1569722031)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092902.jpg)
 
 CNN 分析国庆阅兵里面值得注意的新武器。
 
@@ -175,7 +175,7 @@ CNN 分析国庆阅兵里面值得注意的新武器。
 
 3、[devfolio](https://github.com/mmacneil/devfolio)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082605.jpg)
 
 一个个人简历网站的建站模板。
 
@@ -193,13 +193,13 @@ CNN 分析国庆阅兵里面值得注意的新武器。
 
 7、[BPMN-JS](https://bpmn.io/toolkit/bpmn-js/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082711.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082711.jpg)
 
 一个在线绘制业务流程图的开源工具。（@[xhuihui](https://github.com/ruanyf/weekly/issues/805) 投稿）
 
 8、[Landfall](https://www.landfall.co.uk/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082712.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082712.jpg)
 
 一个定制手工 3D 地图的网站。
 
@@ -209,13 +209,13 @@ CNN 分析国庆阅兵里面值得注意的新武器。
 
 10、[GoAccess](https://goaccess.io/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082801.jpg)
 
 开源的日志分析工具，可以生成命令行、JSON、HTML 等格式的分析报告。
 
 11、[drinkNow](https://github.com/sologgfun/drinkNow)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092801.jpg)
 
 Chrome 浏览器插件。每过一段时候，就会弹出一只小鸭子，提醒你要喝水。（@[sologgfun](https://github.com/ruanyf/weekly/issues/854) 投稿）
 
@@ -223,13 +223,13 @@ Chrome 浏览器插件。每过一段时候，就会弹出一只小鸭子，提�
 
 1、[如何学习 D3.js](https://wattenberger.com/blog/d3#intro)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090603.jpg)
 
 数据可视化库 D3.js 的在线英文教程。
 
 2、[Berlin：1928与今天](https://1928.tagesspiegel.de/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090605.jpg)
 
 这个网站将柏林1928年的地图，与今天的地图对照展示。地图往左拖动，展示1928年的柏林，向右拖动展示今天的柏林。
 
@@ -251,15 +251,15 @@ Julia 语言的官方团队开设的课程网站，目前有 Julia 语言入门�
 
 G-Shock 是卡西欧的高端电子表品牌，本文以几十张照片介绍 G-Shock 的设计师（下图右一），以及他是如何设计电子表的。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082401.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082402.jpg)
 
 2、[世界最长的海底电缆](https://en.wikipedia.org/wiki/SEA-ME-WE_3)
 
 SEA-ME-WE3 是目前世界最长的海底电缆，连接东亚 - 东南亚 - 中东 - 西欧，总长度 39,000公里。它于2000年3月投入使用，一共有39个登陆点。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082408.jpg)
 
 ## 文摘
 
@@ -275,7 +275,7 @@ SEA-ME-WE3 是目前世界最长的海底电缆，连接东亚 - 东南亚 - 中
 
 2、[一个持续50年的太空实验](https://spectrum.ieee.org/the-institute/ieee-history/one-apollo-11-experiment-is-still-going-50-years-later)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081805.jpg)
 
 美国有些人质疑，阿波罗计划是一个骗局，宇航员从没到过月球，登月是在摄影棚拍的。下面这个已经进行50年的实验，可以证明这种怀疑是不对的。
 
@@ -347,7 +347,7 @@ Perl 6 最初设计为 Perl 的下一个版本，但是设计阶段耗时太长�
 
 去年的本周：[《周刊第 24 期》](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092801.jpg)
 
 ## 订阅
 

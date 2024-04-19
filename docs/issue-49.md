@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032901.jpg)
 
 （题图：千岛湖，浙江，2018）
 
@@ -24,7 +24,7 @@
 
 1、[胰岛素胶囊](http://news.mit.edu/2019/pill-deliver-insulin-orally-0207)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032902.jpg)
 
 糖尿病的病人需要注射胰岛素，而胰岛素只能血液给药（注射），不能通过口服，因为无法进入血液。麻省理工学院开发了一种胰岛素胶囊，可以通过口服补充胰岛素，大大方便了患者。
 
@@ -32,7 +32,7 @@
 
 2、[气候科学家的遗言](https://www.nbcnews.com/news/us-news/grandfather-climate-science-leaves-final-warning-earth-n978426)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032903.jpg)
 
 2月中旬，美国著名气候科学家 Wallace Smith Broecker 录制了遗言。一周后，他就去世了。
 
@@ -40,9 +40,9 @@
 
 3、[白鲸回归海洋](http://www.thehour.cn/news/243098.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032904.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032905.jpg)
 
 上海长风海洋世界白鲸馆内的两头明星小白鲸“小白”和“小灰”，2月28日进行了最后一次表演。这次表演结束后，这对白鲸姐妹将结束15年的表演生涯，重回大海怀抱。
 
@@ -50,31 +50,31 @@
 
 为了让这趟回归之旅更加安全舒适，来自欧洲的卢森堡货运航空公司，为小白和小灰赞助了一架“私人飞机”。“私人飞机”为波音747-400ERF货机，足足有大半个足球场那么大。飞机表面还喷绘了小白小灰的可爱笑脸。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032906.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032907.jpg)
 
 4、[沃尔沃的安全措施](https://www.npr.org/2019/03/04/700007943/slow-down-volvo-will-limit-its-cars-top-speeds-to-112-mph)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032908.jpg)
 
 沃尔沃汽车宣布，从2020年开始，将提升旗下产品的安全等级。最主要的措施是，沃尔沃汽车的最高速度只能到180公里/小时，任何情况下都无法超出这个速度。另外，每辆汽车都自带数字地图，当行驶在学校、医院、行人密集的区域时，汽车行驶速度将自动放慢，无法加速。该功能被称为地理围栏。
 
 5、[AI 预测老年相貌](https://www.fastcompany.com/90314606/this-new-ai-tool-makes-creepily-realistic-videos-of-faces-in-the-future)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032909.jpg)
 
 美国和加拿大的一组科学家开发了一个 AI 系统，可以根据照片和视频，生成该人老年时的相貌。科学家说，该系统的一个用途是寻找多年前失踪的儿童。
 
 6、[TensorFlow 的廉价硬件](https://techerati.com/news-hub/tensorflow-can-now-run-on-12-edge-hardware/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032910.jpg)
 
 TensorFlow 是谷歌的机器学习库，通常需要运行在昂贵的硬件上面。为了降低对硬件的要求，谷歌推出了 TensorFlow Lite 1.0，可以运行在嵌入式硬件上面。上图是一个 Cortex-M4 主板，可以运行简单的语音识别任务。这块主板具有 384KB RAM 和 1MB 闪存存储，售价只有15美元，功耗极低，使用一颗纽扣电池就可以运行数天。人工智能的硬件要求越来越低，以后越来越多的设备将具备“智能”。
 
 7、[隼鸟2号的难题](http://www.planetary.org/blogs/jason-davis/hayabusa2-touchdown-recap.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032911.jpg)
 
 日本隼鸟2号（Hayabusa2）探测器，于2019年2月22日成功登陆小行星“龙宫”（Ryugu）。按照计划，它将于4月在小行星表面制造一次爆炸，然后抓取爆炸产生的地层内部碎片，2019年12月返回地球。
 
@@ -82,7 +82,7 @@ TensorFlow 是谷歌的机器学习库，通常需要运行在昂贵的硬件上
 
 8、[MySpace 丢失数据](https://boingboing.net/2019/03/17/facebook-is-next.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032912.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032912.jpg)
 
 MySpace 宣布，用户在2003年～2015年上传到该网站的照片、音乐、视频，都已经丢失，无法找回。很显然，该网站没有备份。2006年，MySpace 曾经一度超过谷歌，成为美国访问量最大的网站。
 
@@ -103,13 +103,13 @@ MySpace 宣布，用户在2003年～2015年上传到该网站的照片、音乐�
 
 2、[广告 ID 的现状](https://blog.appcensus.mobi/2019/02/14/ad-ids-behaving-badly/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032913.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032913.jpg)
 
 通常，网站用 Cookie 设置 ID，以便追踪用户。用户可以通过清除 Cookie，防止被追踪。但是手机上，App 可以通过无法重置的硬件 ID 追踪用户，比如 IMEI、网卡 MAC 地址，SIM 卡序列号等。为了解决这个问题，iPhone 和安卓都提供广告 ID 功能，既可以表示身份，又可以被用户重置。
 
 3、[SSD 硬盘是否可靠？](https://www.backblaze.com/blog/how-reliable-are-ssds/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032914.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032914.jpg)
 
 本文介绍了固态硬盘 SSD 的一些知识，以及与传统硬盘可靠性的对比。
 
@@ -143,7 +143,7 @@ JSX 是前端框架中书写网页代码的一种形式，本文介绍了 JSX �
 
 11、[独立运行的 WebAssembly](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032915.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032915.jpg)
 
 Mozilla 宣布发布独立的、跟 Web 无关的 WebAssembly 运行时，即 WASM 代码现在可以直接在各个操作系统运行。
 
@@ -156,7 +156,7 @@ Mozilla 宣布发布独立的、跟 Web 无关的 WebAssembly 运行时，即 WA
 
 2、[gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032916.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032916.jpg)
 
 在 git commit message 里面使用 emoji 的工具。（@[LanjianNUll](https://github.com/ruanyf/weekly/issues/287) 投稿）
 
@@ -166,7 +166,7 @@ Mozilla 宣布发布独立的、跟 Web 无关的 WebAssembly 运行时，即 WA
 
 4、[WorldWideWeb](https://worldwideweb.cern.ch/browser/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032917.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032917.jpg)
 
 世界第一个浏览器的模拟器，还原了欧洲核子研究中心发明的 WWW 服务。
 
@@ -176,7 +176,7 @@ Mozilla 宣布发布独立的、跟 Web 无关的 WebAssembly 运行时，即 WA
 
 6、[Bookworm](https://babluboy.github.io/bookworm/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032918.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032918.jpg)
 
 电子书阅读软件，目前只能在 Linux 系统安装。
 
@@ -186,13 +186,13 @@ Mozilla 宣布发布独立的、跟 Web 无关的 WebAssembly 运行时，即 WA
 
 8、[ICONSVG](https://iconsvg.xyz/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032919.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032919.jpg)
 
 一套可以定制的 SVG 图标。
 
 9、[ayvri](https://ayvri.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032920.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032920.jpg)
 
 根据行进路线，生成 3D 可视化的行程视频。
 
@@ -210,7 +210,7 @@ Mozilla 宣布发布独立的、跟 Web 无关的 WebAssembly 运行时，即 WA
 
 13、[996.icu](https://996.icu/#/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032921.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032921.jpg)
 
 一个程序员制作的抗议 996 工作制的网站。（@[9527q](https://github.com/ruanyf/weekly/issues/402) 投稿）
 
@@ -227,7 +227,7 @@ OCaml 语言教程，从最简单的讲起。
 
 3、[Python 数据科学手册](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032922.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032922.jpg)
 
 使用 Python 工具进行数据科学研究的教程，现在全书开源了。
 
@@ -252,23 +252,23 @@ OCaml 语言教程，从最简单的讲起。
 
 1、[密码雕塑](http://scienceblogs.de/klausis-krypto-kolumne/2019/02/11/the-top-50-unsolved-encrypted-messages-4-kryptos/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032923.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032923.jpg)
 
 美国 CIA 总部内部有一件雕塑品，上面是四段加密文字。这是1989年一位雕塑家创作的。目前，其中三段已经被破解了，但是最后一段依然无法破解。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032924.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032924.jpg)
 
 2、[红衫树桩](https://e360.yale.edu/digest/arborists-have-cloned-ancient-redwoods-from-their-massive-stumps)
 
 1890年，美国加州砍伐了一棵红衫之后，人们的合影。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032925.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032925.jpg)
 
 3、[月亮照片](https://www.reddit.com/r/space/comments/arer0k/i_took_nearly_50000_images_of_the_night_sky_to/)
 
 一位爱好者拍摄了近5万张夜空图像，然后合成了一张81万像素的月球图像。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032926.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032926.jpg)
 
 ## 文摘
 

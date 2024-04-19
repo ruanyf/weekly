@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062101.jpg)
 
 （题图：前滩，上海，2018）
 
@@ -22,9 +22,9 @@
 
 1、[磁悬浮试验样车](http://stdaily.com/qykj/qianyan/2019-05/24/content_768509.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062102.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062103.jpg)
 
 中国的高铁采用轮轨技术，为了更快的速度，下一代高铁可能会采用磁浮技术。5月23日，磁浮试验样车在青岛下线，目前只是原型列车，已经能够实现静态悬浮。真正的磁浮工程列车计划在明年问世，2021年开始全面测试，设计时速高达600公里。
 
@@ -32,29 +32,29 @@
 
 2、[深度唤醒装置](https://soranews24.com/2019/05/27/clever-alarm-system-invented-by-japanese-railway-company-will-wake-even-the-deepest-of-sleepers/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062104.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062105.jpg)
 
 日本铁路公司 JR 以准时著称，为了保证员工不睡过头，该公司发明了一种深度唤醒装置，效果远超闹钟，即使睡得最死的人也能被叫醒。该装置原来只供内部员工使用，现在推向了市场，所有人都可以购买。
 
 它的原理很简单，就是床垫下面的一个充气垫子，时间一到就会自动充气，从而鼓起，使得上面的人无法再躺着（下图）。这个过程重复多次，直到手动关闭为止。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062106.jpg)
 
 3、[照片的吸引力判断](https://blog.photofeeler.com/photofeeler-d3/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062107.jpg)
 
 美国一家创业公司，研发了一种人工智能算法，可以判断照片在他人眼里的感觉。上图有三种颜色的指标，蓝色表示聪明，绿色表示信赖，红色表示吸引力。可以看到，算法认为左起第二张照片最有吸引力。
 
 这种算法的一大应用，就是自动从一堆照片里面，挑出最佳的那一张（下图）。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062108.jpg)
 
 4、[图书馆减少书架](https://www.theatlantic.com/ideas/archive/2019/05/college-students-arent-checking-out-books/590305/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062109.jpg)
 
 耶鲁大学本科生图书馆最近宣布，将减少四分之三的书架，用作学生的自修空间。原因是过去10年中，书架上的图书使用率下降了64%，也就是很少人去书架找书了。
 
@@ -62,17 +62,17 @@
 
 5、[亚马逊出售的简易房屋](https://www.marketwatch.com/story/amazon-is-selling-entire-houses-for-less-than-20000-with-free-shipping-2019-05-22?mod=MW_story_top_stories)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062110.jpg)
 
 美国亚马逊网站现在有简易房屋出售。付款后，工厂会给你发货，然后你自己组装房屋。上图的屋子占地27平方米，售价1.88万美元。制造商称，两个成年人可以在两到三天内组装这个屋子。下图的房子占地10.5平方米，售价5000美元。
 
 这些房子都是临时建筑，但可以付费改成永久性建筑。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062111.jpg)
 
 6、[鲑鱼肉的颜色](https://www.treehugger.com/green-food/farmed-salmon-isnt-naturally-pink-or-red.html)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062112.jpg)
 
 超市出售的鲑鱼肉，通常是上图这样的肉红色。但是，鲑鱼肉本身其实是灰色的，由于它食用了甲壳类动物（比如虾），虾壳包含的虾青素使得鱼肉出现这种肉红色。
 
@@ -80,13 +80,13 @@
 
 7、[电子饰品 imagiCharm](https://www.kickstarter.com/projects/imagilabs/imagicharm-the-accessory-every-girl-will-love-to-program)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062113.jpg)
 
 瑞典一家女性创业公司推出电子饰品 imagiCharm，正在众筹。这种电子设备是一种可以用手机编程的 LED 电路板，它会显示指定的颜色和图案（静态或动态），供你佩戴在身上或服饰上面。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062114.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062115.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062115.jpg)
 
 8、**一句话新闻**
 
@@ -108,13 +108,13 @@ Python 的设计哲学是“自带电池”（battery-included），就是把需
 
 2、[十五年了，海盗湾依然存在](https://melmagazine.com/en-us/story/after-15-years-the-pirate-bay-still-cant-be-killed)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062116.jpg)
 
 海盗湾成立至今，已经十五年了。无数次被告，服务器被抄家，域名被封锁，甚至四个创始人都关进监狱一年，但是直到今天，它依然在正常运作。
 
 3、[SpaceX 星链计划的分析](https://mp.weixin.qq.com/s/NNmI_cqwo4ba0ViJ9O7f3Q)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062117.jpg)
 
 SpaceX 公司打算以11943颗低轨道卫星，组建一个卫星通信网，提供宽带上网服务。本文介绍这个计划的详情，以及怎么做到。
 
@@ -124,7 +124,7 @@ Tex 是全世界科学家撰写论文的标准工具，本文介绍这个项目�
 
 5、[使用 Visual Studio 2019 构建 Windows Terminal](https://solarianprogrammer.com/2019/05/13/building-windows-terminal-app-visual-studio/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062118.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062118.jpg)
 
 Windows Terminal 是微软最好的终端应用程序，但是现在只公开了源码，还没发布正式产品。不过你可以自己从源码构建它。
 
@@ -160,7 +160,7 @@ ssh 登录的时候，比较安全的做法是使用公钥认证。但是，这�
 
 3、[Grade.js](https://github.com/benhowdle89/grade)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062119.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062119.jpg)
 
 这个 JS 库可以从图像提取两种主要颜色，然后生成渐变色背景。（@[blogwy](https://github.com/benhowdle89/grade) 投稿）
 
@@ -170,7 +170,7 @@ ssh 登录的时候，比较安全的做法是使用公钥认证。但是，这�
 
 5、[bitbar](https://github.com/matryer/bitbar)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062120.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062120.jpg)
 
 将任何脚本或程序的输出直接放在 macOS 菜单栏的工具。
 
@@ -184,7 +184,7 @@ ssh 登录的时候，比较安全的做法是使用公钥认证。但是，这�
 
 8、[gameboy.live](https://github.com/HFO4/gameboy.live)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062121.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062121.jpg)
 
 一个开源软件，可以启动 Gameboy 服务，使用 Telnet 连线上去玩。
 
@@ -212,11 +212,11 @@ GitHub 的微信小程序客户端，代码开源。（@[JackZhouMine](https://g
 
 2、[Koonchi](https://koonchi.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062122.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062122.jpg)
 
 你将照片上传到该网站，它会去找印度艺术家，把照片画成画作，再把画寄回给你。A3 大小的画作，收费在1000元人民币左右，尺寸放大收费增加。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062123.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062123.jpg)
 
 3、[马尔可夫链学习资源](https://blog.demofox.org/2019/05/11/markov-chain-text-generation/)
 
@@ -224,15 +224,15 @@ GitHub 的微信小程序客户端，代码开源。（@[JackZhouMine](https://g
 
 4、[Colorize](https://colorize.cc/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062124.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062124.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062125.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062125.jpg)
 
 黑白照片自动上色的服务。（@[ketra21](https://github.com/ruanyf/weekly/issues/521) 投稿）
 
 5、[图形计算器](https://www.desmos.com/calculator)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062126.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062126.jpg)
 
 该网站左侧输入公式，右侧自动输出图像，非常直观。（@[farheart](https://github.com/ruanyf/weekly/issues/522) 投稿）
 
@@ -246,7 +246,7 @@ GitHub 的微信小程序客户端，代码开源。（@[JackZhouMine](https://g
 
 8、[多吉搜索](https://dogedoge.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062127.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062127.jpg)
 
 一个新的国产搜索引擎，个人作品，据称目标是成为百度的替代方案之一。(@[NicolJiang](https://github.com/ruanyf/weekly/issues/626) 投稿)
 
@@ -258,7 +258,7 @@ GitHub 的微信小程序客户端，代码开源。（@[JackZhouMine](https://g
 
 据估计，互联网目前可以访问的数据，大约是15个ZB（zettabytes），并且每秒增加 70TB。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062128.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062128.jpg)
 
 那么大的数据量，如果把它们都保留下来，可想而知要付出怎样艰苦的努力。就算保留下来了，那么要保留多久呢，10年还是50年？
 
@@ -292,33 +292,33 @@ GitHub 的微信小程序客户端，代码开源。（@[JackZhouMine](https://g
 
 1662年12月，英国哲学家罗伯特·胡克（Robert Hooke）为了研究雪花的形状，在笔记本上把它们画了下来。这份笔记本一直保留到了今天。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062129.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062129.jpg)
 
 仔细看的话，这些雪花画得非常精细，每个雪花都画在一个铅笔画的圆里，每个圆都有六等分的印记。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062130.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062130.jpg)
 
 2、[一张老照片](https://thatsideofthefamily.wordpress.com/2016/04/17/the-spectacle-and-the-mystery-new-york-1932/)
 
 我发现了一张曾祖父母的老照片。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062131.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062131.jpg)
 
 我注意到，最左侧的女士戴着一副奇怪的眼镜。右侧的男士也戴着墨镜，看着天空。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062132.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062132.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062133.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062133.jpg)
 
 看上去，他们似乎在看日食。我知道，这张照片大约是1930年前后在纽约拍的，因此我想也许可以查到具体的拍摄日期。
 
 我去查美国宇航局的[《纽约日食记录》](http://eclipse.gsfc.nasa.gov/SEcirc/SEcircNA/NewYorkNY2.html)，1932年8月1日，纽约有一次日全食。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062134.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062134.jpg)
 
 我甚至还查到了，当时的日全食眼镜的照片。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019062135.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062135.jpg)
 
 ## 言论
 
@@ -360,7 +360,7 @@ GitHub 的微信小程序客户端，代码开源。（@[JackZhouMine](https://g
 
 去年的本周：[《周刊第 9 期》](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-9.html)
 
-[![](https://www.wangbase.com/blogimg/asset/201806/bg2018061401.jpg)](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-9.html)
+[![](https://cdn.beekka.com/blogimg/asset/201806/bg2018061401.jpg)](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-9.html)
 
 ## 订阅
 

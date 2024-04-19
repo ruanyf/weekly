@@ -4,7 +4,7 @@
 
 本杂志开源，访问 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 仓库获取源文件。欢迎提交 issue 投稿或推荐你的项目。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081403.jpg)
 
 封面图片：上海世博源，2019。
 
@@ -30,7 +30,7 @@
 
 他发现很多人不了解保险，容易上当，就开办了自己的公众号，专门揭露各种理财骗局和保险套路。目前，已经有500多篇原创文章，介绍理财知识、保险案例分析等等，值得一看。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081302.jpg)
 
 他创立的谱蓝公司，主营业务就是财务咨询，普及保险理财知识，解决家庭保障需求。进一步的情况，可以搜索“谱蓝”。
 
@@ -42,15 +42,15 @@
 
 微信扫描关注下面的公众号，然后输入 **"阮一峰 + 你的手机号码"** ，就可以参加这个活动了。参加者都可以获赠一份价值 **800元** 的免费保障规划。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060903.jpg)
 
 ## 资讯
 
 1、[变色纹身](https://www.sciencealert.com/there-is-now-an-actual-tattoo-that-can-change-colour-based-on-glucose-levels)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072702.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072703.jpg)
 
 德国科学家开发出一种特殊颜料，会随着人体内葡萄糖、白蛋白或 pH 值的变化而改变颜色。它们纹在身上以后，就可以让患者和医生通过颜色，实时监测糖尿病和肾脏疾病等慢性疾病。
 
@@ -58,9 +58,9 @@
 
 2、[屏幕最多的汽车](https://insideevs.com/news/361822/honda-e-digital-dashboard/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072704.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072705.jpg)
 
 本田公司最新的电动车“本田 e”，驾驶台上安装了五块触摸屏。如果算上头顶的中央后视镜，一共有六块屏幕，是世界上屏幕最多的小汽车。
 
@@ -68,7 +68,7 @@
 
 3、[新西兰计划清除食鸟害虫](https://www.bbc.com/news/world-asia-48702762)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019070905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070905.jpg)
 
 新西兰由于地理的孤立性，保存了大量珍稀动物。但是，这些珍稀动物，尤其是鸟类以及鸟蛋，常常被其他动物捕食，使得新西兰大约80％的珍稀野生鸟类面临灭绝的危险。
 
@@ -76,7 +76,7 @@
 
 4、[Fortnite 世界杯](https://techcrunch.com/2019/07/28/fortnite-world-cup-has-handed-out-30-million-in-prizes-and-cemented-its-spot-in-the-culture/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072903.jpg)
 
 热门游戏 Fortnite 最近举行自己的世界杯比赛，共耗资3000万美元。美国16岁少年 Kyle 夺得冠军，奖金300万美元。
 
@@ -84,7 +84,7 @@
 
 5、[更高效率的光伏电池](https://techxplore.com/news/2019-07-drones-days-photovoltaic.html)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072907.jpg)
 
 加州大学伯克利分校的研究人员宣布，他们研发出了更高效率的光伏电池，可以让超轻型无人飞机连续飞行数天。
 
@@ -92,21 +92,21 @@
 
 6、[Megapack](https://www.tesla.com/megapack)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019073001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019073001.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019073003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019073003.jpg)
 
 特斯拉虽然是汽车公司，但是核心技术是电池。它在推出家庭电池包 Powerpack 以后，又推出了企业级电池包 Megapack，类似集装箱大小，一次可以储存3000度电。
 
 300多个 Megapack 就可以组成一个电能储存厂，保存100万度电，能够满足旧金山6个小时的用电需求。这种电能储存厂的安装速度也很快，只要用卡车把 Megapower 拉到现场以后，可以快速建厂。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019073002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019073002.jpg)
 
 7、[软体机器人](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/surprisingly-speedy-soft-robot-survives-being-stepped-on)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080101.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080102.jpg)
 
 清华大学和加州大学伯克利分校的研究人员，研发了一种新型软体机器人。它就是上图左下角的那个金属片，长3厘米宽1.5厘米，看起来像一张弯曲的纸条，但每秒能够前进60厘米，而且被踩踏也没关系，可以说就是一只电子蟑螂。
 
@@ -114,7 +114,7 @@
 
 8、[Tumblr 被甩卖](https://www.axios.com/tumblr-verizon-sale-automattic-wordpress-5d8d374b-17af-49fb-9769-2ffb82b25df7.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081501.jpg)
 
 8月13日，博客平台 Tumblr 以 300万美元卖给了 WordPress 的母公司。2013年，雅虎收购 Tumblr 花了11亿美元，这意味着仅仅六年时间，Tumblr 变得一钱不值。
 
@@ -124,17 +124,17 @@
 
 > - [软银集团的远景基金](https://www.axios.com/softbank-raising-108-billion-vision-fund-2-fa270d8e-ce68-4825-a155-4f838e9f83be.html)（Vision Fund）宣布筹集到第二期的1080亿美元资金。第一期已经有1000亿美元，这些天文数字的金钱都会投入高科技产业，主要是人工智能、芯片、机器人等方向。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072603.jpg)
 
 > - [日本](https://www.nature.com/articles/d41586-019-02275-3)批准第一例人体细胞移植入小鼠胚胎，长大以后就是带有人类细胞的老鼠。实验目的是让人类细胞在老鼠身上发育，长出人体器官，最后再移植回人体。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072606.jpg)
 
 > - [美国](https://www.chicagotribune.com/visuals/ct-viz-train-big-boy-steam-locomotive-20190726-6p6csnoqhrebdbfgg6sjcb56ga-story.html)庆祝北美大陆横贯铁路建成150周年，世界最大的蒸汽火车头7月26日举行了纪念性行驶。该铁路从纽约到旧金山，1869年建成。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072901.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072902.jpg)
 
 ## 文章
 
@@ -144,19 +144,19 @@
 
 2、[我盖了一栋自己的房子](https://www.mobile01.com/topicdetail.php?f=360&t=5855017)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072607.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072607.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072608.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072608.jpg)
 
 台湾网友的长篇帖子，海量图片，记录他在老家的土地上，请建筑师设计了一栋三层钢结构的民宅，然后再请施工队盖出来，完成各种内外装修，直到入住。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072609.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072609.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072610.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072610.jpg)
 
 3、[如何在 Bash 提示符显示动态信息](https://dev.to/awwsmm/create-a-dynamic-prompt-string-in-bash-3617)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072701.png)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072701.png)
 
 Zsh 的命令行提示符会显示当前目录的 Git 分支名（上图），这在 Bash 中如何做到？
 
@@ -170,7 +170,7 @@ Zsh 的命令行提示符会显示当前目录的 Git 分支名（上图），�
 
 6、[如何用 Puppeteer 破解滑块验证](https://medium.com/@filipvitas/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019073004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019073004.jpg)
 
 很多网站现在都有滑块验证，识别用户是否为真人。但是，其实它们都可以用 Puppeteer 的自动化脚本破解，本文展示怎么做到这一点。
 
@@ -208,7 +208,7 @@ Go 语言互动式的 REPL 环境，可以直接运行 Go 脚本。
 
 4、[Dato](https://apps.apple.com/us/app/dato/id1470584107?mt=12) 
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071525.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071525.jpg)
 
 macOS 菜单栏系统时钟的替代品，显示月历和时区，免费软件。
 
@@ -226,13 +226,13 @@ macOS 菜单栏系统时钟的替代品，显示月历和时区，免费软件�
 
 8、[video-object-removal](https://github.com/zllrunning/video-object-removal)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071804.jpg)
 
 这个工具使用机器学习算法，去除视频里面的运动物体。
 
 9、[TabNine](https://tabnine.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071805.jpg)
 
 基于深度学习的代码补全工具，号称支持所有语言。（@[ifrontend-xyz](https://github.com/ruanyf/weekly/issues/690) 投稿）
 
@@ -242,7 +242,7 @@ macOS 菜单栏系统时钟的替代品，显示月历和时区，免费软件�
 
 11、[civitas](https://github.com/sizeofcat/civitas)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071808.jpg)
 
 一个 JavaScript 写的网页策略模拟类游戏。
 
@@ -254,7 +254,7 @@ macOS 菜单栏系统时钟的替代品，显示月历和时区，免费软件�
 
 2、[爱丽丝和鲍勃：密码学最著名的两个人](http://cryptocouple.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071524.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071524.jpg)
 
 爱丽丝（Alice）和鲍勃（Bob）通常用来解释加密协议，指代用户 A 和用户 B。该网站收集密码学发展过程中，使用这两个人作为例子的各种历史资料。
 
@@ -264,7 +264,7 @@ macOS 菜单栏系统时钟的替代品，显示月历和时区，免费软件�
 
 4、[bootlin](https://elixir.bootlin.com/linux/latest/source)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071608.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071608.jpg)
 
 快速查看和搜索 linux 内核源代码的网站。（@[kele1997](https://github.com/ruanyf/weekly/issues/680) 投稿）
 
@@ -274,7 +274,7 @@ Leetcode 新增的多线程同步的题目。（@[DoctorLai](https://github.com/
 
 6、[家庭关系称谓查询](https://justyy.com/archives/3418)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071610.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071610.jpg)
 
 根据对亲戚关系的描述，返回正确的称谓。（@[DoctorLai](https://github.com/ruanyf/weekly/issues/685) 投稿）
 
@@ -282,7 +282,7 @@ Leetcode 新增的多线程同步的题目。（@[DoctorLai](https://github.com/
 
 1、[英国没有入侵的国家](https://www.telegraph.co.uk/history/9653497/British-have-invaded-nine-out-of-ten-countries-so-look-out-Luxembourg.html)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071001.jpg)
 
 英国历史上是“日不落帝国”，殖民地遍布全球。历史学家统计以后发现，现在全球近200个国家和地区，只有22个从来没有被英国入侵过（上图白色的部分）。
 
@@ -292,29 +292,29 @@ Leetcode 新增的多线程同步的题目。（@[DoctorLai](https://github.com/
 
 椅子。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071109.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071111.jpg)
 
 桌子。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071110.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071113.jpg)
 
 沙发。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071114.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071116.jpg)
 
 架子。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071115.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071115.jpg)
 
 柜子。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071117.jpg)
 
 ## 文摘
 
@@ -334,7 +334,7 @@ Leetcode 新增的多线程同步的题目。（@[DoctorLai](https://github.com/
 
 2、[为什么飞机窗户都是圆角的？](https://jasonlefkowitz.net/2016/09/why-airplane-windows-have-round-corners/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071605.jpg)
 
 如果你曾经坐过飞机的靠窗座位，可能已经注意到窗户是圆角的。你有没有想过这是为什么？
 
@@ -348,13 +348,13 @@ Leetcode 新增的多线程同步的题目。（@[DoctorLai](https://github.com/
 
 1949年，英国航空业先驱 de Havilland 开设了自己的飞机公司，制造了第一架民用的喷气式客机，称为彗星飞机（comet）。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071606.jpg)
 
 彗星飞机的机翼内装有四个喷气发动机，比传统的螺旋桨飞机速度高出近50％。而且，它具有增压舱设计，可以在高空保持跟平地一样的气压，带给乘客平稳舒适的乘坐体验。但是，有一个地方，它的设计跟传统飞机一样：它的窗户是方形的。
 
 这架飞机立即在世界各地取得了成功，各国纷纷订购。可是，意想不到的事情出现了。在服役的第一年，就发生了两起飞机坠毁事故。1953年3月3日，加拿大航空公司的一架飞机坠毁，机上11人全部遇难。1953年5月2日，另一架飞机在印度坠毁，造成43人死亡。最初的调查都认为，这是飞行员错误引起的，而不是彗星飞机本身的问题，可以照常飞行。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071607.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071607.jpg)
 
 接下来的1954年，又发生了两起坠毁事故。1954年1月10日，一架从罗马飞往伦敦的飞机坠毁，35人遇难。1954年4月8日，一架南非的飞机坠毁，21人遇难。
 
@@ -407,7 +407,7 @@ Leetcode 新增的多线程同步的题目。（@[DoctorLai](https://github.com/
 
 1、**秘猿科技**
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080701.png)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)
 
 区块链创业公司，为加密经济提供区块链基础设施和服务，主要产品有 Nervos、火币金融公链、CITA 等，全部开源。
 
@@ -425,7 +425,7 @@ Leetcode 新增的多线程同步的题目。（@[DoctorLai](https://github.com/
 
 去年的本周：[《周刊第 17 期》](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081001.jpg)
 
 ## 订阅
 

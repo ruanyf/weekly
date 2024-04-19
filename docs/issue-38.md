@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010401.jpg)
 
 （题图：公交站的电子墨水屏，上海，2018）
 
@@ -20,7 +20,7 @@
 
 1、[新型偷车方式](https://www.cbc.ca/news/canada/toronto/car-thefts-rising-1.4930890)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010402.jpg)
 
 加拿大多伦多出现了一种新型偷车方式。有些车钥匙会发出电波，只要靠近车辆，车门就会自动打开，主人也很大意，往往一回家，就将车钥匙放在门口的柜子上。
 
@@ -28,7 +28,7 @@
 
 2、[废弃煤矿种粮食](https://www.bbc.com/news/uk-wales-46221656)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010403.jpg)
 
 很多煤矿地下有很长的矿道，一旦煤矿枯竭，这些矿道就没用了。英国科学家正在尝试，将这些矿道用来种粮食。
 
@@ -36,13 +36,13 @@
 
 3、[谷歌翻译改版](https://www.blog.google/products/translate/new-look-google-translate-web/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010404.jpg)
 
 谷歌翻译最近改版了，除了 UI，最大变化是提供了单独的文件翻译，支持 .doc、.docx、.odf、.pdf、.ppt、.pptx、.ps、.rtf、.txt、.xls 或 .xlsx 等文档直接上传翻译。（@[Anderson-Liu](https://github.com/ruanyf/weekly/issues/123) 投稿）
 
 4、[世界最长寿的人](https://www.leafscience.org/valery-novoselov-investigating-jeanne-calments-longevity-record/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010405.jpg)
 
 法国老妇人 Jeanne Calment 是可以确认的世界最长寿的人，生于1875年2月21日，死于1997年8月4日，活了122岁。最近，莫斯科国立大学的一位博士质疑这可能是一个骗局。
 
@@ -50,7 +50,7 @@
 
 5、[高通公司的笔记本芯片](https://gizmodo.com/the-snapdragon-8cx-is-qualcomms-first-purpose-built-chi-1830914214)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010406.jpg)
 
 高通公司发布该公司的第一款笔记本专用 CPU“Snapdragon 8cx”。这款 ARM 芯片是7纳米制程，具有 4G 通信能力，可以在休眠时依然保持 4G 连接，而且它可以提供至少一整天的续航时间。
 
@@ -58,7 +58,7 @@
 
 6、[最后一代汽车内燃机](https://www.detroitnews.com/story/business/autos/foreign/2018/12/05/vw-says-combustion-cars-will-fade-away/38677503/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010407.jpg)
 
 德国大众汽车公司表示，该公司计划2026年推出最后一代汽油和柴油车，然后放弃内燃机汽车，全部转向电动汽车的生产。这是为了减少二氧化碳排放以应对气候变化。上图是大众最新的电动车型 ID Neo。
 
@@ -66,7 +66,7 @@
 
 7、[尿液生物砖](https://www.news.uct.ac.za/article/-2018-10-24-world-first-bio-bricks-from-urine)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010408.jpg)
 
 开普敦大学（UCT）土木工程学院发明了一种尿液生成砖头的技术。它使用一种细菌分解尿液中的尿素，同时通过复杂的化学反应产生碳酸钙，进而形成砖头。本质上，这与贝壳的形成方式并无二致。这种技术不仅可以处理尿液，对防止地球变暖也有好处，因为生物砖是在室温下制造，而普通砖是在1400°C左右的温度下进行窑烧，会产生大量二氧化碳。
 
@@ -74,7 +74,7 @@
 
 8、[BFR 火箭](http://nautil.us/blog/-the-psychological-challenges-of-just-getting-to-mars)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010409.jpg)
 
 前往火星是对宇航员心理的巨大考验。前往火星的旅程将持续几个月，这期间，宇航员被限制在一个不超过中型房车的空间里面。即使到达火星，与地球之间的通信将有长达45分钟的延迟，你说一句话，要等45分钟才能听到答复。
 
@@ -82,7 +82,7 @@ SpaceX 公司设计当中的载人飞船 Big Falcon Rocket（简称 BFR），安
 
 9、[Oath 的价值](https://www.nbcnews.com/tech/tech-news/verizon-signals-its-yahoo-aol-divisions-are-almost-worthless-n946846)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010410.jpg)
 
 2015年，Verizon 公司以44亿美元的价格收购了美国在线 AOL，2017年又以45亿美元的价格收购了雅虎，然后将它们合并成了一家新公司 Oath。Oath 拥有美国在线和雅虎的所有网络资产，包括 Yahoo.com、AOL.com、赫芬顿邮报、Tumblr 和 TechCrunch。
 
@@ -101,7 +101,7 @@ SpaceX 公司设计当中的载人飞船 Big Falcon Rocket（简称 BFR），安
 * [美国纽约时报广场](https://www.nytimes.com/2018/12/28/nyregion/how-to-dump-3000-pounds-of-confetti-on-times-square.html)每年都要跨年倒数，一到12月31日晚上12点，满天落下闪光的彩屑。这些彩屑都是志愿者在周围高楼顶上，手工倾倒下来，今年一共有1.5吨。
     
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010411.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010411.jpg)
 
 ## 教程
 
@@ -131,7 +131,7 @@ DNS 查询默认是不加密的，本文介绍如何在安卓手机上通过 clo
 
 7、[IPFS 文件系统的简单解释](https://achainofblocks.com/2018/10/05/ipfs-interplanetary-file-system-simply-explained/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010412.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010412.jpg)
 
 本文以一种通俗易懂的方式解释 IPFS 这个基于 IP 协议的文件系统的原理。
 
@@ -159,7 +159,7 @@ React 的短视频课程，几分钟一集，共有45集。
 
 3、[开源人物肖像](http://facesofopensource.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010413.jpg)
 
 该项目专门拍摄推动计算机革命的开源程序员的肖像。
 
@@ -177,7 +177,7 @@ CodeCademy 的 C++ 在线课程。
 
 7、[30秒系列](https://github.com/30-seconds/30-seconds-of-code)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010414.jpg)
 
 该系列专门收集30秒以内可以解答的问题。目前有以下6个库：（1）[30秒 JS 问题](https://github.com/30-seconds/30-seconds-of-code)；（2）[30秒 CSS 问题](https://30-seconds.github.io/30-seconds-of-css/)；（3）[30秒面试问题](https://30secondsofinterviews.org/)；（4）[30秒 React 问题](https://github.com/30-seconds/30-seconds-of-react)；（5）[30秒 Python 问题](https://github.com/kriadmin/30-seconds-of-python-code)；（6）[30秒 PHP 问题](https://github.com/appzcoder/30-seconds-of-php-code)。
 
@@ -193,31 +193,31 @@ Linux 系统的命令行文件管理器，号称是最快的文件管理器。
 
 3、[vs](https://github.com/anvaka/vs)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010415.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010415.jpg)
 
 输入一个产品的名字，该工具会根据谷歌的自动搜索提示，生成一张图，上面是经常与该产品进行对比的其他产品。（@[nivance](https://github.com/ruanyf/weekly/issues/99)__ __投稿）
 
 4、[groupImg](https://github.com/victorqribeiro/groupImg)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010416.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010416.jpg)
 
 groupImg 是一个 Python 脚本，使用 k-means 算法进行图片分类。我试了一下，效果不太好。但是代码简单，可以用作学习参考。
 
 5、[Earth Wind](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-240.00,0.00,320)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010417.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010417.jpg)
 
 一个查看全球风向的网站。
 
 6、[Maze Battles](http://www.mazebattles.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010418.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010418.jpg)
 
 一个在线的迷宫游戏网站，支持多人同时游戏。我玩了一局，还挺有意思。
 
 7、[GAN Paint](http://gandissect.res.ibm.com/ganpaint.html)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010419.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010419.jpg)
 
 很神奇的工具，可以任意在线重绘建筑物的照片，比如在大门上一划，就变成了墙。麻省理工学院人工智能实验室开发。
 
@@ -235,7 +235,7 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 11、[ExifShot](https://exifshot.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010420.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010420.jpg)
 
 一个以美观的形式展示照片 EXIF 信息的在线工具。
 
@@ -243,7 +243,7 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 1、[更少的土地，更多的粮食](https://www.nytimes.com/2018/12/05/climate/agriculture-food-global-warming.html)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010421.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010421.jpg)
 
 未来几十年将发生气候灾难，这几乎是必然的。同时，世界人口还将继续增长，这就要求世界农业生产的大幅度改变，尽量减少对气候的破坏，同时为多出来的数十亿人口提供食物。
 
@@ -279,26 +279,26 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 > - 亚马逊：商品销售占 72% 的收入
 > - 脸书：广告占 97% 的收入
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010422.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010422.jpg)
 
 2、[网站就是 Git 仓库](https://slashcrypto.org/2018/11/28/eBay-source-code-leak/)
 
 有人发现，eBay 日本的官网 `www.ebay.co.jp`  的就是一个 Git 仓库，而且可以浏览器访问 `.git` 目录。该漏洞现在已经修复。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010423.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010423.jpg)
 
 3、[3D 打印的婚礼](https://www.technologyreview.com/s/612486/i-3-d-printed-every-bit-of-my-weddingincluding-my-bouquet/)
 
 一位 3D 打印工程师结婚时，现场各种用品都尽可能使用 3D 打印。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010424.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010424.jpg)
 
   
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010425.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010425.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010426.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010426.jpg)
 
 ## 新奇
 
@@ -306,11 +306,11 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 我们常常看到鬼屋的影视作品。2015年，有一群英国人做了鬼屋的真实版。他们写好了剧本，租了一间乡间的老房子，精心布置好，然后用各种高技术，制造幽灵的效果。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010427.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010427.jpg)
 
 鬼魂是投影机播放的影像，那是事先请演员扮演，录制下来的。同时，还有配套的音频和气味。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019010428.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010428.jpg)
 
 他们在网上发布消息，招募愿意亲身体验鬼屋的人。报名者先在网上填写资料，经过筛选以后，再付费来体验。体验过程需要两天，主要是要在鬼屋度过一晚。
 

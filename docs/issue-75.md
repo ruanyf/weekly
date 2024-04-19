@@ -4,7 +4,7 @@
 
 本杂志开源（GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)），欢迎提交 issue，投稿或推荐你的项目。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092604.jpg)
 
 封面图片：前滩，上海，2019
 
@@ -14,13 +14,13 @@
 
 传统汽车是机械装置，需要大量零件，单单是动力传动系统就多达2,000个零件。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092601.jpg)
 
 （图片说明：汽油发动机的复杂构造。）
 
 但是，**电动汽车是一个电子装置，核心是电动机和电池组，零件大大减少。** 变速器、散热器、燃油喷射器、油箱、排气系统，这些都不需要。而且，电动机和电池组都可以外部采购，根本不需要太多工人。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092602.jpg)
 
 （图片说明：特斯拉 Model 3 的电动机和电池组。）
 
@@ -30,7 +30,7 @@
 
 顺着这个思路， **以后不管什么东西，也许都是电子装置** ，因为都会加入控制电路、联网和运算能力。比如，电饭煲、门锁、运动鞋、马桶，以前跟计算机完全没关系，现在都在变成电子装置。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092603.jpg)
 
 （图片说明：耐克智能运动鞋会自动系鞋带。）
 
@@ -44,9 +44,9 @@ Udacity（优达学城）是美国最大的在线学习平台之一，很多人�
 
 免费课程很多都跟开发相关，内容对新手友好，相当贴近实战，网页编程、App 开发、系统管理都有涉及，Flutter 和 Kotlin 两门课还是跟谷歌合作的。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092606.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092607.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092607.jpg)
 
 Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件开发，或者想感受一下硅谷的教学方式，趁着假期，建议可以看看这些免费课程。
 
@@ -62,9 +62,9 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 1、[世界最快的跑车](https://www.theverge.com/2019/9/2/20844610/bugatti-chiron-300-mph-record-speed)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090202.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090203.jpg)
 
 法国跑车公司布加迪制造的 Chiron 超级跑车，8月2日开出了304.77mph（490.5公里/小时）的最高速度，成为第一辆突破300mph的超级跑车。此前的最高记录是 Koenigsegg 跑车2017年创造的284.55mph。
 
@@ -80,9 +80,9 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 3、[黑胶唱片销售额超过 CD](https://www.nme.com/news/music/vinyl-set-outsell-cds-first-time-since-1986-2545781)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090803.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090804.jpg)
 
 美国唱片业协会认为，2019年黑胶唱片的销售额将超过 CD，这是1986年后的第一次。今年上半年，黑胶唱片的销量是860万张，共2.241亿美元，CD 的销量是1860万张，共2.479亿美元。
 
@@ -90,7 +90,7 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 4、[转基因蚊子实验失败](https://www.dw.com/en/genetically-modified-mosquitoes-breed-in-brazil/a-50414340)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091501.jpg)
 
 巴西为了遏制黄热病，2013年到2015年期间，曾经连续27个月，每月释放45万只基因改造过的埃及伊蚊的雄蚊。这些蚊子的下一代带有基因缺陷，无法长大。
 
@@ -98,7 +98,7 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 5、[搞笑诺贝尔奖](https://tech.sina.com.cn/d/i/2019-09-13/doc-iicezueu5484732.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091502.jpg)
 
 第29届搞笑诺贝尔奖近日在哈佛大学颁发。该奖每年选出一些似乎毫无意义的科研项目。今年的获奖者如下。
 
@@ -120,7 +120,7 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 6、[人工智能威士忌](https://mackmyra.co.uk/products/intelligens)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091602.jpg)
 
 英国一家酿酒公司推出了，世界第一款人工智能创建的威士忌。它通过现有配方，结合销售数据和客户偏好，在超过7000万个选择之中，创建了一种金黄色的麦芽威士忌。该公司宣称，这种酒带有太妃糖、奶油香草、梨、苹果、白胡椒和烤橡木桶的清淡口感。
 
@@ -134,27 +134,27 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 > - [纽约地铁](https://twitter.com/backspace/status/1164214916028489728)使用液晶屏替代纸制地图，引起批评，因为液晶屏的分辨率太低了，细节根本不清晰。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090701.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090702.jpg)
 
 > - [肯德基](https://www.technologyreview.com/f/614226/kfc-is-testing-plant-based-chicken-nuggets-today-but-just-in-one-restaurant-for-now/)开始在美国出售植物鸡块。这些鸡块不是鸡肉，而是豆类植物制成的。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082807.jpg)
 
 > - [哈伯望远镜](https://www.spacetelescope.org/news/heic1917/)2019年6月20日拍到了最新的土星全景照。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091603.jpg)
 
 > - [苹果公司](https://www.apple.com/ipados/)正式发布 iPadOS，现在就可以安装升级。它将一些桌面电脑的功能引入了 iPad，比如 程序坞 dock 和支持直接插入U盘。苹果公司的产品线目前有五个操作系统：macOS、iOS、iPadOS、WatchOS、tvOS。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092501.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092502.jpg)
 
 > - [Stack Overflow](https://stackoverflow.blog/2019/09/24/announcing-stack-overflows-new-ceo-prashanth-chandrasekar/) 选择了一个印度人担任首席执行官。在硅谷高管级别，印度人比华人强太多了。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092503.jpg)
 
 ## 文章
 
@@ -202,19 +202,19 @@ Linux 是作为命令行下的服务器系统开发的，桌面环境一直不�
 
 1、[chart.xkcd](https://github.com/timqian/chart.xkcd)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081909.jpg)
 
 一个 XKCD 漫画风格的网页图表库。（@[timqian](https://github.com/ruanyf/weekly/issues/785) 投稿）
 
 2、[Rough.js](https://github.com/pshihn/rough/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081911.jpg)
 
 生成手绘风格图片的 JS 库。
 
 3、[material-admin](https://github.com/enilu/material-admin)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082001.jpg)
 
 基于 Spring Boot 的 Material Design 风格的通用后台管理系统。（@[enilu](https://github.com/ruanyf/weekly/issues/786) 投稿）
 
@@ -224,19 +224,19 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 5、[pagemap](https://larsjung.de/pagemap/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082004.jpg)
 
 一个 JS 库，在网页插入迷你的页面缩略导航图，用户可以点击这个图的不同部分，实现快速导航。
 
 6、[K2pdfopt](https://www.willus.com/k2pdfopt/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082011.jpg)
 
 一个 PDF 工具，将 PDF 文件重排成 Kindle 和手机可以阅读的页面大小。
 
 7、[starcharts](https://github.com/caarlos0/starcharts)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082302.jpg)
 
 一个开源工具，可以查看 GitHub 仓库的 Star 变化情况，生成折线图。（@[Imfondof](https://github.com/ruanyf/weekly/issues/790) 投稿）
 
@@ -250,19 +250,19 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 10、[Raccoon](https://raccoon.onyxbits.de/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082403.jpg)
 
 从 Google Play 将安卓 apk 安装包下载到桌面的工具。
 
 11、[ShowMeBug](https://www.showmebug.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091005.png)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091005.png)
 
 一个国产的在线实时编程环境，程序员面试助手，可以实时观看应聘者远程编程。（@[windy](https://github.com/ruanyf/weekly/issues/842) 投稿）
 
 12、[中国传统颜色手册](https://works.yangerxiao.com/chinese-colors/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092007.jpg)
 
 一个方便使用的在线色表，列出中国古典的常见颜色。（@[zerosoul](https://github.com/ruanyf/weekly/issues/865) 投稿）
 
@@ -300,9 +300,9 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 下图是瑞典首都斯德哥尔摩的电话塔。它从1887年至1913年是斯德哥尔摩主要的电话转接点之一，一共连接了大约5000条电话线。该塔在1913年退役，1953年因火灾而被拆除。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081102.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081103.jpg)
 
 2、[Guido van Rossum 老照片](https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/)
 
@@ -310,15 +310,15 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 1994年，他参加波兰的 Python 研讨会。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081207.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081207.jpg)
 
 2001年，Python 基金会成立。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081206.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081206.jpg)
 
 2014年，他进入 Dropbox 公司工作。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081205.jpg)
 
 ## 文摘
 
@@ -326,17 +326,17 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 2009年6月28日，英国著名物理学家霍金举行了一次时间旅行者宴会，欢迎未来的人们回到现在，参加这个宴会。房间布置了气球、香槟和美食，挂著大大的标语，写着“欢迎时间旅行者”。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081104.jpg)
 
 霍金在宴会举办前没有向任何人发出邀请。宴会结束后，他才发出请帖，邀请有“穿越”能力的人士赴宴。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081106.jpg)
 
 请帖上写著：“诚挚邀请你参加时间旅行者的宴会。宴会由史蒂芬·霍金教授举办。”请帖不但写明宴会的举办地点为英国剑桥大学冈维尔与凯斯学院，还贴心地标明了经纬度。
 
 霍金认为，如果有未来人看到这份请帖，并且能“穿越”回到过去，那么他在那次宴会上就会见到货真价实的“时间旅行者”。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081105.jpg)
 
 但是，完全没有人赴会。霍金说：““我坐了很长时间，但没有人来。我用实验证明，时间旅行不可能。”
 
@@ -346,7 +346,7 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 2、[马斯克的脑机接口](https://arstechnica.com/science/2019/08/elon-musks-neuralink-both-an-evolution-and-a-plan-for-radical-change/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081405.jpg)
 
 特斯拉公司的老板埃隆·马斯克（Elon Musk）的最新项目是一家脑机接口公司，将大脑连入计算机。
 
@@ -354,13 +354,13 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 他的新公司叫做 Neuralink（意为神经连接），必须通过手术，在人类体内植入硬件。这简直是将科幻小说的情节转变为一家公司，这到底是科学，还是科幻小说？
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081406.jpg)
 
 Neuralink 的计划是，通过一个小于8毫米的洞进入大脑，植入 4mm x 4mm 的芯片及相关的线路。该芯片将从位于耳后的无线硬件获得电源，并与之通信，就像当前的人工耳蜗植入一样。
 
 在大脑内部，芯片连接到一些小电路，这些小电路连到放在各个大脑区域的电极，监听神经元的电脉冲。芯片接收到神经活动的原始数据后，就会进行处理。电脉冲也可以通过这些电极发送到神经元，刺激大脑活动。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081407.jpg)
 
 总结一下，这个项目简单说，就是把电子植入物通过门诊手术放入大脑，通过无线方式与耳朵后面的硬件进行通信，整个系统全部由手机控制。整个过程没有任何一个部分超出现有技术，所有挑战应该都可以克服。
 
@@ -422,7 +422,7 @@ Rekursiv 是上世纪80年代苏格兰科学家推出的一种 CPU，从未商�
 
 去年的本周：[《周刊第 23 期》](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092101.jpg)
 
 ## 订阅
 

@@ -6,7 +6,7 @@
 
 周刊讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1106)，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011901.jpg)
 
 封面图：美国缅因州的河流中，自然形成了一个大冰盘，直径90米。（[出处](https://www.theguardian.com/us-news/2020/jan/19/maines-giant-spinning-ice-disc-looks-like-its-reforming)）
 
@@ -14,25 +14,25 @@
 
 上海现在有很多付费自习室，提供一个安静的学习环境，有的收费要超过20元/小时。生意应该很不错，否则不会开这么多家。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030407.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030409.jpg)
 
 网上有[一个视频](https://www.bilibili.com/video/av80434643)，采访那些顾客，为什么来自习？
 
 答案都是一样的：为了考试。各种各种的考试：研究生入学、公务员、会计上岗证、司法考试、CFA、注册会计师……
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030411.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030411.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030410.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030412.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030412.jpg)
 
 受访者说，来到收费自习室，可以保证全心备考，而且看到别人那么努力，也能激励自己。
 
 我不怀疑他们的学习精神，也相信自习室肯定有一定的效果。但是更赞同视频下面的一条留言。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030413.jpg)
 
 > “我真觉得，这些人，其实挺迷茫的……听上去感觉好像一个个都挺有上进心的，但是其实，没几个人真的知道自己要干嘛……”
 
@@ -62,7 +62,7 @@
 
 感兴趣的读者，长按下方二维码两次，现在就能**免费领取**这三个视频教程。温馨提示：资料数量有限，**仅提供259份。**
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030504.jpg)
 
 扫二维码，成功添加小助理，即可领取面试礼包。
 
@@ -70,7 +70,7 @@
 
 1、[算错小数点](https://o.canada.com/news/spain-builds-submarine-70-tons-too-heavy)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022409.jpg)
 
 西班牙造船厂由于算错了一个小数点，导致制造的潜艇超重了70吨（设计重量2200吨）。西班牙海军非常担心，如果它出海将无法浮出水面。
 
@@ -78,21 +78,21 @@
 
 2、[洞螈](https://www.sciencealert.com/scientists-don-t-think-this-olm-bothered-to-move-much-in-7-years)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022406.jpg)
 
 过去八年，欧洲科学家在波斯尼亚和黑塞哥维那东部的山洞里面，发现了大量的洞螈，大概有几十条。这种动物长约20厘米～30厘米，长得像迷你的龙，是两栖类动物，只分布在欧洲中部山区漆黑无光的山洞内部。
 
 由于长期不见光，它的眼睛已经退化了，被皮肤覆盖了，是一种没有眼睛的动物，没有视觉，只靠敏锐的嗅觉、水下听觉、以及对周围运动的感知来弥补视觉的丧失。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022407.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022408.jpg)
 
 科学家发现，这种动物的活动范围非常有限，几年时间中，只移动了不到10米。由于长期不动，它们的代谢极低，寿命长达一个世纪，每12年才繁殖一次。
 
 3、[带有脸部信息的口罩](https://tech.sina.cn/2020-02-17/detail-iimxyqvz3474565.d.html)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022007.jpg)
 
 疫情期间，口罩是必备物品。随之而来的一个问题是，苹果手机的 Face ID 无法识别出戴口罩的人脸，必须脱下口罩，手机才能开机。
 
@@ -100,9 +100,9 @@
 
 4、[连体翼飞机](https://www.reuters.com/article/us-singapore-airshow-airbus-design/airbus-unveils-blended-wing-body-plane-design-after-secret-flight-tests-idUSKBN20509H)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020021117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020021117.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020021404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020021404.jpg)
 
 空中客车公司在新加坡航空展上，放出了长达二米的连体翼飞机模型，表示他们正在研发这种机身和机翼一体化的飞机，并且已经于去年6月在法国试飞了。
 
@@ -110,17 +110,17 @@
 
 5、[独轮车环游地球](https://www.outsideonline.com/2407533/unicycle-travel-gear)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020021111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020021111.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020021114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020021114.jpg)
 
 英国青年埃德·普拉特（Ed Pratt）最近成为第一个骑独轮车环游世界的人。2015年3月，当时19岁的他从英国出发，经过3年时间，路经了欧洲、中东、中亚、中国、东南亚、澳大利亚、新西兰和美国之后，他终于回到了起点。
 
 他的交通工具就是一辆独轮车，为了省力，选择了36英寸（91厘米）的轮胎。 他的所有装备也放在独轮车上（下图），一路上一共换过5次轮胎，平均每个轮胎可以使用8000公里。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020021112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020021112.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020021113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020021113.jpg)
 
 6、 **一句话消息**
 
@@ -128,15 +128,15 @@
 
 > - [数码相机](https://finance.technews.tw/2019/12/30/digital-camera-shipments/) 2019年的全球出货量只有1,500万台左右，比2018年减少20%，是2001年（1,475万台）以来的最低点。相比巅峰时期的2010年（1亿2,146万台），销量只剩下八分之一。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020010305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020010305.jpg)
 
 > - [德国大众汽车公司](https://www.thedrive.com/news/31162/volkswagen-axes-all-non-electric-racing-programs-worldwide)宣布，不再参与电动汽车以外的赛车活动。汽车公司参与赛车，主要是为了推销汽车，大众公司将逐步停止内燃机汽车的生产，也就不需要参与汽油车的赛车了。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112304.jpg)
 
 > - [日本科学家](http://www.k2.t.u-tokyo.ac.jp/vision/DPM/)2016年发明了第一代动态投影机，在投射表面涂一层红外线涂料，就可以使得弯曲表面也获得清晰不变形的投影效果（下图）。目前[第二代](http://www.k2.t.u-tokyo.ac.jp/vision/MIDAS/index-e.html)问世了，已经不需要涂料，可以直接投影在弯曲表面。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019112203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112203.jpg)
 
 ## 文章
 
@@ -164,7 +164,7 @@ Shopify 决定放弃原生应用，改用 React Native 开发他们的手机 App
 
 6、[松本行弘谈 Ruby 语言的设计](https://evrone.com/yukihiro-matsumoto-interview)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011907.jpg)
 
 Ruby 语言创始人松本行弘的访谈，介绍他对设计 Ruby 语言的想法，内容包括静态类型和动态类型的处理、未来 Ruby 的发展方向。
 
@@ -200,7 +200,7 @@ Ruby 语言创始人松本行弘的访谈，介绍他对设计 Ruby 语言的想
 
 4、[简易数学函数作图工具](https://helloacm.com/tools/math-plot-graph/)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022301.jpg)
 
 一个在线生成数学函数图形的网页小工具。（@[DoctorLai](https://github.com/ruanyf/weekly/issues/1102) 投稿）
 
@@ -218,19 +218,19 @@ Ruby 语言创始人松本行弘的访谈，介绍他对设计 Ruby 语言的想
 
 8、[GoatCounter](https://www.goatcounter.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011501.jpg)
 
 一个开源的访客统计软件。
 
 9、[Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011307.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011307.jpg)
 
 Chrome 浏览器插件，可以在 Netflix 的视频页面上同时显示原文和英语字幕，适合学习外语，需要用户有 Netflix 收看资格。
 
 10、[Clipboard History Pro](https://chrome.google.com/webstore/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011301.jpg)
 
 Chrome 浏览器插件，用来管理系统的剪贴板，可以查看剪贴板的历史记录。
 
@@ -250,13 +250,13 @@ Chrome 浏览器插件，用来管理系统的剪贴板，可以查看剪贴板�
 
 4、[黑客的贝叶斯方法：以 Python 为例](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030502.jpg)
 
 免费的英文电子书，讲解贝叶斯概率在 Python 语言中的应用。
 
 5、[Go 101](https://github.com/go101/go101/releases)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030501.jpg)
 
 免费的英文电子书，介绍 Go 语言的基本语法。
 
@@ -268,27 +268,27 @@ Chrome 浏览器插件，用来管理系统的剪贴板，可以查看剪贴板�
 
 世界自然基金会最近的一项研究得出结论，人们每周可能摄入5克塑料纤维，相当于一张塑料信用卡的量，可以填满一个汤匙。这些塑料纤维进入人体的消化系统，大部分会被排解掉。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020010105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020010105.jpg)
 
 每个月食用21克塑料，相当于小半碗饭。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020010106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020010106.jpg)
 
 半年食入125克塑料，相当于一大碗。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020010107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020010107.jpg)
 
 每年食入250克塑料，相当于一盆菜。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020010108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020010108.jpg)
 
 每10年食入2.5公斤塑料，相当于一个救生圈。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020010109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020010109.jpg)
 
 一生中食入20公斤塑料，相当于两个垃圾桶。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020010110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020010110.jpg)
 
 2、[香槟的压力](https://www.atlasobscura.com/articles/history-of-champagne)
 
@@ -298,17 +298,17 @@ Chrome 浏览器插件，用来管理系统的剪贴板，可以查看剪贴板�
 
 因此，香槟酒工人只好戴着铁的保护面罩，来制造葡萄酒，防止受到爆瓶的伤害。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020010607.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020010607.jpg)
 
 3、[澳大利亚一家停车场的创意](http://architypereview.com/project/eureka-tower-car-park-signage/)
 
 下面的标记都是真实的，利用视觉错位涂绘。（@[StevenLikeWatermelon](https://github.com/ruanyf/weekly/issues/1058) 投稿）
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011704.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030405.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030406.jpg)
 
 ## 文摘
 
@@ -316,7 +316,7 @@ Chrome 浏览器插件，用来管理系统的剪贴板，可以查看剪贴板�
 
 Tony Hoare 曾经说过：“过早的优化是万恶之源”。经过 Donald Knuth 大师的推荐，这句话已成为软件工程师的名言。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030404.jpg)
 
 不幸的是，它被误解扭曲了。许多软件工程师将这一准则理解成“你永远不应该优化代码！”，认为没有必要进行优化。
 
@@ -338,19 +338,19 @@ Tony Hoare 和 Donald Knuth 的真正意思是，代码微优化（例如，一�
 
 你是否想过，为什么向地上倒了一摊水，土地就变暗了？
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011008.jpg)
 
 首先，我们要知道，物体的亮或暗，取决于反射的光的数量。反射的光线多，就比较亮；反射的光线少，就比较暗。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011009.jpg)
 
 当我们向土地倒水的时候，湿的那块地的表面就有一层水。在此之前，光可以100%击中那块地，现在必须穿过那层水才能被地面反射。有一些光会被水面反射，还有一些光会在水中被吸收，所以地面接受的光量就比以前少。
 
 另外，光进入水中后，一部分光会出现漫反射，反射到人眼的光量进一步减少。
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011010.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011011.jpg)
 
 以上两个原因，使得一个物体变湿以后，人眼接收到的光量要小得多。这就是为什么物体潮湿时看起来更暗的原因。
 
@@ -398,7 +398,7 @@ Git 从2005年4月3日开始开发，4月6日完成开发，对外宣布，4月7
 
 去年的本周：[《周刊第 46 期》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030801.jpg)
 
 ## 订阅
 

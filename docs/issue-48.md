@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032201.jpg)
 
 上图是世界最著名的程序员之一：Bill Joy。
 
@@ -20,7 +20,7 @@
 
 1、[汽水税](https://www.inverse.com/article/53465-is-the-soda-tax-working-yes-actually-it-is)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032202.jpg)
 
 2014年，美国加州伯克利市宣布开征“汽水税”，希望降低人们对含糖饮料的消费，因为大量喝含糖饮料会导致肥胖和糖尿病。
 
@@ -28,7 +28,7 @@
 
 2、[世界最大的蜜蜂](http://www.nhm.ac.uk/discover/news/2019/february/the-worlds-largest-bee-rediscovered-after-38-years.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032203.jpg)
 
 印度尼西亚北部的一个小岛上，生活着一种世界最大的蜜蜂 Megachile pluto，比普通蜜蜂大四倍。上次人们看到这种蜜蜂，还是在1981年。
 
@@ -36,11 +36,11 @@
 
 2019年1月，一支由美国、澳大利亚、加拿大科学家组成的团队，前往寻找这种蜜蜂。在一个小岛上搜寻五天后，终于在离开前一天，他们发现了这种蜜蜂的活体。科学家希望印尼政府对此采取保护措施。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032204.jpg)
 
 3、[仍在使用的寻呼机](https://www.bbc.com/news/technology-47332415)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032205.jpg)
 
 上个世纪80年代，手机普及之前，寻呼机曾被广泛使用，目前已经淘汰了。但是，医疗行业仍在使用寻呼机，单单是英国，还有13万台寻呼机在使用中。医疗行业的许多人认为，寻呼机快速可靠，尤其在紧急情况下有重要作用。
 
@@ -48,13 +48,13 @@
 
 4、[ARM 芯片的 Mac](https://www.axios.com/apple-macbook-arm-chips-ea93c38a-d40a-4873-8de9-7727999c588c.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032206.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032206.jpg)
 
 有迹象表明，苹果公司可能会在2020年，将 Mac 电脑的 CPU 芯片从 Intel 的 x86 改为 ARM 芯片，主要目的是让 iPhone、iPad 和 Mac 可以运行同一个应用程序。Mac 以前也改过 CPU 芯片，当时是从摩托罗拉的 PowerPC 芯片改成英特尔。
 
 5、[转基因蚊子](https://www.npr.org/sections/goatsandsoda/2019/02/20/693735499/scientists-release-controversial-genetically-modified-mosquitoes-in-high-securit)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032207.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032207.jpg)
 
 意大利的一个实验室已经培养出了转基因蚊子。这种蚊子的嘴巴类似于雄蚊子的嘴巴，所以不能咬人，因此无法传播病菌。此外，这种蚊子的生殖器官变形，这意味着它们不能产卵。这些基因改变会传给下一代，这意味着有可能让蚊子灭绝。
 
@@ -62,23 +62,23 @@
 
 6、[维珍银河的第一位太空乘客](https://www.cnbc.com/2019/02/22/richard-bransons-virgin-galactic-sends-first-test-passenger-on-spaceflight.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032208.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032208.jpg)
 
 2月22日，英国太空飞机公司维珍银河（Virgin Galactic），搭载了第一位太空乘客，进行了试飞。飞机飞到距离地面90公里的太空，然后安全返回。该公司计划开展太空观光，让游客在太空观看地球，并且体验失重，据称目前已经有600多人报名。
 
 这次的乘客是一名叫做 Beth Moses 的女性，在维珍银河担任太空乘客的培训老师。与她一起上天的还有两名飞行员。下图是飞行过程的示意图。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032209.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032209.jpg)
 
 7、[机器人菩萨](https://sea.mashable.com/culture/2515/japan-just-created-possibly-the-worlds-first-android-deity-a)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032210.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032210.jpg)
 
 2月23日，日本京都的高台寺公开展示了一个机器人菩萨 Kannon，它象征日本的怜悯之神，造价90万美元。该机器人身高1米95，会念《心经》，进行佛教布道。
 
 该机器人内部安装了 Android 系统，它是世界上第一个受到信徒崇拜的机器人。它的左眼安装了一个摄像头，可以移动头部，手臂和躯干。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032211.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032211.jpg)
 
 8、**一句话新闻**
 
@@ -87,7 +87,7 @@
 * [特斯拉公司](https://www.tesla.cn/blog/introducing-v3-supercharging)发布新的超级充电桩，充电5分钟可以行驶120公里，使得用户平均减少充电时间50%。<br /><br />
 * [互联网](https://mashable.com/article/google-doodle-world-wide-web/#rKtA5.brRZqx)是1989年3月12日由 Tim Berners-Lee 发明的，三十周年纪念日来临之际，谷歌发布了一个纪念 Doodle。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032212.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032212.jpg)
 
 ## 文章
 
@@ -117,21 +117,21 @@ Unix 命令行有许多操作文本的命令，本文逐一介绍。
 
 7、[橙色的历史](https://mymodernmet.com/history-color-orange/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032213.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032213.jpg)
 
 欧洲人直到16世纪才开始使用这种颜色。橙色象征着生育和富饶，上图是1895年的油画，反映了穿着橙色长袍的青年女性。
 
 8、[Beacon：暗网的搜索引擎](https://hothardware.com/news/beacon-dark-web-search-engine-probes-the-internet-underworld)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032214.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032214.jpg)
 
 暗网必须在加密条件下才能访问。Beacon 是一个暗网的搜索引擎，允许在正常网络中搜索暗网的信息，该工具目前还没有正式推出，本文只是介绍。
 
 9、[网站扩展的图说教程](https://arcentry.com/blog/scaling-webapps-for-newbs-and-non-techies/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032215.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032215.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032216.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032216.jpg)
 
 本片使用多张图片，通俗地解释如何拓展网站服务，承受更大的访问量。
 
@@ -163,7 +163,7 @@ Unix 命令行有许多操作文本的命令，本文逐一介绍。
 
 5、[gitignore.io](https://gitignore.io/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032217.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032217.jpg)
 
 生成 gitignore 文件的网站。
 
@@ -173,7 +173,7 @@ Unix 命令行有许多操作文本的命令，本文逐一介绍。
 
 7、[TLDR 小程序](https://linux.cn/article-10528-1.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032218.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032218.jpg)
 
 TLDR 项目移植到小程序，微信查看 Linux 命令。（@[zqb-all](https://github.com/ruanyf/weekly/issues/274) 投稿）
 
@@ -183,13 +183,13 @@ WireGuard 的 Mac 客户端。
 
 9、[Sloth](https://github.com/sveinbjornt/Sloth)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032219.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032219.jpg)
 
 Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的文件和系统连接（socket），基本上就是 lsof 命令的图形界面。
 
 10、[Marp](https://yhatt.github.io/marp/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032220.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032220.jpg)
 
 跨平台的桌面工具，将 Markdown 文档转成幻灯片。
 
@@ -199,7 +199,7 @@ IMAP 电子邮件协议可以实时推送邮件，COI 就是基于这一点实�
 
 12、[coderplanets](https://coderplanets.com/home/posts)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032221.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032221.jpg)
 
 小众语言的社区，可以建立各种主题的子社区。[CodePlantes](https://github.com/coderplanets/coderplanets_server) 是开源的，服务端使用  Elixir 语言编写。（@[mydearxym](https://github.com/ruanyf/weekly/issues/352) 投稿）
 
@@ -211,7 +211,7 @@ BT 下载需要有稳定的 Tracker 服务，该网站收集可用的 Tracker �
 
 2、[Treeographer](https://thetreeographer.com/archive/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032222.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032222.jpg)
 
 该网站收集各种著名树木的历史。
 
@@ -225,7 +225,7 @@ BT 下载需要有稳定的 Tracker 服务，该网站收集可用的 Tracker �
 
 5、[Grokking Deep Learning](https://livebook.manning.com/#!/book/grokking-deep-learning/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032223.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032223.jpg)
 
 深度学习入门教材的在线阅读。
 
@@ -239,7 +239,7 @@ Marc Andreessen 是 Netscape 浏览器创始人，现在是硅谷著名的风险
 
 8、[GeoFS](https://www.geo-fs.com/int/cn/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032224.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032224.jpg)
 
 GeoFS是一个免费的在线飞行模拟器，包含全球的真实景色。你只需要一个网页浏览器就能运行它。（@[JeremiahZhang](https://github.com/ruanyf/weekly/issues/360) 投稿）
 
@@ -263,11 +263,11 @@ GeoFS是一个免费的在线飞行模拟器，包含全球的真实景色。你
 
 微出行更节省空间。下图是60个人的出行方式，左边是他们全部驾驶汽车占据的空间，右边是他们步行、骑自行车、乘公共汽车占据的空间。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032225.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032225.jpg)
 
 下图是哥本哈根的一所学校，停放汽车和停放自行车的对比。同样的空间，只能停放七八辆汽车，如果改成自行车，可以停放100多辆。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032226.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032226.jpg)
 
 电动滑板车还允许骑车者彼此之间保持较短的安全距离。这两个因素相结合，将导致交通流量增加10倍。
 
@@ -279,13 +279,13 @@ GeoFS是一个免费的在线飞行模拟器，包含全球的真实景色。你
 
 一座充满自行车的城市，远远比充满汽车的城市更适合居住。下图是30年前和现在的丹麦街道的对比，该国大力推广自行车取代汽车。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032227.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032227.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032228.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032228.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032229.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032229.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032230.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032230.jpg)
 
 这些变化不仅仅对城市风貌有影响，还对当地经济产生影响：它增加了客流量和当地企业的收入。这反过来提升了社区的房地产价值。
 
@@ -295,7 +295,7 @@ GeoFS是一个免费的在线飞行模拟器，包含全球的真实景色。你
 
 我最喜欢的例子是洛杉矶，用约翰列侬的话说，它只是一个“停车场，你可以在那里购买一个去旧金山的汉堡包。”洛杉矶的停车场面积是曼哈顿的四倍多，这个城市很像一个巨大的停车场。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032231.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032231.jpg)
 
 一个外人来到美国城市，感觉就像一个二等公民。因为这些城市明显地是为汽车设计的，不是为行人设计的。走在城里，缺乏视觉多样性，使得行走很无聊，根本无法长时间闲逛，而且长时间在高楼的阴影里也不健康。
 
@@ -309,15 +309,15 @@ GeoFS是一个免费的在线飞行模拟器，包含全球的真实景色。你
 
 相隔46年之后，著名的 Lena 重拍了一张当年姿势的照片。那时她21岁，现在67岁。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032232.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032232.jpg)
 
 2、[太空殖民的概念图](https://publicdomainreview.org/collections/space-colony-art-from-the-1970s/)
 
 1970年代，美国宇航局委托物理学家，绘制太空殖民的概念图，1万人左右的太空殖民点可能是什么样子。下面就是当时绘制的一些想象图。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032233.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032233.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019032234.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032234.jpg)
 
 ## 本周金句
 
