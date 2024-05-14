@@ -144,7 +144,7 @@ $ grep -nri css docs | cat --number
 
 ## 2022
 
-十二月
+**十二月**
 
 - 第 237 期：[真实方位是如何暴露的？](docs/issue-237.md)
 - 第 236 期：[中国的阳光地带](docs/issue-236.md)
@@ -152,20 +152,20 @@ $ grep -nri css docs | cat --number
 - 第 234 期：[AI 聊天有多强](docs/issue-234.md)
 - 第 233 期：[生活就像一个鱼缸](docs/issue-233.md)
 
-十一月
+**十一月**
 
 - 第 232 期：[好用的平面设计软件](docs/issue-232.md)
 - 第 231 期：[互联网公司需要多少员工？](docs/issue-231.md)
 - 第 230 期：[电子产品的用电量](docs/issue-230.md)
 - 第 229 期：[手机充电问题的解决](docs/issue-229.md)
 
-十月
+**十月**
 
 - 第 228 期：[人类和人生的意义](docs/issue-228.md)
 - 第 227 期：[脸书的公司入职教育](docs/issue-227.md)
 - 第 226 期：[谷歌出了什么问题？](docs/issue-226.md)
 
-九月
+**九月**
 
 - 第 225 期：[游戏 NPC 也是一种职业](docs/issue-225.md)
 - 第 224 期：[Figma 为什么赢了 Sketch](docs/issue-224.md)
@@ -173,14 +173,14 @@ $ grep -nri css docs | cat --number
 - 第 222 期：[四十年编程感想](docs/issue-222.md)
 - 第 221 期：[全世界最繁荣的行业](docs/issue-221.md)
 
-八月
+**八月**
 
 - 第 220 期：[人工智能的机会在哪里](docs/issue-220.md)
 - 第 219 期：[如何防止帐号被黑](docs/issue-219.md)
 - 第 218 期：[葡萄酒，樱花，全球变暖](docs/issue-218.md)
 - 第 217 期：[沙特的新未来城](docs/issue-217.md)
 
-七月
+**七月**
 
 - 第 216 期：[极简主义的胜利](docs/issue-216.md)
 - 第 215 期：[互联网最喜欢的行为模式](docs/issue-215.md)
@@ -188,13 +188,13 @@ $ grep -nri css docs | cat --number
 - 第 213 期：[知识孤岛，知识软件](docs/issue-213.md)
 - 第 212 期：[人生不短](docs/issue-212.md)
 
-六月
+**六月**
 
 - 第 211 期：[虚拟商品可以拉动 GDP](docs/issue-211.md)
 - 第 210 期：[为什么软件变得复杂](docs/issue-210.md)
 - 第 209 期：[程序员是怎样的人](docs/issue-209.md)
 
-五月
+**五月**
 
 - 第 208 期：[晋升制度的问题](docs/issue-208.md)
 - 第 207 期：[汽车行业的顶峰可能过去了](docs/issue-207.md)
