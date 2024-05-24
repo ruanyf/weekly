@@ -226,7 +226,7 @@ AI 现在国内这么热，一个很大的原因是，大家看到了里面的�
 
 ![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022101.webp)
 
-作者讲解如何用邮猴脚本，为网页添加自己的快捷键。
+作者讲解如何用油猴脚本，为网页添加自己的快捷键。
 
 4、[CSS :has() 选择器教程](https://ishadeed.com/article/css-has-guide/)（英文）
 
