@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **五月**
 
+- 第 301 期：[OpenAI 的图书馆工位](docs/issue-301.md)
 - 第 300 期：[三十年，解决人生三大问题](docs/issue-300.md)
 - 第 299 期：[AI 的关键是语料](docs/issue-299.md)
 
