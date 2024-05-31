@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/4390)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/4550)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索 
 
@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **五月**
 
+- 第 302 期：[创业虽然好，不敢推荐了](docs/issue-302.md)
 - 第 301 期：[OpenAI 的图书馆工位](docs/issue-301.md)
 - 第 300 期：[三十年，解决人生三大问题](docs/issue-300.md)
 - 第 299 期：[AI 的关键是语料](docs/issue-299.md)
