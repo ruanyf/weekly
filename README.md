@@ -27,6 +27,10 @@ $ grep -nri css docs | cat --number
 ```
 ## 2024
 
+**六月**
+
+- 第 303 期：[技术封建主义](docs/issue-303.md)
+
 **五月**
 
 - 第 302 期：[创业虽然好，不敢推荐了](docs/issue-302.md)
