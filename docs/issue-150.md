@@ -82,19 +82,19 @@ React 框架是2013年发布的，至今已经七年了。从那时起，它就�
 
 2、[太阳能睡眠舱](https://www.distractify.com/p/ulmer-nest-homeless-sleeping-pods)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020702.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020703.jpg)
 
 由于大量接收难民，德国很多城市都有无家可归的流浪者，冬季的严寒使得他们的生存成了问题。乌尔姆市的志愿者制造了太阳能睡眠舱，解决流浪者的夜间避寒问题。
 
 睡眠舱具有很好的隔热性，并且配备了太阳能电池板，用以提升舱内温度。设计人员说，这种睡眠舱只能供紧急状况使用，不能当作永久住房，流浪者还是应该优先考虑室内的庇护所。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020704.jpg)
 
 3、[氢化镁燃料](https://www.inceptivemind.com/powerpaste-high-density-safe-easily-transportable-hydrogen-energy-fuel/17468/)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020803.jpg)
 
 氢气是一种环保新能源，但是很难储存，因为它太轻了容易逃逸，而且难以压缩体积，储存和运输的成本都很大。德国科学家研发了固态的氢化镁糊剂，尝试解决这个问题。
 
@@ -102,7 +102,7 @@ React 框架是2013年发布的，至今已经七年了。从那时起，它就�
 
 它的优点是能量密度是锂电池的十倍，也就是说，同样能量的锂电池体积是它的十倍。而且添加燃料非常简单，只要用新的燃料盒替换原来的即可。下图就是氢化镁发电机，右下角的白色盒子就是燃料盒。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020804.jpg)
 
 4、[可以当显示器的衣服](https://www.jiqizhixin.com/articles/2021-03-11-4)
 
@@ -257,7 +257,7 @@ DOS 游戏仓库，收集的所有 DOS 游戏都可以在浏览器里玩。
 
 5、[通过 VS Code 学习 Vim](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents/)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021022001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022001.jpg)
 
 免费的英文电子书，通过 VS Code 的 Vim 插件，教你如何使用 Vim。
 
@@ -299,13 +299,13 @@ Windows XP 的默认壁纸，大概是世界上观看次数最多的照片之一
 
 政府指定36岁的测量工程师乔塔姆（Khim Lal Gautam）带领一个小组，完成此次任务。乔塔姆本人就是在喜马拉雅山区出生并长大。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121004.jpg)
 
 他们需要爬到珠穆朗玛峰顶，放置一个 GPS 信号接收器和天线。在此之前，需要先搜集海平面数据，然后从孟加拉湾（Bay of Bengal）开始逐步测量，之字形地向北推进，把沉重的装备从这个山头扛到那个山头，直到那最高峰出现在视线中为止，确定了大本营周围的大地水准面细节，才能算出高度。 
 
 2019年3月22日，天气预报晴。当天有许多登山队，预计将有223名登山者登上珠穆朗玛峰。由于携带的设备较多，为了避免堵塞道路，乔塔姆和一个同事，以及一个向导，不得不在凌晨3点开始向顶峰攀登。另外80人的队伍在大本营等着接收他们的信号。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121005.jpg)
 
 珠穆朗玛峰的峰顶很小，只能站六个人。大多数登山者登顶以后，拍几张照片就下撤了，一般只会待几分钟。因为下山比上山更危险，必须留出足够的时间。但是，乔塔姆必须在峰顶调试设备，部署 GPS 接收器，以及部署用来测量积雪厚度的透地雷达，并要确保能够接通卫星信号。他最终在零下43度的珠穆朗玛峰顶，待了1小时45分钟。
 

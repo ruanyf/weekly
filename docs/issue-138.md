@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121503.jpg)
 
 波士顿动力公司的机器狗生产车间，很像科幻电影的机器人军团。该公司最近以11亿美元的价格，卖给了韩国现代汽车集团。（[via](https://bdtechtalks.com/2020/12/15/boston-dynamics-hyundai-acquisition/)）
 
@@ -24,7 +24,7 @@
 
 我今天想说的是，这种“工作型人生”已经过时了。要是现在你还把上班当作人生的主轴，是一件很危险的事情，因为失业的风险越来越大。 **时代变了，稳定的工作越来越少，失业会是家常便饭，人生已经没法依附在某一份具体的工作上了。**
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121704.jpg)
 
 由于经济全球化和技术进步，行业的兴衰正变得越来越快。往往几年时间，新事物就彻底取代了旧事物，比如网络淘汰了报纸杂志，电动车淘汰汽油车，自动驾驶以后会淘汰司机。新行业瞬间崛起，又瞬间衰落，共享单车、P2P 网贷、长租公寓等等都是如此。
 
@@ -48,7 +48,7 @@
 
 本周的课程资料就是来自 “开课吧” 的视频课程 **《数据分析手册》** ，由廖雪峰老师研发打造的系统化培训内容。它从最简单的讲起，帮你入门这三种数据分析工具，同时学会数据分析的逻辑与思路。视频中的所有案例，可以直接拿来解决工作中遇到的真实问题。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121510.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121510.jpg)
 
 课程讲师都是来自大型互联网企业的数据分析师，既有大量的实战经验，也是企业的面试官，可以让大家了解主流企业的技术方案、方法论和面试技巧。
 
@@ -56,15 +56,15 @@
 
 访问[这个链接](https://wx.kaikeba.com/vip_course/ico0coegcs/necmksogn7?tenant=wx5046bc7413796142)，或者微信扫描下面的二维码，**前 200名 读者** 可以免费领取。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121511.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121511.jpg)
 
 ## 资讯
 
 1、[木制集装箱船](https://www.bbc.com/future/article/20201117-clean-shipping-the-carbon-negative-cargo-boats-made-of-wood)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120104.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120106.jpg)
 
 一个哥斯达黎加环保组织正在做实验，建造一艘木制的远洋集装箱货轮，船体全部由木材构成，不使用任何化石燃料，动力来自风帆与太阳能，通过电动机穿越海洋。
 
@@ -74,21 +74,21 @@
 
 2、[3D 打印住宅](https://www.chinapress.com.my/20201203/%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%A4%A73d%E5%88%97%E5%8D%B0%E4%BD%8F%E5%AE%85-2%E4%BA%BA25%E5%B0%8F%E6%97%B6%E7%9B%96%E5%A5%BD%E4%B8%80%E6%A5%BC/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120912.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120912.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120914.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120914.jpg)
 
 德国巴伐利亚的一家开发商，正在使用丹麦公司 COBOD 制造的大型 3D 打印机，打印全欧洲最大的 3D 打印住宅。开发商希望这样可以省时省力，为建筑业带来新模式。
 
 这个住宅楼一共有三层，分为5间公寓。3D 打印机挤出混和好的水泥，一层层堆叠建成房屋，同时留出安装天然气、水电、污水管道的空间。打印第一层楼只用了两个工人，花了25小时，以往需要5个工人投入5天时间。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120911.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120913.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120913.jpg)
 
 3、[Airbnb 原始股](https://www.npr.org/2020/12/12/945871818/they-ignored-or-deleted-the-email-from-airbnb-it-was-a-15-000-mistake)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121509.jpg)
 
 在线订房平台 Airbnb 公司最近股票上市，涨势相当好。上市之前，它做出了一个与众不同的安排，决定向长期在它上面出租房屋的成千上万个房东，提供购买200股原始股的机会。
 
@@ -96,9 +96,9 @@
 
 4、[法拉第笼](https://www.theverge.com/tldr/22150497/wi-fi-router-faraday-cage-electromagnetic-radiation-conspiracy-theory-scam)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121001.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121002.jpg)
 
 社会上一直有一种说法，无线网络信号有害健康。一家厂商就利用公众的这种心理，在美国亚马逊网络商店出售“法拉第笼”，号称专为家用路由器器设计。只要把路由器放在里面，就可有效遮蔽电磁波、辐射等带来的伤害，让你获得健康生活。它的价格为190 美元。
 
@@ -106,11 +106,11 @@
 
 还真的有不少人上当购买，网页的商品评价部分有大量的一星评价。购买者纷纷抱怨，路由器放进去以后，信号就变差了。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121003.jpg)
 
 5、[《赛博朋克2077》](https://games.yahoo.com.tw/55tbps-034533156.html)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121709.jpg)
 
 近来最受瞩目的游戏一定是《赛博朋克2077》，它创下了游戏史的诸多纪录。12 月 10 日发售当天，它在 Steam 游戏平台的下载流量峰值达到了 51 Tbps，大大超过了2017年 PUBG 创下的 22 Tbps 下载纪录。
 
@@ -120,43 +120,43 @@
 
 > - [一家美国创业公司](https://www.businessinsider.com/aevum-unveils-largest-drone-world-ravn-x-rocket-launching-uav-2020-12)建造了世界最大的无人机，机长25米，翼展18米，起飞重量25吨。它用来将卫星送上太空，先飞到高空，然后发射二级火箭，将卫星送入轨道。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120420.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120420.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120421.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120421.jpg)
 
 > - [英国空军](https://www.bbc.com/news/science-environment-55196220)在南大西洋拍到了世界上最大冰山的照片。这座冰山于2017年7月从南极洲的冰架上脱离，当时面积接近6,000平方公里，经过3年多，现在面积为4,200平方公里。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120507.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120508.jpg)
 
 > - [宜家](https://www.fastcompany.com/90583227/after-70-years-ikea-will-stop-making-its-beloved-catalog)宣布停止制作产品目录，因为消费者越来越多通过网站来寻找产品，目录的作用越来越小。该目录已经有70年历史，译成32种语言，在50多个国家发行。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120802.jpg)
 
 > - [特斯拉](https://www.reuters.com/article/idUSKBN28I0T2)正在筹备柏林工厂，需要砍伐一大片树林。市政府担心惊醒树林里面冬眠的蛇，特斯拉迟迟拿不到动工许可证。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120907.jpg)
 
 > - [亚马逊旗下子公司](https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/?sh=147b60abc916)发布电动汽车 Zoox，计划在几年后提供无人驾驶的出租车服务。该车没有驾驶员座位，只有四个乘客座位。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121507.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121508.jpg)
 
 ## 文章
 
 1、[我造了一个海上居住平台](https://mp.weixin.qq.com/s/oYWaosf_lth0h07LODNRRA?)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121301.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121302.jpg)
 
 屋主在福建东山岛的海面上建造一栋海上房屋，今年作为酒店开放了。它距离海岸直线距离400米，水电都是通过管道从岸上供应的，总造价400万人民币。
 
 2、[25号宇宙试验](https://zhuanlan.zhihu.com/p/28837526)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121407.jpg)
 
 1968年，一位美国教授做了一个实验。他让8只老鼠生活在一个没有天敌、有足够粮食和空间，可以自由繁殖的环境，看看会发生什么。
 
@@ -164,13 +164,13 @@
 
 3、[《自然》杂志：2020年十佳科学照片](https://www.nature.com/immersive/d41586-020-03436-5/index.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121502.jpg)
 
 《自然》杂志评选出的2020年十佳科学照片。上图是沙特阿拉伯的科学家发明的太阳能电池，又轻又薄，可以放在肥皂泡上。
 
 4、[2020美国程序员薪资报告](https://www.levels.fyi/2020/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121601.jpg)
 
 levels.fyi 又公布了一年一度的美国程序员薪资报告，有很多数据，感兴趣的朋友可以看看。上图是初级工程师/程序员薪资最高的公司，真是很高的报酬。
 
@@ -184,7 +184,7 @@ levels.fyi 又公布了一年一度的美国程序员薪资报告，有很多数
 
 7、[如何优雅地从总统竞选中套利？](http://morefreeze.github.io/2020/12/president-arbitrage.html)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121702.jpg)
 
 周刊136期英语文章《赔率是怎么回事？ 》的中文解读，利用两个不同网站对美国总统大选的赔率差异，进行套利。（[@morefreeze](https://github.com/ruanyf/weekly/issues/1557) 投稿）
 
@@ -194,13 +194,13 @@ levels.fyi 又公布了一年一度的美国程序员薪资报告，有很多数
 
 9、[如何自动生成社交媒体的网页题图](https://www.ryanfiller.com/blog/automatic-social-share-images/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120504.jpg)
 
 很多社交媒体会对网址生成预览卡，作者讲述如何定制这种预览效果，并且为每个网址自动生成一张题图。
 
 10、[我与 Python](https://neopythonic.blogspot.com/2016/04/kings-day-speech.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120505.jpg)
 
 这是 Python 语言创始人 Guido van Rossum 2016年的一次演讲，讲述自己的经历，以及如何创造出 Python 这种语言。
 
@@ -210,49 +210,49 @@ levels.fyi 又公布了一年一度的美国程序员薪资报告，有很多数
 
 1、[TinyCheck](https://github.com/KasperskyLab/TinyCheck)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120411.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120411.jpg)
 
 卡巴斯基实验室的产品，一个移动通信网关，用来中介智能手机与外界的网络通信，看看手机到底发出什么请求。
 
 2、[Hieroglyph](https://hierogly.ph/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120418.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120418.jpg)
 
 一个在线工具，用来下载 Youtube 视频的字幕文件，前提是该视频存在单独的字幕文件。
 
 3、[Antipodes Map](https://www.antipodesmap.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120506.jpg)
 
 这个地图工具可以显示任意地点在地球另一边的对应地点，比如在上海打一个洞穿越地心，就会来到阿根廷的恩特雷里奥斯省。
 
 4、[Espial](https://github.com/jonschoning/espial) 
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120522.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120522.jpg)
 
 一个自己架设的 Web 书签服务，支持多账户使用，底层使用 Sqlite3 数据库。
 
 5、[electron-playground](https://github.com/tal-tech/electron-playground)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121604.jpg)
 
 一个 Electron 的学习工具，内置了各种可演示的示例，并且提供了演练场，几乎所有的代码都可以即时运行查看效果。（[@Gstring-w](https://github.com/ruanyf/weekly/issues/1541) 投稿）
 
 6、[npm-unpkg](https://github.com/uiwjs/npm-unpkg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121606.jpg)
 
 一个在线工具，可以查看 JS 软件包里面包含哪些文件，每个文件的源码。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/1554) 投稿）
 
 7、[Depix](https://github.com/beurtschipper/Depix)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120701.jpg)
 
 发布图片时，很多人喜欢使用马赛克隐去敏感信息，这个工具可以将打马赛克的文字还原。所以，隐藏信息尽量不要使用马赛克，最好是覆盖掉。
 
 8、[Watermark Video](https://shotstack.io/demo/watermarker/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120915.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120915.jpg)
 
 一个开源的在线工具，可以为小视频加上水印图片。
 
@@ -262,7 +262,7 @@ levels.fyi 又公布了一年一度的美国程序员薪资报告，有很多数
 
 10、[Substack Reader](https://reader.substack.com)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121701.jpg)
 
 Substack 刚刚发布的在线 RSS 阅读器。
 
@@ -270,37 +270,37 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 1、[mugle.io](https://mugle.io/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112908.jpg)
 
 该网站提供 Youtube 上面没有版权保护的背景音乐下载，可以用于你自己的视频。
 
 2、[RegExLib](https://regexlib.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120107.jpg)
 
 该网站收集各种常用的正则表达式，比如搜索“email”，会返回961个正则表达式。
 
 3、[AI 事故数据库](https://incidentdatabase.ai/summaries/incidents)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121605.jpg)
 
 该网站收集各种人工智能 AI 产生的各种事故。（[@TheDHL](https://github.com/ruanyf/weekly/issues/1545) 投稿）
 
 4、[Covid-19 插图](https://www.pixeltrue.com/frontliner-heroes)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120419.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120419.jpg)
 
 该网站提供24幅原创的 Covid-19 相关的插图，允许自由使用。
 
 5、[命令行界面设计指南](https://clig.dev/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120501.jpg)
 
 这份文档总结了一些设计规范，帮助你写出体验良好的命令行程序。
 
 6、[梅森素数搜索项目](https://www.mersenne.org/various/history.php)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120502.jpg)
 
 梅森素数是可以表示成 2<sup>n</sup> - 1 的素数，目前已知有51个。从1997年开始，所有新的梅森素数都是由“互联网梅森素数大搜索”（GIMPS）项目进行分布式计算发现的。任何人都可以参与这个项目，将自己计算机的多余计算能力贡献出来。
 
@@ -314,31 +314,31 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 下图是隧道示意图，环岛的位置就在中间的三叉点。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120412.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120412.jpg)
 
 隧道的入口。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120413.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120414.jpg)
 
 海底环岛的实景图。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120417.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120417.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120415.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120415.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120416.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120416.jpg)
 
 2、[世界最大的腰果树](https://en.wikipedia.org/wiki/Cashew_of_Pirangi)
 
 巴西有世界最大的腰果树，看上去就像一片树林，其实只是一棵树。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120510.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120510.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120511.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120511.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120512.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120512.jpg)
 
 这棵树的树枝碰到地面以后，就扎根了，最终变成了一片8000平方米的树林。
 
@@ -346,13 +346,13 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 俄罗斯国防部最近发布了一张照片，是在运输机伊尔-76的驾驶舱拍摄的，看上去跟《星球大战》的剧照很像。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121505.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121504.jpg)
 
 下图是《星球大战》的剧照。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121506.jpg)
 
 ## 文摘
 
@@ -362,17 +362,17 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 同一时期，美国宇航局的核物理学博士杰克·科弗（Jack Higson Cover，1920-2009）看到电视充斥着抗议和警察暴力的新闻，产生了一个设想，制造一个手持的放电装置，让警察对犯罪人进行短时间的高压电击。这可以让目标对象非常痛苦，无法移动，但不会有生命危险。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120403.jpg)
 
 经过几年的研究，他最终发明了这种电击枪，并根据一本他喜欢的科幻小说《汤姆·斯威夫特和他的电动步枪》（Tom Swift and His Electric Rifle）书名的首字母，将它命名为泰瑟枪（Taser）。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120404.jpg)
 
 扣动扳机后，泰瑟枪会发射两支金属飞镖，它们通过细电线连接在枪上。飞镖的速度为每秒60米，最远命中距离7米。飞镖击中目标后，就构成了一个电回路，然后可以隔着5厘米的衣服进行放电，电压为50,000伏，持续时间百万分之一秒，5秒内会多次放电。这将导致目标对象浑身肌肉痉挛，缩成一团，瞬间就无法移动。
 
 曾经有人接受了自愿测试，持续了大约2到3秒钟，就立刻发信号要求停止，并说这是他经历过的最强烈的痛苦。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120405.jpg)
 
 1974年，发明者杰克·科弗为泰瑟枪申请了专利，然后联系警察部门，推销这个发明。起初，警察不感兴趣，军队或航空公司也没有兴趣。
 
@@ -380,7 +380,7 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 经过测试，洛杉矶警察局确定该武器有效，订购了数百支。其他警察局很快就跟进。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120406.jpg)
 
 如今，泰瑟公司是一家庞大的企业，美国80%以上的执法部门配备了它生产的电击枪。一些航空公司也为飞行员和航空警察配备了这种武器。
 
@@ -428,11 +428,11 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 2019年的本周（第 87 期）：[新人要为团队写文档](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019121703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121703.jpg)
 
 2018年的本周（第 35 期）：[“一人份”的服务越来越多](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018121401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121401.jpg)
 
 ## 订阅
 

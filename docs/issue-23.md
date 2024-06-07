@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092101.jpg)
 
 （题图：鲁迅公园，上海，2018。）
 
@@ -24,7 +24,7 @@
 
 1、[火星城市](https://www.inverse.com/article/48612-spacex-engineer-details-ambitious-plan-to-build-multiple-cities-on-mars)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092102.jpg)
 
 SpaceX 公司的主要业务是火箭发射，除此之外，它还打算开发火星，设置了火星开发工程师的岗位。
 
@@ -32,7 +32,7 @@ SpaceX 公司的主要业务是火箭发射，除此之外，它还打算开发�
 
 2、[月球游客](https://finance.sina.cn/usstock/mggd/2018-09-18/detail-ihkhfqns3028414.d.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092103.jpg)
 
 SpaceX 公司宣布，日本富商前泽友作（Yusaku Maezawa）订购了前往月球的座位。他不会登月，只会乘坐飞船绕月飞行，将是SpaceX签约的第一位绕月飞行太空乘客。
 
@@ -40,7 +40,7 @@ SpaceX 公司宣布，日本富商前泽友作（Yusaku Maezawa）订购了前�
 
 3、[3 x 3 点阵解锁](https://motherboard.vice.com/en_us/article/kzyd4m/researchers-used-sonar-signal-from-a-smartphone-speaker-to-steal-unlock-passwords)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092104.jpg)
 
 调查发现，安卓手机的 3 x 3 的认证点阵，虽然理论上可以有近400,000种的解锁模式，但是实际上，20%的用户采用的是上面12种手势之一。
 
@@ -48,17 +48,17 @@ SpaceX 公司宣布，日本富商前泽友作（Yusaku Maezawa）订购了前�
 
 4、[卧铺平衡系统](https://www.wired.com/story/cabin-bus-sleep-suspension-system/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092105.jpg)
 
 旧金山到洛杉矶有卧铺大巴，一趟大约需要8个小时，往返车票价格是178至228美元。
 
 卧铺大巴的最大问题，就是道路颠簸令平躺的乘客难以忍受。现在，一家创业公司开发了一种卧铺平衡系统，每个床位都带有传感器和芯片，感受车体的波动。车辆向上弹起的时候，它会控制床位向下沉；车辆向下落的时候，它会控制床位向上抬，结果就使得卧铺有点像悬浮在空中的吊床，尽可能保持平稳。目前，这个系统只对上下波动有效，对转弯和刹车的震动无效。据体验过的人说，睡眠相当舒服。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092106.jpg)
 
 5、[Linus 忘记了](https://lists.linuxfoundation.org/pipermail/ksummit-discuss/2018-September/005308.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092107.jpg)
 
 2018年的 Linux 内核开发者大会，原定于今年10月在加拿大温哥华举行。但是，会议的主角 Linux 内核的创始人和主要维护者 Linus 把这件事忘了，已经安排好了家庭度假行程。Linus 建议，大会在他缺席的情况下，按照原定日期举行。
 
@@ -68,7 +68,7 @@ SpaceX 公司宣布，日本富商前泽友作（Yusaku Maezawa）订购了前�
 
 6、[100美元的假肢](https://blogs.technet.microsoft.com/machinelearning/2018/09/10/why-would-prosthetic-arms-need-to-see-or-connect-to-cloud-ai/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092108.jpg)
 
 假肢是非常昂贵的。加拿大两个本科生发明的一种原型设备，可能会改变这种状况，将假肢的成本降低到100美元左右。
 
@@ -76,19 +76,19 @@ SpaceX 公司宣布，日本富商前泽友作（Yusaku Maezawa）订购了前�
 
 7、[摄像头后视镜](https://jalopnik.com/lexus-beat-audi-by-bringing-wing-mirror-cameras-to-mark-1828997536)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092109.jpg)
 
 雷克萨斯（Lexus）汽车的最新型号，后视镜的位置改成了摄像头，这是第一台全球出售的数字后视镜汽车。
 
 摄像头的主要好处是可视角度更大，并且不会被雨雪覆盖。图像会传回安装在A柱底部的5英寸显示屏。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092110.jpg)
 
 我在想，汽车的车窗其实都可以改成内部显示屏，完全用摄像头将外部情况传回车内，这样一定很酷。
 
 8、[HHVM 结束支持 PHP](https://hhvm.com/blog/2018/09/12/end-of-php-support-future-of-hack.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092111.jpg)
 
 脸书的 HHVM 编译器宣布，结束支持 PHP，以后只支持脸书自已的 Hack 语言。
 
@@ -96,7 +96,7 @@ SpaceX 公司宣布，日本富商前泽友作（Yusaku Maezawa）订购了前�
 
 9、[马拉松世界纪录](http://www.letsrun.com/news/2018/09/greatest-ever-20139-eliud-kipchoge-crushes-world-record-win-2018-berlin-marathon/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092112.jpg)
 
 9月16日的柏林马拉松上，33岁的肯尼亚运动员 Eliud Kipchoge 创造了新的马拉松纪录 2:01:39__，__成为有史以来第一个跑进 2:02:00 的人，比4年前创造的原世界纪录整整提高了78秒。
 
@@ -142,7 +142,7 @@ Lisp 是函数式语言的鼻祖，入门难度较高。作者给出了学习途
 
 8、[如何使用 PySimpleGUI 开发 GUI？](https://opensource.com/article/18/8/pysimplegui)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092113.jpg)
 
 PySimpleGUI 是一种为 Python 脚本加入图形界面的简单方案。
 
@@ -152,7 +152,7 @@ Julia 是一种新兴语言，设计目录是兼具 C 的速度和 Python 的灵
 
 10、[二叉树算法介绍：go 语言实现为例](https://about.sourcegraph.com/go/gophercon-2018-binary-search-tree-algorithms/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092114.jpg)
 
 这篇文章很不错，用最简单的语言介绍了二叉树和 go，还有大量配图。
 
@@ -160,7 +160,7 @@ Julia 是一种新兴语言，设计目录是兼具 C 的速度和 Python 的灵
 
 1、[Linux 系统管理的面试题](https://github.com/trimstray/test-your-sysadmin-skills)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092115.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092115.jpg)
 
 这个仓库收集了200多道 Linux 服务器管理的面试题，涉及的面很广，着重考察基础知识。
 
@@ -170,13 +170,13 @@ C＃（发音为" C Sharp "）是一种简单，现代，面向对象且类型�
 
 3、[网页设计博物馆](https://www.webdesignmuseum.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092116.jpg)
 
 该博物馆展出了900多个精心挑选和分类的网站，展示了1995年至2005年间的网页设计趋势。上图是苹果公司2001年的主页。
 
 4、[计算机之前的计算设备](http://ed-thelen.org/comp-hist/CBC.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092117.jpg)
 
 这是一本免费电子书，介绍计算机出现之前的人类计算设备，从算盘、差分机、穿孔计算机，直到电子计算器。
 
@@ -184,37 +184,37 @@ C＃（发音为" C Sharp "）是一种简单，现代，面向对象且类型�
 
 1、[Anbox](https://github.com/anbox/anbox)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092118.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092118.jpg)
 
 Anbox 是一个 Linux 系统运行安卓应用的容器，理论上可以把安卓应用安装在任何 Linux 系统，但是目前只支持 Ubuntu。
 
 2、[fsearch](https://github.com/cboxdoerfer/fsearch)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092119.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092119.jpg)
 
 Linux 的桌面应用，用来文件搜索，可以替代 find 命令。
 
 3、[wexond](https://github.com/wexond/wexond)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092120.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092120.jpg)
 
 一个在 Electron 里面使用 React 开发的浏览器。
 
 4、[FetchRSS](http://fetchrss.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092121.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092121.jpg)
 
 将任何网页转为 RSS 的工具。
 
 5、[RSSHub](https://docs.rsshub.app/)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092122.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092122.jpg)
 
 直接提供各种 Web 应用的 RSS 供订阅。代码开源，可以自己部署。
 
 6、[Cookiepedia](https://cookiepedia.co.uk/website/www.jd.com)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092123.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092123.jpg)
 
 Cookiepedia 是一个分析 Cookie 的在线工具，可视化显示某个网站留下的所有 Cookie。上图是京东主页设置的22个Cookie。
 
@@ -234,7 +234,7 @@ Reddit 是美国最大的在线论坛。这个工具每天4次提取主要频道
 
 1、[为什么数据存储的未来（仍然）是磁带？](https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092124.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092124.jpg)
 
 根据统计，IT 行业产生的数据每年增加30％至40％，但是硬盘的容量增长率达不到这一速度的一半。幸运的是，大部分数据不需要立即访问。对于这样的情况，磁带是完美的解决方案。
 
@@ -248,17 +248,17 @@ Reddit 是美国最大的在线论坛。这个工具每天4次提取主要频道
 
 磁带还有经济优势。磁带存储的成本，是磁盘上存储相同数据量成本的六分之一，这就是为什么任何存储大量数据的地方都会找到磁带系统的原因。但是由于磁带现在完全从消费级产品中消失，大多数人都不知道它的存在，更不用说了解到磁带录制技术近年来取得的巨大进步，并将在可预见的未来继续发展。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092125.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092125.jpg)
 
 现代的一盒磁带。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092126.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092126.jpg)
 
 现代磁带库可以存储几百PB的数据。
 
 2、[观点正确的人](https://m.signalvnoise.com/some-advice-from-jeff-bezos-4ee95086c76b)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092127.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092127.jpg)
 
 几年前，亚马逊的老板贝佐斯来到我们的办公室，停留了90分钟，与我们讨论产品策略。离开之前，他回答了大家的问题。
 
@@ -270,7 +270,7 @@ Reddit 是美国最大的在线论坛。这个工具每天4次提取主要频道
 
 1、[死亡提醒](https://twitter.com/death_reminder)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092128.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092128.jpg)
 
 《乔布斯传》提到，古罗马时代，将军凯旋都会举行胜利大游行。为了提醒将军不可得意忘形、勿忘心存谦卑，背后总有仆人负责不断对他喊"人终有一死"。
 
@@ -280,11 +280,11 @@ Reddit 是美国最大的在线论坛。这个工具每天4次提取主要频道
 
 《纪念碑谷》是最受欢迎的手机游戏之一，以画面优美而著称。这个游戏的设计灵感，主要来自埃舍尔（MC Escher）的绘画，但也有很多其他来源，甚至参考了迪士尼的动画片《彼得潘》。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092129.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092129.jpg)
 
 下图是游戏设计师的工作室。
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018092130.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092130.jpg)
 
 ## 本周金句
 

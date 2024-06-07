@@ -222,13 +222,13 @@ JetBrains 公司推出的新工具，允许使用 Kotlin 语言开发 Web UI，�
 
 6、[touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor/blob/master/README.md)
 
-![](https://www.wangbase.com/blogimg/asset/202004/bg2020040512.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202004/bg2020040512.jpg)
 
 一个 MacBook pro 笔记本的开源小工具，可以在 Touch Bar 显示系统状态。
 
 7、[firefox_explore](https://github.com/mattarderne/firefox_explore)
 
-![](https://www.wangbase.com/blogimg/asset/202004/bg2020040509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202004/bg2020040509.jpg)
 
 一个本地工具，用来分析 Firefox 的浏览历史，比如最常访问的网址、一天各个时段的浏览统计等等。
 

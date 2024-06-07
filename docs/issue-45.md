@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030101.jpg)
 
 美国科幻小说大师阿西莫夫，写过一本回忆录《人生舞台》。他在里面提到，成名后，他的收入一年比一年高，完稿时的1990年是收入最高的一年。
 
@@ -20,7 +20,7 @@
 
 1、[密码只有创始人知道](https://gizmodo.com/crypto-exchange-says-it-cant-repay-190-million-to-clie-1832309454)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030102.jpg)
 
 加拿大加密货币交易所 QuadrigaCX 的创始人，30岁的杰拉德·科滕（Gerald Cotten），由于意外于2018年12月在印度突然去世。公司钱包的密钥只有他一个人知道。
 
@@ -28,7 +28,7 @@
 
 2、[无人船只远航夏威夷](https://www.navalnews.com/news/2019/02/sea-hunter-usv-reaches-new-autonomy-milestone/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030103.jpg)
 
 美国海军的研究部门2016年建造了一艘无人船只 Trimaran，长40米，没有任何船员，可以执行多种任务。最近，该船成功完成了加州圣地亚哥到夏威夷珍珠港的往返航行，跨越了半个太平洋。
 
@@ -36,15 +36,15 @@
 
 3、[快乐广场](https://thewalrus.ca/the-bleak-reality-of-the-instagram-experience/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030104.jpg)
 
 快乐广场（Happy Place）是美国一家新成立的展览公司，在北美各大城市轮流布展，每个城市大约停留3个月左右。它的展览没有主题，就是提供布置得非常梦幻和美丽的场景，供参观者拍照，然后发到社交媒体上面。每人的门票价格是30美元左右，每个场景每次有45秒的独占拍照时间，据说相当受欢迎。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030105.jpg)
 
 4、[外星人飞船](https://www.washingtonpost.com/lifestyle/style/harvards-top-astronomer-says-an-alien-ship-may-be-among-us--and-he-doesnt-care-what-his-colleagues-think/2019/02/04/a5d70bb0-24d5-11e9-90cd-dedb0c92dc17_story.html?utm_term=.e8be4d14a43a)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030106.jpg)
 
 Avi Loeb 是哈佛大学天文系主任。2017年底，夏威夷的天文学家偶然发现第一个已知的星际物体 Oumuamua，正在快速地穿越太阳系。由于移动速度太快，而且与太阳引力的方向相反，它只可能来自另一个星系。
 
@@ -52,13 +52,13 @@ Avi Loeb 是哈佛大学天文系主任。2017年底，夏威夷的天文学家�
 
 这个观点受到广泛的质疑和攻击，但是 Avi Loeb 坚持自己的观点，并且到处宣传。谈到科学界认为他在胡说八道时，他说：“最糟糕的结果是我被免职，这将使我有更多的时间专注于科学。我的所有头衔，我都可以放弃。事实上，我可以回到自己的农场过日子。”
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030107.jpg)
 
 5、[马桶座圈监控健康](https://spectrum.ieee.org/the-human-os/biomedical/devices/monitoring-heart-health-one-toilet-seat-at-a-time)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030108.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030109.jpg)
 
 人体健康的有些指标，需要随时随地的持续监控，定期记录健康信息。现有的设备都做不到这一点，比如智能手表能够搜集的健康信息，就非常有限。
 
@@ -66,25 +66,25 @@ Avi Loeb 是哈佛大学天文系主任。2017年底，夏威夷的天文学家�
 
 6、[AR 眼镜](https://venturebeat.com/2019/01/25/facebook-and-microsoft-patent-filings-offer-dueling-visions-of-small-ar-headsets/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030110.jpg)
 
 2019年的消费电子展 CES 传出消息，Facebook 和微软都提交了 AR 眼镜专利文件，朝着 AR 眼镜更小更好的方向努力。这两种眼镜都带有小型投影设备，可以在镜片上叠加图像，使得用户可以在当前场景上，看到一些文字信息，包括电子邮件、通知，以及其他的现实增强功能。
 
 7、[Safari 废除 Do not track 功能](https://gizmodo.com/apple-is-removing-do-not-track-from-safari-1832400768)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030111.jpg)
 
 当代浏览器都有一个 Do not track （不要追踪）的选项。一旦选中，浏览器会向网站发出一个请求，告诉网站不要追踪用户。但是，没有网站认真对待这个请求，而是继续追踪用户，因此苹果公司决定，最新的 Safari 浏览器将去除这个功能，另一方面，Safari 内置了[智能阻止 Cookie](https://webkit.org/blog/7675/intelligent-tracking-prevention/) 的功能，实际上使得 Do not track 变得多余了。
 
 8、[深度学习选衣服](https://blog.floydhub.com/similar-fashion-images/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030112.jpg)
 
 有时，你出门前会花很多时间思考，今天到底穿什么衣服。美国一家创业公司正试图使用深度学习，解决这个问题，让计算机帮你选择穿什么衣服。它的思路是，从 Pinterest 里面上传的图片，找出目前的流行时尚，然后根据你的现有服装、以及出门的场合等因素，推荐搭配。这个系统的下一步目标，是为每个人设计最适合他/她的服装。
 
 9、[GitHub 年度报告](https://octoverse.github.com/projects#languages)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030113.jpg)
 
 GitHub 发布年度报告，显示用户国别的前三位分别是美国、中国、印度。
 
@@ -92,7 +92,7 @@ GitHub 发布年度报告，显示用户国别的前三位分别是美国、中�
 
 编程语言排行榜（根据 GitHub 仓库数量统计）中，最值得注意的是 TypeScript 从去年的第十名，跃升为第七名。另外，有点意外的是，PHP 其实一直非常流行，毫无衰退迹象。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030114.jpg)
 
 10、**一句话新闻**
 
@@ -101,7 +101,7 @@ GitHub 发布年度报告，显示用户国别的前三位分别是美国、中�
 * [澳大利亚法官](https://www.abc.net.au/news/2019-02-12/rocky-hill-ruling-more-courts-choose-climate-over-coal/10802930)判决，不得开采一个煤矿，因为是煤炭会释放温室气体。<br /><br />
 * [Chrome OS 73](https://www.aboutchromebooks.com/news/chrome-os-73-dev-channel-adds-native-pdf-annotation-support/) 新增了 PDF 手动注释功能，以后应该也会加到 Chrome 浏览器。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030115.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030115.jpg)
 
 ## 关哥说险
 
@@ -111,11 +111,11 @@ GitHub 发布年度报告，显示用户国别的前三位分别是美国、中�
 
 比如，很多人不知道[“犹豫期”和“等待期”](https://mp.weixin.qq.com/s/B_Ah9gFBqrSFlAR6frJHKA)是什么。简单说，“犹豫期”是你购买保险后可以反悔的时间，通常是签订合同后的10～15天之内。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030116.jpg)
 
 “等待期”则是保险公司可以免赔的时间，通常是3个月到6个月。比如，购买了医疗险以后的第二个月，你就发病了，这种情况保险公司是不陪的，理由是购买保单时，你可能隐瞒了病情。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030117.jpg)
 
 下面是她的一些保险箴言。
 
@@ -127,7 +127,7 @@ GitHub 发布年度报告，显示用户国别的前三位分别是美国、中�
 
 《关哥说险》的文章目录可以看[这里](https://mp.weixin.qq.com/s/B_Ah9gFBqrSFlAR6frJHKA)，里面有整理好的系列文章。对保险有兴趣的朋友，欢迎微信扫描下面的二维码订阅。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030118.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030118.jpg)
 
 ## 教程
 
@@ -175,25 +175,25 @@ Jsonnet 是谷歌推出的 JSON 配置文件生成工具，基本上解决了 JS
 
 1、[FP-Glossary](https://github.com/OlleLinderos/FP-Glossary)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030119.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030119.jpg)
 
 一个 Chrome 浏览器插件，每次打开一个空白页，会显示一个函数式编程的概念。
 
 2、[香港地铁站的颜色](http://metrocolor.live/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030120.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030120.jpg)
 
 一个 CSS 颜色库，使用每一个香港地铁站的颜色命名 CSS 变量。
 
 3、[rbx](https://medium.com/@dfee/introducing-rbx-8bd358197b)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030121.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030121.jpg)
 
 基于 CSS 框架 Bluma 的 React 组件库。
 
 4、[pagedraw](https://github.com/Pagedraw/pagedraw)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030122.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030122.jpg)
 
 一个 UI 原型设计的桌面软件，可以输出 JSX 代码。
 
@@ -223,7 +223,7 @@ Bash 命令的可视化解释工具。遇到复杂的 Bash 命令，可以输入
 
 11、[gitsome](https://github.com/donnemartin/gitsome)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030123.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030123.jpg)
 
 一个 Git / GitHub 的命令行客户端，提供强大的自动补全功能。（@[ChungZH](https://github.com/ruanyf/weekly/issues/272) 投稿）
 
@@ -243,7 +243,7 @@ Bash 命令的可视化解释工具。遇到复杂的 Bash 命令，可以输入
 
 4、[Vim Adventure](https://vim-adventures.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030124.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030124.jpg)
 
 通过游戏学习 Vim，看上去比较有趣。（@[lenkenlau](https://github.com/ruanyf/weekly/issues/262) 投稿）
 
@@ -253,7 +253,7 @@ Bash 命令的可视化解释工具。遇到复杂的 Bash 命令，可以输入
 
 6、[前端开发精选工具库](http://frontendtools.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030125.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030125.jpg)
 
 收集前端开发各方面的工具。（@[xiaohesong](https://github.com/ruanyf/weekly/issues/177) 投稿）
 
@@ -303,25 +303,25 @@ Bash 命令的可视化解释工具。遇到复杂的 Bash 命令，可以输入
 
 1996年，华盛顿发生了一件银行抢劫案。警方后来抓了几个犯罪嫌疑人，从他们的衣橱里面一共搜到了27条牛仔裤。FBI 后来发表了一篇论文，介绍他们怎么根据监视录像，从27条牛仔裤里面找出犯罪时穿的那一条。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030126.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030126.jpg)
 
 另一张照片是找出犯罪分子穿的那件格子衬衫。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030127.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030127.jpg)
 
 2、[乐器博物馆](https://www.nytimes.com/2019/01/17/arts/music/stradivarius-sound-bank-recording-cremona.html)
 
 意大利克雷莫纳，历史上是一个著名的小提琴制作城市。著名的斯特拉迪瓦里小提琴，就是在那里制作的。下图是当地的小提琴博物馆。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030128.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030128.jpg)
 
 3、[Windows 98 的图标](https://alexmeub.com/old-windows-icons/)
 
 Windows 98 的图标非常经典，有坚实的边缘，柔和的色彩和易于识别的符号。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030129.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030129.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030130.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030130.jpg)
 
 ## 新奇
 
@@ -329,7 +329,7 @@ Windows 98 的图标非常经典，有坚实的边缘，柔和的色彩和易于
 
 访问该网站会随机显示一张人像照片。这些人像都是 AI 生成的，并不是真实的人。
 
-![](https://www.wangbase.com/blogimg/asset/201903/bg2019030131.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030131.jpg)
 
 ## 本周金句
 

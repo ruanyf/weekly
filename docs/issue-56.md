@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051701.jpg)
 
 （题图：昆山森林公园，苏州，2018）
 
@@ -22,37 +22,37 @@
 
 1、[火星模拟生存基地](https://finance.sina.com.cn/roll/2019-04-20/doc-ihvhiewr7232043.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051702.jpg)
 
 甘肃省金昌市政府与中国航天员科研训练中心，合建了一个“火星1号基地”，作为航天员火星模拟生存的实验基地，同时也是一个文旅项目，供游客体验火星生活。据介绍，金昌的地理条件与火星表面非常相似，山地和沙漠混合，气候干燥，全年风力强劲，昼夜温差巨大。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051703.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051704.jpg)
 
 该基地共有总控舱、气闸舱、乘员舱、生物舱等9个舱体。生物舱种植小麦和蔬菜，为航天员提供食物来源；生保舱用于处理生活垃圾；乘员舱不仅有宽松舒适的床，还可以做饭、看书，空间宽敞；总控舱是“航天员”与“地球”联络的重要枢纽。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051705.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051706.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051707.jpg)
 
 2、[徒手移动25吨巨石](https://gizmodo.com/researchers-made-25-ton-boulders-they-can-move-by-hand-1834106230)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051708.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051709.jpg)
 
 古代巨大的石头建筑，到底是怎么组装的？麻省理工学院的研究人员做了一个实验，他们制作了大约25吨重的巨型混凝土结构，仍然可以徒手移动。这些混凝土块的重心都是精心设计的，考虑到了稳定性和平衡性，并且具有斜面、圆角和枢轴点，由此可以被徒手推动、倾斜和旋转。
 
 虽然这种石块仍然不足以解释，复活节岛的巨石人像是怎么放置的，但是这为未来的建筑提供了一种思路，有一天，你甚至可能像组装积木那样，组装巨型混凝土。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051710.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051710.jpg)
 
 3、[美国对离境旅客启用人脸识别](https://qz.com/1598148/us-wants-to-use-facial-recognition-on-air-travelers-leaving-the-country/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051711.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051711.jpg)
 
 美国政府一直想知道，哪些人逾期滞留，成为非法移民。现在，他们终于找到了一个好的方法，美国国土安全部宣布，未来四年中，将对所有离境的旅客进行人脸识别。
 
@@ -60,7 +60,7 @@
 
 4、[特斯拉出租汽车服务](https://www.cnn.com/2019/04/22/tech/tesla-robotaxis/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051712.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051712.jpg)
 
 特斯拉公司的老板马斯克公开说，“如果你现在不买特斯拉，而买其他车，就是经济上的发疯，好比你给自己买了一匹马。”
 
@@ -68,7 +68,7 @@
 
 5、[机器解雇工人](https://www.businessinsider.com/amazon-system-automatically-fires-warehouse-workers-time-off-task-2019-4)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051713.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051713.jpg)
 
 媒体揭露，美国亚马逊公司的仓库，有一个计算机系统跟踪仓库工人的工作效率。一旦发现有人没有达到绩效，该系统会发出命令，自动解雇那些工人，整个过程无需人工干预。系统会跟踪工人的休息时间，计算你一天中多少时间没有干活，这使得工人在休息时都感到非常紧张。
 
@@ -76,27 +76,27 @@
 
 6、[躲过机器监控的图案](https://www.zdnet.com/article/academics-hide-humans-from-surveillance-cameras-with-2d-prints/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051714.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051714.jpg)
 
 比利时鲁汶大学开发出一种二维图像，只要将其打印在衣服上面，就会令监控系统无法识别出这是一个人体。上图左侧是正常的识别，右侧佩戴这种图像以后，识别系统就失灵了，没有认出这是一个人。
 
 它的原理是，通过图像产生足够的噪音，增加随机性，使得模型无法得出结论。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051715.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051715.jpg)
 
 这种方法还可以用于汽车，躲过高速公路上的监控。但是，它对于人脸识别无效，只能躲过那些先判断人体、再识别人脸的系统。
 
 7、[切尔诺贝利实境游戏](https://in.reuters.com/article/ukraine-chernobyl-game/chernobyl-comes-back-to-life-in-ukrainian-computer-game-idINKCN1S304J)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051716.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051716.jpg)
 
 两个乌克兰青年按照实景，建造了切尔诺贝利核电站废墟模型，包括住宅楼，酒店，音乐厅，游乐园和体育场等场景，然后开发了一个游戏《Isotopium：Chernobyl》。玩家可以通过互联网，控制一辆遥控小车，上面带有摄像头，在这个模型城市里面漫游，感觉跟在真实场景完全一样。
 
 游戏的费用是每小时9美元，同时最多只能20人在线，玩家寻找隐藏在各个地点的能量球，来淘汰其他对手，获取游戏胜利。全球目前有62,615人注册参与游戏。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051717.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051717.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051718.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051718.jpg)
 
 8、**一句话新闻**
 
@@ -108,19 +108,19 @@
 
 - [加拿大北极地区](https://www.cbc.ca/news/technology/permafrost-melting-1.5119767)由于气温变暖，永久冻土带融化，许多地方已经出现了大型塌方，估计会变得越来越严重。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051719.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051719.jpg)
 
 ## 文章
 
 1、[如何画一幅栩栩如生的画](https://www.scotthyoung.com/blog/2019/04/17/7-realistic-drawing-skills/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051720.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051720.jpg)
 
 作者讲了七个让作品变得更真实的绘画技巧/技术。它们与软件开发有相似之处，可以借鉴，比如顶层设计、一开始不要过分关注细节等。（@[BIT-zhaoyang](https://github.com/ruanyf/weekly/issues/466) 投稿）
 
 2、[统计图表撒谎的5个方法](http://nautil.us/issue/19/illusions/five-ways-to-lie-with-charts)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051721.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051721.jpg)
 
 本文介绍五种统计图表技巧，用来隐藏或突出某些统计信息。比如，上面左右两个图的深色部分都是30%，但是右图比左图看上去大得多。
 
@@ -130,11 +130,11 @@
 
 4、[美国2020总统大选参选人的网站设计](https://practicaltypography.com/typography-2020.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051722.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051722.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051723.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051723.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051724.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051724.jpg)
 
 本文介绍评论了美国2020年总统大选的参选人的网站设计，目前一共有几十个参选人。
 
@@ -174,13 +174,13 @@ Vim 的一个插件，提供类似的 VSCode 的自动补全功能（intellisens
 
 3、[Lode Runner](http://loderunnerwebgame.com/game/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051725.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051725.jpg)
 
 游戏《挖金子》（Lode Runner）的 Web 重制版，制作非常精良，值得玩一下。
 
 4、[tinytetris](https://github.com/taylorconor/tinytetris)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051726.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051726.jpg)
 
 命令行游戏“俄罗斯方块”，使用 C++ 编写，代码较为简单，可供学习。
 
@@ -190,7 +190,7 @@ Vim 的一个插件，提供类似的 VSCode 的自动补全功能（intellisens
 
 6、[hanzi-writer](https://chanind.github.io/hanzi-writer/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051727.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051727.jpg)
 
 一个演示汉字笔画顺序的 JS 库。
 
@@ -208,7 +208,7 @@ Markdown 文档进行微信公号排版的工具，支持自定义样式。（@[
 
 10、[react-component-echarts](https://github.com/dawiwt/react-component-echarts)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051728.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051728.jpg)
 
 Echarts 的 React 封装，各种配置项可以写成子组件的形式。（@[dawiwt](https://github.com/ruanyf/weekly/issues/424) 投稿）
 
@@ -232,7 +232,7 @@ Mozilla 基金会为了开发语音识别技术， 做了一个开源语音数�
 
 4、[镜子中的谷歌街景照相机](http://the-camera-in-the-mirror.tumblr.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051729.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051729.jpg)
 
 该网站收集谷歌街景出现的镜子里面的拍摄机器。
 
@@ -274,25 +274,25 @@ Mozilla 基金会为了开发语音识别技术， 做了一个开源语音数�
 
 1、[1969～1970年的贝尔实验室](http://www.larryluckham.com/1969%20&%2070%20-%20Bell%20Labs/album/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051730.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051730.jpg)
 
 贝尔实验室在计算机历史上有着重要地位，Unix 系统和 C 语言就是在那里发明的。最近，一位工作人员将他在近50年前拍摄的几十张照片，放到了互联网上。上图是磁带架，当时没有硬盘，数据都是储存在这种磁带上面。下图是当时的计算机。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051731.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051731.jpg)
 
 2、[宇宙的形状](https://www.nature.com/news/cosmologist-claims-universe-may-not-be-expanding-1.13379)
 
 自从科学家观测到宇宙正在膨胀，就推断宇宙的形状像一个不断膨胀的气球。随着气球越变越大，气球内部任意两点的距离都在不断增大。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051732.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051732.jpg)
 
 3、[百事可乐的新 Logo](https://www.cbsnews.com/news/pepsis-nonsensical-logo-redesign-document-1-million-for-this/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051733.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051733.jpg)
 
 2009年，百事可乐公司重新设计了 Logo，左边是原来的 Logo，右边是新 Logo，看上去差异不大，只是改了一下旋转角度。但是，百事可乐为了这个新 logo，支付了100万美元的设计费，据说这个设计象征着未来与革新（下图）。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019051734.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051734.jpg)
 
 ## 言论
 

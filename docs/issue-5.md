@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051801.jpg)
 
 （题图：世博公园，上海，2018）
 
@@ -28,7 +28,7 @@ Firefox 60 按照最新的标准，为 Cookie 新增了一个 SameSite 属性，
 
 2、[成立仅8个月的币安盈利超过百年德意志银行](http://finance.sina.com.cn/blockchain/coin/2018-04-28/doc-ifztkpip2834593.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051802.png)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051802.png)
 
 根据币安官方透露，它的上一季度利润达到2亿美元，已经超过了德国最大的银行----德意志银行，后者在2018年第一季度的利润为1.46亿美元。
 
@@ -36,7 +36,7 @@ Firefox 60 按照最新的标准，为 Cookie 新增了一个 SameSite 属性，
 
 3、[如果 CA 撤销了你的 HTTPS 证书](https://scotthelme.co.uk/the-power-to-revoke-lies-with-the-ca/)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051803.jpg)
 
 加密网站都需要 HTTPS 证书，这些证书通常是由 CA（证书当局）颁发。最近，一家 CA 撤销了 stripe.ian.sh 这个合法网站的证书，理由仅仅是浏览器显示证书来自 Stripe Inc，与 stripe.com 太过相似，用户可能会混淆。
 
@@ -44,7 +44,7 @@ Firefox 60 按照最新的标准，为 Cookie 新增了一个 SameSite 属性，
 
 4、 [机器宠物狗](https://aibo.sony.jp/en/)（[视频](https://weibo.com/tv/v/GfE2adYIy?fid=1034:60290ac9f5e8a89f1ab9c47d403045fb)）
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051804.jpg)
 
 索尼公司推出了新一代机器宠物狗 aibo（爱宝），根据产品主页的介绍，它跟人的互动达到了前所未有的程度，已经很接近真实的狗。
 
@@ -58,7 +58,7 @@ Firefox 60 按照最新的标准，为 Cookie 新增了一个 SameSite 属性，
 
 6、[Gmail 的智能回邮功能](https://www.businessinsider.sg/google-gmail-gets-smart-compose-automatic-reply-suggestion-service-2018-5/)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051805.jpg)
 
 谷歌IO大会宣布，Gmail 新增智能回邮功能。也就是你写几个单词，后面的句子它帮你准备好。上图的那封邮件，每句话都是你写两个单词，后面机器帮你补全。
 
@@ -66,7 +66,7 @@ Firefox 60 按照最新的标准，为 Cookie 新增了一个 SameSite 属性，
 
 7、[Google One 存储](https://one.google.com/getupdates)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051806.png)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051806.png)
 
 谷歌将网络储存升级成 Google One  服务，100GB是每个月2美元，200 GB是3美元，2TB是10美元。这件事情的直接后果就是，Dropbox 大概要完蛋了，它是1TB 每个月10美元。不过，这个价格还是不如百度网盘，它是免费用户就有2TB。
 
@@ -74,13 +74,13 @@ Firefox 60 按照最新的标准，为 Cookie 新增了一个 SameSite 属性，
 
 本期《每周分享》很高兴得到了 [51CTO 学院](http://edu.51cto.com/?ryf)的赞助。下面介绍一下，他们最近推出了两门新课程，都由金牌讲师陈学辉主讲。
 
-[![](https://www.wangbase.com/blogimg/asset/201805/bg2018051807.jpg)](http://edu.51cto.com/px/train/186?ryf)
+[![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051807.jpg)](http://edu.51cto.com/px/train/186?ryf)
 
 1、__《JavaScript 深度揭秘之高级前端开发》__：适合已在职、有基础的技术人员提升技术，挑战更高的薪资。该课程深入探讨函数、事件循环机制、异步编程、面向对象、浏览器渲染、数据交互等的内部原理和高级应用，使用 ES6/ES7 语法讲解，涵盖日常开发及面试所需的技能。并且结合当下技术热点实时更新课程。
 
 2、__《Web 前端高级开发工程师》__：主要针对纯小白的学员，比如在校学生、在职想转行的人士等等，从基础讲起，并且包含了《JavaScript 深度揭秘之高级前端开发》课程的部分内容。
 
-[![](https://www.wangbase.com/blogimg/asset/201805/bg2018051808.jpg)](http://edu.51cto.com/px/train/186?ryf)
+[![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051808.jpg)](http://edu.51cto.com/px/train/186?ryf)
 
 __《Web 前端高级开发工程师》__ 课程原价是8980元，__《JavaScript 深度揭秘之高级前端开发》__ 原价 7980 元，现在点击[这个链接](http://edu.51cto.com/px/train/186?ryf)购买，可以 __享受半价！__ 报名之后马上开始学习，无需等待开班，并且采用授课老师、助教老师、班主任、就业指导老师四对一的服务模式，保证每一位学员都能真正掌握学习内容。
 
@@ -90,7 +90,7 @@ __《Web 前端高级开发工程师》__ 课程原价是8980元，__《JavaScri
 
 1、［文章］[最简单的马尔可夫链图解](http://setosa.io/ev/markov-chains/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051809.png)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051809.png)
 
 上面是最简单的马尔可夫链图解。系统包括 A 和 B 两个状态。一共有四种转化路径：A 到 A、A 到 B、B 到 A，B 到 B。每种路径的可能性都是 50%，就得到了随机的运动轨迹。
 
@@ -98,19 +98,19 @@ __《Web 前端高级开发工程师》__ 课程原价是8980元，__《JavaScri
 
 2、[文章] [决策树模型入门](https://heartbeat.fritz.ai/introduction-to-decision-tree-learning-cd604f85e236)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051810.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051810.jpg)
 
 决策树模型（Decision Tree）是最简单的机器学习模型，也最容易理解。当决策受到多个因素影响时，这个模型相当有用。
            
 3、[文章] [为什么 go 结构是有害的？](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051811.png)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051811.png)
 
 多线程编程之中，有一种 go 结构，就是主线程之外分出一个线程，这个线程完成任务以后，再回到主线程。作者认为，这种结构是有害的。他的最精彩观点就是：如果允许使用 go 结构，那么所有的语言功能都可以用这种结构实现，程序很快就会乱作一团。
 
 4、[代码] [Elm + Rust 开发桌面应用](https://github.com/huytd/kanban-app)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051812.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051812.jpg)
 
 目前，使用 Web 技术开发桌面应用，主要通过 Electron。它的缺点是，有时你只是想要在桌面上展示一个网页，不需要跟本地文件系统交互，但是不得不把整个 Chromium 浏览器和 V8 引擎包含在这个应用里面，导致不管逻辑是否复杂，任何一个 Electron 应用都至少有几十MB的大小。
 
@@ -136,26 +136,26 @@ Netflix 公司的工程师介绍，他们如何部署代码，提高服务的可
 
 1、[sonarwhal](https://sonarwhal.com)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051813.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051813.jpg)
 
 微软推出的开源网页 lint 工具（[源码仓库](https://github.com/sonarwhal/online-service/)），可以在线扫描网页，提供无障碍、互通性、性能、PWA、安全五个方面的扫描结果，给出改进点。
 
 2、[IPBlade](https://chrome.google.com/webstore/detail/ipblade-privacy-protector/hojjgiebfmgmlpjojjkaehgohkolmoea)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051814.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051814.jpg)
 
 有的网络服务限制 IP 地址，比如只有中国的 IP 地址才能使用。这个 Chrome 插件点击一下就可以改变浏览器的 IP 地址，从而绕过这些限制。免费版只能改成美国的 IP 地址。
 
 3、[.gitignore 文件的命令行生成工具](https://github.com/TejasQ/add-gitignore)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051815.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051815.jpg)
 
 
 .gitignore 文件设置了哪些文件可以不用进入 Git 版本管理。这个命令行工具可以根据项目类型，自动生成 .gitignore 文件。
 
 4、[jGoBoard](http://jgoboard.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051816.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051816.jpg)
 
 我在寻找围棋软件的时候，发现了这个生成互动式围棋棋盘的 JavaScript 库，觉得功能和样式都满足需要。另外，AlphaGo 官网也提供一个[棋盘生成器](https://deepmind.com/research/alphago/match-archive/alphago-games-simplified-chinese/)， 基于 [WGO.js](http://wgo.waltheri.net/player)。
 
@@ -175,7 +175,7 @@ Facebook 推出 Python 的静态类型检查工具，有点像 Flowtype 对于 J
 
 1、[冯象：AI 将终结资本主义](https://www.washingtonpost.com/news/theworldpost/wp/2018/05/03/end-of-capitalism/?utm_term=.0b7dc0245ff0)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051817.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051817.jpg)
 
 冯象是清华大学法学院教授。最近，《华尔街日报》发表了他在北京的一次演讲稿（英文），他认为 AI （人工智能）最终将导致目前的经济模式崩溃。
 
@@ -209,7 +209,7 @@ Facebook 推出 Python 的静态类型检查工具，有点像 Flowtype 对于 J
 
 5、[天空中有多少颗星星？](http://www.skyandtelescope.com/astronomy-resources/how-many-stars-night-sky-09172014/)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051818.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051818.jpg)
 
 肉眼可见的恒星亮度等级，最低为+6.5。符合这个标准，地球上可见的星星一共有9,096颗。由于在任何时刻只能看到一半的天空，我们必须将这个数字除以二得到4,548颗星星（视季节而定），那是来自你能想象到的最黑暗的天空。
 
@@ -217,7 +217,7 @@ Facebook 推出 Python 的静态类型检查工具，有点像 Flowtype 对于 J
 
 6、[写一本 O'Reilly 书籍是什么体验？](https://medium.com/@rothgar/the-economics-of-writing-a-technical-book-689d0c12fe39)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051819.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051819.jpg)
 
 作者回顾了他为 O'Reilly 写书的整个历程。看过美国的技术书籍作者，收入也不是想象的那么高。
 
@@ -233,7 +233,7 @@ Each full book sponsorship for one month nets me $3,705 and partial sponsorships
 
 1、[堆积如山的废弃共享自行车](https://www.theatlantic.com/photo/2018/03/bike-share-oversupply-in-china-huge-piles-of-abandoned-and-broken-bicycles/556268/?single_page=true)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051820.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051820.jpg)
 
 共享自行车的流行，一大原因是它转嫁了停车成本。堆积如山的公共自行车已经成了城市问题，谁来管理？成本谁出？
 
@@ -241,9 +241,9 @@ Each full book sponsorship for one month nets me $3,705 and partial sponsorships
 
 2、[安卓的错误 Emoji 图案](https://www.businessinsider.sg/google-ceo-apologizes-for-android-burger-emoji-shows-off-new-beer-design-2018-5/?r=US&IR=T)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051821.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051821.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018051822.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051822.jpg)
 
 今年的谷歌 I/O 大会，谷歌的 CEO 特别提到他们修正了两个错误的 Emoji。一个是芝士在牛排下面，另一个半空的啤酒杯却有泡沫溢出。
 

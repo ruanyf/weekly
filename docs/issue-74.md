@@ -4,7 +4,7 @@
 
 本杂志开源（GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)），欢迎提交 issue，投稿或推荐你的项目。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091910.jpg)
 
 封面图：篮球世界杯，上海东方体育中心，2019
 
@@ -12,7 +12,7 @@
 
 大家有没有感觉，互联网上免费的东西越来越少了。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091908.jpg)
 
 打开很多网站或 App，都要求你付费：听歌要钱，视频要钱，下载要钱，读一篇文章也要钱。这当然无可厚非，但是我总觉得，**纯粹的信息收费不是一个好的商业模式，除非有增值服务。** 这有两个原因。
 
@@ -26,7 +26,7 @@
 
 开源软件就是很好的例子。Linux 原来是一个大学生的作品，可以免费用，结果成了行业标准。基于 Linux 的 Red Hat 公司，所有产品都是开源的，只对服务收费，最终被 IBM 以 340亿美元的价格收购。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091909.jpg)
 
 就像上图的那句话：**“Open is smart. Smart is open”** 。我们不要做 closed 的产品，而要做 open 的产品。Open 一定会带来更大的价值。
 
@@ -57,67 +57,67 @@
 
 原价 ¥2499，优惠价 ¥1499，使用口令：RUANYFENG，还可以再省100元。微信扫描下方二维码，可以查看训练营详情并报名。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091808.jpg)
 
 ## 资讯
 
 1、[北极河流干涸](http://siberiantimes.com/other/others/news/worlds-largest-permafrost-river-dries-to-a-record-low/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019083012.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019083012.jpg)
 
 今年夏天，北极异常的高温，导致俄罗斯西伯利亚北极圈内的主要河流 Lena 河，水位下降了2.5米，近乎干涸。船只已经无法通航，导致了严重的问题，因为河流沿线有一些居民点，不通公路，都靠水运补给。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019083013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019083013.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019083014.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019083014.jpg)
 
 2、[最快的四轮车女性](https://www.techbang.com/posts/72477-jessi-combs-the-fastest-woman-in-four-rounds-dies-at-36)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090102.jpg)
 
 Jessica Combs 是美国女子职业赛车手。8月27日，她在美国俄勒冈州的沙漠企图挑战世界最快的四轮车速度纪录时，驾驶的赛车不幸撞毁，她因此身亡，享年39岁。
 
 2013年，她创下女子四轮车速度记录，平均速度632公里/小时，最高速度为709公里/小时。2016年，她将最高速度提升到768.61公里/小时。她驾驶的都是叫做“北美之鹰”的喷气引擎汽车，这次撞毁的也是这辆车。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090103.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090104.jpg)
 
 3、[最黑的黑色汽车](https://www.dezeen.com/2019/08/27/bmw-vbx6-vantablack-car-design/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090105.jpg)
 
 宝马发布了 Vantablack 版本的 X6 轿车。Vantablack 是世界最黑的黑色颜料，可以吸收99％以上的光线。这使得宝马 VBX6 是目前世界上最黑的黑色汽车，几乎完全消除了所有反光。理论上，如果一个物体不反射任何光线，本身又不发光，那么视觉上就是一个黑洞。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090106.jpg)
 
 4、[竹子学校十周年](https://theconversation.com/bamboo-architecture-balis-green-school-inspires-a-global-renaissance-121248)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090301.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090302.jpg)
 
 印尼巴厘岛的绿色学校庆祝十周年，该学校完全用竹子建造，具有国际知名度。竹子通常用于廉价的棚屋、摊位、围栏、脚手架等，极易受到火灾的影响，而且因为含有水和淀粉，会被昆虫和真菌吞噬。建筑师对竹子做了特殊处理，才使之可以用于持久性的大型建筑。
 
 研究人员正在开发由竹纤维和树脂制成的防火耐用竹板，将竹子建筑进一步推广。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090303.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090304.jpg)
 
 5、[USA-224 侦察卫星](https://www.universetoday.com/143298/thanks-to-trump-weve-got-a-better-idea-of-the-capabilities-of-us-surveillance-satellites/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090503.jpg)
 
 8月29日，伊朗的萨菲尔火箭发生事故，发射失败。第二天，美国总统特朗普发了一条推文，附上一张高清卫星照片（上图），声称火箭事故与美国无关。
 
 天文学家根据照片上面阴影的方向和大小，推算出拍照的时间。这个时间经过伊朗上空的美国侦察卫星只有 USA-224 一颗，因此这张照片极可能是这颗卫星拍的。该卫星专门拍摄地面的高清照片，是美国的军事项目，高度保密。特朗普发的照片，是该卫星流出的第一张照片，他是不应该发这张军用级别的照片的。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090504.jpg)
 
 6、[自愈水泥](https://www.thestructuralengineer.info/news-center/news/item/589-using-bacteria-to-make-self-healing-cement)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082707.jpg)
 
 传统的混凝土出现裂缝是一种普遍现象。荷兰一所大学的微生物学教授发明了一种添加细菌的生物混凝土。这种细菌会产生乳酸钙，进而形成石灰石，导致混凝土的裂缝自然愈合。
 
@@ -125,21 +125,21 @@ Jessica Combs 是美国女子职业赛车手。8月27日，她在美国俄勒冈
 
 下图是该种混凝土刚刚破裂的情景。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082708.jpg)
 
 下图是28天后。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082709.jpg)
 
 下图是56天后。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082710.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082710.jpg)
 
 7、[沙特石油袭击](https://www.thedrive.com/the-war-zone/29874/the-strike-on-saudi-oil-facilities-was-unprecedented-and-it-underscores-far-greater-issues)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091701.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091702.jpg)
 
 9月14日，沙特的一处石油设施遭到袭击。现场照片公布以后，可以看到完全是精确袭击，不攻击人，只攻击设施，17枚炸弹都不偏不倚命中目标，见上图的红框处。目前还不知道这是怎么发动的，这么精确的袭击最大的可能就是无人机。
 
@@ -157,23 +157,23 @@ Jessica Combs 是美国女子职业赛车手。8月27日，她在美国俄勒冈
 
 > - [Buzzfeed](https://moodfeed.buzzfeed.com/mood/curious) 试验新的用户界面，用户进入主页以后，在六种心情里面选一个：“好奇，压力，无聊，怀旧，快乐，饥饿”，然后网站根据你的心情，向你展示内容。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082603.jpg)
 
 > - [美国阿肯色州的钻石州立公园](https://gizmodo.com/woman-finds-3-72-carat-yellow-diamond-while-watching-yo-1837415139)，上个世纪曾经发现过很多钻石，后来开辟成公园。最近，一位游客在阴凉处观看如何寻找钻石的 YouTube 视频，结果一低头发现沙子中有一颗巨大的3.72克拉钻石。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082604.jpg)
 
 ## 文章
 
 1、[安卓的三层结构和鸿蒙 OS](https://raccoon.onyxbits.de/blog/harmony-os-the-android-killer/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082404.png)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082404.png)
 
 安卓实际是一个三层结构：Linux 内核、安卓中间层和谷歌服务框架。华为的鸿蒙 OS 比较可行的选择是，依然使用底下两层，只取代谷歌服务框架的部分。
 
 2、[生物识别安全平台的数据泄露](https://www.vpnmentor.com/blog/report-biostar2-leak/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082405.jpg)
 
 一个安全团队披露，他们破解了一个广泛使用的用户数据库，获得了100多万条指纹和面部识别信息。他们认为，生物特征作为密码是不安全的，一旦数据泄露，用户不可能更改指纹和面部特征。
 
@@ -199,7 +199,7 @@ Jessica Combs 是美国女子职业赛车手。8月27日，她在美国俄勒冈
 
 8、[Cherry MX 机械键盘的类型](https://www.keymouse.com/cherry-mx-switches)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082701.jpg)
 
 本文给出机械键盘几种类型的参数和内部构造动画。
 
@@ -223,7 +223,7 @@ Flutter 的二维码扫描插件。（@[leyan95](https://github.com/ruanyf/weekl
 
 3、[Dadroit JSON Viewer](https://viewer.dadroit.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081107.jpg)
 
 一个浏览大型 JSON 数据文件专用的桌面 JSON 查看器。
 
@@ -233,25 +233,25 @@ Flutter 的二维码扫描插件。（@[leyan95](https://github.com/ruanyf/weekl
 
 5、[wallace-cli](https://github.com/bartveneman/wallace-cli)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081404.jpg)
 
 一个 CSS 样式表的命令行分析工具，显示有多少条规则、选择器，压缩前后的文件大小等等。
 
 6、[Anime4K](https://github.com/bloc97/Anime4K)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081503.jpg)
 
 实时提升卡通动画的分辨率，使其成为高清动画的工具。
 
 7、[翻译侠](https://github.com/magic-FE/translate-man)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081704.jpg)
 
 浏览器翻译插件，支持 Chrome 和 Firefox，鼠标点击或选择触发翻译，可以翻译多种语言，底层为 Google translate API。（@[cloudfroster](https://github.com/ruanyf/weekly/issues/777) 投稿）
 
 8、[Hexo theme cold stone](https://github.com/xrr2016/hexo-theme-cold-stone)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081705.jpg)
 
 Hexo 博客框架的一套样式主题。（@[xrr2016](https://github.com/ruanyf/weekly/issues/781) 投稿）
 
@@ -261,13 +261,13 @@ Hexo 博客框架的一套样式主题。（@[xrr2016](https://github.com/ruanyf
 
 10、[cve-search](http://cve-search.github.io/cve-search/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081802.jpg)
 
 一个 CVE 漏洞的本地搜索引擎，上图是漏洞的分类排行。
 
 11、[majestic](https://github.com/Raathigesh/majestic)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090403.jpg)
 
 一款好用的 Jest 测试框架的图形界面。（@[ifrontend-xyz](https://github.com/ruanyf/weekly/issues/831)  投稿）
 
@@ -275,7 +275,7 @@ Hexo 博客框架的一套样式主题。（@[xrr2016](https://github.com/ruanyf
 
 1、[版本博物馆](https://www.versionmuseum.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081801.jpg)
 
 该网站收集世界主要网站和应用程序的页面变迁。
 
@@ -309,15 +309,15 @@ Hexo 博客框架的一套样式主题。（@[xrr2016](https://github.com/ruanyf
 
 敌对建筑是一种建筑设计策略，设计师故意让公用建筑使用起来不友好，防止滥用。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080601.jpg)
 
 长椅故意不做平，让人无法躺下。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080602.jpg)
 
 突出的墙角，防止有人小便。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080603.jpg)
 
 花坛的矮墙装上铁扳手，防止有人在上面玩滑板。
 
@@ -327,17 +327,17 @@ Hexo 博客框架的一套样式主题。（@[xrr2016](https://github.com/ruanyf
 
 下图的后方是大西洋城，前方是城市的污水处理厂。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080605.jpg)
 
 下图是纽约肯尼迪机场。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080606.jpg)
 
 3、[自然界的二叉树](https://www.reddit.com/r/mildlyinteresting/comments/cnq4zm/this_plant_that_has_exactly_two_branches_at_each/)
 
 下面的植物，每个节点都有两个分支。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080901.jpg)
 
 ## 文摘
 
@@ -357,7 +357,7 @@ Hexo 博客框架的一套样式主题。（@[xrr2016](https://github.com/ruanyf
 
 2、[任正非《我的父亲母亲》](https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E7%88%B6%E4%BA%B2%E6%AF%8D%E4%BA%B2/6610022)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080401.jpg)
 
 （图片：军队时期的任正非）
 
@@ -431,7 +431,7 @@ Pixar 最初是一家图形计算公司，为了显示自己的技术实力，�
 
 去年的本周：[《周刊第 22 期》](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-22.html)
 
-![](https://www.wangbase.com/blogimg/asset/201809/bg2018091401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091401.jpg)
 
 ## 订阅
 

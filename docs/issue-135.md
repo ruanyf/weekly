@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112601.jpg)
 
 重庆北碚区新建的彩色停车场，地面采用红、黄、蓝三色陶瓷颗粒罩面。这样除了增加视觉美感，还能更好地保护道路基面，增加了路面摩擦力，提高了停车安全系数。（[新华网](http://www.cq.xinhuanet.com/2020-11/25/c_1126780141.htm)）
 
@@ -18,7 +18,7 @@
 
 他画了一个坐标系，然后把项目的行业放在里面。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111409.jpg)
 
 上图的坐标系，竖轴是交易规模，位置越向上，表示交易金额越高；横轴是交易频率，位置越向右，表示交易次数越多。
 
@@ -45,7 +45,7 @@
 
 它正变得越来越重要，许多内容、数据、用户交互只有通过图形展示，才能取得满意的效果。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112518.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112518.jpg)
 
 一般情况下，我们使用的都是封装好的图形库，很少关注底层的图形技术，更不要说搞懂背后的理论了。
 
@@ -53,7 +53,7 @@
 
 市场上的图形课程并不多，高质量的更是凤毛麟角。本周向大家介绍的，就是开课吧出品的 **《大牛必备：前端与图形学》公开课** 。前阿里 P8（高级技术专家）Winter 主讲，原价199元，推广期间可以0元领取！
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112517.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112517.jpg)
 
 这个课程时长为120分钟，全部都是图形学内容，将帮助大家：
 
@@ -63,45 +63,45 @@
 
 微信扫描下面二维码，现在就可以 **0 元领取** 《前端与图形学》公开课。不设条件 （没有转发和分享要求），仅限 200 名，送完即止！
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112516.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112516.jpg)
 
 ## 资讯
 
 1、[家用办公室](https://www.oriliving.com/products/pocket-office)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111508.jpg)
 
 疫情期间，很多人在家办公，但是家里环境可能不适合办公。为了解决这个问题，一家美国创业公司推出了家用办公室。
 
 平时，这套家具就是靠在一起的两个柜子（上图）。办公时，将这两个柜子拉开，就会得到一个专业的办公环境（下图），这样就比较节省空间。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111509.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111510.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111510.jpg)
 
 2、[如意桥](https://www.twoeggz.com/info/845009.html)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111820.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111820.jpg)
 
 今年9月25日，浙江省台州市神仙居景区的如意桥对外开放，至今已经吸引了20万人次的游客。该桥全长100米，垂直高度140多米，由两个交错起伏的曲面构成，部分桥面为全透明玻璃设计。
 
 从上空俯瞰，它宛如一柄悬在空中的玉如意。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111818.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111818.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111821.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111821.jpg)
 
 从侧面远眺，它又像一条飘逸的彩带。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111822.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111822.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111819.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111819.jpg)
 
 桥两端设计成圆盘形状了，主要是为了给一棵从悬崖底长上来的甜槠树留着生长空间，它已经长到十多米高了。
 
 3、[中国人脸识别第一案](http://www.xinhuanet.com/2020-11/21/c_1126767913.htm)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112207.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112207.jpg)
 
 2019年，杭州野生动物世界升级动物园年卡，从指纹识别改为人脸识别，要求所有年卡持有人提供自己的人脸数据，否则年卡将失效。一位消费者不愿提供自己的人脸数据，协商无效后，将动物园告上了法庭。
 
@@ -109,21 +109,21 @@
 
 4、[阿雷西博望远镜将拆除](https://www.sciencemag.org/news/2020/11/famed-arecibo-telescope-brink-collapse-will-be-dismantled)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112001.jpg)
 
 美国国家科学基金会（NSF）今天宣布，由于过于老旧，维修有危险，阿雷西博望远镜（Arecibo）将拆除。该望远镜位于波多黎各，1963年落成，在2016年中国天眼建成前，一直是世界最大的射电望远镜。
 
 阿雷西博望远镜的主体是一堆重达900吨的仪器，悬挂在305米宽的碟盘上方的137米处。波多黎各是一个加勒比海岛，有频繁的飓风和地震，导致悬挂仪器的12根钢缆损坏严重，有一根已经断了，三个支撑塔也破败不堪，有坍塌的可能。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112002.jpg)
 
 接下来几周，工程公司将制定拆除计划，可能采用爆炸，一次性将悬挂的仪器炸到地面。
 
 5、[干冰紧缺](https://edition.cnn.com/2020/11/21/world/coronavirus-vaccine-dry-ice-intl/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112104.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112105.jpg)
 
 辉瑞公司的 Covid-19 疫苗即将上市，全世界有巨大的需求。问题是，它需要零下70度储存和运输。最简单和成本最低的冷藏方法，就是使用干冰，它可以让温度保持在零下78.5度。
 
@@ -133,33 +133,33 @@
 
 > - [美国陆军](https://www.bbc.com/news/technology-54465361)为军犬配备了实验性的 AR 眼镜。行动过程中，指令会显示在眼镜上，远程指挥军犬的行动。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111908.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111909.jpg)
 
 > - [上海张江](https://www.soyacincau.com/2020/11/18/kfc-autonomous-5g-restaurant-on-wheels-china/)出现了无人餐车，扫码开门，取餐后会自动扣款，拿多少扣多少。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111903.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111904.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111901.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111902.jpg)
 
 > - [美国宇航局](https://www.cnbc.com/2020/11/15/why-nasa-wants-to-put-a-nuclear-power-plant-on-the-moon.html)计划2026年开始在月球上建设一座核电站。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112101.jpg)
 
 > - [瑞典沃尔沃汽车公司](https://www.media.volvocars.com/global/en-gb/media/pressreleases/274379/watch-how-volvo-cars-drops-new-cars-from-30-metres-to-help-rescue-services-save-lives)使用起重机，将10辆汽车从30米高空自由下落，车头直接着地，测试极端情况下车辆的安全状况。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112006.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112007.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112008.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112009.jpg)
 
 ## 文章
 
@@ -173,23 +173,23 @@
 
 3、[学校芯片工艺实验室参观记](https://www.coolapk.com/feed/22961813?shareKey=ZmFlODJiZmI1YzRhNWZjMmZhNGU)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112510.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112510.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112511.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112511.jpg)
 
 一个大一新生参观学院芯片工艺实验室的记录。
 
 4、[北京四合院改造成幼儿园](https://www.gooood.cn/le-cheng-kindergarten-completed-mad.htm)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112512.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112512.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112513.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112513.jpg)
 
 北京 MAD 建筑事务所将一个四合院，改建成了可容纳390位儿童的幼儿园。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112514.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112514.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112515.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112515.jpg)
 
 5、[如何写出容易维护的 Makefile](https://www.thapaliya.com/en/writings/well-documented-makefiles/)（英文）
 
@@ -201,13 +201,13 @@
 
 7、[如何在安卓手机检查屏幕截图？](https://proandroiddev.com/detect-screenshots-in-android-7bc4343ddce1)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111606.jpg)
 
 有些安卓 App 不允许用户截图，实现方法很简单，就是检查 Screenshots 文件夹是否添加了新图像。
 
 8、[如何用 Podman 替代 Docker](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112102.jpg)
 
 Podman 是 RedHat 公司开发的容器引擎，用来替代 Docker。本文是一篇简单的上手指南。
 
@@ -235,19 +235,19 @@ ping 命令的替代品，带有图形界面。
 
 5、[Edit CSV Online](https://www.editcsvonline.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111403.jpg)
 
 一个编辑 CSV 文件的在线工具。
 
 6、[Logseq](https://github.com/logseq/logseq)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111407.jpg)
 
 一个开源的在线笔记工具，具有强大的知识整理功能。特点是所有数据都储存在你的 GitHub 仓库里面，网站本身不保存用户数据。
 
 7、[Drumbit](https://drumbit.app/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111601.jpg)
 
 一个在线的鼓点模拟器。
 
@@ -261,7 +261,7 @@ ping 命令的替代品，带有图形界面。
 
 10、[Code with me](https://plugins.jetbrains.com/plugin/14896-code-with-me)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112501.jpg)
 
 IntelliJ IDEA 的官方插件，允许多人在 IDE 里面实时协同编程。（[@dengshenkk 投稿](https://github.com/ruanyf/weekly/issues/1508)）
 
@@ -269,27 +269,27 @@ IntelliJ IDEA 的官方插件，允许多人在 IDE 里面实时协同编程。�
 
 1、[Docker 指南](https://www.robertcooper.me/docker-guide)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111301.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111302.jpg)
 
 一篇英文的 Docker 教程，解释最重要的一些概念，帮助读者学会使用 Docker 进行应用程序开发。
 
 2、[废弃媒体博物馆](https://obsoletemedia.org/identify/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111402.jpg)
 
 这个网站介绍各种已经淘汰的数据储存媒介，比如纸带、录像带、VCD、磁盘等等。
 
 3、[Play with Go](https://play-with-go.dev/guides.html)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111404.jpg)
 
 Go 语言教程网站，提供一系列互动式入门教程。
 
 4、[互联网围棋数据库](http://iwdb.cn/)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020050404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020050404.jpg)
 
 可以搜索棋手姓名，查找棋谱，进行下载或在线打谱。（@[yujiff](https://github.com/ruanyf/weekly/issues/1223) 投稿）
 
@@ -309,25 +309,25 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
 [年度特写摄影比赛](https://www.theatlantic.com/photo/2020/11/winners-close-up-photographer-year/617070/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111303.jpg)
 
 冬日的清晨，蘑菇的菌盖上结满了霜。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111304.jpg)
 
 一只黑蚂蚁正在搬运飞蛾的卵。
 
 [天气摄影比赛](https://www.rmets.org/wpoty-2020-shortlist)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111305.jpg)
 
 孟加拉国的严重干旱。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111306.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111306.jpg)
 
 贝加尔湖的冰面在阳光下，反射宝石般的颜色。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111308.jpg)
 
 克罗地亚城市上方锅子倒扣般的云。
 
@@ -335,13 +335,13 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
 七年过去了，游戏 NBA 2014 与 NBA 2021 里面的球员对比。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111602.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111603.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111604.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020111605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111605.jpg)
 
 3、[世界生育率变化](https://www.reddit.com/r/dataisbeautiful/comments/gl6f35/oc_falling_fertility_around_the_world_100_years/fqvir2k/)
 
@@ -353,11 +353,11 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
 1900年的生育率。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112003.jpg)
 
 2016年的生育率。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112004.jpg)
 
 ## 文摘
 
@@ -371,7 +371,7 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
 1995年，科学家发现了一种新的激素，叫做瘦素，它可以让人体启动消耗脂肪的过程。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112502.jpg)
 
 具体来说，它的用途主要是告诉大脑，身体已经有足够的能量储备，可以应对相对苛刻的挑战，比如怀孕或开始进入青春期。如果瘦素匮乏，此类过程就不会启动。这就是为什么患有厌食症的年轻人，青春期大多来得很迟。
 
@@ -385,7 +385,7 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
 后来，iPhone 应用商店出现了，一切都变了。只有得到苹果公司的批准，软件才能上架，并且苹果要对软件的收入提成，费用是每年99美元 + 总收入的30％。相比之下，美国的信用卡费用是每笔交易的 2.9％ + 0.30美元。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112304.jpg)
 
 30％这个提成比例，是效仿视频游戏机制造商的提成比例。苹果公司声称，iPhone 是封闭的生态系统，因为电话属于专用设备，主要功能是拨打电话，必须保护其免受恶意软件的侵害。所以，30％的费用是合理的，用来支付应用商店审核应用的成本。
 
@@ -399,7 +399,7 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
 2019年，iOS 应用商店创造了约500亿美元的销售额，苹果从中获利约150亿美元。我们不禁要问，维护应用商店真的需要这么高的成本吗？这到底是合理的利润，还是苹果在对用户收税？
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020112305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020112305.jpg)
 
 如果苹果或其他公司，真的要通过收费来弥补应用商店的成本，则应收取固定金额的费用，而不是按比例提成。
 
@@ -451,11 +451,11 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
 2019年的本周（第 84 期）：[一次性工作招聘，用完你就丢](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111702.jpg)
 
 2018年的本周（第 32 期）：[砌砖头的三种角度](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018112301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018112301.jpg)
 
 ## 订阅
 

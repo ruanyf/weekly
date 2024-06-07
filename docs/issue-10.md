@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062201.jpg)
 
 （题图：卢日尼基体育场，莫斯科，2014。世界杯开幕式的转播，让我意识到自己去过那个体育场。那天想去莫斯科大学玩，路过一个体育场，大门紧锁，空无一人。）
 
@@ -20,7 +20,7 @@
 
 1、[棉花糖测试](https://www.theatlantic.com/family/archive/2018/06/marshmallow-test/561779/?single_page=true)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062202.jpg)
 
 有一个著名的心理实验，叫做[棉花糖测试](http://songshuhui.net/archives/22125)。一群小孩，每人拿到一块棉花糖。心理学家告诉他们，你可以现在就把糖吃掉，但是如果忍耐15分钟，就可以得到第二块糖的奖励。
 
@@ -32,7 +32,7 @@
 
 2、[古巴的声波攻击](http://hearinghealthmatters.org/hearingnewswatch/2018/ultrasound-intermodulation-distortion-cuba-sonic-attacks/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062203.jpg)
 
 2016年12月开始，古巴首都哈瓦那的美国和加拿大使馆，至少有24名外交人员出现恶心，耳痛，听力下降，流鼻血，眩晕甚至行走困难。一份医疗报告将伤势描述为"轻度创伤性脑损伤"和"未受震荡的脑震荡"。
 
@@ -40,7 +40,7 @@
 
 3、[从空气中吸收二氧化碳](https://www.nature.com/articles/d41586-018-05357-w)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062204.jpg)
 
 科学家认为，人类过度释放二氧化碳是地球暖化的主要原因，为了保护环境，我们应该减少二氧化碳的释放。
 
@@ -48,7 +48,7 @@
 
 4、[谷歌创始人投资的飞行汽车](https://phys.org/news/2018-06-car-startup-google-founder-flights.html)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062205.jpg)
 
 6月初，谷歌创始人拉里·佩奇支持的飞行汽车在新西兰试飞。这种飞机使用电动引擎，可以在地面行驶，它的机翼上有10个小型升力扇，使其能够像直升机一样垂直起降。
 
@@ -56,9 +56,9 @@
 
 5、[微软的海底机房](https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062206.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062206.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062207.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062207.jpg)
 
 6月6日，微软在苏格兰沿岸30米的海底放入一个机房。这个海底机房配置了12个机架864台服务器，合计27.6PB存储空间。它主要由海底电缆供电，并通过电缆连回互联网。同时，它还装备了涡轮发电机和波浪发电转换器，能够利用潮汐流和海浪摇曳发电。
 
@@ -66,7 +66,7 @@
 
 6、[GraphQL 指南](https://blog.graphql.guide/introducing-the-graphql-guide-11a5ae48628a)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062208.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062208.jpg)
 
 jQuery 的作者 John Resig 出新书《GraphQL 指南》了。他的时间现在都投在 React 开发。
 
@@ -96,26 +96,26 @@ tcpdump 是一个 Linux 命令行工具，用来查看 TCP 通信。
 
 5、[2018 世界杯预测](https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062209.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062209.jpg)
 
 有人根据历史数据，写了一个脚本，预测本届世界杯的所有比赛（见上图）。四强是葡萄牙、阿根廷、巴西、德国，决赛是巴西对德国，冠军是德国。链接是完整的脚本和数据集下载。不过，世界杯已经开始了，跟真实结果一比较，似乎出入比较大，这届的强队都表现一般。
 
 6、[MATLAB 处理照片](https://blogs.mathworks.com/steve/2012/11/13/image-effects-part-1/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062210.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062210.jpg)
 
 你还是使用 PhotoShop 处理照片吗？可以考虑试试看 MATLAB。
 
 7、[V8 改进垃圾清理机制](https://v8project.blogspot.com/2018/06/concurrent-marking.html)（英语）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062211.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062211.jpg)
 
 V8 引擎宣布"垃圾清理机制"的重大改进。我们知道，对于大型程序，垃圾清理很影响性能，因为程序必须暂停，让引擎识别哪些内存不再需要。
 
 V8 现在允许内存识别不暂停程序，而是并发进行，使得程序停顿时间减少70%左右。引擎如何识别不再需要的对象，希望了解具体实现的朋友，可以看看上面这篇文章。
                                                                                                                                                                  8、[Testcafe  教程](https://itnext.io/javascript-e2e-ui-testing-or-how-to-brake-up-with-selenium-and-move-on-f991c142079a)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062212.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062212.jpg)
 
 Testcafe 是一个 UI 测试框架，可以在各大浏览器进行 UI 测试。相比 Puppeteer，它提供各种专门针对测试的封装好的方法。
 
@@ -123,14 +123,14 @@ Testcafe 是一个 UI 测试框架，可以在各大浏览器进行 UI 测试。
 
 1、[高中物理笔记](https://landgreen.github.io/physics/index.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062213.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062213.jpg)
 
 
 高中物理要点讲解，配有插图和动画。
 
 2、[FiraCode](https://github.com/tonsky/FiraCode)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062214.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062214.jpg)
 
 开源的代码字体。
 
@@ -146,13 +146,13 @@ Testcafe 是一个 UI 测试框架，可以在各大浏览器进行 UI 测试。
 
 1、[Reach router](https://reach.tech/router)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062215.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062215.jpg)
 
 React router 的两位创始人闹翻了，其中一位另起门户，写了一个功能相同的 Reach router
 
 2、[Lottie](http://airbnb.io/lottie/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062216.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062216.jpg)
 
 Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画用于 Web、安卓和 iOS。
 
@@ -162,35 +162,35 @@ Node 项目的任务运行器，特点是用 Markdown 格式写配置文件。
 
 4、[wtf](https://github.com/senorprogrammer/wtf)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062217.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062217.jpg)
 
 在终端窗口显示控制台面版。
 
 5、[tusk](https://github.com/klauscfhq/tusk)
 
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062218.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062218.jpg)
 
 
 一个非官方的 Evernote 桌面客户端。
 
 6、[hiper](https://github.com/pod4g/hiper)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062219.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062219.jpg)
 
 
 一个查看网页加载性能的命令行程序。
 
 7、[Gource](http://gource.io/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062220.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062220.jpg)
 
 
 Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变成视频，支持 Git 和 SVN 等多种格式。只要在仓库目录执行 gource 命令，就能看到提交历史的视频。
 
 8、[vnote](https://github.com/tamlok/vnote)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062221.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062221.jpg)
 
 一个写 Markdown 笔记的桌面应用，跨平台。
 
@@ -198,7 +198,7 @@ Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变�
 
 1、[腾讯 TCFT 比赛采访记](https://media.weibo.cn/article?id=2309404245359974028567&jumpfrom=weibocom)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062222.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062222.jpg)
 
 > 我刚刚从深圳回来。腾讯组织了一场挺有意思的 CTF 比赛，名为 TCTF。
 > 
@@ -210,7 +210,7 @@ Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变�
 
 2、[斯蒂芬·金的笔名](https://ofdollarsanddata.com/why-winners-keep-winning-4e7f221f5b84)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062223.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062223.jpg)
 
 美国最畅销的小说家斯蒂芬·金，是在上个世纪70年代成名的。
 
@@ -224,13 +224,13 @@ Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变�
 
 1、[完全安静的电脑](https://tp69.blog/2018/04/17/completely-silent-computer/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062224.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062224.jpg)
 
 外国网友自制了一台"完全安静的电脑"，运行时毫无声音，可以达到 0db。全机没有任何风扇，为了替 CPU 散热，采用巨大的铜管散热。
 
 2、[Radio Garden](http://radio.garden/live/)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062225.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062225.jpg)
 
 世界地图上每一个绿点，就代表一个当地的电台。光标移上去，就可以听到该电台的现场直播。
 
@@ -238,7 +238,7 @@ Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变�
 
 1、[谷歌硬件产品的设计风格](https://designobserver.com/feature/what-we-see-when-we-see-google-design/39808)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062226.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062226.jpg)
 
 上图是谷歌硬件产品的全家福，从左到右依次是 Google Pixel Buds，Pixel 2 XL，Pixel 2 XL，Pixel 2，Google Home Mini，Google Home，Google Home Max，Google Clips，Daydream View，Pixelbook Pen，Google Pixelbook。
 
@@ -246,7 +246,7 @@ Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变�
 
 2、[来自遥远法罗群岛的故事](http://www.bbc.co.uk/news/resources/idt-sh/faroe_islands_postal_service)（组图）
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062227.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062227.jpg)
 
 BBC 的图片报道。
 
@@ -258,17 +258,17 @@ BBC 的图片报道。
 
 日本作家 Maritomo，耗時十餘年，遍訪了日本各地300多間洗手間，寫下《日本的洗手間及其它》（Aspect出版）一書，為此還得了一個「洗手間獵手」的綽號，在雜誌、電視、網站上也常常可以看到她的活躍身影。
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062228.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062228.jpg)
 
 上图：福井縣越前海岸，有一家名叫「Rest有情」的日本餐廳，這裡連洗手間都是日本庭院式的。
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062229.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062229.jpg)
 
 上图：兵庫縣明石市林崎松江海岸前的「Hipopopapa」（原名「嚕嚕米爸爸」），是一家看得見海景的餐廳，這裡的洗手間，還能讓你享受到身在海中的感覺。
 
 4、[三星折叠手机](https://www.techradar.com/news/samsung-galaxy-x-the-story-of-samsungs-foldable-phone-so-far)
 
-![](https://www.wangbase.com/blogimg/asset/201806/bg2018062230.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062230.jpg)
 
 据传，三星一直在研发可折叠手机，上图是网友流出的界面图。左侧是两个屏幕垂直折叠的界面，右侧是水平折叠的界面。
 

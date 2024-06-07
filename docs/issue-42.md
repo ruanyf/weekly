@@ -6,7 +6,7 @@
 
 **通知：下周春节假期，周刊暂停一期。**
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020101.jpg)
 
 呆伯特漫画的作者亚当斯（ Scott Adams），有一次谈到自己的成功秘诀。
 
@@ -24,7 +24,7 @@
 
 1、[辣椒番茄](https://www.atlasobscura.com/articles/spicy-tomatoes)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020102.jpg)
 
 测绘番茄基因的时候，科学家惊奇地发现，生成辣椒素的基因在番茄里面也存在，只是默认没有激活。也就是说，番茄天生具备辣椒的基因。巴西和爱尔兰的植物生理学家正在研究，如何激活这些基因，使得番茄也能产生辣椒素，使得口味变得像辣椒。
 
@@ -32,7 +32,7 @@
 
 2、[地球磁极加速变化](https://www.nature.com/articles/d41586-019-00007-1)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020103.jpg)
 
 地球内核是一个液态的金属内核，流动的铁元素导致地球自身带有一个巨大的磁场，而且有南北两个磁极。磁极的具体位置一直在变化（因为铁元素在流动），科学家原定每5年发布一次磁极的具体位置，下一次应该是在2020年。但是磁极的变化突然在最近加速了，不得不提前到2019年1月15日发布新的磁极。因为磁极位置不正确，会对许多方面（比如远洋船舶的导航系统）造成影响。
 
@@ -40,7 +40,7 @@
 
 3、[机器人服务员](https://www.usnews.com/news/cities/articles/2019-01-08/ahead-of-the-summer-olympics-tokyo-deploys-robots-in-subway-stations)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020104.jpg)
 
 日本政府决定，2020年东京奥运会时，东京地铁站将出现机器人服务员，为世界各地的游客服务。这主要是因为，日本人口出生率太低，出现劳动力危机，找不到足够的服务人员。
 
@@ -48,7 +48,7 @@
 
 4、[特斯拉家用充电器](https://techcrunch.com/2019/01/16/tesla-unveils-first-home-charging-station-that-can-be-plugged-into-a-wall-outlet/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020105.jpg)
 
 特斯拉推出一款新的家用充电器，可以插在家用的高压插座上，直接给特斯拉汽车充电。它的好处是家里不用为电动汽车，安装专门的充电站了，只要买来这款充电器就开箱即用。
 
@@ -56,7 +56,7 @@
 
 5、[种子在月球发芽](http://www.xinhuanet.com/politics/2019-01/15/c_1123994047.htm)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020106.jpg)
 
 1月3日，嫦娥四号飞船在月球背面登陆。飞船上带有6种生物种子：棉花、油菜、土豆、拟南芥、酵母和果蝇。它们都放在密封的罐子里，罐子由特殊的铝合金材料制成，直径173毫米，高198.3毫米，内部除了6种生物，还有18毫升水、土壤、空气、热控装置（防止受外界温度影响），形成一个自我维持的生态圈，以及两个记录生物生长状态的摄像头。
 
@@ -64,7 +64,7 @@
 
 6、[年轻的血液](https://www.businessinsider.com/young-blood-transfusions-open-accepting-paypal-payments-cities-ambrosia-2019-1)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020107.jpg)
 
 美国创业公司 Ambrosia 新推出了一项业务，只要支付 8000 美元，就可以注射1升的年轻人血液，12,000美元可以注射2升。
 
@@ -72,7 +72,7 @@
 
 7、[中国的出生人口](https://www.bloomberg.com/news/articles/2019-01-03/china-debate-over-shrinking-birth-rate-highlights-growth-concern)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020108.jpg)
 
 国家统计局宣布，2018年中国新生儿是1523万。尽管已经放开二胎，这个数字是2000年以后的最低值。
 
@@ -80,7 +80,7 @@
 
 8、[流星雨服务](https://www.v3.co.uk/v3-uk/news/3069575/japanese-firm-sends-micro-satellites-into-space-to-deliver-artificial-meteor-showers-on-demand)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020109.jpg)
 
 影视剧里面，主人公经常对着流星许愿。日本一家公司准备推出“流星雨服务”，在客户指定的时间和地点，制造流星。
 
@@ -127,7 +127,7 @@ gRPC 是谷歌提出的一套远程服务调用的解决方案，只能用于服
 
 7、[我的 NAS  损坏经历](https://kevq.uk/i-nearly-lost-all-of-my-data/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020110.jpg)
 
 作者的家用 NAS 的电路板损坏，导致所有数据都无法读出，他不得不把4块 1TB 硬盘插到台式机里面恢复数据。
 
@@ -175,7 +175,7 @@ Java 互联网开发的知识笔记，涉及`MQ`、`ES`、`Redis`等周边工具
 
 8、[How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)（第二版）
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020111.jpg)
 
 麻省理工学院以前用著名的 SICP 作为编程教程，但是该书使用 Scheme 语言作为示例，再加上出版多年，现在已经不用了。作为改进，2001年出版了《如何设计程序》这本教材（缩写为 HTDP），2018年又出版了该书的第二版，使用 Racket 语言的图形界面 DrRacket 作为示例，内容全部开源。
 
@@ -183,7 +183,7 @@ Java 互联网开发的知识笔记，涉及`MQ`、`ES`、`Redis`等周边工具
 
 1、[lsix](https://github.com/hackerb9/lsix)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020112.jpg)
 
 命令行查看图片的工具。
 
@@ -193,7 +193,7 @@ Java 互联网开发的知识笔记，涉及`MQ`、`ES`、`Redis`等周边工具
 
 3、[notable](https://github.com/fabiospampinato/notable)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020113.jpg)
 
 一个用 Markdown 语法做笔记的桌面软件。
 
@@ -239,7 +239,7 @@ Webpack 的一个封装，目的是简化 Webpack 的配置，让大多数情况
 
 2、[为什么电路板大多是绿色的？](http://www.seeedstudio.com/blog/2017/07/23/why-are-printed-circuit-boards-are-usually-green-in-colour/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020114.jpg)
 
 电路板其实就是一块铜片，外面包裹一层树脂。这层树脂外壳又称为阻焊膜，是一种带有彩色颜料的硬化树脂，以丝网印刷的方式涂在铜板上。它的目的是保护下面的电子线路免受潮湿和灰尘的影响，并控制焊料的流动。
 
@@ -257,27 +257,27 @@ Webpack 的一个封装，目的是简化 Webpack 的配置，让大多数情况
 
 Youtube 有一个频道，专门介绍电影特效是怎么制作的。这一期介绍《神奇动物在哪里》，可以看到完全是绿幕合成，比如下面这个从箱子里钻出来的效果。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020115.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020115.jpg)
 
 再比如，抚摸大鸟的效果。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020116.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020117.jpg)
 
 2、[柱状显示器](https://www.anandtech.com/show/13751/joled-demos-oled-monitor-for-gamers)
 
 索尼和松下的合资企业 JOLED 在日本 Finetech 展览上，展出了一款柱状 4K 显示器的概念产品。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020118.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020118.jpg)
 
 还有专为地铁/火车的车厢设计的可弯曲显示器。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020119.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020119.jpg)
 
 3、[世界最长的步行路线](https://brilliantmaps.com/longest-walk/)
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020120.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020120.jpg)
 
 世界最长的步行路线，是从俄罗斯的马加丹一直到南非的开普敦，全长22387公里。你必须经过16个国家，包括南苏丹，叙利亚和格鲁吉亚，所以这条路线不是很安全。
 
@@ -287,7 +287,7 @@ Youtube 有一个频道，专门介绍电影特效是怎么制作的。这一期
 
 荷兰一家公司运输自行车时，总是发生很大的损耗。该公司忍无可忍，在包装纸箱上印上了电视机。初看之下都会以为，箱子里面是一台平板电视，运输耗损率因此降低了80%。
 
-![](https://www.wangbase.com/blogimg/asset/201901/bg2019020121.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020121.jpg)
 
 ## 本周金句
 

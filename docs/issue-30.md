@@ -4,7 +4,7 @@
 
 欢迎投稿，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110901.jpg)
 
 上个月谷歌[宣布](https://www.blog.google/technology/safety-security/project-strobe/)，社交应用 G+ 将在10个月后关闭。
 
@@ -20,7 +20,7 @@
 
 1、[太阳热能发电](https://arstechnica.com/science/2018/10/new-material-could-up-efficiency-of-concentrated-solar-power/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110902.jpg)
 
 目前，太阳能发电主要是指光伏发电，将太阳光直接转化为电流。它的问题是，太阳光有间歇性，导致电能储存成了巨大问题。
 
@@ -28,13 +28,13 @@
 
 2、[感知观众的播放器](https://bitmovin.com/user-aware-video-player/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110903.jpg)
 
 视频播放器 Bitmovin 加入了观众感知功能。播放视频的时候，它会打开摄像头，观察正在看视频的观众。如果发现观众距离比较远，就降低了一些比特率（画面质量），反之则提高比特率；如果发现观众起身走开了，自动暂定播放，等到发现观众回来，再恢复播放。
 
 3、[车对车通信取代红绿灯](https://spectrum.ieee.org/transportation/infrastructure/how-vehicletovehicle-communication-could-replace-traffic-lights-and-shorten-commutes)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110904.jpg)
 
 交通控制都通过红绿灯。但是，如果车辆之间可以互相通信，我们是否还需要红绿灯？
 
@@ -42,7 +42,7 @@
 
 4、[SSPL 许可证](https://www.mongodb.com/press/mongodb-issues-new-server-side-public-license-for-mongodb-community-server)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110905.jpg)
 
 很多软件采用 GPL 许可证。这种许可证规定，如果你修改了代码再进行“分发”，就必须开放源码。但是，如果某家公司使用 GPL 软件提供线上服务，不分发软件本身，就可以不提供修改后的源码。很多人认为，这是 GPL 许可证的一个漏洞。
 
@@ -50,21 +50,21 @@
 
 5、[泥浆打印的房屋](https://newatlas.com/wasp-gaia-3d-printed-mud-hut/56777/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110906.jpg)
 
 一家意大利3D打印公司，发明用泥浆和稻草打印小屋。每间的成本只要1000欧元。上图中，外墙的水平纹路就是一圈圈打印出来的。点击标题链接，就可以观看小屋打印过程的视频。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110907.jpg)
 
 6、[饮料瓶回收机](https://www.nytimes.com/2018/10/17/world/europe/istanbul-vending-machines-recycling-subway.html)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110908.jpg)
 
 伊斯坦布尔在地铁站新增了饮料瓶回收机，乘客提交饮料瓶，可以折算成地铁票积分。一个1.5升塑料瓶可以换6美分，一个易拉罐9美分，而单程地铁票是40美分。
 
 7、[地球生物的分布](http://www.pnas.org/content/115/25/6506)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110909.jpg)
 
 美国科学家估算了，全世界生物体内的碳元素一共是550千兆吨（Gt C），其中植物占了450GTC，细菌70GTC，真菌12GtC，原核生物7GtC，单细胞生物4GtC，所有动物只有2GtC。
 
@@ -72,16 +72,16 @@
 
 8、[最古老的沉船](https://www.theguardian.com/science/2018/oct/23/oldest-intact-shipwreck-thought-to-be-ancient-greek-discovered-at-bottom-of-black-sea)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110910.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110911.jpg)
 
 考古学家在黑海底部发现一艘世界最古老的沉船，据称这艘船有2700年的历史，可以追溯到古希腊。这艘船长23米，桅杆、方向舵和划艇长凳都存在，沉没在水下一英里的地方。考古学家说，那个深度缺氧，所以把它保留了下来。
 
 以前人们只在大英博物馆收藏的古希腊陶器上，见过那个时代的船只。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110912.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110912.jpg)
 
 9、[欧洲禁止一次性塑料](https://www.theguardian.com/environment/2018/oct/24/european-parliament-approves-ban-on-single-use-plastics-uk-eu-brexit)
 
@@ -95,7 +95,7 @@
     
 * [一家美国制药公司](https://www.bloomberg.com/news/articles/2018-10-17/a-blue-pill-is-stopping-hiv-world-first-study-shows)开发出艾滋病口服预防片，可以预防艾滋病。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110913.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110913.jpg)
 
 ## 教程
 
@@ -105,7 +105,7 @@
 
 2、[Manjaro 发行版介绍](https://hackernoon.com/manjaro-deepin-review-a-clean-minimal-and-powerful-linux-distro-6c0ccac04cd8)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110914.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110914.jpg)
 
 Manjaro 是一个新的 Linux 发行版，内核采用 Arch Linux，UI 采用 Deepin，集灵活性和易用的 UI 于一体。
 
@@ -141,13 +141,13 @@ Pokemon GO 是一个在地图上捕捉口袋妖怪的游戏，初看起来相当
 
 1、[IPv6 采用率](https://www.google.com/intl/en/ipv6/statistics.html)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110915.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110915.jpg)
 
 谷歌有一个公开网页，展示使用 IPv6 访问谷歌的比例。最近，这个比率来到历史最高的25%。
 
 2、[进入纯数学](https://infinitedescent.xyz/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110916.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110916.jpg)
 
 一本英文的纯数学教材，免费下载，从简单的自然数讲起，包括代数、数论、集合运算、概率和微积分等章节。我觉得，至少对于了解数学的符号体系很有好处。
 
@@ -157,7 +157,7 @@ Pokemon GO 是一个在地图上捕捉口袋妖怪的游戏，初看起来相当
 
 4、[纸飞机](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110917.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110917.jpg)
 
 收集纸飞机折纸方法的网站，目前有40种纸飞机。
 
@@ -167,7 +167,7 @@ Pokemon GO 是一个在地图上捕捉口袋妖怪的游戏，初看起来相当
 
 6、[科幻界面](http://sciencefictioninterfaces.tumblr.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110918.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110918.jpg)
 
 该网站收集科幻影视作品里面出现的计算机界面设计。
 
@@ -183,31 +183,31 @@ Pokemon GO 是一个在地图上捕捉口袋妖怪的游戏，初看起来相当
 
 2、[Thonny](https://thonny.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110919.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110919.jpg)
 
 一个针对初学者的 Python IDE（集成编程环境），界面清爽简单，可用于儿童的编程教育。
 
 3、[svg-inject](https://github.com/iconfu/svg-inject)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110920.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110920.jpg)
 
 这个 JS 库可以将网页上的外联 SVG 图像，变为内嵌的 SVG 图像，从而使得全局的 CSS 样式文件可以对这个图像生效。
 
 4、[arwes](https://github.com/arwesjs/arwes)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110921.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110921.jpg)
 
 一个质量不错的科幻风格 React UI 组件库。（@[Anderson-Liu](https://github.com/ruanyf/weekly/issues/28) 投稿）
 
 5、[CommentBox.io](https://commentbox.io/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110922.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110922.jpg)
 
 一个类似 Disqus 的网站评论服务。
 
 6、[gRPC-Web](https://www.cncf.io/blog/2018/10/24/grpc-web-is-going-ga/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110923.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110923.jpg)
 
 gRPC-Web 是一个JavaScript客户端库，使 Web 应用程序能够直接与后端gRPC服务通信，不需要 HTTP 服务器充当中介。这意味着可以构建真正的端到端 gRPC 应用程序体系结构。
 
@@ -221,13 +221,13 @@ irondb  是一个浏览器 key-value 储存的封装库，把 Cookies、IndexedD
 
 9、[Sketch 2 Code](https://sketch2code.azurewebsites.net/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110924.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110924.jpg)
 
 微软的在线工具，将手绘草图转成 HTML 代码。（[@xiaohesong](https://github.com/ruanyf/weekly/issues/30#issuecomment-433258462) 投稿）
 
 10、[Process On](https://www.processon.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110925.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110925.jpg)
 
 免费在线作图，可以实时协作。ProcessOn 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等。（@[wuzhenda](https://github.com/ruanyf/weekly/issues/32)__ __投稿）
 
@@ -237,11 +237,11 @@ irondb  是一个浏览器 key-value 储存的封装库，把 Cookies、IndexedD
 
 美国国家航天局 NASA 正在讨论金星移民的可能。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110926.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110926.jpg)
 
 上图左侧是金星，右侧是地球。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110927.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110927.jpg)
 
 金星地面的照片。
 
@@ -255,7 +255,7 @@ NASA 讨论的并不是地面移民，而是派出一艘飞艇，飞行在金星
 
 2、[代码所有权](https://medium.com/@ard_adam/strong-code-ownership-b955163a9ca2)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110928.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110928.jpg)
 
 Martin Fowler 提出，大多数软件项目存在三类代码所有权。
 
@@ -289,30 +289,30 @@ Martin Fowler 提出，大多数软件项目存在三类代码所有权。
 
 前苏联建造了大量令人叹为观止的雄伟纪念碑，大部分都是为了纪念战胜纳粹。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110929.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110929.jpg)
 
 四只巨手拿着四把枪，Novorossiysk，1978。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110930.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110930.jpg)
 
 苏联-波兰友谊纪念碑，1983。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110931.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110931.jpg)
 
 烈士纪念碑，摩尔多瓦，1972。
 
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110932.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110932.jpg)
 
 北极士兵纪念碑，摩尔曼斯克，1974。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110933.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110933.jpg)
 
 空间征服者纪念碑，莫斯科,1972。
 
 2、[事故展览馆](http://www.spoon-tamago.com/2018/10/10/the-museum-of-accidents-offers-a-glimpse-into-japanese-introspection/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110934.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110934.jpg)
 
 日本铁路公司 JR 有一个事故展览馆，专门展示该公司发生的事故。“我们希望我们的员工永远不会忘记过去的事故。”不过，该展览馆只允许员工参观，不对公众开放。
 
@@ -320,7 +320,7 @@ Martin Fowler 提出，大多数软件项目存在三类代码所有权。
 
 1、[人工智能音乐](https://www.aiva.ai/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110935.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110935.jpg)
 
 一家创业公司正在开发 AI 音乐引擎。该引擎学习了无数旋律以后，已经能够自己生成音乐，主要用来为电影和游戏生成音轨。
 

@@ -6,7 +6,7 @@
 
 周刊讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110707.jpg)
 
 封面图：液晶屏拼接器
 
@@ -20,11 +20,11 @@
 
 他的意思是， **不管你多么努力，大多数情况下，你的处境最多只比父辈好上20%**。我也有类似的感受，子辈很难大幅度超越父辈，尤其是在经济增长放缓的情况下。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110704.jpg)
 
 好像是巴尔扎克说的：“培养一个巴黎的上等人，需要三代人的努力。”当时我觉得这话太夸张了，现在觉得这是现实。我认识的人里面，子辈远远超过父辈的例子并不多， **大多数人的生活境遇、社会阶层、经济地位跟父辈都是类似的。**
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110705.jpg)
 
 计算一下，如果每一代比上一代改善20%，翻倍确实需要经过三代人，即你的人生处境会比曾祖父好上一倍（1.2 的四次方等于2.07）。这还是最理想的情况，前提是每一代都勤奋努力。如果当中出了一个游手好闲之徒，改进速度就会大大放缓；要是出了败家子，还会出现倒退。
 
@@ -36,17 +36,17 @@
 
 第一门是 **《前端全栈程序员：小白165天逆袭成为 Web 全栈工程师》**，帮助你学习全栈，提升实务能力，开拓就业竞争力。这门是全面性的前端课程，覆盖前端开发的主要知识点和技能。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110307.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110307.jpg)
 
 下面两门是微信小程序的专项课程，分别是 **《小程序入门课程》** 和 **《2019新语法课程》**，适合学习小程序的同学。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110308.jpg)
 
 这些课程的出品方都是”职坐标“。它是腾讯课堂上面唯一一家双认证（“严选课程”和“官方认证”）的前端培训机构，汇聚了一批国内外 IT 资深师资力量，注重教辅服务，培训都以就业和跳槽加薪为导向。
 
 微信扫描下方的二维码，加入职坐标 web 前端学习群，即可获得 **免费的200种 web 前端学习系列电子书** ；回复“小程序”即可获得 **《7天入门 | 微信小程序开发课程》5折优惠券** ！
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110610.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110610.jpg)
 
 除了收费课程，他们还诚意提供了许多 CSS、H5、Nodejs 的试听课程，欢迎大家去看看。
 
@@ -54,7 +54,7 @@
 
 1、[搜索失踪儿童](https://www.dpreview.com/news/1907862357/photographer-uses-drone-with-thermal-camera-to-find-missing-6-year-old-boy)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102505.jpg)
 
 最近，一个6岁男孩在明尼苏达州的森林地区走失了。当时已经入夜，气温零度以下。当地的警察组织了600人投入搜索，但是一无所获。
 
@@ -62,11 +62,11 @@
 
 排除了各种误报（主要是野生动物水獭、鹿、熊）以后，终于在凌晨1:40 发现了小男孩的位置，正好在两组搜救人员之间（上图）。搜索人员迅速赶往该地点，救出了男孩，下图是搜索队前往救人的热像图。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102506.jpg)
 
 2、[漫游的老鹰](https://www.abc.net.au/news/2019-10-26/roaming-russian-eagles-leave-scientists-broke/11642780)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102601.jpg)
 
 俄罗斯科学家为了了解濒临灭绝的草原老鹰的迁移轨迹，在它们身上绑定了追踪装置，里面的 SIM 卡会每隔一段时间，就发出一条短信报告位置。
 
@@ -74,11 +74,11 @@
 
 科学家在网上发起了“为老鹰充值”运动，希望网友捐款，弥补短信费用。鸟类爱好者纷纷支持，目前筹集的费用已经够一年的支出。下图为17只老鹰的迁移轨迹。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102602.jpg)
 
 3、[消灭脊髓灰质炎病毒](https://www.vox.com/2019/10/24/20930553/polio-outbreak-2019-eradication-who)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102603.jpg)
 
 10月24日（星期四）是世界脊髓灰质炎日，[世界卫生组织](https://www.who.int/news-room/feature-stories/detail/two-out-of-three-wild-poliovirus-strains-eradicated)当天宣布在世界范围内根除第3型脊髓灰质炎病毒。
 
@@ -88,7 +88,7 @@
 
 4、[搜索新算法](https://blog.google/products/search/search-language-understanding-bert/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102705.jpg)
 
 10月25日，谷歌发布了一种新的搜索算法 BERT，已经用于生产环境。这种算法最大的特点，就是考虑了搜索词的语序。以前的算法只考虑每个词本身，搜索`hello world`与搜索`world hello`，结果是一样的。
 
@@ -98,17 +98,17 @@
 
 5、[人类的起源](https://www.theguardian.com/science/2019/oct/28/ancestral-home-of-modern-humans-is-in-botswana-study-finds)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102904.jpg)
 
 大部分人类学家都认为，人类起源于非洲。现在，有一个研究团队提出，人类的祖先最早出现于非洲中部的博茨瓦纳，即人类的发源地在那里，时间是距今20万年前。在那里生活了7万年以后（即距今13万年前），开始向东北方向迁移，逐渐进入今天的埃及。
 
 距今8万年前，人类开始走出非洲，迁移到全世界各地。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102905.jpg)
 
 6、[780天的飞行](https://www.reuters.com/article/us-space-military-spaceplane-idUSKBN1X60PH)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102909.jpg)
 
 美国一架太空无人飞机 X-37B 在地球轨道上飞行780天以后，10月27日回到地球。这架飞机大约是小型公共汽车的大小，具有航天飞机的许多设计特征，但是不能载人。它于2017年发射进入轨道，是美军的第五次太空轨道机试验任务。
 
@@ -128,19 +128,19 @@
 
 > - [美国人口统计局](https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/)提供的1960年与2060年的美国人口年龄结构图。今后几十年中，年轻人占总人口的比重将急剧下降。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100605.jpg)
 
 > - [俄罗斯程序员](http://www.billporter.info/2013/06/21/led-tetris-tie/)制作了一条 LED 领带，里面装有 LED 发光二极管，可以编程显示发光的图案。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082803.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082804.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082805.jpg)
 
 > - [Firefox 浏览器](https://www.zdnet.com/article/firefox-to-hide-notification-popups-by-default-starting-next-year/)明年会隐藏弹出的通知框（notification，下图），用户必须点击地址栏图标才会显示。早该如此了，这个框和是否同意 Cookie，是网页的两个毒瘤。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110301.jpg)
 
 ## 文章
 
@@ -162,13 +162,13 @@
 
 5、[六个画板程序的 Linux 替代品](https://itsfoss.com/open-source-paint-apps/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100604.jpg)
 
 本文介绍6个可以用来作画的 Linux 开源程序。
 
 6、[华为 MateBook X Pro 笔记本体验](https://bitcannon.net/post/huawei-matebook-x-pro-void-linux/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100606.jpg)
 
 一个澳大利亚开发者购买了一台华为 MateBook X Pro 笔记本，在上面安装 Linux，本文是他的总结。
 
@@ -208,7 +208,7 @@ crontab 是 Linux 系统的定时任务执行器。这个在线工具可以可�
 
 5、[AltStore](https://9to5mac.com/2019/09/25/altstore-is-an-ios-app-store-alternative-that-doesnt-require-a-jailbreak-heres-how-to-use-it/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100503.jpg)
 
 苹果设备安装第三方应用商店的方法（不必越狱），看上去好像有效。
 
@@ -222,19 +222,19 @@ crontab 是 Linux 系统的定时任务执行器。这个在线工具可以可�
 
 8、[streamlit](https://github.com/streamlit/streamlit)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100603.jpg)
 
 一个机器学习工具，可以一边写脚本，一边自动生成模型的可视化运行结果。还可以生成网页控件，手动拖拉查看模型变化。
 
 9、[Bitwarden](https://bitwarden.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100701.jpg)
 
 一个免费的多端密码管理器。
 
 10、[imagededup](https://github.com/idealo/imagededup)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100705.jpg)
 
 一个基于 Python 的找出重复图片的工具，支持多种查重算法。
 
@@ -246,7 +246,7 @@ crontab 是 Linux 系统的定时任务执行器。这个在线工具可以可�
 
 1、[折纸地球仪](https://mapscaping.com/pages/folding-paper-globes)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100906.jpg)
 
 该网站提供多种模板下载，可以打印出来，自己折纸做一个地球仪。
 
@@ -266,39 +266,39 @@ Uber 公司开源了该公司的《Go 语言风格规范》。
 
 该网站评选和介绍，过去50年中50座最具影响力的高层建筑。下图是伦敦 Swiss Re Tower 大楼，179米高，2004年建成，俗称“小黄瓜”。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101206.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101206.jpg)
 
 ## 图片
 
 1、**数据、信息、知识、洞察、智慧**
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091004.jpg)
 
 2、[摄影师塞巴斯蒂昂·萨尔加多](https://www.bjp-online.com/2019/09/sebastia%CC%83o-salgado-gold/)
 
 1986年，巴西摄影师塞巴斯蒂昂·萨尔加多（Sebastião Salgado）在亚马逊丛林的一个金矿待了16天。5万人在那里手工淘金。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091302.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091304.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091305.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091306.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091306.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091303.jpg)
 
 3、[Apple I 与录音机](http://www.waveguide.se/?article=storing-data-on-cassettes)
 
 1976年，苹果公司的第一个产品 Apple I 电脑发布。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092701.jpg)
 
 该电脑的数据保存在普通磁带上面，写入/读取数据的设备（即硬盘）是松下公司的 Panasonic RQ-2102 录音机。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092703.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092702.jpg)
 
 ## 文摘
 
@@ -332,7 +332,7 @@ Uber 公司开源了该公司的《Go 语言风格规范》。
 
 公园没有入场费，一切都是免费的，从糖果到数百个景点。公园充满了闪光和彩虹的所有颜色，有趣的音乐不断播放。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110701.jpg)
 
 公园大得无穷无尽，她越深入公园，就会发现更多的乐趣。不需要排队，就可以参观各个景点。只要是能看到的东西，就立即可用。对她来说，这就像一个独立于外部世界的幻想宇宙。
 
@@ -396,7 +396,7 @@ Uber 公司开源了该公司的《Go 语言风格规范》。
 
 去年的本周：[《周刊第 29 期》](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110201.jpg)
 
 ## 订阅
 

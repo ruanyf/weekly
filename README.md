@@ -6,7 +6,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3814)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/4550)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索 
 
@@ -29,8 +29,41 @@ $ grep -nri css docs | cat --number
 ```
 ## 2024
 
+**六月**
+
+- 第 303 期：[技术封建主义](docs/issue-303.md)
+
+**五月**
+
+- 第 302 期：[创业虽然好，不敢推荐了](docs/issue-302.md)
+- 第 301 期：[OpenAI 的图书馆工位](docs/issue-301.md)
+- 第 300 期：[三十年，解决人生三大问题](docs/issue-300.md)
+- 第 299 期：[AI 的关键是语料](docs/issue-299.md)
+
+**四月**
+
+- 第 298 期：[轮到硬件工程师吃香了](docs/issue-298.md)
+- 第 297 期：[饮水鸟玩具](docs/issue-297.md)
+- 第 296 期：[xz 后门的作者 Jia Tan 是谁？](docs/issue-296.md)
+
+**三月**
+
+- 第 295 期：[巧妙的灯泡钟](docs/issue-295.md)
+- 第 294 期：[崖门海战的感想](docs/issue-294.md)
+- 第 293 期：[一周是一年的2%](docs/issue-293.md)
+- 第 292 期：[所有代码都是技术债](docs/issue-292.md)
+- 第 291 期：[AI 没有护城河](docs/issue-291.md)
+
+**二月**
+
+- 第 290 期：[苹果头盔的最大问题](docs/issue-290.md)
+- 第 289 期：[宽容从何而来](docs/issue-289.md)
+
 **一月**
 
+- 第 288 期：[技术写作的首要诀窍](docs/issue-288.md)
+- 第 287 期：[禄丰恐龙谷记行](docs/issue-287.md)
+- 第 286 期：[蓝色指示灯的解决方案](docs/issue-286.md)
 - 第 285 期：[为什么 PPT 不如备忘录](docs/issue-285.md)
 
 ## 2023
@@ -120,7 +153,7 @@ $ grep -nri css docs | cat --number
 
 ## 2022
 
-十二月
+**十二月**
 
 - 第 237 期：[真实方位是如何暴露的？](docs/issue-237.md)
 - 第 236 期：[中国的阳光地带](docs/issue-236.md)
@@ -128,20 +161,20 @@ $ grep -nri css docs | cat --number
 - 第 234 期：[AI 聊天有多强](docs/issue-234.md)
 - 第 233 期：[生活就像一个鱼缸](docs/issue-233.md)
 
-十一月
+**十一月**
 
 - 第 232 期：[好用的平面设计软件](docs/issue-232.md)
 - 第 231 期：[互联网公司需要多少员工？](docs/issue-231.md)
 - 第 230 期：[电子产品的用电量](docs/issue-230.md)
 - 第 229 期：[手机充电问题的解决](docs/issue-229.md)
 
-十月
+**十月**
 
 - 第 228 期：[人类和人生的意义](docs/issue-228.md)
 - 第 227 期：[脸书的公司入职教育](docs/issue-227.md)
 - 第 226 期：[谷歌出了什么问题？](docs/issue-226.md)
 
-九月
+**九月**
 
 - 第 225 期：[游戏 NPC 也是一种职业](docs/issue-225.md)
 - 第 224 期：[Figma 为什么赢了 Sketch](docs/issue-224.md)
@@ -149,14 +182,14 @@ $ grep -nri css docs | cat --number
 - 第 222 期：[四十年编程感想](docs/issue-222.md)
 - 第 221 期：[全世界最繁荣的行业](docs/issue-221.md)
 
-八月
+**八月**
 
 - 第 220 期：[人工智能的机会在哪里](docs/issue-220.md)
 - 第 219 期：[如何防止帐号被黑](docs/issue-219.md)
 - 第 218 期：[葡萄酒，樱花，全球变暖](docs/issue-218.md)
 - 第 217 期：[沙特的新未来城](docs/issue-217.md)
 
-七月
+**七月**
 
 - 第 216 期：[极简主义的胜利](docs/issue-216.md)
 - 第 215 期：[互联网最喜欢的行为模式](docs/issue-215.md)
@@ -164,13 +197,13 @@ $ grep -nri css docs | cat --number
 - 第 213 期：[知识孤岛，知识软件](docs/issue-213.md)
 - 第 212 期：[人生不短](docs/issue-212.md)
 
-六月
+**六月**
 
 - 第 211 期：[虚拟商品可以拉动 GDP](docs/issue-211.md)
 - 第 210 期：[为什么软件变得复杂](docs/issue-210.md)
 - 第 209 期：[程序员是怎样的人](docs/issue-209.md)
 
-五月
+**五月**
 
 - 第 208 期：[晋升制度的问题](docs/issue-208.md)
 - 第 207 期：[汽车行业的顶峰可能过去了](docs/issue-207.md)

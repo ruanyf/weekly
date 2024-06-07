@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050301.jpg)
 
 （题图：鸣号自动侦测系统，上海，2019。）
 
@@ -24,31 +24,31 @@
 
 1、[实验小鼠的需求旺盛](https://www.bloomberg.com/news/articles/2019-04-01/china-s-demand-for-17-000-gene-altered-lab-mice-is-skyrocketing)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050302.jpg)
 
 随着中国生物科技的发展，对于实验小鼠的需求持续增长，从基因改造到药物实验都需要小鼠。据专门生产小鼠的公司说，中国一年的实验小鼠需求超过100亿人民币，最贵的小鼠超过10万元人民币一对。
 
 该公司在广州工厂饲养了1万只小鼠，正在扩建上海工厂，可饲养10万只小鼠。下图是饲养车间。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050303.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050304.jpg)
 
 2、[世界最深的游泳池](https://www.cnn.com/travel/article/worlds-deepest-pool-scli-intl/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050305.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050306.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050306.jpg)
 
 波兰正在建造一个45米深的游泳池，预定今年晚些时候开放，这个游泳池包括水下洞穴和悬崖，用来训练专业的潜水员。同时，游泳池还会配备水下隧道，供那些不想下水的人参观。
 
 目前，世界最深的游泳池是意大利的 [Y-40 Deep Joy](https://www.y-40.com/en/)（下图），深度为40米。2020年，英国预计将建造一个更深的游泳池，深度为50米。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050307.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050307.jpg)
 
 3、[铅水管升级的新方案](https://www.scientificamerican.com/article/zapping-lead-pipes-with-electricity-could-make-them-safer-for-drinking-water/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050308.jpg)
 
 很多以前的水管是铅水管，导致自来水的铅含量偏高，对人体有害。替换这些水管，往往需要很高的成本。美国的一个环境工程师提出了一个新方案，声称可以低成本地解决这个问题。
 
@@ -56,7 +56,7 @@
 
 4、[樱花屋](https://www.bloomberg.com/graphics/2019-cherry-blossoms/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050309.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050309.jpg)
 
 每年三四月间，樱花盛开，日本赏樱的人数估计今年有6300万人（包含国内和国外游客），这已经日益成为一笔大生意。
 
@@ -64,13 +64,13 @@
 
 5、[两台显示器还是一台宽屏显示器？](https://keenethics.com/blog/1497078000000-two-monitors-or-one-ultrawide)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050310.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050310.jpg)
 
 程序员为了提高效率，往往需要较大的显示面积，可以同时显示多个窗口。最近有一项研究，调查哪一种情况效率比较高，两个显示屏，还是一个宽屏显示器？最后发现，两个显示器有助于提高效率，但是宽屏显示器可以减少扭头的次数和幅度，对颈椎健康有利。
 
 6、[锁定到2067年的 iPad](https://www.cnn.com/2019/04/09/tech/locked-ipad-boy-trnd/index.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050311.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050311.jpg)
 
 一个3岁小孩玩他爸爸的 iPad，由于不停地输错密码，iPad 被锁定2500多万分钟，相当于2067年才能再次使用。iPad 的设计是输错密码次数越多，就会锁定越长时间。
 
@@ -78,7 +78,7 @@
 
 7、[开车玩手机是新的酒驾](http://blog.zendrive.com/2019-distracted-driving-study-phone-addicts-are-the-new-drunk-drivers/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050312.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050312.jpg)
 
 很多人开车的时候，会看手机。据统计，去年美国有6,227名行人，可能死于玩手机的司机。未来，玩手机成瘾的人可能会取代酒驾，成为公路上的最大威胁。
 
@@ -98,13 +98,13 @@
 
 1、[Arduino 入门](https://www.charlieharrington.com/afternoon-with-arduino)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050313.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050313.jpg)
 
 Arduino 可以看做是一块可以编程的电路板。本文介绍它的基本知识，以及如何用它来控制 LED 发光二极管。
 
 2、[Python 图形界面开发](https://likegeeks.com/python-gui-examples-tkinter-tutorial/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050314.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050314.jpg)
 
  Tkinter 是 Python 内置的 GUI 开发模块，本文一步步教你怎么使用。
 
@@ -118,25 +118,25 @@ request 是最流行的 Nodejs 模块之一，用于发出 HTTP 请求。该项�
 
 5、[创业公司如何才能不失败？](https://blog.ycombinator.com/how-not-to-fail/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050315.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050315.jpg)
 
 孵化器 YC 的创始人之一杰西卡·利文斯顿的演讲，列出她眼中创业公司成功的条件。
 
 6、[Quip 的历史](https://usefyi.com/quip-history/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050316.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050316.jpg)
 
 Quip 是一个协同工作软件，2014年诞生，2016年被 Salesforce 以7.5亿美元收购。它的两个创始人，一个担任过 Facebook 的 CTO，另一个曾在Google领导工程和产品团队。
 
 7、[Evernote 为什么没能实现它的目标？](https://usefyi.com/evernote-history/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050317.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050317.jpg)
 
 本文回顾了 Evernote 的历史，从诞生到快速发展，以及后来几个重大的决策失误，分析它的经验教训。
 
 8、[25年后重新采访 Linus Torvalds](https://mp.weixin.qq.com/s/KWC43nTsL134n6VkSD2x4w)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050318.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050318.jpg)
 
 Linux Journal 杂志1994年创刊号[采访](https://www.linuxjournal.com/article/2736)了 Linus Torvalds，为了庆祝杂志诞生25周年又重新采访了他（[英语原文](https://linuxjournal.com/content/25-years-later-interview-linus-torvalds)）。上一次采访时，他还没结婚，现在有三个小孩，老大马上就要大学毕业。上一次，杂志问他有何梦想，他说希望 Linux 统治世界。现在，他说早就不开这种玩笑了，因为这话已经不像玩笑了。（@[Y024](https://github.com/ruanyf/weekly/issues/437) 投稿）
 
@@ -150,11 +150,11 @@ Linux Journal 杂志1994年创刊号[采访](https://www.linuxjournal.com/articl
 
 11、[访问 Chrome Dino 游戏的创造者](https://www.blog.google/products/chrome/chrome-dino/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050319.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050319.jpg)
  
 Chrome 浏览器离线时，会出现一个恐龙跳跃的游戏。为了庆祝 Chrome 浏览器诞生10周年，谷歌官方博客采访了游戏的创造者，并且展示了恐龙头戴蛋糕的一个特别版。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050320.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050320.jpg)
 
 ## 软件
 
@@ -180,7 +180,7 @@ Mac 应用商店的命令行界面，可以用来从命令行安装 macOS App。
 
 6、[AP Studio](https://androidpal.com/studio/about)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050321.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050321.jpg)
 
 一款新的 Android 开发 IDE。
 
@@ -190,7 +190,7 @@ Mac 应用商店的命令行界面，可以用来从命令行安装 macOS App。
 
 8、[scrapydweb](https://github.com/my8100/files/tree/master/scrapydweb)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050322.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050322.jpg)
 
 Python 爬虫框架 Scrapyd 集群管理的全功能 web UI，支持 Scrapy 日志分析和可视化、自动打包、定时器任务和邮件通知等特色功能。（@[my8100](https://github.com/ruanyf/weekly/issues/380) 投稿）
 
@@ -200,19 +200,19 @@ Python 爬虫框架 Scrapyd 集群管理的全功能 web UI，支持 Scrapy 日�
 
 10、[brickr](https://github.com/ryantimpe/brickr)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050323.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050323.jpg)
 
 该软件可以生成 3D 的乐高积木图像，使用 R 语言编写。
 
 11、[Pock](https://github.com/pigigaldi/Pock)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050324.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050324.jpg)
 
 把 Mac 电脑的  Dock 放到 TouchBar 的工具。（@[Y024](https://github.com/ruanyf/weekly/issues/430) 投稿）
 
 12、[微软新闻](https://www.microsoft.com/en-us/newsapp)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050325.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050325.jpg)
 
 微软最新推出的个性化新闻的 App，有繁体中文版，底层是微软为旗下所有产品统一的新闻引擎。
 
@@ -224,7 +224,7 @@ Python 爬虫框架 Scrapyd 集群管理的全功能 web UI，支持 Scrapy 日�
 
 2、[简单逻辑](https://book.simply-logical.space/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050326.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050326.jpg)
 
 免费电子书，通过实例介绍如何通过 Prolog 语言实现智能推理。
 
@@ -234,7 +234,7 @@ Python 爬虫框架 Scrapyd 集群管理的全功能 web UI，支持 Scrapy 日�
 
 4、[Programming Notes for Professionals books](https://goalkicker.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050327.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050327.jpg)
 
 该网站提供各种免费计算机教程下载。（@[zhjp0](https://github.com/ruanyf/weekly/issues/435) 投稿）
 
@@ -244,7 +244,7 @@ Python 爬虫框架 Scrapyd 集群管理的全功能 web UI，支持 Scrapy 日�
 
 6、[创意共享图像搜索引擎](https://search.creativecommons.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050328.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050328.jpg)
 
 创意共享基金会推出的官方图像搜索引擎，索引了3亿张图片，都可以免费使用。素材主要来自 Flickr 和 Behance，下一步会把维基百科的图片放进来。
 
@@ -286,21 +286,21 @@ Python 爬虫框架 Scrapyd 集群管理的全功能 web UI，支持 Scrapy 日�
 
 D21 是美国的一种高空超音速无人侦察机，1962年开始生产，到1971年项目取消之前，一共生产了38架。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050329.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050329.jpg)
 
 D21 的最后一次飞行是1971年3月20日，用于对中国进行高空侦察，最后坠毁在云南省，残骸被保留了下来。2010年，当作垃圾存放多年以后，终于在中国航空博物馆公开展出。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050330.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050330.jpg)
 
 2、[光学电报](http://www.douglas-self.com/MUSEUM/COMMS/telegraf/telegraf.htm)
 
 伦敦到朴茨茅斯大约100公里。1796年，如果从朴茨茅斯传递一个消息到伦敦，猜猜需要多少时间？答案是十五分钟。这是用下面的设备完成的。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050331.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050331.jpg)
 
 英国海军沿途设置了若干个信号站。每个信号站有六个旋转的板，可以通过绳索控制正面和反面，因此相当于提供一个6位二进制代码，允许传输63个非零状态。这些被分配为字母表中的26个字母，十个数字和一些有用的预设句子，例如“立即击败法国海军”。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019050332.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019050332.jpg)
 
 上图是两个粗壮的士兵在绳索上传送消息，而右边的那个人接收来自下一站的信息。两个信号站的平均距离约为16公里。
 

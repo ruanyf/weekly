@@ -4,7 +4,7 @@
 
 本杂志开源（GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)），欢迎提交 issue，投稿或推荐你的项目。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082601.jpg)
 
 封面图：伊朗的住宅小区，距离德黑兰50公里。
 
@@ -26,23 +26,23 @@
 
 1、[澳大利亚企鹅岛](https://www.nytimes.com/2019/08/09/world/australia/penguins-phillip-island.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081108.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081109.jpg)
 
 澳大利亚墨尔本以南的菲利普岛，是企鹅的繁殖地之一。以前，岛上有不少居民，企鹅上岸的海滩分布着大量民宅（下图），加上纷至沓来的观光客，企鹅数量开始锐减。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081110.jpg)
 
 从1985年开始，澳大利亚政府决定收购岛上所有私人地产，将整个岛彻底变为企鹅岛。经过多年的努力，企鹅的数量从12,000只增加到了31,000只。
 
 上个月，耗资5,800万美元的游客中心（下图）完工，将游客限制在指定区域，游客只能坐在看台上，不能随便乱走，等着企鹅经过。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081111.jpg)
 
 2、[美国海军更换触摸屏](https://www.theverge.com/2019/8/11/20800111/us-navy-uss-john-s-mccain-crash-ntsb-report-touchscreen-mechanical-controls)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081204.jpg)
 
 2017年8月21日，美国麦凯恩号航空母舰在新加坡与一艘油轮相撞，造成油轮的10名船员死亡，麦凯恩号48人受伤。美国军方最近公布了调查报告，事故原因之一是航母操作人员对计算机系统不熟悉，有人将操作系统置于手动模式，但是其他人没有发现。
 
@@ -50,7 +50,7 @@
 
 3、[闲置的波音 737](https://www.forbes.com/sites/jeremybogaisky/2019/08/12/boeing-737-max-desert-storage/#59922ba91e61)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081507.jpg)
 
 半年之前，由于两起空难，波音 737 Max 全球停飞，一共几百架。这些飞机长期不飞，但必须一直保养，维护成本巨大。燃油系统和发动机部件必须每天启动，防止腐蚀；计算机系统和辅助动力装置也必须每周检查；还要防止鸟类和动物在飞机里面筑巢。
 
@@ -58,9 +58,9 @@
 
 4、[世界最快超级计算机](https://www.cnet.com/news/cray-to-build-el-capitan-supercomputer-for-nuclear-security-apps/)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081408.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081409.jpg)
 
 超级计算机制造商 Cray 公司与美国政府签署了一份价值6亿美元的合同，建造世界第一台每秒100亿亿次（10的18次方）浮点运算的超级计算机，名为 El Capitan。它预计将在2023年末投入使用。
 
@@ -68,7 +68,7 @@
 
 5、[老年人更喜欢手机](https://www.economist.com/graphic-detail/2019/08/14/americas-elderly-seem-more-screen-obsessed-than-the-young)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081502.jpg)
 
 美国一项调查发现，65岁以上的美国人每天花费近10个小时在屏幕前（包括电视、电脑和智能手机）。跟2015年的调查相比，看电视的时间没有变，但是玩手机的时间增加了七倍，每天平均是2个小时。
 
@@ -76,19 +76,19 @@
 
 6、[反人体识别的服装](https://www.theguardian.com/world/2019/aug/13/the-fashion-line-designed-to-trick-surveillance-cameras)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081505.jpg)
 
 现在越来越多的监控系统有人体识别功能，时装设计师凯特·罗斯（Kate Rose）在拉斯维加斯 DefCon 安全大会上，展示了反识别服装。穿上这种衣服，监控系统就识别不出这是一个人。
 
 它的原理是衣服上提供足够的噪音（比如下面的图案），就能使得模式识别失效。当然，这种方法只适合于人体识别，对于人脸识别无效。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081506.jpg)
 
 7、[空间站机器人](https://www.newsweek.com/russia-space-bot-ai-iss-fedor-roscosmos-1454330)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081701.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081702.jpg)
 
 俄罗斯在8月22日向国际空间站发送一个人形机器人，将在那里停留两周，然后于9月7日返回地球。
 
@@ -96,7 +96,7 @@
 
 8、[比特币发明人](https://www.theguardian.com/technology/2019/aug/28/australian-who-says-he-invented-bitcoin-ordered-to-hand-over-up-to-5bn)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082802.jpg)
 
 一名49岁的澳大利亚男子Craig Wright，一直声称他就是比特币发明人中本聪。
 
@@ -110,17 +110,17 @@
 
 > - [可口可乐公司](https://www.bloomberg.com/news/articles/2019-08-13/coke-putting-dasani-water-in-cans-amid-backlash-against-plastic)将它的瓶装水产品改成铝罐包装，因为塑料对环境影响太大，各国都开始限制使用塑料。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081401.jpg)
 
 > - [特斯拉公司](https://sustineri.life/a-new-kindergarten-that-is-built-without-walls-what-is-the-reason-behind-this-spectacular-design/)开始在加州交付太阳能屋顶，原有的屋顶瓦片都被换成可以发电的太阳能瓦片。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080607.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080607.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080608.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080608.jpg)
 
 > - [npm 模块](https://github.com/standard/standard/issues/1381)都是免费使用，有人现在想出怎么通过它赚钱了。你安装 StandardJS 的最新版本 `npm install standard`，命令行会输出一个广告。
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082501.jpg)
 
 ## 文章
 
@@ -142,7 +142,7 @@ StackOverflow 和 GitHub 每天都有大量动态，只要加以统计，就能�
 
 5、[随机数函数的图像](https://remysharp.com/2019/08/06/predictably-random)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081101.jpg)
 
 作者写了一个工具，可以生成随机数函数的图像，从而判断随机数生成是否有规律。上图中，明显`randomC`函数比较理想。
 
@@ -154,7 +154,7 @@ StackOverflow 和 GitHub 每天都有大量动态，只要加以统计，就能�
 
 7、[文本压缩算法比赛](http://www.hutter1.net/prize/index.htm)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019081202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081202.jpg)
 
 一个澳大利亚计算机教授，在2000年发起一个比赛。谁将100MB 的维基百科文本文件，压缩得最小，可以得到5万欧元奖金。
 
@@ -180,7 +180,7 @@ Writeathon 是一款在线写作工具，基于极简理念，提供简洁、高
 
 2、[ish](https://github.com/tbodt/ish)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072402.jpg)
 
 iOS 的 Linux 虚拟机，实际运行的是 alpine linux，提供命令行 shell，可以访问网络，安装各种软件包，类似安卓平台的 Termux。
 
@@ -192,7 +192,7 @@ iOS 的 Linux 虚拟机，实际运行的是 alpine linux，提供命令行 shel
 
 4、[fork](https://git-fork.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072509.jpg)
 
 桌面的 Git 客户端。
 
@@ -202,19 +202,19 @@ Linux 系统的安卓模拟器。
 
 6、[jokenpo](https://github.com/victorqribeiro/jokenpo)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072601.jpg)
 
 一个网页游戏，使用机器学习算法，让玩家与计算机进行“剪刀石头布”游戏。
 
 7、[Lockdown](https://lockdownhq.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072602.jpg)
 
 一个手机的防火墙 App，暂时只有 iPhone 版本。
 
 8、[WPS Office for Linux](http://wps-community.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072605.jpg)
 
 金山 WPS 的 Linux 版本。
 
@@ -228,7 +228,7 @@ Linux 系统的安卓模拟器。
 
 11、[iPic](https://toolinbox.net/iPic/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072717.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072717.jpg)
 
 Mac 系统的桌面图片上传工具，用于将本地图片上传到图床，功能强大。（@[atjason](https://github.com/ruanyf/weekly/issues/721) 投稿）
 
@@ -262,13 +262,13 @@ Reddit 是美国最大的在线论坛，有许多子板块。这个第三方网�
 
 1、[鲸鱼没有牙齿](https://insider.si.edu/2012/04/for-dentist-the-narwhals-smile-is-a-mystery-of-evolution/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071908.jpg)
 
 鲸鱼没有牙齿，口腔里面就是空的。它们进食的时候，就是直接吞下食物，从不咀嚼。
 
 2、[最初的 Youtube](https://www.cnet.com/news/youtube-started-as-an-online-dating-site/)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072201.jpg)
 
 2005年4月23日，Youtube 上线，最初是一个约会网站，用户可以上传一段视频介绍自己。
 
@@ -296,7 +296,7 @@ Reddit 是美国最大的在线论坛，有许多子板块。这个第三方网�
 
 他的儿子大卫·沃伦那时只有八岁，父亲留给他的最后一件礼物是一个晶体管收音机，但是坏掉了。这激发了大卫对科学的兴趣，后来他通过自学，设法修好了收音机。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072005.jpg)
 
 20多岁时，大卫·沃伦在悉尼大学读完本科，然后在伦敦帝国理工学院获得化学博士学位。毕业后，他去了航空研究实验室（简称 ARL），作为一名研究员。那是澳大利亚国防部的一个下属单位，专门研究飞机。
 
@@ -312,7 +312,7 @@ Reddit 是美国最大的在线论坛，有许多子板块。这个第三方网�
 
 这种情况下，大卫决定在自己的车库里，组装出一个原型装置。这将是有史以来第一个飞行记录仪，又称“黑匣子”。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072006.jpg)
 
 （图片：大卫·沃伦一家）
 
@@ -320,19 +320,19 @@ Reddit 是美国最大的在线论坛，有许多子板块。这个第三方网�
 
 这个装置的正式名称是“飞行记录单元”。当时，一个记者在报道中称其为“黑匣子”（black box，黑箱），这个术语来自电工学，后来成为它的通用名称，尽管它并不是黑色。为了在事故后更容易发现，该装置做成了橙色，今天依然如此。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072007.jpg)
 
 1960年，澳大利亚成为世界第一个强制飞机驾驶舱必须录音的国家。
 
 今天，黑匣子安装在了每一个商业航班上面，能够防火、防海水，外层是坚固的钢铁。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072009.jpg)
 
 大卫·沃伦在 ARL 工作直到1983年退休，成为其首席科学家。他于2010年7月19日去世，享年85岁。他从来没有从黑匣子的发明里面，得到一分钱的特许使用费。
 
 他的棺材上写着“飞行记录器发明者：不要打开”。
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072010.jpg)
 
 ## 言论
 
@@ -376,7 +376,7 @@ SQLite 测试代码的行数，是软件本身的662倍。
 
 1、**秘猿科技**
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019080701.png)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)
 
 秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。以下职位的工作地点为杭州，也可以 remote。
 
@@ -391,7 +391,7 @@ SQLite 测试代码的行数，是软件本身的662倍。
 
 去年的本周：《[周刊第 19 期](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html)》
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018082401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018082401.jpg)
 
 ## 订阅
 

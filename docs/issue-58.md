@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053101.jpg)
 
 据我观察，经营最好的自媒体，似乎都是美妆类的，介绍化妆品和服饰。
 
@@ -22,31 +22,31 @@
 
 1、[可以走动的机舱](https://www.cnn.com/travel/article/ultraflex-cabin-concept-aim-altitude/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053102.jpg)
 
 飞机上通常不能随意走动，这使得长途航班往往令人精疲力尽。英国一家航空公司的首席工业设计师，提出了机舱的新设计，提供一个可以走动的区域，包括健身房、工作室、酒吧、售货机、会议室和厨房，使得十几个人可以同时在该区域活动。多家航空公司对该概念设计，表示了浓厚的兴趣。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053103.jpg)
 
 2、[蘑菇尸衣](https://grist.org/living/mushroom-burial-suit-turns-dead-bodies-into-clean-compost/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053104.jpg)
 
 去世以后，主要有两种处理人体的方式：土葬和火葬。前者不环保，后者消耗能源。一家创业公司提出了一个更绿色的处理方式。他们发明了一种里面种植了蘑菇孢子的衣服，死者穿上以后，蘑菇孢子会不断分解人体的组织，转换成肥料。
 
 3、[微软纸牌游戏](https://www.theverge.com/2019/5/6/18530946/microsoft-solitaire-world-video-game-hall-of-fame)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053105.jpg)
 
 2019年5月，微软纸牌游戏入选[世界电子游戏名人堂](https://www.worldvideogamehalloffame.org/games/microsoft-solitaire)，跻身 Doom、俄罗斯方块、魔兽世界、神奇宝贝和塞尔达传说的行列。
 
 1990年，纸牌游戏首次发布，与 Windows 3.0 捆绑在一起，然后 Windows 的几乎所有版本都带有它。它是世界上游戏人数最多的游戏。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053106.jpg)
 
 4、[激光武器击落导弹](https://www.thedrive.com/the-war-zone/27795/the-air-force-just-shot-down-multiple-missiles-with-a-laser-destined-for-fighter-aircraft)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053107.jpg)
 
 美国空军透露，2019年4月23日进行了一次实验，战斗机使用激光武器，成功击中飞行中的导弹。具体的细节都没有披露。该技术可能改变导弹防御的现状。
 
@@ -54,7 +54,7 @@
 
 5、[味觉机器人](https://yellrobot.com/taste-testing-robots-china-chinese-food-ai/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053108.jpg)
 
 为了保证食品安全，防止伪劣食品，中国轻工业协会正在推广人工智能驱动的味道测试机器人，让机器人确定食品的质量和真实性。目前，测试对象包括干面条、米醋、茶和黄酒。
 
@@ -62,17 +62,17 @@
 
 6、[光学鼠标20年](https://gizmodo.com/20-years-ago-microsoft-changed-how-we-mouse-forever-1834274151)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053109.jpg)
 
 1999年4月，微软发布它的第一代光学鼠标，也是全世界最早的商业化光学鼠标，通过光学影像的位移来定位，促成了鼠标的升级换代，距今正好20年。此前人们使用的都是机械鼠标，里面是一个橡胶球，通过滚动带动三个滚轮来定位，它的最大缺点就是定位不精确，而且需要经常清洗，防止污垢影响精确度。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053110.jpg)
 
 早期的光学鼠标不能在玻璃和光滑表面使用。2009年8月，罗技公司推出了会发射出两束激光的鼠标，这能使得它可以在玻璃上使用。
 
 7、[底特律的路灯危机](https://www.detroitnews.com/story/news/local/detroit-city/2019/05/07/detroits-led-streetlights-going-dark-after-few-years/3650465002/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053111.jpg)
 
 2014年，底特律市政府向加州一家 LED 公司，购买了2万多个路灯，预计使用年限是10年。但是，由于灯具的设计问题，从2018年底开始，这种 LED 灯就因为温度过高而烧焦，出现了大面积的故障，变得非常昏暗，最后就完全不亮。
 
@@ -94,19 +94,19 @@ LED 公司承担不起更换路灯的费用，底特律政府由于财政困难�
 
 1、[DOOM 动态火焰效果](http://fabiensanglard.net/doom_fire_psx/index.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053112.jpg)
 
 本文介绍 DOOM 火焰效果怎么实现，并且给出了 JS 源码。
 
 2、[微软的复兴](https://www.bloomberg.com/news/features/2019-05-02/satya-nadella-remade-microsoft-as-world-s-most-valuable-company)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053113.jpg)
 
 微软的市值最近超过了1万亿美元，过去5年上涨了两倍多，达到历史的最高峰。本文是微软 CEO Satya Nadella 的长篇特写，介绍这个在印度出生并接受教育的工程师，如何带领微软实现了复兴。
 
 3、[JPEG 图像还原](https://parametric.press/issue-01/unraveling-the-jpeg/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053114.jpg)
 
 详细介绍 JPEG 图像格式和压缩方法。
 
@@ -128,7 +128,7 @@ WordPress 采用在线更新机制，从远程下载更新包，因此必须有�
 
 8、[如何编写深色主题的 CSS](https://habr.com/en/company/yandex/blog/450032/) （英文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053115.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053115.jpg)
 
 越来越多的应用，提供浅色主题和深色主题两种模式。本文介绍如何在现有代码改动最小的情况下，添加深色主题的 CSS 代码。
 
@@ -142,7 +142,7 @@ Chrome 浏览器宣布， Cookie 默认将不能跨站点发送，这实际上�
 
 11、[任正非5月21日专访全文](https://36kr.com/p/5207055)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053116.jpg)
 
 2019年5月21日，多家中文媒体联合采访任正非，长达150分钟，这里是全文记录稿，信息量很大，值得一读。
 
@@ -158,7 +158,7 @@ Chrome 浏览器宣布， Cookie 默认将不能跨站点发送，这实际上�
 
 3、[goldendict](https://github.com/goldendict/goldendict)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053117.jpg)
 
 一个基于 QT 的桌面词典，支持 Windows / Mac / Linux 平台。（@[circleapps](https://github.com/ruanyf/weekly/issues/454) 投稿）
 
@@ -172,7 +172,7 @@ Chrome 浏览器宣布， Cookie 默认将不能跨站点发送，这实际上�
 
 6、[gridea](https://github.com/getgridea/gridea)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053118.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053118.jpg)
 
 一款跨平台桌面软件，可以在本地将 Markdown 文档编译成静态博客，然后发布到 GitHub Pages 或 Coding Pages。（@[ifrontend-xyz](https://github.com/ruanyf/weekly/issues/463) 投稿）
 
@@ -186,19 +186,19 @@ Chrome 浏览器宣布， Cookie 默认将不能跨站点发送，这实际上�
 
 9、[Darwin Mail](https://www.darwinmail.app/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053119.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053119.jpg)
 
 一个第三方的 GMail 的 Web 客户端。
 
 10、[Nana](http://nanapro.org/en-us/)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053120.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053120.jpg)
 
 一个跨平台的 C++ 图形界面组件库。
 
 11、[Flutter 的豆瓣客户端](https://github.com/kaina404/FlutterDouBan)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053121.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053121.jpg)
 
 一个 Flutter 的学习项目，完整还原豆瓣客户端。（@[CharlesCCC ](https://github.com/ruanyf/weekly/issues/546)投稿）
 
@@ -214,13 +214,13 @@ Chrome 浏览器宣布， Cookie 默认将不能跨站点发送，这实际上�
 
 3、[Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053122.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053122.jpg)
 
 Haskell 语言开源教程的中译本，针对初学者。
 
 4、[Oddly Satisfying](https://andreaswannerstedt.se/oddly-satisfying-vol5)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053123.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053123.jpg)
 
 一个视频项目，收集各种无限循环的短视频。
 
@@ -242,41 +242,41 @@ Haskell 语言开源教程的中译本，针对初学者。
 
 下面是苏联宇航员科马洛夫的故事。他自愿执行一个自杀式任务，换取最好的朋友加加林活下去。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053124.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053124.jpg)
 
 1967年，冷战达到了顶峰。列宁的诞辰纪念日将于4月22日到来，苏联领导人勃列日涅夫决定隆重纪念。他命令，两艘苏联的宇宙飞船在太空对接，各自的宇航员交换位置，进入另一艘飞船。这是前所未有的壮举，向世界显示苏联航天科技的先进。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053125.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053125.jpg)
 
 对于这样重要的飞行，苏联航天局挑选了最好的宇航员，加加林和科马洛夫都入选了。他们是亲密的朋友，同时在空军服役，平时会一起喝酒，一起打猎，也一起进行太空训练。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053126.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053126.jpg)
 
 但是，参与这个项目的所有技术人员都明白，联盟1号宇宙飞船无法在指定日期做好所有准备。加加林检查了飞行器，发现了203个不适合飞行的结构问题。他向勃列日涅夫写了一封信，希望推迟这个任务，但是没有任何回音。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053127.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053127.jpg)
 
 随着发射日期的临近，科马洛夫被指定为本次任务的宇航员，加加林是后备人选。科马洛夫知道，这相当于判了他死刑。如果他退出，那么加加林将代替他上天。为了避免好朋友送死，他还是决定自己来飞。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053128.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053128.jpg)
 
 1967年4月23日，科马洛夫登上了拜科努尔航天发射场的联盟1号飞船。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053129.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053129.jpg)
           
 发射后，飞船出现了各种技术问题，围绕地球飞行了18圈后，地面指挥部决定放弃本次任务，命令科马洛夫返回地球。由于操作系统失灵，他必须手动控制飞船，回到地面。
 
 这时，地面指挥部也知道，他不太可能幸存下来了。苏联总理柯西金与科马洛夫进行了通话，科马洛夫的妻子也一起参与。[这段录音](https://www.npr.org/sections/krulwich/2011/05/02/134597833/cosmonaut-crashed-into-earth-crying-in-rage)保存了下来，可以在互联网上找到。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053130.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053130.jpg)
 
 进入大气层以后，飞船的降落伞没有打开，最后摔成了碎片，科马洛夫的遗体被烧成了焦炭。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053131.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053131.jpg)
 
 去世时，他只有40岁，留下了妻子和孩子。他是世界上死于宇宙飞行的第一个人。苏联为他进行了国葬，骨灰埋葬在莫斯科红场。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053132.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053132.jpg)
 
 2、[华为 5G 设备的风险分析](https://www.lawfareblog.com/risk-analysis-huawei-5g)
 
@@ -300,27 +300,27 @@ Haskell 语言开源教程的中译本，针对初学者。
 
 1964年，IBM 公司推出 System / 360 大型机，下面是当时的宣传图片。（@[mcushilei](https://github.com/ruanyf/weekly/issues/431) 投稿）
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053133.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053133.jpg)
 
 整套系统需要占满一间大厅。上图中央的双 H 机柜是 CPU，左侧靠墙和前方的机柜是内存和磁带机，右侧和下部的机柜都是 I/O 设备。
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053134.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053134.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053135.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053135.jpg)
 
 2、[苏联太空旅行博物馆](https://designyoutrust.com/2019/04/out-of-this-world-photographer-egor-rogalev-visits-the-museum-of-soviet-space-travel/)
 
 苏联太空旅行博物馆在1967年对外开放，至今已经有50年历史了。最近，法国摄影师拍摄了一组系列照片，他说：“博物馆和火箭公园在雪地里看起来很忧郁。”
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053136.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053136.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053137.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053137.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053138.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053138.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053139.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053139.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053140.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053140.jpg)
 
 ## 言论
 
@@ -360,7 +360,7 @@ Haskell 语言开源教程的中译本，针对初学者。
 
 去年的本周：[《每周分享第 6 期》](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)
 
-[![](https://www.wangbase.com/blogimg/asset/201805/bg2019052502.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)
+[![](https://cdn.beekka.com/blogimg/asset/201805/bg2019052502.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)
 
 ## 订阅
 

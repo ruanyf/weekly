@@ -6,7 +6,7 @@
 
 周刊讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102417.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102417.jpg)
 
 封面图：卢浦大桥，上海，2019
 
@@ -14,11 +14,11 @@
 
 最近，我想买一个自动炒菜机，就不用再忍受油烟了。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102411.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102411.jpg)
 
 超市有很多半成品的配菜，买来以后直接倒进炒菜机。开好定时，机器就自动开始炒菜了。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102412.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102412.jpg)
 
 没有油烟，也不用在旁边看着，时间一到，过来吃就可以了。味道不一定多好，但是下饭没有问题。我觉得很适合我的需要。
 
@@ -30,11 +30,11 @@
 
 电影《瓦力》中，未来的人类根本不走路，坐着飞行椅，飞到人造海滩或者游乐场。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102413.jpg)
 
 或者索性不飞了，就躺着，跟眼前的电脑屏幕互动。饿了渴了，饮食还会自动送过来。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102414.jpg)
 
 机器的自动化这么发展下去，未来的生活真会像这部电影一样。
 
@@ -63,29 +63,29 @@
 
 训练营已经办了四期，学员的口碑不错。现在第 5 期开始招生了， **原价 ¥2499，限时早鸟价 ¥1499。** 微信扫描下方二维码，可以查看训练营详情并报名。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102416.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102416.jpg)
 
 ## 资讯
 
 1、[机器人公司的遗产](https://techcrunch.com/2019/09/24/megabots-calls-it-a-day-puts-fighting-robot-up-for-sale-on-ebay/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100804.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100805.jpg)
 
 硅谷一家机器人创业公司 Megabots 最近破产了，该公司最值钱的资产（遗产）是一个15吨重的巨型机器人。这个机器人在 eBay 上拍卖，一美元起标，最终的中标价是17万美元。
 
 这个机器人专门用于对战，最初是为了与日本的巨型机器人决斗而制作的，成本为250万美元。卖家 Megabots 特别说明，如果买家想用这个机器人赚钱，可以对外售票“表演”，根据他们的经验，一次表演至少可以赚7000美元。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100807.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100806.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100808.jpg)
 
 2、[Apple Watch 的自动报警功能](https://www.seattletimes.com/seattle-news/bike-crash-left-spokane-man-unconscious-but-his-apple-watch-called-911/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100809.jpg)
 
 苹果手表如果检测到佩戴者跌倒60秒不动，会自动报警。该功能最近出现了真实案例。
 
@@ -93,19 +93,19 @@
 
 3、[高分辨率照片的后果](https://mothership.sg/2019/10/ena-matsuoka-hibiki-sato/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100918.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100918.jpg)
 
 日本一个少女偶像经常发自拍，因为照片分辨率太高，被一个粉丝从她眼睛的反光里面，识别出公交站牌和标志性建筑。结果就到这个站点等她，然后袭击了她，简直像电视剧的情节。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100919.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100919.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100922.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100922.jpg)
 
 这件事的启示就是，公开发布照片的时候，要注意减少分辨率和 EXIF 信息。
 
 4、[斑马一样的奶牛](https://edition.cnn.com/2019/10/08/us/cows-painted-zebras-avoid-flies-scn-trnd/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100921.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100921.jpg)
 
 一队日本研究人员找来六头奶牛，将它们分成三组，分别漆成黑白条纹、黑色条纹和没有条纹。然后，研究虫子叮咬这三组奶牛有无区别。
 
@@ -115,7 +115,7 @@
 
 5、[催化转化器盗窃案激增](https://www.bbc.com/news/business-49767195)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101019.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101019.jpg)
 
 伦敦警方最近提醒市民提高警惕，防止自己轿车底部的催化转化器被盗。催化转化器用在汽车的排气系统中，在有害气体离开排气管之前对其进行净化。
 
@@ -125,17 +125,17 @@
 
 6、[逐梦者太空飞机](https://www.nasaspaceflight.com/2019/10/dream-chaser-path-flight-primary-structure-snc/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102204.jpg)
 
 逐梦者太空飞机（Dream Chaser）的主体结构今年十月制造完成，预定于2021年下半年首次执行国际空间站补给任务。
 
 它是美国的下一代航天飞机，可以多次使用，往返于地面与太空。它长9米，宽4.5米，高1.8米，可以载人或载货，一次最多乘坐7人。根据美国宇航局的计划，这架飞机会整体放在大型的 Vulcan 火箭的整流罩内发射上天。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102203.jpg)
 
 下图是2013年制造的原型概念机。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102202.jpg)
 
 7、**一句话消息**
 
@@ -145,17 +145,17 @@
 
 > - [2024 巴黎奥运会](https://www.bbc.com/news/world-europe-50135652)的会徽公布，既像一团火焰，又像一个女子的头像，象征法兰西共和国。不过，法国网友称，这个标志更适合约会网站或美发沙龙。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102301.jpg)
 
 > - [亚马逊公司](https://techcrunch.com/2019/09/19/amazon-orders-100k-electric-delivery-trucks-from-rivian-as-part-of-going-carbon-neutral-by-2040/)宣布采购10万辆电动小卡车，这样可以减少环境和气候影响。这是有史以来最大的电动汽车订单。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092001.jpg)
 
 > - [一位土耳其盲人工程师](https://mypositiveoutlooks.com/blind-engineer-builds-a-smart-cane-that-has-google-maps/)发明了智能手杖，集成了传感器、扬声器和谷歌地图。它可以自动导航，一旦发现前面道路有障碍，就会震动，并且语音报警。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019093006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019093006.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019093007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019093007.jpg)
 
 ## 文章
 
@@ -169,7 +169,7 @@
 
 3、[OLPC 项目的历史](https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now)（英语）
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092301.jpg)
 
 2005年，麻省理工学院媒体实验室推出了100美元的 OLPC 笔记本电脑，目标是“每个孩子一个笔记本电脑”。2013年，该项目解散，公告写着“让我们对自己诚实。团结在一起的那种激动，活力和热情已经荡然无存。”本文回顾了这个项目的历史。
 
@@ -209,7 +209,7 @@
 
 2、[Raw Therapee](https://rawtherapee.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091104.jpg)
 
 Raw 格式的数码照片处理桌面软件，跨平台。
 
@@ -219,13 +219,13 @@ Chrome 浏览器插件，支持一键将网页内容存储到多个平台，包�
 
 4、[MarioHTML](https://github.com/nbarkhina/MarioHTML)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091202.jpg)
 
 TypeScript 写的马里奥网页游戏。
 
 5、[Kate](https://kate-editor.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091401.jpg)
 
 KDE 项目里面的多文档编辑器，可以在一个窗口编辑多个文档，具有 IDE 的功能。
 
@@ -243,13 +243,13 @@ LaTeX 搜索引擎。你给出英语描述，它返回符号的写法。比如�
 
 9、[Textmate](https://github.com/textmate/textmate)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091606.jpg)
 
 一个好用的文本编辑器，最近推出了2.0版。
 
 10、[doka](https://pqina.nl/doka/image-editor/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102410.jpg)
 
 一个使用 WebGL 技术搭建的在线图像编辑器，使用非常流畅。
 
@@ -257,7 +257,7 @@ LaTeX 搜索引擎。你给出英语描述，它返回符号的写法。比如�
 
 1、 [HTTP Cat](https://http.cat/)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092803.jpg)
 
 该网站对每个 HTTP 状态码，返回一张不同的猫咪照片。（@[zhaofenghao](https://github.com/ruanyf/weekly/issues/876) 投稿）
 
@@ -267,7 +267,7 @@ LaTeX 搜索引擎。你给出英语描述，它返回符号的写法。比如�
 
 3、[resume.io](https://resume.io/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100401.jpg)
 
 该网站提供多套简历模板，用户可以选择一套，自动生成自己的简历。
 
@@ -277,7 +277,7 @@ LaTeX 搜索引擎。你给出英语描述，它返回符号的写法。比如�
 
 5、[学习 ClojureScript](https://www.learn-clojurescript.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100504.jpg)
 
 ClojureScript 是 Clojure 编程语言的一种方言，可编译为JavaScript，专门为网页编程而设计。
 
@@ -289,17 +289,17 @@ ClojureScript 是 Clojure 编程语言的一种方言，可编译为JavaScript�
 
 确实惊人，10个月前还是一片空地，现在已经投产了。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102401.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102402.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102403.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102404.jpg)
 
 2、[欧洲酒精带](https://en.wikipedia.org/wiki/Alcohol_belts_of_Europe)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090101.jpg)
 
 欧洲各国饮用的主要酒类各不相同。上图中，深红色国家主要饮用葡萄酒（wine），黄色国家饮用啤酒（beer），蓝色国家饮用伏特加（vodka）。
 
@@ -309,17 +309,17 @@ ClojureScript 是 Clojure 编程语言的一种方言，可编译为JavaScript�
 
 贡贝黑猩猩战争是1974年到1978年，发生在坦桑尼亚贡贝溪国家公园里面，两个黑猩猩族群之间的一场暴力冲突。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102406.jpg)
 
 1974年，生物学家珍·古道尔首次发现，这个公园的南部和北部分别住着两群大猩猩。它们原来属于一个统一的族群，后来分裂了，产生了敌对关系。
 
 南派有六只雄猩猩，三只雌猩猩，以及一些幼仔。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102405.jpg)
 
 1974年1月7日，两派之间的战争爆发。一个由六只北派成年大猩猩组成的团伙，袭击并杀害了一只南派的幼仔。当时，这只幼年大猩猩正在树上进食。这也是人类第一次观察到，黑猩猩故意杀害一只同类。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102407.jpg)
 
 接下来的四年，南派的所有六只成年雄猩猩均被北派消灭，雌猩猩一只被杀，一只失踪，一只被北派掳走。北派随后占据了南派的领地。
 
@@ -327,7 +327,7 @@ ClojureScript 是 Clojure 编程语言的一种方言，可编译为JavaScript�
 
 这场战争给珍妮·古道尔带来了极大的震撼。她先前认为黑猩猩虽然与人类相似，但“应当比人类好一些”。但是这场战争使古道尔第一次认识到黑猩猩的黑暗面。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019090917.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090917.jpg)
 
 上图为珍妮·古道尔在公园里的喂养站，她在这里喂养大猩猩。
 
@@ -335,7 +335,7 @@ ClojureScript 是 Clojure 编程语言的一种方言，可编译为JavaScript�
 
 鲍勃·马丁大叔（Bob Martin）是软件开发理论的巨头之一。他提出的程序员誓言，是这个行业的基本职业道德。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102502.jpg)
 
 誓言由关于软件开发人员的九个道德目标组成。
 
@@ -401,7 +401,7 @@ ClojureScript 是 Clojure 编程语言的一种方言，可编译为JavaScript�
 
 去年的本周：[《周刊第 27 期》](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html)
 
-![](https://www.wangbase.com/blogimg/asset/201810/bg2018101901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101901.jpg)
 
 ## 订阅
 

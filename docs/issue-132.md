@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110415.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110415.jpg)
 
 郑州新区污水处理厂曾获2019年国家优质工程奖，一个个污水处理池被绿化围绕。（via [instagram](https://www.instagram.com/p/CHKdcpTLzNk/)）
 
@@ -16,7 +16,7 @@
 
 美国著名投资家芒格（Charles Munger）是巴菲特的合伙人，以投资思想丰富而著称。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110416.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110416.jpg)
 
 我想分享[他的一段话](https://models.substack.com/p/circle-of-competence)，普通人应该怎么找到自己的竞争力。
 
@@ -44,13 +44,13 @@
 
 [极客时间](https://time.geekbang.org/)是国内知名的 IT 技术知识学习平台，用户已经超过120万，中国程序员总数也不过几百万吧。很多技术人都通过它，学习新知识。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110405.jpg)
 
 极客时间成立 3 周年之际，他们希望通过周刊，给我的读者送一些福利。
 
 他们赠送的是一批 VIP 月卡，平台的近千门技术课程，可以免费看一个月。这张卡是以团队名义发送的，只需要一个人申请，就可以获得一个权益包，团队的所有成员可以共同使用。这也解决了课太多，一个人看不过来的问题。下面就是权益包的内容。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110404.jpg)
 
 领取方法是，你注册一下团队学习账号。后面会有工作人员联系你，发放上图中所有权益。
 
@@ -62,29 +62,29 @@
 
 现在只要扫描下方二维码 👇，注册团队帐号，就可以不花钱看上面这些收费内容了。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110402.jpg)
 
 ## 资讯
 
 1、[电动汽车底盘创业公司](https://newatlas.com/automotive/ree-video-platform-demonstration-skateboard-chassis/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100805.jpg)
 
 一家美国创业公司开发了扁平化的电动汽车底盘，这种底盘本身就可以行驶，电动机、转向，变速箱、制动功能都集成在里面。而且，所有功能都通过电子方式控制，底盘上方无论是通过方向盘和踏板操作，还是通过触摸屏操作，底盘接收到的命令都是一样的。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100806.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100807.jpg)
 
 它的最大好处就是让电动汽车变成了模块化，其他汽车公司采购了这个底盘以后，上面怎么改装都可以，汽车、货车、卡车、公共汽车、越野车都可以用它。维修、更换组件和回收，会变得从未有过的容易。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100808.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100809.jpg)
 
 2、[足球直播的故障](https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103102.jpg)
 
 10月25日，苏格兰足球联赛出现了一个令人啼笑皆非的直播事故。赛前，俱乐部宣布，本场比赛将采用 AI 摄像头替代人工摄像师，摄像头会自动识别足球，始终追踪球的运动。
 
@@ -96,33 +96,33 @@
 
 3、[谷歌 App 的新图标](https://twitter.com/danidonovan/status/1322356167063031814)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110101.jpg)
 
 谷歌最近将旗下 App 的图标，全部改成统一的色彩风格。很多用户抱怨，新图标的配色完全一样，简直是一场灾难，根本分不清谁是谁（上图）。强烈的颜色压倒了其他信息。
 
 原来的图标明明更易辨识，更有个性（下图是对比），结果上层一拍脑袋，一夜之间就都消失了。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110102.jpg)
 
 现在一堆图标里面找一个 App，成了一件有难度的事情。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110103.jpg)
 
 4、[树莓派 PC](https://www.raspberrypi.org/products/raspberry-pi-400/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110202.jpg)
 
 树莓派官方发布桌面 PC，代号为 Raspberry Pi 400。最大特色就是，整台电脑集成在键盘里面，按键下面就是一块树莓派4代的专用板，出门只要带这个键盘就够了。电源可以用手机充电器，硬盘是 SD 卡，内存是 4GB，有无线网卡，支持 HDMI 输出和 4K 视频播放。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110203.jpg)
 
 这个主机售价是70美元，套件售价是100美元。我感觉这个设备会改变 PC 市场的生态，上网、办公、视频会议，它完全够用，尤其适合教育用途。对于大众市场来说，唯一的麻烦是它的 CPU 是 ARM 架构，只能使用 Linux 系统，装不了 Windows。不过，也许以后 macOS 可以装在上面。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110204.jpg)
 
 5、[Ubuntu Touch 九周年](https://itsfoss.com/ubuntu-touch/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110104.jpg)
 
 九年前的2011年10月31日，Ubuntu 宣布专用于手机的 Linux 系统 ，叫做 Ubuntu Touch。这个系统的实际发布是在2013年，然后2017年官方宣布放弃该项目。只有两家厂商发售过两款该系统的手机，其中一款就是魅族的 Meizu Pro 5（Ubuntu Touch 版，上图），但是这个版本只针对海外市场，国内没有销售。
 
@@ -132,27 +132,27 @@
 
 > - [华盛顿大学](https://www.bbc.com/news/technology-53445772)开发了一个250微克的微型摄像机，可以放在甲壳虫背上。不过，它的分辨率很低，只有160 x 120像素，每秒拍摄5帧，通过蓝牙传输，续航为6小时。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071801.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071802.jpg)
 
 > - [马斯克](https://www.msn.com/en-us/news/technology/elon-musk-worries-spacex-won-e2-80-99t-get-to-mars-before-he-dies/ar-BB10XMVm)表示，他不确定自己的火箭公司 SpaceX 能否在他去世之前，完成到达火星的目标。马斯克生于1971年，今年49岁。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031001.jpg)
 
 > - [气候科学家](https://phys.org/news/2020-03-accurate-climate-reveals-bleaker-outlook.html)预测，2030年全球气温可能会上升1.5 C。不考虑其他因素的情况下，用电量将增加12％，用水增加4％。如果气温上升2.0 C，用电量增加20％，用水增加6％。这意味着，十年后许多城市的用水用电，都会变得非常紧张。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020030903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020030903.jpg)
 
 > - [美国宇航局](https://rocketrundown.com/nasa-reconnects-with-voyager-2-over-18-billion-kilometers-from-earth/)重新联系上“旅行者二号”飞行器，此前澳大利亚的无线电天线维修7个月，无法通信。“旅行者二号”发射于1977年，已经飞出了太阳系，距离地球187亿公里，地球信号需要18个小时才能到达它。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110501.jpg)
 
 ## 文章
 
 1、[使用 Scriptable App 开发 iPhone 小组件](https://github.com/dreamapplehappy/blog/tree/master/2020/10/24)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103104.jpg)
 
 iOS 14 升级了小组件功能，有一个 Scriptable App 可以使用 JavaScript语言为 iPhone 创建各种小组件。（[@dreamapplehappy](https://github.com/ruanyf/weekly/issues/1475) 投稿）
 
@@ -162,7 +162,7 @@ iOS 14 升级了小组件功能，有一个 Scriptable App 可以使用 JavaScri
 
 3、[我怎么做鸡排外卖](https://www.zhihu.com/question/267003361)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110509.jpg)
 
 知乎的一个长帖，作者讲述自己怎么将鸡排外卖做成全国连锁，可以了解外卖商家是怎么运作的。
 
@@ -172,19 +172,19 @@ iOS 14 升级了小组件功能，有一个 Scriptable App 可以使用 JavaScri
 
 5、[gRPC API 是什么？](https://www.programmableweb.com/news/what-grpc-api-and-how-does-it-work/analysis/2020/10/08)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101602.jpg)
 
 gRPC 是远程调用计算机服务的一种方式，所有数据以二进制传送，所以效率极高。
 
 6、[奇妙的 1/89](http://www2.math.ou.edu/~dmccullough/teaching/miscellanea/miner.html) （英文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103103.jpg)
 
 这篇文章介绍 1/89 这个分数（.01123595505...）与斐波那契数列的奇妙关系。
 
 7、[如何在 Markdown 文档显示 diff 效果](https://blog.alispit.tel/create-a-git-diff-in-markdown/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110301.jpg)
 
 很多人不知道的一个小技巧，Markdown 表示 diff 效果的语法（上图）。
 
@@ -200,7 +200,7 @@ npm 是 Node.js 的包管理工具，存在一些令人诟病的地方，主要�
 
 1、[Dendron](https://www.dendron.so/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102701.jpg)
 
 一个 VS Code 编辑器的插件，使其变成一个笔记软件。
 
@@ -210,49 +210,49 @@ npm 是 Node.js 的包管理工具，存在一些令人诟病的地方，主要�
 
 3、[hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102801.jpg)
 
 一个开源的 Postman 替代品，调试 HTTP 请求的在线工具。
 
 4、[Draw On PDF](https://www.goodannotations.com/tools/draw-on-pdf)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102807.jpg)
 
 一个在 PDF 文件上作图的在线工具。
 
 5、[Vega-Lite](https://github.com/vega/vega-lite)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103002.jpg)
 
 一个制作互动式图表的 JS 库。
 
 6、[volute](https://github.com/webfansplz/volute)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103105.jpg)
 
 一个语音工具的集成软件，文档教你如何在树莓派上使用 Node.js，搭建自己的语音助手，可以识别语音，也可以将文本转为语音。（[@webfansplz](https://github.com/ruanyf/weekly/issues/1476) 投稿）
 
 7、[H5-Dooring](https://github.com/MrXujiang/h5-Dooring)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103111.jpg)
 
 一个可视化制作 H5 页面的在线工具。（[@MrXujiang](https://github.com/ruanyf/weekly/issues/1479) 投稿）
 
 8、[winXP](https://github.com/ShizukuIchi/winXP)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110110.jpg)
 
 该项目使用 React 做了一个跟 Windows XP 一模一样的网站。上图其实是一个网页。
 
 9、[Profile Pic Maker](https://pfpmaker.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110112.jpg)
 
 一个在线工具，上传人像照片，可以自动提取头像，生成大头照图片。
 
 10、[Gitako](https://github.com/EnixCoda/Gitako)
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110113.jpg)
 
 一个浏览器插件（支持 Chrome、Edge、Firefox），浏览 GitHub 时可以在网页上显示文件树。
 
@@ -264,13 +264,13 @@ npm 是 Node.js 的包管理工具，存在一些令人诟病的地方，主要�
 
 2、[中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103106.jpg)
 
 作者综合了在互联网上能找到的各家中文文案风格指南、国外大厂成熟的文档规范、以及国标建议的出版要求，编写了这份超过 30 页的开源文档。（[@yikeke](https://github.com/ruanyf/weekly/issues/1477) 投稿）
 
 3、[Coding for Crosswords](https://www.youtube.com/playlist?list=PLg4AoophFZWZ7Llifowo-1WGMVICq-mfw)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102301.jpg)
 
 Youtube 上面的一个 C++ 语言的英文视频教程，教初学者使用 C++ 写一个填词游戏。
 
@@ -280,7 +280,7 @@ Youtube 上面的一个 C++ 语言的英文视频教程，教初学者使用 C++
 
 5、[编写解释器](http://craftinginterpreters.com/contents.html)（Crafting interpreters）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102704.jpg)
 
 一本如何开发编程语言的解释器的英文开源教材，相当于教你怎么发明一种自己的编程语言。
 
@@ -290,7 +290,7 @@ Youtube 上面的一个 C++ 语言的英文视频教程，教初学者使用 C++
 
 俄罗斯新西伯利亚市有一个雕塑，专门纪念在实验室用于 DNA 实验的啮齿类动物。 ​​​​
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103001.jpg)
 
 2、[拉斐尔·蒙蒂的雕塑](https://www.pinterest.com.au/annieOdyne/chiffon/)
 
@@ -298,13 +298,13 @@ Youtube 上面的一个 C++ 语言的英文视频教程，教初学者使用 C++
 
 下面的面纱全部都是大理石雕塑。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103107.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103108.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103109.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103110.jpg)
 
 3、[华氏度与摄氏度的简单估算](https://dyno-might.github.io/2020/10/30/temperature-conversion-for-the-lazy-and-simple-minded/)
 
@@ -314,7 +314,7 @@ Youtube 上面的一个 C++ 语言的英文视频教程，教初学者使用 C++
 - 61 华氏度 ≈ 16 摄氏度
 - 82 华氏度 ≈ 28 摄氏度
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020103112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020103112.jpg)
 
 因此，记住这三个数字（40、61、82），就可以简单估算。比如，71 华氏度介于 61°F 和 82°F 之间，所以对应的摄氏度大约介于16°C和28°C之间。
 
@@ -343,19 +343,19 @@ Youtube 上面的一个 C++ 语言的英文视频教程，教初学者使用 C++
 
 原刊于《MIT 技术评论》杂志
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102504.jpg)
 
 地球变暖看来无法避免，越来越多的科学家正在研究，什么样的工程方法可以让地球降温。这就叫做地球工程（geoengineering）。
 
 地球工程包含两个截然不同的方向：（1）在空气中吸收二氧化碳，避免温室效应；（2）拦截一部分射向地面的阳光，从而减少地面热量。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110507.jpg)
 
 目前，第二个方向有更大吸引力。最著名的一个方案设计，就是将微粒喷洒到平流层，也称为“平流层注入”或“平流层气溶胶散射”。这个方案之所以出名，部分原因是大自然已经证明了它的有效性。
 
 1991年夏天，皮纳图博（Pinatubo）火山爆发，喷出了约2000万吨的二氧化硫。这些微粒散布在大气层里面，将太阳光反射回太空，使得此后两年内全球温度降低了约0.5°C。
 
-![](https://www.wangbase.com/blogimg/asset/202011/bg2020110508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202011/bg2020110508.jpg)
 
 真正进行的地球工程实验，目前非常少。但是，确实有人正在尝试向大气层散布微粒。2009年，俄罗斯科学家做了据信是第一个户外的地球工程实验。他们在直升机里面，向上喷射了高达200米的颗粒。科学家声称该实验减少了到达地面的阳光量。
 
@@ -399,11 +399,11 @@ Starlink（星联计划）将永远改变游戏规则。
 
 2019年的本周（第 81 期）：[子辈能大幅超越父辈吗？](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110707.jpg)
 
 2018年的本周（第 29 期）：[公司的组织架构，决定了软件的复杂性](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110201.jpg)
 
 ## 订阅
 

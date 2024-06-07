@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072001.jpg)
 
 上周，特斯拉汽车的老板马斯克（Elon Musk）来中国，7月11日在上海建立全球第二家工厂，7月12日在北京建立研发中心，当天下午就回美国。他日程太赶没时间吃饭，媒体拍到他与中国员工一起街头吃煎饼果子。
 
@@ -20,7 +20,7 @@
 
 1、[八种降温的简单方法](https://www.bbc.com/news/magazine-23255554)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072002.jpg)
 
 天气炎热，这篇文章介绍了八种不那么正统的降温方法，下面是其中的三种。
 
@@ -30,7 +30,7 @@
 
 2、[ChromeBook 笔记本](https://www.computerworld.com/article/3276329/chrome-os/everything-you-knew-about-chromebooks-is-wrong.html)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072003.jpg)
 
 ChromeBook 是安装了谷歌 ChromeOS 系统的笔记本。这篇文章介绍这个系统的最新进展，认为它很有希望，推荐用户尝试一下。
 
@@ -39,7 +39,7 @@ ChromeBook 是安装了谷歌 ChromeOS 系统的笔记本。这篇文章介绍�
 3、[美国有多少建筑物？](https://blogs.bing.com/maps/2018-06/microsoft-releases-125-million-building-footprints-in-the-us-as-open-data/)
 
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072004.jpg)
 
 微软使用人工智能，从航拍照片识别马路和建筑物，算出美国全国有 124,885,597 栋房子。这些数据都已经开源了，公开在 GitHub 上面。 
 
@@ -53,7 +53,7 @@ ChromeBook 是安装了谷歌 ChromeOS 系统的笔记本。这篇文章介绍�
 
 5、[最大的海浪](https://briantissot.com/2014/12/31/the-giant-200-foot-wave-at-trinidad-california/)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072005.jpg)
 
 
 最近，历史学家确认，史上有记载的最大海浪，发生在1914年12月31日的美国加州特立尼达海角灯塔。根据是当时灯塔守护者写了一份报告，里面提到，海浪冲进了灯塔，打在他脸上。
@@ -63,7 +63,7 @@ ChromeBook 是安装了谷歌 ChromeOS 系统的笔记本。这篇文章介绍�
 6、[人工智能服装设计](https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html)
 
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072006.jpg)
 
 
 《纽约时报》报道，印度电商 Myntra 的 T 恤配色都是算法产生的。
@@ -78,7 +78,7 @@ ChromeBook 是安装了谷歌 ChromeOS 系统的笔记本。这篇文章介绍�
 
 8、[划船上班](https://nypost.com/2018/07/07/google-engineer-uses-a-rowboat-to-commute-to-work-in-nyc/)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072007.jpg)
 
 
 一位谷歌工程师住在新泽西，每天要去纽约上班，路上通勤两个多小时。他决定划船上班，自己做了一艘折叠小艇，横渡哈德逊河，然后再骑自行车到公司。花费的时间其实要比公共交通长，但是他觉得这样精神比较放松。
@@ -86,7 +86,7 @@ ChromeBook 是安装了谷歌 ChromeOS 系统的笔记本。这篇文章介绍�
 9、[旧金山的低收入家庭](https://www.bbc.com/news/world-us-canada-44725026)
 
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072008.jpg)
 
 
 如果你住在旧金山，全家年收入低于11.74万美元，就是政府认定的低收入家庭，可以领取住房补助。这个认定标准是全美最高的。要知道，美国所有家庭的年收入中位数是5.9万美元。这就是说，大部分的美国人都负担不起旧金山的生活。
@@ -109,7 +109,7 @@ ChromeBook 是安装了谷歌 ChromeOS 系统的笔记本。这篇文章介绍�
 
 1、[数据结构参考](https://www.interviewcake.com/data-structures-reference)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072009.jpg)
 
 一份很好的数据结构教程，图文并茂，简明扼要，列出每种结构的定义和优缺点，非常适合初学者。
 
@@ -135,7 +135,7 @@ Python 的默认排序算法是 Timsort，它的表现据说好于快排（quick
 
 7、[Chrome 的缓存浏览模式](https://blogs.systweak.com/2017/06/how-to-enable-offline-browsing-in-firefox-and-chrome/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072010.jpg)
 
 Chrome 可以启用"show saved copy" 按钮。如果网站下线，而本地又有以前访问时的缓存，就能看到缓存的版本。
 
@@ -155,7 +155,7 @@ Chrome 可以启用"show saved copy" 按钮。如果网站下线，而本地又�
 
 2、[Learn command line](https://hellowebbooks.com/learn-command-line/)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072011.jpg)
 
 一本开源的初级命令行教程，特色是配有大量的手绘图。
 
@@ -171,33 +171,33 @@ Chrome 可以启用"show saved copy" 按钮。如果网站下线，而本地又�
 
 2、[snibox](https://github.com/snibox/snibox)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072012.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072012.jpg)
 
 
 开源的代码片段管理的服务，类似 GitHub Gists。
 
 3、[Feather App](https://feather-apps.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072013.jpg)
 
 有人为 Flutter 写了 Windows 和 Mac 的渲染器。也就是说，Flutter 写好的 App 不仅能在手机上跑，还能在桌面跑。理论上，Flutter 能在任何操作系统运行，它是一套独立控件，只要能编译出来，就能运行。
 
 4、[cheat.sh](https://github.com/chubin/cheat.sh)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072014.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072014.jpg)
 
 一个只能在命令行访问的文档查询网站，使用方法就是命令行执行 curl cheat.sh 。
 
 5、[微软 Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072016.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072016.jpg)
 
 
 微软的团队协作工具 Teams 推出免费版了，可以聊天、视频、上传文件、内部集成了 Office。
 
 6、[Stencila](http://stenci.la/)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072017.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072017.jpg)
 
 
 Stencila 是一套开源的办公套件，只包含文字处理器和电子表格。
@@ -236,14 +236,14 @@ Stencila 是一套开源的办公套件，只包含文字处理器和电子表�
 
 1、[GitHub 的复古 GUI 风格](https://github.com/Athari/CssGitHubWindows)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072018.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072018.jpg)
 
 
 有人写了一个 CSS 风格，将 GitHub 改成 Windows 98 时代的桌面 GUI 软件的风格。说实话，现在的 Web 应用比当年的桌面应用体验好多了。
 
 2、[一段奇特的 CSS 代码](https://codepen.io/MartijnCuppens/pen/MXojmw)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072019.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072019.jpg)
 
 一个空的 div 元素，所有浏览器的渲染结果都不一样。
 
@@ -251,9 +251,9 @@ Stencila 是一套开源的办公套件，只包含文字处理器和电子表�
 
 1、[3D 动态展示中国的空气污染](https://www.weibo.com/tv/v/GnNDxr54I?fid=1034:4256723129548661)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072020.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072020.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072021.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072021.jpg)
 
 
 根据 NASA 数据做的全国空气污染数据的动态可视化，时间跨度20年。2013年1月是污染最严重的时刻，2018年1月虽然还是很严重，但是已经有所改善。 
@@ -261,9 +261,9 @@ Stencila 是一套开源的办公套件，只包含文字处理器和电子表�
 2、[恐龙足迹](https://photo.sina.cn/album_1_2841_292894.htm)
 
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072022.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072022.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072023.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072023.jpg)
 
 山东郯城县发现了一大型恐龙足迹点，第一张图的一个个凹坑，据说都是恐龙脚印。
 
@@ -271,7 +271,7 @@ Stencila 是一套开源的办公套件，只包含文字处理器和电子表�
 
 近日，外媒 AndroidAuthority 统计了历史上销量最高的10款手机。Nokia 包揽了前10中的7个，剩余三星、苹果、摩托罗拉各一个。
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072024.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072024.jpg)
 
 
 Nokia 1100发布于2003年，搭载了单色屏幕与手电筒，全球一共销售了2.5亿部，成为了迄今为止最畅销的手机。
@@ -279,12 +279,12 @@ Nokia 1100发布于2003年，搭载了单色屏幕与手电筒，全球一共销
 ## 本周金句
 
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072025.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072025.jpg)
 
 
 6月底，由于竞争不过网上商店，美国最大的玩具连锁店玩具反斗城（Toys R US）破产关门，全美700多家连锁店全部歇业，70年的公司历史正式结束。最后一天，一个员工贴出了一张照片：清空的商店里面，一只长颈鹿拿着行李箱准备离开。
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018072026.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072026.jpg)
 
 公司的网页也发表了[告别声明](https://hellogiggles.com/news/toys-r-us-last-day-goodbye-tweets/)：
 

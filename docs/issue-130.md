@@ -8,7 +8,7 @@
 
 ##  封面图
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100715.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100715.jpg)
 
 成都高新区的五岔子步行桥，形状既像一个莫比乌斯环，又像数学里面的无限符号“∞”。（[via](https://www.instagram.com/p/CFVqUVOn1jI/)）
 
@@ -20,15 +20,15 @@
 
 我最近好像知道答案了。 **我发现，亲子类的视频，也就是跟儿童相关的内容（包括玩具和儿歌），流量都非常好。** 随便举几个例子，百度的视频搜索“亲子”。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100906.jpg)
 
 Youtube 搜“儿童玩具”。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100908.jpg)
 
 搜“儿歌”的话，播放量更惊人。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100909.jpg)
 
 我看了好几个视频网站，觉得这是普遍现象，亲子类视频的播放量非常高。一个很普通的帐号，非常简单的内容，往往有几十万的播放量，极个别甚至高达千万。
 
@@ -48,7 +48,7 @@ Youtube 搜“儿童玩具”。
 
 本周的课程资料是开课吧前端团队精心打造的 **《前端开发进阶手册》**。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102202.jpg)
 
 它是一份前端求职的免费辅导材料，针对国内的前端招聘状况而编写，包括三个方面的内容，能够帮助大家更好掌握面试技巧和热门知识点：
 
@@ -66,13 +66,13 @@ Youtube 搜“儿童玩具”。
 
 以上这套《Web 前端开发进阶手册》原价 399元，现在可以 **免费领取**，有兴趣的同学请扫描下面的二维码。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102201.jpg)
 
 ## 资讯
 
 1、[月球望远镜](https://www.smithsonianmag.com/science-nature/why-astronomers-want-build-seti-observatory-moon-180975966/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100401.jpg)
 
 美国科学家最近发表论文，建议在月球上架设射电望远镜，主要原因是地球上的无线电干扰（军用雷达，电视塔，手机和卫星）实在太大了，越来越不可能接收到宇宙中传来的无线电信号。而且，地球有浓厚的大气层，阻挡了大部分宇宙中的无线电。
 
@@ -80,31 +80,31 @@ Youtube 搜“儿童玩具”。
 
 2、[普济路桥改建](http://www.landscape.cn/landscape/11218.html)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100103.jpg)
 
 普济路桥是上海市区的一座人行和非机动车桥，长423.3米，宽7米。下图就是桥的现状。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100102.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100101.jpg)
 
 最近，上海的一家建筑事务所提出一个改建方案，将这座桥改建成多功能高架公园，灰色的沥青被大胆活泼的颜色替代，通过颜色勾勒出不同的动线。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100104.jpg)
 
 青色直线车道是自行车和摩托车的快速车道，紫红色的蜿蜒小径是行人道。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100105.jpg)
 
 在青蓝色的背景色之上，对比鲜明的黄色节点星罗棋布，设置了观景台、野餐广场、休息室、迷你圆形剧场和售货点。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100106.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100107.jpg)
 
 3、[掌纹付款](https://techcrunch.com/2020/09/29/amazon-introduces-the-amazon-one-a-way-to-pay-with-your-palm-when-entering-stores/)
 
-![](https://www.wangbase.com/blogimg/asset/202009/bg2020093006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202009/bg2020093006.jpg)
 
 亚马逊推出掌纹付款。第一次使用时，用户在扫描仪中插入信用卡，然后将手掌镜头上方，就能将自己的掌纹与信用卡相关联。以后，只要将手掌放在 Amazon One 设备上方约一秒钟，就可以完成信用卡扣款。
 
@@ -112,7 +112,7 @@ Youtube 搜“儿童玩具”。
 
 4、[新冠病例与 Excel](https://finance.sina.com.cn/tech/2020-10-10/doc-iivhuipp8887724.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101002.jpg) 
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101002.jpg) 
 
 英国的新冠肺炎确诊病例数量，最近一天内暴增 16000 例。原因并非是这一天患病的人特别多，而是英国的病例统计报表使用了 Excel 的 xls 文件格式，导致前几天的统计遗漏了。
 
@@ -122,7 +122,7 @@ xls 格式的表最多只能有 65,536 行，多于该行数的数据源会被�
 
 5、[不拍打翅膀的安第斯秃鹰](https://www.theguardian.com/environment/2020/jul/13/andean-condor-fly-without-flapping-wings-flight-bird)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071422.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071422.jpg)
 
 南美洲的安第斯秃鹰重达15公斤，翼展为3米，是能够在高空飞翔的最重的鸟类。最近，科学家将摄像头绑在八只秃鹰身上，震惊地发现这些鸟在飞行时，竟然只用1％的时间挥动翅膀。
 
@@ -132,7 +132,7 @@ xls 格式的表最多只能有 65,536 行，多于该行数的数据源会被�
 
 > - [美国科学家](https://www.quantamagazine.org/physicists-discover-first-room-temperature-superconductor-20201014/)发现了室温超导材料，可以在15摄氏度的条件下实现零电阻。该材料的最大问题是它需要极高的压力才能工作，大约是地球内核压力的75%。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101508.jpg)
 
 > - [德国科学家](https://www.goethe-university-frankfurt.de/93203693/Zeptoseconds__New_world_record_in_short_time_measurement?locale=en)发现迄今为止最短的时间：光穿过一个氢分子耗时为10<sup>-21</sup>秒。
 
@@ -158,13 +158,13 @@ PingCAP CEO 的分享，介绍他们怎么设计 TiDB 这个数据库产品。�
 
 5、[分屏器能用于线上考试作弊吗？](https://zhuanlan.zhihu.com/p/155819108)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101604.jpg)
 
 线上考试时，学校使用摄像头进行云监考，有人就想到使用分屏器作弊。（[@Gorvey](https://github.com/ruanyf/weekly/issues/1442) 投稿）
 
 6、[人类探索金星的历史](https://cn.nytimes.com/science/20201010/venus-spacecraft-life/)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101708.jpg)
 
 《纽约时报中文版》的文章，回顾了人类飞行器探索金星的历史。金星表面的大气压是地球的96倍，因此很难登陆，飞船可能会被瞬间压扁。上图是1982年苏联金星14号着陆器拍摄的金星表面照片。
 
@@ -182,7 +182,7 @@ PingCAP CEO 的分享，介绍他们怎么设计 TiDB 这个数据库产品。�
 
 10、[熔岩灯如何帮助加密？](https://www.cloudflare.com/zh-cn/learning/ssl/lava-lamp-encryption/)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101903.jpg)
 
 Cloudflare 介绍如何通过公司墙上 100 盏熔岩灯的形状，创建随机密钥。（[@hite](https://www.cloudflare.com/zh-cn/learning/ssl/lava-lamp-encryption/) 投稿）
 
@@ -194,25 +194,25 @@ Cloudflare 介绍如何通过公司墙上 100 盏熔岩灯的形状，创建随�
 
 2、[FreePN](https://www.freepn.org/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101703.jpg)
 
 一个点对点的 VPN 网络，通过用户共享带宽实现加密访问。
 
 3、[RabiAPI](https://github.com/RabiAPI/RabiAPI-Support)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101706.jpg)
 
 一个 macOS App，可以直接把 Java 源码转换为markdown/asciidoc 格式的 API 接口文档，免去繁琐的手写过程。（[@WhiteCosmos](https://github.com/ruanyf/weekly/issues/1445) 投稿）
 
 4、[SciterJS](https://github.com/c-smile/sciter-js-sdk)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101704.jpg)
 
 使用 HTML/CSS/JS 技术构建跨平台的桌面应用，类似于 Electron 的作用，但是它自己实现内核，比 Eletron 更简单，打包出来的程序也更小。详细介绍看[这里](https://www.kickstarter.com/projects/c-smile/open-source-sciter-engine)。
 
 5、[KakaCSS](https://renzhezhilu.gitee.io/kakacss/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101707.jpg)
 
 在任意网站复制内容，粘贴到这个网站，会给出所复制内容的 CSS 样式代码。（[@renzhezhilu](https://github.com/ruanyf/weekly/issues/1441) 投稿）
 
@@ -222,7 +222,7 @@ Cloudflare 介绍如何通过公司墙上 100 盏熔岩灯的形状，创建随�
 
 7、[AnyTXT Searcher](https://anytxt.net/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101808.jpg)
 
 Windows 桌面软件，提供文本文件的全文搜索。
 
@@ -232,7 +232,7 @@ Windows 桌面软件，提供文本文件的全文搜索。
 
 9、[ChineseBQB](https://www.v2fy.com/asset/0i/ChineseBQB/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101901.jpg)
 
 开源表情包搜索工具。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/1439) 投稿）
 
@@ -248,31 +248,31 @@ Windows 桌面软件，提供文本文件的全文搜索。
 
 2、[Coded Mails](https://codedmails.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101302.jpg)
 
 电子邮件的 HTML 模版很难写，因为客户端有着各种限制。该网站提供各种主题的响应式电子邮件模版下载。
 
 3、[Musicnet](https://homes.cs.washington.edu/~thickstn/musicnet.html)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101601.jpg)
 
 一个古典音乐的数据集，包括超过一百万个标签，指明每首曲子的每个音符出现的准确时间和位置，以及演奏该音符的乐器，主要用于 AI 的数据训练。
 
 4、[数据工程师学习资料](https://awesomedataengineering.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101701.jpg)
 
 一个英文网站，按照学习次序，列出各种主题最推荐的学习资料。
 
 5、[Unix 分时操作系统](https://chsasank.github.io/classic_papers/unix-time-sharing-system.html)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101702.jpg)
  
 这是丹尼斯·里奇和汤普森1974年向世界介绍 Unix 操作系统的经典论文，至今仍然是了解 Unix 的最佳入门材料。
 
 6、[WikiMap](https://wikimap.wiki/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020102203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020102203.jpg)
 
 在地图上显示维基百科的条目，非常酷。
 
@@ -284,11 +284,11 @@ Windows 桌面软件，提供文本文件的全文搜索。
 
 该网站收集了历年的获奖作品。下图是2020年的第一名：一条鱼苗的骨骼和鳞片。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101802.jpg)
 
 2019年的第一名：乌龟胚胎的荧光染色照片。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101803.jpg)
 
 2、[圆形耕地](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
 
@@ -296,7 +296,7 @@ Windows 桌面软件，提供文本文件的全文搜索。
 
 当地农民采用旋转喷头进行浇水，结果意外造成圆形耕地的景观。下面内布拉斯加州农场的航拍照片。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020083101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020083101.jpg)
 
 ## 文摘
 
@@ -306,7 +306,7 @@ Windows 桌面软件，提供文本文件的全文搜索。
 
 去年我在非洲，看到了很多野生动物，以前我只在动物园里见过它们。那里的所有动物都很不一样，尤其是狮子。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101301.jpg)
 
 野外的狮子比动物园的狮子似乎更有活力十倍，它们就像不同的动物。
 
@@ -344,7 +344,7 @@ Windows 桌面软件，提供文本文件的全文搜索。
 
 -- [《色盲的科学解释》](https://commandcenter.blogspot.com/2020/09/color-blindness-is-inaccurate-term.html)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100403.jpg)
 
 3、
 
@@ -374,11 +374,11 @@ Windows 桌面软件，提供文本文件的全文搜索。
 
 2019年的本周（第 79 期）：[我们的生活越来越依赖机器](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019102417.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102417.jpg)
 
 2018年的本周（第 27 期）：[乔布斯的“热情假设”对不对？](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html)
 
-![](https://www.wangbase.com/blogimg/asset/201810/bg2018101901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101901.jpg)
 
 ## 订阅
 

@@ -4,7 +4,7 @@
 
 欢迎投稿，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111601.jpg)
 
 （题图：天荒坪，安吉，2018）
 
@@ -34,7 +34,7 @@
 
 1、[鸟类标本与污染](https://www.audubon.org/magazine/winter-2017/sooty-feathers-tell-history-pollution-american)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111602.jpg)
 
 美国芝加哥的三家博物馆共收藏了1,347个鸟类标本，时间跨度三个世纪（1880年至2015年）。最近，生物学家调查了这些标本与空气污染之间的关系。
 
@@ -42,7 +42,7 @@
 
 2、[抗生素杀死有益细菌](https://phys.org/news/2018-10-composition-gut-bacteria-recovers-antibiotics.html)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111603.jpg)
 
 人体肠道有数万亿细菌，其中很多细菌对人体有益。而且，丰富多样的肠道微生物群被认为可以促进健康，如果细菌种类过少，反而是慢性疾病的一个特征。
 
@@ -50,7 +50,7 @@
 
 3、[流动电池](https://www.forbes.com/sites/jeffkart/2018/10/24/charging-an-electric-vehicle-with-sparkcharge-as-easy-as-ordering-a-pizza/#237f3fa04c65)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111604.jpg)
 
 电动汽车正变得流行，但是司机们还是担心，开到一半没电了怎么办，毕竟充电桩并不好找。现在，美国一家创业公司推出了流动电池充电服务，如果你的电动车没电了，可以用 App 预约电池，到你指定的地点为车充电。
 
@@ -58,7 +58,7 @@
 
 4、[AR 协作](https://spatial.is/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111605.jpg)
 
 远程办公的时候，如何与同事协作？美国一家创业公司推出了一种 AR 眼镜，只要戴上眼镜，远程的同事就会出现在眼前，跟周围环境叠加在一起，跟你互动。
 
@@ -74,7 +74,7 @@
 
 6、[野生动物消失了60%](https://www.salon.com/2018/10/30/human-activity-has-obliterated-more-than-half-of-all-wildlife-since-1970/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111606.jpg)
 
 世界野生动物基金会发布了一份报告，称1970年以来，全世界的野生动物减少了60%。
 
@@ -82,26 +82,26 @@
 
 7、[AI 主播](https://www.inkstonenews.com/tech/xinhua-and-sogou-show-news-anchors-powered-artificial-intelligence/article/2172460)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111607.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111607.jpg)
 
 新华社与搜狗合作，在乌镇的第五届世界互联网大会上，发布了 AI 主播。该系统首先对真人的脸部建模，然后提取语音、表情、嘴唇动作，重构一个 AI 分身模型。以后，只要输入文本，该分身就会像真人一样播报新闻。[这里](https://www.weibo.com/tv/v/H21eIubGE)是一段 AI 主播播报英语新闻的视频。
 
 8、[外科学生的手失去灵活性](https://www.bbc.com/news/education-46019429)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111608.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111608.jpg)
 
 一位英国外科教授表示说，医学院的学生花了很多时间在电子设备前，手部动作简化为在二维平面屏幕上滑动，缺少更多练习的时间，他们的手已经失去了缝合病人的灵活性。
 
 9、[三星的可折叠手机](https://arstechnica.com/gadgets/2018/11/samsung-shows-off-foldable-phone-prototype-promises-launch-next-year/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111609.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111609.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111610.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111610.jpg)
 
 11月的三星开发者大会上，三星公司正式预告将发布可折叠手机。这个手机有一个外屏，折叠屏是在内部。早先，国内发布的  Royole 可折叠手机，折叠屏是在外屏。相比来说，三星的难度更大，因为它需要将屏幕近乎完全对折，这要求屏幕有更大的强度。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111611.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111611.jpg)
 
 10、__一句话新闻__
 
@@ -111,7 +111,7 @@
     
 * [NASA](https://www.space.com/42234-weird-square-iceberg-antarctica.html?utm_source=twitter&utm_medium=social) 在南极洲发现一块天然形成的矩形冰川。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111612.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111612.jpg)
 
 ## 教程
 
@@ -141,7 +141,7 @@
 
 7、[圆周率 Pi 需要使用多少位小数？](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111613.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111613.jpg)
 
 美国国家航天局计算时，使用 Pi 小数点后15位。这样的话，即使轨道半径是250亿英里，计算误差也小于手指的长度（几厘米）。
 
@@ -173,7 +173,7 @@ Erlang 语言的入门教程。
 
 5、[符号清单](https://www.toptal.com/designers/htmlarrows/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111614.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111614.jpg)
 
 常用符号的 Unicode 码点、HTML 代码和 HTML 实体写法。（@[amenzai](https://github.com/ruanyf/weekly/issues/33)__ __投稿） 
 
@@ -191,7 +191,7 @@ Erlang 语言的入门教程。
 
 谷歌官方推出了一个网页应用，使你可以在浏览器上远程通过自己的手机发短消息。有人使用了它的底层 API，做成一个[桌面 App](https://github.com/maxchehab/Unofficial-Google-Messages-Desktop-App/blob/master/README.md)，可以在电脑桌面上发短信。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111615.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111615.jpg)
 
 2、[texme](https://github.com/susam/texme)
 
@@ -199,7 +199,7 @@ Erlang 语言的入门教程。
 
 3、[Gophish](https://getgophish.com/#)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111616.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111616.jpg)
 
 开源的网络钓鱼框架，用来评估网络钓鱼的风险。它首先导入像素级别的网页钓鱼模板，然后发出钓鱼邮件，并且提供后台，监控结果。
 
@@ -213,19 +213,19 @@ JS 的敏感词过滤库，基于 ahocorasick 字符串匹配算法，浏览器�
 
 6、[turtle.audio](http://turtle.audio/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111617.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111617.jpg)
 
 一个通过绘制视觉形状，进行谱曲的网页编辑器。
 
 7、[Osada](https://zotlabs.com/osada/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111618.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111618.jpg)
 
 一个分布式的社交网络，使用 ActivePub 协议，可以与其他使用该协议的应用交换信息。
 
 8、[色彩测试](https://www.xrite.com/hue-test)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111619.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111619.jpg)
 
 这个网站测试你的色彩分辨能力，检测有无色盲。它显示四个色带，每个色带头尾的色块是固定的，中间的色块都打乱了，你必须将它们还原成正确的顺序。
 
@@ -245,11 +245,11 @@ JS 的敏感词过滤库，基于 ahocorasick 字符串匹配算法，浏览器�
 
 Sputnik 2 的主要任务是将一名活着的乘客送到太空，工程师选择狗作为乘客，因此开始寻找合适的狗。他们从莫斯科街头捡到一只三岁的流浪狗，把她带回总部，起名为莱卡。科学家选择使用流浪狗，因为他们认为这些动物已经学会忍受极度寒冷和饥饿的状况。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111620.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111620.jpg)
 
 航天器很小，为了让它们适应这种限制，所有四只候选的狗都被关在一个小笼子里，长达20天左右。它们还被放置在离心机中，模拟火箭发射的加速，并被放置在噪音的机器中，让它们适应航天器的噪音。这些狗吃一种特殊的高营养凝胶，这将是他们的太空食物。这些举动对它们的健康产生了不良影响，狗的脉搏加快了一倍，血压增加了很多。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111621.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111621.jpg)
 
 发射之前，一位科学家带着莱卡回家，与他的孩子一起玩。因为科学家知道，莱卡不会活着回到地球。这是一次完全单向的自杀任务，苏联当时没有将 Sputnik 2 带回地球的技术。
 
@@ -261,7 +261,7 @@ Sputnik 2 的主要任务是将一名活着的乘客送到太空，工程师选�
 
 1959年，罗马尼亚发行了一张邮票，内容是“Laika，第一个进入宇宙的旅行者”。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111622.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111622.jpg)
 
 1997年，俄罗斯航天城的入口，建起了莱卡的塑像。
 
@@ -269,7 +269,7 @@ Sputnik 2 的主要任务是将一名活着的乘客送到太空，工程师选�
 
 科学家尤金·舒梅克（Eugene Shoemaker）是目前唯一一个埋葬在月球的人。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111623.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111623.jpg)
 
 他主要研究陨石坑。20世纪60年代初期，他帮助阿波罗计划的宇航员了解他们可能在月球表面遇到的地质情况。1997年7月18日他在澳大利亚探索一个流星陨石坑时死于车祸。
 
@@ -283,43 +283,43 @@ Sputnik 2 的主要任务是将一名活着的乘客送到太空，工程师选�
 
 1、[彩色的古希腊雕像](https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111624.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111624.jpg)
 
 我们现在看到的古希腊雕像，都是白色的大理石。但是，它们的原始样子是有颜色的，科学家正在尝试恢复那些雕像的原始颜色。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111625.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111625.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111626.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111626.jpg)
 
 2、[视觉的错觉](http://nautil.us/blog/12-mind_bending-perceptual-illusions)
 
 下图的水平线都是平行的。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111627.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111627.jpg)
 
 下图的圆圈都是同一种颜色。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111628.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111628.jpg)
 
 下图的两张图片是一样的。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111629.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111629.jpg)
 
 ## 新奇
 
 1、 [OpenCat](https://www.raspberrypi.org/magpi/nybble-open-source-kitten/)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111630.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111630.jpg)
 
 中国物理博士、机器人专家李荣仲使用树莓派，开发的 OpenCat AI 项目正在众筹。该项目是一只会走路的机器猫，名叫 Nybble。
 
 用户可以编程，改进它的走路技巧，帮助它思考！国内读者可以观看[优酷视频](https://v.youku.com/v_show/id_XMzQxMzA1NjM0OA==.html)。
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111631.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111631.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018111632.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111632.jpg)
 
 ## 本周金句
 

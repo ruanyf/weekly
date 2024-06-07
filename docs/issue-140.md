@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020123004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123004.jpg)
 
 印尼的一条野生鳄鱼自从2016年，就有一个旧轮胎卡在脖子上。随着这条鳄鱼越长越大，动物学家担心它会被慢慢勒死。印尼政府同意对取下轮胎的人给予奖励，但是根本没人报名。（via [Instagram](https://www.instagram.com/p/CIkixQGBZ_z/)）
 
@@ -16,9 +16,9 @@
 
 两周前有一条[新闻](https://finance.sina.com.cn/tech/2020-12-13/doc-iiznezxs6648424.shtml)。台湾科技企业纬创在印度的 iPhone 代工厂发生“暴动”事件，2000个印度工人大肆打砸公司用品，现场一片狼藉。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122911.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122910.jpg)
 
 据称，薪资问题是引发“暴动”的主因。
 
@@ -28,7 +28,7 @@
 
 我有点好奇，这种工资在印度相当于什么水平？
 
-![](https://www.wangbase.com/blogimg/asset/202001/bg2020011511.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011511.jpg)
 
 去年，我读过一本书[《我在印度的 701 天》](https://book.douban.com/subject/30177716/)。这是孔子学院的一个汉语老师在印度的生活日记，里面有这样的描述。
 
@@ -50,17 +50,17 @@ Vue.js 是主流的前端框架，面试前端岗位时，经常会遇到这方�
 
 [基础类问题]
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020123003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123003.jpg)
 
 [扩展类问题]
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020123002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123002.jpg)
 
 上面这些问题是由腾讯课堂101认证机构——[金渡教育](https://jindu.ke.qq.com/)提供，大家可以扫描下面的二维码， 免费索取参考答案。
 
 这是他们的课程 **《前端高频面试题训练营》** 的一部分。该课程专门针对 Vue.js 进行培训，帮助初学者扎实知识基础，同时又有大厂实战项目的实训。最重要的是，它原价 299 元， **由腾讯课堂全额补贴以后，现在限时免费。**
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020123009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123009.jpg)
 
 扫描上面的二维码入群，即可 0 元领取 。限200名，群满截止。
 
@@ -68,7 +68,7 @@ Vue.js 是主流的前端框架，面试前端岗位时，经常会遇到这方�
 
 1、[蓝牙墓碑](https://www.cool3c.com/article/158691)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122006.jpg)
 
 由于墓地紧缺，日本的一个墓园推出了35座公共坟墓，一个坟墓对应多个死者。墓碑文字不是刻在石头上，而是以电子纸取代。
 
@@ -76,9 +76,9 @@ Vue.js 是主流的前端框架，面试前端岗位时，经常会遇到这方�
 
 2、[滚球木琴](https://dornob.com/mile-long-wooden-xylophone-plays-bach-in-japanese-forest/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122101.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122102.jpg)
 
 日本北海道的一座公园，架设了一个巨大的木琴，当小球从上面滚过时，会发出音乐。木琴放在支柱上，角度是精心计算过的，每块木板都调节好，以控制球的速度。小球会压动木板发出音符，构成巴赫的一首曲子 Cantata 147。
 
@@ -88,11 +88,11 @@ Vue.js 是主流的前端框架，面试前端岗位时，经常会遇到这方�
 
 3、[垂直车库](https://baijiahao.baidu.com/s?id=1627315470881322780)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122304.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122305.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122306.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122306.jpg)
 
 2019年12月，石家庄一个居民小区安装了垂直停车位。这种停车位每个占地20平米，车辆驶入后会自动沉入地下，运送到合适的位置。需要取车的时候，升降机再将车辆送回地面。
 
@@ -100,21 +100,21 @@ Vue.js 是主流的前端框架，面试前端岗位时，经常会遇到这方�
 
 4、[下铁雨的星星](https://phys.org/news/2020-03-large-telescope-exoplanet-iron.html)
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031204.jpg)
 
 科学家通过架设在智利的超大望远镜 VLT（Very Large Telescope，下图），发现在双鱼座有一颗距离地球约640光年的行星，天上下的不是雨，而是金属铁。
 
 这颗行星在白天温度会攀升至2400摄氏度以上，足以使地表的铁金属汽化。强风将铁蒸气吹到半空，到了凉爽的夜晚，气温下降，铁蒸汽冷凝成铁滴，以雨点的形式重新落到地面。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020123005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123005.jpg)
 
 5、[世界年龄最大的熊猫](http://news.hsw.cn/system/2020/1222/1275477.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122401.jpg)
 
 重庆动物园的世界年龄最大的熊猫“新星”，于12月8日去世，享年38岁。1982年8月，这只雌性熊猫出生于四川省雅安市宝兴县，1983年6月被送到重庆动物园，已在动物园生活了37年零6个月。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122402.jpg)
 
 她至少生育过十只幼崽，有153个后裔。今年8月，动物园才为它庆祝了38岁生日。野生熊猫的寿命为15～20年，38岁的熊猫相当于人类年龄110至140岁。
 
@@ -122,45 +122,45 @@ Vue.js 是主流的前端框架，面试前端岗位时，经常会遇到这方�
 
 > - [青海玉树地区](https://mp.weixin.qq.com/s/M3HW_0_cchU3XsVupyUI3w)2020年12月23日清晨7点23分，一颗火流星坠落地面，将天地照得亮如白昼，持续时间长达半分钟之久。根据测算，这是1988年有记录以来，中国境内发生的能量最大的一次天体撞击，接近一万吨TNT当量，与一颗小型核弹相当。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122504.jpg)
 
 > - [大阪美术馆](https://www.openculture.com/2020/12/hokusais-iconic-print-the-great-wave-off-kanagawa-recreated-with-50000-lego-bricks.html)正在展出，50000块乐高积木搭建的葛饰北斋著名版画《神奈川冲浪里》。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122004.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122005.jpg)
 
 > - [美国科学家](https://nuadox.com/post/612163662441054208/earth-turned-faster-70m-years-ago)通过研究贝壳化石，确定7000万前，每年有372天，每天的长度是23.5个小时，这是地球自传速度不断放慢的又一个证据。贝壳的外壳每天都在生长，会形成年轮，通过分析贝壳的微小切片，可以得到每天的时间长度。
 
-![](https://www.wangbase.com/blogimg/asset/202003/bg2020031004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031004.jpg)
 
 > - [英国交通警察](https://www.thedrive.com/news/38111/new-uk-police-speed-gun-can-read-license-plates-from-nearly-half-a-mile-away-at-night)最新配备了价值13200美元的激光测速枪，专门用于查处超速行驶的汽车。该枪据说能够识别1500米以外的车牌。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121401.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121402.jpg)
 
 ## 文章
 
 1、[9天搭建一座云冈石窟](https://mp.weixin.qq.com/s/vFJkKRsAcSl8kJZDrKrRQw)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122606.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122607.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122607.jpg)
 
 山西云冈石窟研究院用9天时间，在上海宝龙美术馆搭建了一个 3D 打印的云岗石窟。
 
 2、[高铁货运能成功吗？](https://mp.weixin.qq.com/s/e4nG1XzwvvW76_4MO3QTHg)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122407.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122408.jpg)
 
 迄今为止，中国的高铁只用于客运。最近，中车公司隆重发布了世界首列时速350公里高速货运动车组，专门用于货运，“相当于30架737全货机的运载能力，1500公里优势距离5小时内即可到达”。
 
 3、[中国巨型摩天高楼时代似乎已经过去了](https://www.inkstonenews.com/society/days-chinese-mega-skyscraper-appear-be-over/article/3114834)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122609.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122609.jpg)
 
 世界最高的100座建筑物，44座在中国。但是，国外媒体报道，中国住房和城乡建设部最近禁止建造超过500米的高层建筑，同时要求严控建造250米以上的建筑物。大家终于意识到了，摩天大楼并不宜居，不仅成本高，而且带来很大的环境压力。
 
@@ -178,7 +178,7 @@ Vue.js 是主流的前端框架，面试前端岗位时，经常会遇到这方�
 
 7、[ARM 芯片是如何诞生的](https://arstechnica.com/features/2020/12/how-an-obscure-british-pc-maker-invented-arm-and-changed-the-world/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122103.jpg)
 
 本文介绍了英国 ARM 公司的由来，以及他们设计的芯片。对于了解 x86 和 ARM 两种 CPU 架构的早期历史和区别，很有帮助。
 
@@ -206,7 +206,7 @@ Go 语言写的 Email 地址检验库，判断是不是假地址。判断原理�
 
 3、[Planner](https://planner-todo.web.app/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122602.jpg)
 
 Linux 平台处理待办事项（Todos）的桌面软件，功能很强。
 
@@ -216,25 +216,25 @@ Linux 平台处理待办事项（Todos）的桌面软件，功能很强。
 
 5、[CodeSwing](https://github.com/codespaces-contrib/codeswing)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122701.jpg)
 
 VS Code 的一个插件，提供交互式编码环境，可以直接运行 HTML / JavaScript / CSS 代码。
 
 6、[Personal Management System](https://github.com/Volmarg/personal-management-system)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122702.jpg)
 
 一个 Web 开源应用，可以自己搭建服务，将个人信息（笔记、代码事项、密码、日程安排、联系人等等）放在一个地方管理。
 
 7、[Upptime](https://upptime.js.org/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122801.jpg)
 
 一个 GitHub Actions 模板，每5分钟运行一次，检查指定的网站是否在线。
 
 8、[LinkAce](https://github.com/Kovah/LinkAce/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122907.jpg)
 
 一个自托管的网络书签应用。
 
@@ -242,25 +242,25 @@ VS Code 的一个插件，提供交互式编码环境，可以直接运行 HTML 
 
 1、[游戏 UI 数据库](https://www.gameuidatabase.com)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120509.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120509.jpg)
 
 该网站收集各种游戏的 UI 设计，提供多种分类，比如上图是第一人称视角的游戏。
 
 2、[计算机教育缺失的一课](https://missing-semester-cn.github.io/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020121708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121708.jpg)
 
 麻省理工学院计算机课程的中文版，向学生介绍基本的软件开发工具，帮助学生提高使用工具的能力。
 
 3、[ReleaseEye](https://releaseeye.info/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020120523.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020120523.jpg)
 
 该网站列出最近发行新版本的软件。
 
 4、[《如何创业》系列视频](https://startupclass.samaltman.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122502.jpg)
 
 创业孵化公司 Y Combinator 的前总裁 Sam Altman，整理的系列视频讲座。
 
@@ -270,33 +270,33 @@ VS Code 的一个插件，提供交互式编码环境，可以直接运行 HTML 
 
 2017年，加拿大发现了一具恐龙化石，距今1.1亿年，保存之完好令人震惊。皮肤、鳞甲、内脏都是完整的，实际上是恐龙木乃伊，而不是化石。它是怎么形成的，仍然是一个谜。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052304.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052305.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052306.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052306.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052307.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052307.jpg)
 
 这头恐龙长5.5米，下面是它的复原图。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052303.jpg)
 
 2、[纽约住宅的前门楼梯](https://ephemeralnewyork.wordpress.com/2020/12/07/how-new-york-became-a-metropolis-of-stoops/)
 
 纽约市很多住宅楼，尤其是老住宅楼，都装有前门楼梯。这成了纽约市的一种特色。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122804.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122805.jpg)
 
 这是因为纽约最早是荷兰人的殖民地，早期的住宅楼都是荷兰式的。荷兰地势低洼，经常被水淹，所以住宅都修得较高，必须走楼梯进入，免得洪水淹没客厅的地板。
 
 后来的建筑师沿袭了这种风格，即使没有淹水的风险，也加高了客厅，修建了前门楼梯。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122806.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020122807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122807.jpg)
 
 ## 文摘
 
@@ -328,19 +328,19 @@ VS Code 的一个插件，提供交互式编码环境，可以直接运行 HTML 
 
 JetBrains 是一家位于捷克布拉格的软件公司。它由三个俄罗斯程序员2000年创立，现在依然是俄罗斯最大的程序员雇主之一，但是公司注册地搬到了捷克。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020123006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123006.jpg)
 
 它从来没有接受过外部的风险投资，今年的公司收益可望达到2亿美元，现在的估值已经达到了70亿美元。创始人之一和 CEO 马克西姆·沙菲罗夫（Maxim Shafirov）说：“公司有足够的资源来实现我们的抱负，不用接受风险投资。”
 
 它以开发各种语言的 IDE 而闻名，最著名的就是 IntelliJ IDEA，全世界最流行最强大的 Java IDE 之一。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020123007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123007.jpg)
 
 2011年，JetBrains 发布了一种新语言 Kotlin。它是基于 Java 虚拟机 JVM 的一种新语言，既有友好简单的语法，又像 Java 一样可以快速编译。
 
 考虑到 Java 是印尼的一个岛屿，开发团队希望也以一个岛屿命名这种新语言，就选择了圣彼得堡附近的 Kotlin 岛。
 
-![](https://www.wangbase.com/blogimg/asset/202012/bg2020123008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020123008.jpg)
 
 谷歌大力支持 Kotlin。2019年，谷歌宣布 Kotlin 是 Android 开发的首选语言，目前有超过60％的专业安卓开发者都在使用 Kotlin，包括谷歌本身。
 
@@ -390,11 +390,11 @@ Webpack 有巨大的可配置性和可扩展性，复杂度非常高。使用 We
 
 2019年的本周（第 89 期）：[不下雨的地方，不要去卖伞](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019120302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120302.jpg)
 
 2018年的本周（第 37 期）：[小说家的时代，永远地过去了](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122834.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122834.jpg)
 
 ## 订阅
 

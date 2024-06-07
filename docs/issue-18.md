@@ -2,15 +2,15 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081701.jpg)
 
 上周（8月4日），委内瑞拉总统马杜罗发表公众演讲，结果天空中出现了两个无人飞行器，慢慢靠近人群。每个飞行器都携带了1公斤的炸药，企图暗杀马杜罗。一个飞行器被击落，另一个飞行器出现操作故障，撞在墙上，没造成严重后果。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081702.jpg)
 
 马杜罗和舞台上的官员看着飞行器，不知所措。这个画面是全国直播的。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081703.jpg)
 
 保安人员用防护设备挡在马杜罗身前。
 
@@ -24,19 +24,19 @@
 
 1、[太阳探测器](https://interestingengineering.com/nasas-first-ever-parker-solar-probe-mission-to-touch-the-sun-launches-in-second-attempt)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081704.jpg)
 
 本周最重要的消息，大概是美国发射了一个太阳探测器"帕克"。它将是有史以来速度最快的飞行器，也是距离太阳最近的飞行器。它的外部有一个防护罩，能够忍受1400度的高温。今后七年，它将源源不断发回太阳的信息。
 
 2、[麦当劳推广自助点餐](https://www.forbes.com/sites/edrensi/2018/07/11/mcdonalds-says-goodbye-cashiers-hello-kiosks/#139073666f14)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081705.jpg)
 
 由于美国的最低工资已经超过了15美元/每小时，麦当劳决定到2020年，在美国全国推广自助点餐机（见上图），减少服务生。
 
 3、[小鼠逆转衰老](https://www.uab.edu/news/research/item/9607-scientists-reverse-aging-associated-skin-wrinkles-and-hair-loss-in-a-mouse-model)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081706.jpg)
 
 阿拉巴马大学的科学家在老鼠身上，实现了逆转皱纹与毛发脱落（见上图）。他们先是引发老鼠出现脱毛和皮肤皱纹，然后通过基因突变，使得老鼠重新恢复正常的样子。虽然衰老的原理是一样的，但是目前还不清楚，这项技术对于正常衰老的老鼠是否有效。
 
@@ -48,7 +48,7 @@
 
 5、[火星存在液态水](https://photo.sina.cn/album_5_453_120067.htm)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081707.jpg)
 
 欧洲航天局的科学家发现，火星存在液态水。
 
@@ -62,7 +62,7 @@ ICANN 允许各大公司申请自己的顶级域名，比如 .google 和 .apple�
 
 7、[硅谷禁止互联网公司的员工餐饮补贴](https://www.businessinsider.com/san-francisco-free-cafeteria-food-facebook-ban-2018-7)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081708.jpg)
 
 很多硅谷公司的内部食堂，员工可以享受免费餐饮或者餐饮补贴。上图是 Facebook 总部食堂，员工吃饭免费。
 
@@ -70,13 +70,13 @@ ICANN 允许各大公司申请自己的顶级域名，比如 .google 和 .apple�
 
 8、[带有蓝牙传感器的服装](https://www.theguardian.com/fashion/2018/jul/26/tommy-hilfiger-new-clothing-line-monitor-customers)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081709.jpg)
 
 服装品牌 Tommy Jeans 出品的服装，都带有蓝牙传感器。你穿上这些服装，该品牌的手机 App 就会得到通知。App 通过蓝牙信号可以知道你穿了什么、穿了多久等等。穿得越多越久，你的积分就越高，可以兑换奖品。
 
 9、[无针注射](https://www.usatoday.com/story/tech/columnist/2018/07/08/afraid-needles-these-start-ups-working-alternatives-syringes/718344002/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081710.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081710.jpg)
 
 很多人害怕打针。现在有一些创业公司，就在研发无针注射的方案。上图是一种手持注射器，会让药剂形成头发般细小的水流，然后以 450英里/小时的速度压入体内，几乎没有疼痛。
 
@@ -84,7 +84,7 @@ ICANN 允许各大公司申请自己的顶级域名，比如 .google 和 .apple�
 
 10、[火星的二氧化碳](https://tech.sina.cn/d/tk/2018-07-31/detail-ihhacrce0146406.d.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081711.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081711.jpg)
 
 火星是人类最可能移民的星球，距离地球只需要飞行5个月左右，公转周期差不多也是24小时，而且最近还发现了液态水。上图是火星地表的真实照片。
 
@@ -103,7 +103,7 @@ ICANN 允许各大公司申请自己的顶级域名，比如 .google 和 .apple�
 
 1、[为什么选择 Java 作为后端开发语言？](https://www.devteam.space/blog/why-should-you-use-java-for-your-backend-infrastructure/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081712.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081712.jpg)
 
 本文介绍了 Java 语言用在后端开发的一些优势。 
 
@@ -117,7 +117,7 @@ ICANN 允许各大公司申请自己的顶级域名，比如 .google 和 .apple�
 
 4、[如何制作一个节能的网站？](https://css-tricks.com/delivering-wordpress-in-7kb/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081713.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081713.jpg)
 
 臃肿肥胖的网页会消耗更多能源，释放更多二氧化碳。为了保护地球，我们应该制作简单节能的网页，作者演示了如何制作一个只有 7KB 的 Wordpress 网站。
 
@@ -131,13 +131,13 @@ ICANN 允许各大公司申请自己的顶级域名，比如 .google 和 .apple�
 
 7、[图像 EXIF 方向错误](https://blog.praveen.science/crazy-image-exif-orientation-bug-or-feature/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081714.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081714.jpg)
 
 你有没有遇到，照片在手机里面方向正确，上传到网站却左右颠倒或上下颠倒？这篇文章告诉你为什么。
 
 8、[幽灵文字](https://www.dampfkraft.com/ghost-characters.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081715.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081715.jpg)
 
 Unicode 里面有一些不存在的汉字，称为"幽灵文字"。它们是怎么进入标准的？原来，1978年，日本制定本国编码标准 JIS 时有一些错误，创造出这些文字，后来 Unicode 又全部继承了 JIS。
 
@@ -147,13 +147,13 @@ Unicode 里面有一些不存在的汉字，称为"幽灵文字"。它们是怎�
 
 10、[Android 9.0 特性介绍](https://www.mobile01.com/topicdetail.php?f=565&t=5535941)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081716.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081716.jpg)
 
 Android 9.0 就是早先推出 Beta 版的 Android P。现在我们知道，P 代表的甜点就是派（Pie）。
 
 11、[TLS 1.3 介绍](https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081717.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081717.jpg)
 
 HTTPS 协议的最新版本 TLS 1.3，最近成为了国际标准 RFC 8446。本文详细介绍这个新协议，包括 TLS 1.2 的缺陷，以及 TLS 1.3 如何解决它。
 
@@ -161,7 +161,7 @@ HTTPS 协议的最新版本 TLS 1.3，最近成为了国际标准 RFC 8446。本
 
 1、[termgraph](https://github.com/mkaz/termgraph)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081718.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081718.jpg)
 
 termgraph 是一个命令行脚本，可以在命令行画出柱状图。
 
@@ -175,7 +175,7 @@ termgraph 是一个命令行脚本，可以在命令行画出柱状图。
 
 4、[taskbook](https://github.com/klauscfhq/taskbook)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081719.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081719.jpg)
 
 任务管理的命令行小工具。
 
@@ -185,13 +185,13 @@ termgraph 是一个命令行脚本，可以在命令行画出柱状图。
 
 6、[react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081720.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081720.jpg)
 
 一个 React 组件，按钮点击后会像粒子状消解。
 
 7、[Framer](https://framer.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081721.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081721.jpg)
 
 一个用于原型产品 UI 设计的桌面软件，类似 Sketch。
 
@@ -205,7 +205,7 @@ termgraph 是一个命令行脚本，可以在命令行画出柱状图。
 
 10、[OSX-KVM](https://github.com/kholia/OSX-KVM)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081722.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081722.jpg)
 
 通过虚拟机在 Linux 系统安装 macOS。
 
@@ -217,7 +217,7 @@ termgraph 是一个命令行脚本，可以在命令行画出柱状图。
 
 2、[ArdaCraft](https://ardacraft.me)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081723.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081723.jpg)
 
 ArdaCraft 是一个在 MineCraft 里面重现电影《魔戒》的中土世界的项目。
 
@@ -231,7 +231,7 @@ ArdaCraft 是一个在 MineCraft 里面重现电影《魔戒》的中土世界�
 
 5、[火星车](https://github.com/nasa-jpl/open-source-rover)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081724.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081724.jpg)
 
 美国航天局 NASA 开源了火星车的简化版本，它的原型是真正的火星漫游车。据说这个项目全部采用市面能买到的材料，爱好者可以搭建自己的火星车。
 
@@ -243,7 +243,7 @@ ArdaCraft 是一个在 MineCraft 里面重现电影《魔戒》的中土世界�
 
 1、[LinkedIn 是一种游戏](https://theoutline.com/post/5495/how-to-beat-linked-in-the-game?zd=1&zi=4ysmx4oy)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081725.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081725.jpg)
 
 2002年成立以来，LinkedIn 已迅速成为有史以来最受欢迎的游戏之一。它目前拥有约5.3亿用户，并于2016年以262亿美元被微软收购。
 
@@ -253,7 +253,7 @@ LinkedIn 游戏的总体目标是在网站上找到尽可能多的人并与之�
 
 下面是用户在 LinkedIn 赢得胜利的一些技巧。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081726.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081726.jpg)
 
 赢得LinkedIn最重要的部分是创造完美的个人简历。将您的位置设为纽约、旧金山或洛杉矶（唯一重要的三个城市） ，或者更好的是，将自己描述为东海岸和西海岸都有工作经历，如果加入金融行业和常春藤联盟学校的经历，那就更好了。并要插入你与人们握手和参加会议的照片。
 
@@ -265,7 +265,7 @@ LinkedIn 游戏的总体目标是在网站上找到尽可能多的人并与之�
 
 以下摘自阿里巴巴前副总裁 Porter Erisman 的著作《Alibaba's World》。 
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081727.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081727.jpg)
 
 马云告诉我："上个月，我在办公室里聚集了六个人。我告诉他们，我为他们做了一个秘密项目。如果他们有兴趣了解这份工作是什么，他们必须首先从阿里巴巴辞职，然后搬到一个秘密地点。他们无法告诉朋友或家人，他们在做什么。他们甚至无法告诉阿里巴巴的任何人，他们正在做什么。我给了他们几分钟的时间来思考，并告诉他们，如果他们不感兴趣，他们就不必接受这份工作。他们可以简单地回到他们在阿里巴巴的位置。几分钟后，他们都回到房间说："杰克，我们会做的！"
 
@@ -283,17 +283,17 @@ LinkedIn 游戏的总体目标是在网站上找到尽可能多的人并与之�
 
 1、
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081728.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081728.jpg)
 
 杯子的背面写着"一亿人的选择不会错"。
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081729.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081729.jpg)
 
 杯子的正面表明这是 Flash 的广告。（推特[@jenna](https://twitter.com/jenna/status/838161631662092289/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E838161631662092289&ref_url=https%3A%2F%2Fteachyourselfcs.com%2F)）
 
 2、[修车店的地板](https://www.wired.com/story/car-paint-colors/?mbid=BottomRelatedStories_Sections_1)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081730.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081730.jpg)
 
 汽车的颜色有5万～6万种，但是大型的修车店也只有70或80种颜色，其他颜色都要现场调配。调配油漆处的地板，看上去就像现代主义油画。
 

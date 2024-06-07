@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081305.jpg)
 
 8月12日是“世界大象日”，西双版纳野象谷景区为大象准备了美食。（[via](http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/photo/2020-08/12/c_1126359736.htm)）
 
@@ -18,7 +18,7 @@
 
 这种观点是不对的。即使有高度智能的机器，未来的工人也不会空闲，可能还会更忙，至少资本主义制度是如此。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081908.jpg)
 
 将近100年前的1930年，经济学家凯恩斯[预言](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)，在一个世纪之内，生产力的提高将使发达国家的居民每周工作15个小时，还能保持体面的生活水平。
 
@@ -48,21 +48,21 @@ Webpack 5.0 版已经开发了近两年，现在发到了beta 27，离正式发�
 
 今天谈到 Webpack 的原因是，本周的课程资料是来自开课吧的《Webpack 教程》。刚刚出来的新教程，不收费，讲解构建和打包原理，这是理解Webpack 的基础，并教大家实现一个简易的 Webpack。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082101.jpg)
 
 这个教程吸取其他教程的优点，尽量简单地讲解原理，感兴趣的同学可以听听看。
 
 点击[这里](https://wx.kaikeba.com/vip_course/oruqbzt28r/74wti6v05e?tenant=wx5046bc7413796142)或者扫描下面的二维码，就可以领取。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020082003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082003.jpg)
 
 ## 资讯
 
 1、[鸟类的眼泪与人类相同](https://phys.org/news/2020-08-bird-reptile-human.html)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081307.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081307.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081308.jpg)
 
 巴西科学家为了研究眼泪的进化，检查了7种鸟类和爬行动物的眼泪，包括鹦鹉、老鹰、猫头鹰、乌龟、鳄鱼等。上图是从老鹰和鳄鱼收集眼泪。
 
@@ -70,9 +70,9 @@ Webpack 5.0 版已经开发了近两年，现在发到了beta 27，离正式发�
 
 2、[装入树莓派的笔记本电脑](https://www.tomshardware.com/news/raspberry-pi-zero-replaces-broken-laptop-optical-drive)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080801.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080802.jpg)
 
 老式笔记本电脑往往带有光驱，现在已经用处不大了。一位电脑爱好者就把光驱拆了下来，改装上了树莓派（Zerow 型号），使用的托盘也是自己 3D 打印的。
 
@@ -80,29 +80,29 @@ Webpack 5.0 版已经开发了近两年，现在发到了beta 27，离正式发�
 
 3、[透明 OLED 屏幕](https://oled.com/oleds/transparent-oleds-toleds/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081403.jpg)
 
 小米本周发布了透明电视机（上图），没有开机时就是一块透明的玻璃，开机以后变成显示屏。它的原理很简单，就是两片玻璃之间夹了一块 OLED 面板，发光二极管采用已经成熟的透明电极技术，就能实现透明屏幕，但透明度肯定不及玻璃。
 
 这种技术最大的应用，就是可以装在车窗上（下图）。北京地铁的车窗通过投影，也有透明显示屏的效果，非常炫酷，请看[下面视频](https://v.qq.com/x/page/r3135dmqctc.html)。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081404.jpg)
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=r3135dmqctc" allowFullScreen="true" width="600px" height="400px"></iframe>
 
 4、[红砖电池](https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081501.jpg)
 
 美国华盛顿大学的研究团队，尝试了一项很有创意的发明。他们根据电容储能的原理，将普通红砖变成了电池。这是因为红砖含有铁元素，而且内部是多孔的，有巨大的表面积，在内部小孔里面加上特殊涂层以后，涂层与铁元素之间相互作用，就能像超级电容那样储能。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081502.jpg)
 
 一块砖头可以在15秒内充满电，然后供 LED 二极管亮大约11分钟。不过，它的电量偏小，每平方米的墙壁大约可以储能1.6瓦时，这意味着三米乘六米的一堵墙壁可以储能约20瓦时，还不具有实用价值。
 
 5、[地表最高温度](https://bnonews.com/index.php/2020/08/temperature-at-californias-death-valley-reaches-130f/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081801.jpg)
 
 8月16日，美国加利福尼亚死亡谷的温度达到54.4摄氏度，是地表有记录以来的第三位最高温度。
 
@@ -112,43 +112,43 @@ Webpack 5.0 版已经开发了近两年，现在发到了beta 27，离正式发�
 
 > - [美国法院](https://techcrunch.com/2020/08/07/goodbye-paramount-consent-decrees/)废除一项已经实施70年的禁令，允许电影制片公司拥有电影院。原因是 Netflix 等流媒体公司的兴起，使得该规定毫无意义。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080805.jpg)
 
 > - [苹果公司](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)对一个家庭购物 App 提起诉讼，要求对方更改 Logo，理由是跟苹果公司的 Logo 太接近。但是根据下图，完全不像啊。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080901.jpg)
 
 > - [国际暗空协会](https://www.atlasobscura.com/articles/dark-sky-photographs)每年会举办摄影比赛，要求全球爱好者提交照片，展示银河系的美妙，或者人类光源对天空的污染。今年的获奖作品中，有一张中国长城的照片，显示了光污染的严重。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081104.jpg)
 
 > - [上海环境博览会](https://www.instagram.com/p/CD8MbPuhpbn/?igshid=y7htfs2hn65)上，厂商展出了无人清洁车，该车会自动捡起地上的水瓶、纸张和烟头。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081803.jpg)
 
 > - [天文学家](https://phys.org/news/2020-08-fastest-star.html)发现宇宙中最快的恒星，运动速度达到光速的8%。
 
 > - [微软公司](https://www.theverge.com/2020/8/17/21372487/microsoft-internet-explorer-11-support-end-365-legacy-edge)宣布，明年将终止对 IE 11 和旧版 Edge 浏览器的支持。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081903.jpg)
 
 ## 文章
 
 1、[CSS 生成艺术](https://generative-art-with-css.commons.host/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081203.jpg)
 
 作者介绍如何用 CSS 生成各种形状的图形。
 
 2、[如何使用 Rust 开发单页应用 SPA](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081204.jpg)
 
 单页应用（SPA）都是使用 JavaScript 开发，但是有了 WebAssembly 以后，其他语言也可以编译成 JavaScript。本文就完全使用 Rust 语言开发上图的 SPA，后端开发者现在也可以写前端了。
 
 3、[Manjaro 与 Arch Linux 的区别](https://itsfoss.com/manjaro-vs-arch-linux/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081401.jpg)
 
 Manjaro 与 Arch 都是流行的 Linux 发行版，Manjaro 基于 Arch，但是有自己显著的特点。
 
@@ -158,7 +158,7 @@ Manjaro 与 Arch 都是流行的 Linux 发行版，Manjaro 基于 Arch，但是�
 
 5、[熵的羊群解释](https://aatishb.com/entropy/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081504.jpg)
 
 本文用羊群作为例子，通过图片较为通俗地解释了，物理学的熵（entropy）是概率导致的。
 
@@ -176,13 +176,13 @@ CRDT 算法用于分布式服务实现数据同步，比如同一篇文档的多
 
 9、[广告短信的退订内幕](https://daily.zhihu.com/story/9726870)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081909.jpg)
 
 很多促销广告短信都说回复 T 退订，但是回复了 T 之后会发生什么？（[@9527q](https://github.com/ruanyf/weekly/issues/1378) 投稿）
 
 10、[微信小商店初体验](https://juemuren4449.com/archives/wechat-minishop)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081910.jpg)
 
 7 月 14 日，微信开放了微信小商店的内测，这是官方的开店功能，跟微店等第三方平台是不一样的。这篇文章介绍了申请流程以及使用体验。目前，微信小商店已经允许个人申请了，可用于个人开店。（[@juemuren4449](https://github.com/ruanyf/weekly/issues/1380) 投稿）
 
@@ -190,31 +190,31 @@ CRDT 算法用于分布式服务实现数据同步，比如同一篇文档的多
 
 1、[QRpicture](https://www.qrpicture.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081503.jpg)
 
 一个在线工具，把图片变成可以扫描的二维码。
 
 2、[isoflow](https://isoflow.io/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081601.jpg)
 
 一个绘制示意图的在线工具。
 
 3、[ScreenplaySubs](https://screenplaysubs.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081702.jpg)
 
 浏览器插件，播放 Netflix 视频的时候，同步显示剧本内容。
 
 4、[Quarantines Sites](https://quarantines.site/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081704.jpg)
 
 一个在线工具，可以通过它来访问其他网站，避免被追踪。
 
 5、[umami](https://umami.is/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081901.jpg)
 
 一个开源的网站访问统计服务。
 
@@ -238,27 +238,27 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 1、[统计学习导论](http://faculty.marshall.usc.edu/gareth-james/ISL/)（An Introduction to Statistical Learning）
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020080508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080508.jpg)
 
 免费英文电子书，可以作为非数学专业学生的统计学教材，侧重机器学习的统计基础，提供 R 语言的例子。
 
 2、[rms.sexy](https://rms.sexy/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081001.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081002.jpg)
 
 该网站专门收集理查德·斯托曼使用笔记本电脑的照片。
 
 3、[1940年纽约历史地图](https://1940s.nyc/map/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081402.jpg)
 
 这个网站提供1940年代的纽约在线地图，并且还可以查看各个地点的历史照片。
 
 4、[AI 还原古罗马皇帝](https://voshart.com/ROMAN-EMPEROR-PROJECT)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081602.jpg)
 
 这个项目使用 AI 模型，将古罗马皇帝的塑像还原成高清晰度人像照片。
 
@@ -268,7 +268,7 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 6、[COVID-19 舆论新闻可视化](https://pearmini.gitee.io/ncovis-2020/#/)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081911.jpg)
 
 山东大学 VisLab 的一个可视化项目，分析疫情对舆论和新闻的影响。（[@pearmini](https://github.com/ruanyf/weekly/issues/1382) 投稿）
 
@@ -280,13 +280,13 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 下面就是最后的成品。1986年的10万美元，要比今天的100万美元更值钱。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081606.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081605.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081604.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081603.jpg)
 
 ## 文摘
 
@@ -296,11 +296,11 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 一个叫做姆潘巴（Erasto Mpemba）的学生，发现了一个奇怪的现象。两个装有相同体积水的容器，一个是35°C，另一个是100°C，同时放进冰箱，竟然是100°C的水首先开始结冰。也就是说，温度高的水会更快结冰，这是为什么？
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081507.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081507.jpg)
 
 物理老师也不知道这是怎么回事，就把这个结果发表出来。这引起物理学界的争论，科学家也无法解释，就把它称为“姆潘巴现象”。
 
-![](https://www.wangbase.com/blogimg/asset/202008/bg2020081506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081506.jpg)
 
 2012年，英国皇家化学学会举行了一场竞赛，征集论文，对姆潘巴现象进行解释。共有22,000人参加，获胜者提出了两种解释。
 
@@ -370,11 +370,11 @@ Web 和浏览器已经发展到令人恐怖的技术规模。微软完全放弃�
 
 2019年的本周（第 70 期）：[世界进入负利率时代，这意味什么](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)
 
-![](https://www.wangbase.com/blogimg/asset/201908/bg2019082201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082201.jpg)
 
 2018年的本周（第 18 期）：[无人机攻击，难以防范](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-18.html)
 
-![](https://www.wangbase.com/blogimg/asset/201808/bg2018081701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081701.jpg)
 
 ## 订阅
 

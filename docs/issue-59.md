@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060701.jpg)
 
 （题图：浦东滨江，上海，2018年）
 
@@ -24,7 +24,7 @@
 
 1、[德国的电力卡车高速公路](https://edition.cnn.com/2019/05/07/tech/e-highway-a5/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060702.jpg)
 
 重型卡车耗能大，燃油多，造成的污染也大，如果改用电动，需要太多电池，实际上不太可行。今年五月，德国开始尝试一种新的解决方案：在公路上方架设电线。
 
@@ -33,15 +33,15 @@
 
 2、[窗边读信的少女](https://www.theartnewspaper.com/news/hidden-cupid-resurfaces-in-one-of-vermeer-s-best-known-works)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060703.jpg)
 
 《窗边读信的女孩》是一幅世界名画，完成于1657年～1659年，作者是荷兰著名画家维米尔（Vermeer）。收藏它的德累斯顿美术馆，进行 X 光扫描后发现，墙上原来有一副爱神丘比特的画像，居然被涂掉了。据信应该是作者本人涂掉的，因为几百年来，从来没有人提到过这件事。该美术馆正尝试去掉涂料，还原丘比特画像。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060704.jpg)
 
 3、[中国在亚马逊成功](https://www.marketplacepulse.com/articles/40-of-merchants-on-amazon-based-in-china)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060705.jpg)
 
 亚马逊最近宣布，将退出中国的网上零售市场。这是亚马逊在中国的失败，但中国却在亚马逊成功。欧洲有一项新的法律，要求在线零售平台披露卖家的统计信息，因此亚马逊的欧洲各国分站披露了各自市场的前10000家大卖家的分布。结果，欧洲各国大卖家的最大来源，几乎都是中国。
 
@@ -49,29 +49,29 @@
 
 4、[路灯植物](https://www.physics-astronomy.org/2018/11/mit-just-created-living-plants-that.html)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060706.jpg)
 
 麻省理工学院的科学家创造出一种发光植物，希望以后用植物替代路灯。科学家将一种含有荧光素的酶，包装成纳米粒子，然后将这种纳米粒子注入植物的叶子，一旦荧光素氧化，就有一部分能量以光的形式释放出来，从而达到发光的效果。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060707.jpg)
 
 这种粒子的照明效果，可以用来阅读书籍，大约持续4个小时。下一步，研究人员会设法提高光亮，不仅让它可以用作街道照明，还可以用作室内照明，甚至是台灯。
 
 5、[AirPods 耳环](https://deadanimemom.myshopify.com/products/airrings)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060708.jpg)
 
 AirPod 是现在最流行的无线耳机，特点就是完全没有耳机线。有人就发明了 AirPod 耳环，为它加上了线，可以把耳机挂在耳朵上，想听的时候就塞进耳朵，不想听就挂着，预订价是20美元。
 
 有人说这样不好看，但是如果能够接受，有人整天耳朵塞着 AirPod，为什么不能接受，让它挂在耳朵下呢？
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060709.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060709.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060710.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060710.jpg)
 
 6、[如果登月失败](http://news.bbc.co.uk/2/hi/science/nature/390634.stm)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060711.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060711.jpg)
 
 1969年7月20日，阿波罗计划第一次将人类送上月球。整个计划的安排是，宇宙飞船先进入月球轨道，再发送登月舱，让两名宇航员登上月球。但是有一个风险点，就是登月完毕以后，登月舱需要从月球起飞，将宇航员送回宇宙飞船。没人知道月球起飞能否成功，因为无法测试。万一无法起飞，两名宇航员只能在月球表面等死，因为没有为这种情况设计任何救援计划。
 
@@ -79,9 +79,9 @@ AirPod 是现在最流行的无线耳机，特点就是完全没有耳机线。�
 
 7、[智能汤匙](https://www.npr.org/sections/health-shots/2014/05/13/310399325/a-spoon-that-shakes-to-counteract-hand-tremors)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060712.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060712.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060713.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060713.jpg)
 
 帕金森症在老年人中越来越常见，单单在美国，就有1000万患者。这种疾病的特征是，患者的手会不停颤抖，导致吃饭很困难，因为手一抖，食物就会掉下来，必须有人喂。这对病人和家属都很痛苦，而且目前无药可治。
 
@@ -99,7 +99,7 @@ AirPod 是现在最流行的无线耳机，特点就是完全没有耳机线。�
 
 - [三星公司](https://www.cnet.com/news/samsung-ai-deepfake-can-fabricate-a-video-of-you-from-a-single-photo-mona-lisa-cheapfake-dumbfake/)发明了一种技术，只用一张普通照片，就可以对人脸建模，生成各种表情的视频。（@[wangweiX](https://github.com/ruanyf/weekly/issues/573) 投稿）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060714.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060714.jpg)
 
 ## 文章
 
@@ -117,7 +117,7 @@ Joe Armstrong 是 Erlang 语言的发明人， 单单他的论文《面对软件
 
 4、[前端框架的性能比较](https://nextfe.com/frontend-frameworks-benchmark-2019/)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060715.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060715.jpg)
 
 本文将一个 App 用18个前端框架实现，然后比较它们的性能，翻译自[英语原文](https://medium.freecodecamp.org/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075)。（@[ahuigo](https://github.com/ruanyf/weekly/issues/500) 投稿）
 
@@ -132,13 +132,13 @@ GIF 动画格式有很多缺点，最大问题就是体积过大。本文教你�
 
 7、[十四亿人的口腹之欲，是如何被满足的？](https://www.weibo.com/ttarticle/p/show?id=2309404370494647344427&sudaref=dig.chouti.com&display=0&retcode=6102)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060716.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060716.jpg)
 
 本文翻译自剑桥大学博士在 Quora 的回答，中国如何使用农业科技，生产出足够便宜的农产品，满足14亿人的消费。（@[arezl](https://github.com/ruanyf/weekly/issues/526) 投稿）
 
 8、[树莓派 GPIO 介绍](https://www.tomshardware.com/reviews/raspberry-pi-gpio-pinout,6122.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060717.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060717.jpg)
 
 树莓派的功能扩展，往往都要通过板载的通用输入/输出模块 GPIO。本文介绍 GPIO 的基本知识。
 
@@ -158,19 +158,19 @@ GIF 动画格式有很多缺点，最大问题就是体积过大。本文教你�
 
 1、[MineTime](https://minetime.ai/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060718.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060718.jpg)
 
 一个跨平台的桌面日历应用，具有人工智能的分析功能。
 
 2、[BasicCAT](https://www.basiccat.org/zh/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060719.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060719.jpg)
 
 一个计算机辅助翻译软件，特点是将文章分解成句子，然后判断新的句子与原有语料的相似程度，自动生成翻译。（@[xulihang](https://github.com/ruanyf/weekly/issues/472) 投稿）
 
 3、[Fika](https://chrome.google.com/webstore/detail/fika-reader-mode/fbcdnjeoghampomjjaahjgjghdjdbbcj)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060720.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060720.jpg)
 
 Chrome 浏览器插件，可以将网页转成可以专心阅读的样式，内置四种主题。（@[yueyericardo](https://github.com/ruanyf/weekly/issues/473) 投稿）
 
@@ -192,9 +192,9 @@ uber 公司开源的 React 组件库，风格比较简单干净。
 
 8、[Cedreo](https://cedreo.com/en/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060721.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060721.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060722.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060722.jpg)
 
 一个 3D 的家居建模渲染软件，还可以生成平面图，免费注册使用。
 
@@ -212,7 +212,7 @@ uber 公司开源的 React 组件库，风格比较简单干净。
 
 12、[halo](https://github.com/halo-dev/halo)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060723.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060723.jpg)
 
 优秀的开源 Java 博客系统，国产软件，有良好的中文支持。（@[ruibaby](https://github.com/ruanyf/weekly/issues/599) 投稿）
 
@@ -228,7 +228,7 @@ uber 公司开源的 React 组件库，风格比较简单干净。
 
 3、[开放的招聘信息网站](https://oo.t9t.io/jobs)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060724.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060724.jpg)
 
 一个开放式的张贴工程师招聘信息的网站，[该网站本身](https://github.com/t9tio/open-source-jobs)也是代码开源。（@[timqian](https://github.com/ruanyf/weekly/issues/499) 投稿）
 
@@ -238,13 +238,13 @@ uber 公司开源的 React 组件库，风格比较简单干净。
 
 5、[SAFE](http://acoustics.safeproject.net/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060725.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060725.jpg)
 
 这个项目在印度尼西亚婆罗州的热带雨林里面，放置了十几个录音设备，然后将每个小时录到的声音放到网上，让访问者听到每天不同时辰的大自然的声音。
 
 6、[任正非思想](https://github.com/ttpianobirds/RenZhengfei)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060726.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060726.jpg)
 
 该仓库收集了1994～2018年任正非400余篇讲话。这里是可下载的[合集](https://github.com/microease/Renzhengfeiwenji)。（@[wikiios](https://github.com/ruanyf/weekly/issues/565) 投稿）
 
@@ -258,19 +258,19 @@ uber 公司开源的 React 组件库，风格比较简单干净。
 
 深圳的2万辆出租车都是电动的，每天都要充电。下图是出租车停车场，司机等着电动车充电完毕。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060727.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060727.jpg)
 
 2、[Manolo 的绘画](https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy)
 
 阿根廷艺术家 Manolo Gamboa Naon 是色彩、构图和复杂性的大师。他的作品具有探索性和复杂的构图，好像软件生成的一样。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060728.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060728.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060729.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060729.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060730.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060730.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060731.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060731.jpg)
 
 ## 文摘
 
@@ -284,7 +284,7 @@ uber 公司开源的 React 组件库，风格比较简单干净。
 
 因此，安卓设备的特点就是，系统几乎不升级，或者升级的速度非常慢。谷歌正在加快新版本的发布，而老版本的比例却在不断上升。下表是各个版本的安卓，一年后的设备采用率。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060732.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060732.jpg)
 
 影响系统升级的因素有三个：（1）制造商向设备发送更新包的速度，（2）制造商发布新系统设备的速度，（3）用户购买新设备的愿望。由于安卓平台本身的复杂性急剧增加，以及各个制造商在系统上又增加了自己的层，导致更新旧设备变得越来越困难。用户想要彻底升级，往往只有购买新设备，但是用户更换手机的速度也在放慢。
 
@@ -296,7 +296,7 @@ uber 公司开源的 React 组件库，风格比较简单干净。
 
 2、[自行车日](https://mikejay.net/bicycle-day-revisited/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060733.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060733.jpg)
 
 1943年4月，瑞士生化学家阿尔伯特·霍夫曼在实验室工作时头晕目眩，感到非常不舒服，他觉得自己可能是某种化学品中毒了。三天后，病情不见好转，他决定使用一种新的物质麦角酰二乙胺（缩写 LSD），进行自我实验。这种物质是他在1938年首次合成的，当时认为具有兴奋剂的作用。
 
@@ -314,7 +314,7 @@ uber 公司开源的 React 组件库，风格比较简单干净。
 
 这是人类第一次发现迷幻药 LSD 的效果，由于霍夫曼当时在骑自行车，这一天就被叫为“自行车日”。每年4月19日，全世界都会举行“自行车日”纪念游行和派对。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060734.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060734.jpg)
 
 ## 言论
 
@@ -352,7 +352,7 @@ ORM （对象-关系映射）对于简单的 CRUD 操作比较有用。但是，
 
 去年的本周：[《每周分享第 7 期》](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html)
 
-[![](https://www.wangbase.com/blogimg/asset/201805/bg2018053001.jpg)](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html)
+[![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053001.jpg)](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html)
 
 ## 订阅
 
@@ -360,7 +360,7 @@ ORM （对象-关系映射）对于简单的 CRUD 操作比较有用。但是，
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://www.wangbase.com/blogimg/asset/2018/bg2018042311.jpg)
+![](https://cdn.beekka.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

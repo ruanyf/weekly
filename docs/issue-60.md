@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061401.jpg)
 
 中国历史的第一课，总是教大家，我国很早就有人类活动，周口店发现的[北京猿人](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%BA/1837?fromtitle=%E5%8C%97%E4%BA%AC%E7%8C%BF%E4%BA%BA&fromid=29057)已有20万年～70万年的历史。
 
@@ -16,7 +16,7 @@
 
 更惊人的是，他发现，中国人继承的尼安德特人基因，居然多于欧洲人，但是中国从未发现尼安德特人的踪迹。因此，只能推断，人类走出非洲以后，第一步来到中东，然后分别向东和向西迁移。向东迁移的过程中，与当地的尼安德特人不断有杂交，然后才来到中国。这就是中国人的起源。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061402.jpg)
 
 我知道这些，是因为斯万特·帕博的自传[《尼安德特人》](https://book.douban.com/subject/30312155/)中译本（下图）去年出版了。这本书值得一读，既可以了解科学家的人生和学术界的内幕，又可以学到很多人类进化的遗传知识，推荐给大家。本期周刊的《文摘》部分也摘录了这本书。
 
@@ -32,57 +32,57 @@
 
 扫描关注下面的公众号，然后输入 **<span style="color:red;">“阮一峰 + 你的手机号码”</span>**，就可以参加这个活动了。参加者都可以获赠一份价值800元的免费保障规划，包含对于家庭成员保障责任的综合评估。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019060903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060903.jpg)
 
 ## 资讯
 
 1、[重新设计购物小票](https://www.fastcompany.com/90347782/the-humble-receipt-gets-a-brilliant-redesign)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061403.jpg)
 
 超市购物的时候，都会提供购物小票，列出购物的详细清单。这种小票通常非常简陋，Netflix 公司的数据可视化工程师 Susie Lu 尝试对它重新设计。她在小票的头部加上分类图（上图），并在每项物品的下方加上一个水平的柱状图，表示金额的大小（下图）。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061404.jpg)
 
 2、[光纤传导阳光](https://www.parans.com/parans-light/how-it-works/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061405.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061406.jpg)
 
 大楼深处的房间要得到自然光照明，往往非常困难。美国一家创业公司开发了光纤照明系统，在屋顶上架设集光器，收集阳光，然后通过光纤，将阳光导入室内，让地下室也能照到阳光。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061407.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061407.jpg)
 
 3、[照亮小镇的镜子](http://www.bbc.com/future/story/20170314-the-town-that-built-a-mirror-to-catch-the-sun)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061408.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061409.jpg)
 
 挪威南部的 Rjukan 小镇位于峡谷之中，每天只有很短的时间能够照到阳光，其他时候只能看着阳光照到两边的山上。
 
 为了解决这个问题，一个企业家说服小镇的议会，出资在山上安装了三面巨大的镜子，每面镜子的面积是17平方米。可以在下午将阳光反射到小镇中央的广场。镜子建成的那一天，所有居民集中在广场上，等待阳光来临。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061410.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061411.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061411.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061412.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061412.jpg)
 
 4、[豌豆蛋白](https://www.bloomberg.com/news/articles/2019-05-14/the-mighty-pea-is-everybody-s-new-favorite-plant-based-protein)
 
 很多创业公司正在开发“植物肉”，使用植物蛋白制作传统的肉制品，这样有成本和环境上面的好处。下面的图片都不是真的肉，而是植物肉。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061413.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061414.jpg)
 
 植物肉主要使用大豆蛋白制作，其中豌豆蛋白最接近肉制品的口味。预计到2025年，全球豌豆蛋白的销售量将翻两番，其中大部分增长都是植物肉带来的。因此，未来的豌豆种植预测会大幅上升。
 
 5、[SAT 考试增加“逆境分”](https://www.nytimes.com/2019/05/16/us/sat-score.html)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061415.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061415.jpg)
 
 美国高中生都要参加 SAT 考试，考试成绩是大学招生的主要参考指标之一。近几年来，考试委员会越来越觉得，SAT 成绩不足以反映学生的努力，同样都是90分，穷人家的孩子获得这个成绩的难度，要大于富人家的孩子。因此，SAT 委员会正在试验，再给出一个“逆境分”（adversity score），反映该学生是否身处逆境。
 
@@ -90,23 +90,23 @@
 
 6、[澳大利亚的滤水网](https://themindcircle.com/save-water-from-plastic-pollution/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061416.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061416.jpg)
 
 澳大利亚城市 Kwinana 最近在河道上游，安装了滤水网，过滤各种垃圾，尤其是塑料垃圾，保证河水的清澈。这个发明看上去非常简单，但是很有效。
 
 下图是安装时的样子，以及装完垃圾的情景。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061417.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061417.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061418.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061418.jpg)
 
 装满垃圾以后，只要换一下网，又可以重新使用了。该发明不仅可以用于河道，又可以用于山上的溪流。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061419.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061419.jpg)
 
 7、[云服务影响 3M 公司](https://www.forbes.com/sites/jonmarkman/2019/05/17/why-software-giants-like-adobe-are-slaughtering-manufacturers-like-3m/#6d2a086f55f5)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061420.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061420.jpg)
 
 3M 公司是位于美国明尼苏达州的一家著名的工业产品制造商，主要生产工业粘合剂、磨料、涂料等产品。最近，它的销售额开始下降。
 
@@ -126,7 +126,7 @@
 
 1、[CSS 制作中国窗格](https://yuanchuan.dev/2019/05/15/window-lattice-and-css.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061421.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061421.jpg)
 
 本文介绍如何使用 CSS 的 -webkit-box-reflect 属性，通过镜面反射制作中国窗格图案。
 
@@ -174,19 +174,19 @@ Darling 的意思是 Darwin + Linux。它是一个转换层，允许在 Linux �
 
 2、[uppy](https://github.com/transloadit/uppy)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061422.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061422.jpg)
 
 一个文件上传的 JS 库。
 
 3、[koken](http://koken.me/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061423.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061423.jpg)
 
 一个搭建个人图片库网站的软件。
 
 4、[KeePass](https://keepass.info/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061424.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061424.jpg)
 
 一个管理密码的桌面软件。
 
@@ -230,7 +230,7 @@ Darling 的意思是 Darwin + Linux。它是一个转换层，允许在 Linux �
 
 1、[Prob 140](http://prob140.org/textbook/chapters/README)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061425.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061425.jpg)
 
 加州大学伯克利分校的数据科学概率入门课程的教科书。
 
@@ -244,19 +244,19 @@ Darling 的意思是 Darwin + Linux。它是一个转换层，允许在 Linux �
 
 4、[数据科学项目 Python 实战](https://www.digitalocean.com/community/tutorials/machine-learning-projects-python-a-digitalocean-ebook)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061426.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061426.jpg)
 
 DigitalOcean 推出的免费电子书，介绍如何使用 Python 完成三个基本的机器学习项目：自动分类、识别手写数字、机器人构建。
 
 5、[如何使用 Python3 编程](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061427.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061427.jpg)
 
 DigitalOcean 推出的免费电子书，介绍 Python3 编程，针对新手。
 
 6、[i18ns.com](https://i18ns.com/)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061428.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061428.jpg)
 
 一个制作国际化应用的利器。该网站收集各种语言包，你输入中文，它返回各种语言包对这个词的翻译。（@[2i18ns](https://github.com/ruanyf/weekly/issues/535) 投稿）
 
@@ -270,7 +270,7 @@ DigitalOcean 推出的免费电子书，介绍 Python3 编程，针对新手。
 
 > 《尼安德特人》是瑞典生物化学家斯万特·帕博（Svante Pääbo） 的自传，中译本由浙江教育出版社出版。他是第一个尝试获取木乃伊的 DNA 的科学家，目前致力于测出尼安德特人的完整 DNA 图谱。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061429.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061429.jpg)
 
 13岁时，妈妈带我去了埃及，自此我就迷上了那里的古老历史。大学时，我选修古埃及历史，连续两个夏天在斯德哥尔摩的地中海博物馆做志愿者。我或许会成为瑞典的一位古埃及学者，并在同一家博物馆工作。但是我发现，那里的人第二个夏天所做的事情与第一个夏天几乎一样。此外，他们在同一时间去同一家餐馆吃同样的饭菜，讨论同样的古埃及之谜和学术八卦。我开始意识到，对我而言，埃及古文物学这个领域发展太慢。这不是我想要的那种职业生活。我想经历更多的兴奋，想要与我所看到的周围世界有更多的关联。
 
@@ -301,13 +301,13 @@ DigitalOcean 推出的免费电子书，介绍 Python3 编程，针对新手。
 
 下面是波士顿和加利福尼亚州红木城一年的天气变化，可以看到，就在0度～100度之间变动。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061430.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061430.jpg)
 
 ## 图片
 
 1、**美国人的反应**
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061431.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061431.jpg)
 
 只要表现不低于平均水平一个标准差，美国人就会说“This is awesome”，不低于两个标准差会说“Pretty good”。
 
@@ -315,15 +315,15 @@ DigitalOcean 推出的免费电子书，介绍 Python3 编程，针对新手。
 
 2018年3月，世界上最后一头雄性的白犀牛在肯尼亚去世。目前还活着的两头白犀牛都是雌性，这宣告了这个物种注定灭绝。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061432.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061432.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061433.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061433.jpg)
 
 犀牛角在中国、韩国及越南等国家都是珍贵药材，巨大的利益导致了盗猎猖獗。为了保护这些犀牛，肯尼亚政府派了武装警卫。这些警卫荷枪实弹，全天候巡逻佔地 360 平方公里的保护区。去年一场枪战中，就打死了三名偷猎者。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061434.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061434.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061435.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061435.jpg)
 
 ## 言论
 
@@ -361,7 +361,7 @@ DigitalOcean 推出的免费电子书，介绍 Python3 编程，针对新手。
 
 去年的本周：[《每周分享第 8 期》](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)
 
-[![](https://www.wangbase.com/blogimg/asset/201806/bg2018060801.jpg)](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)
+[![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060801.jpg)](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)
 
 ## 订阅
 
@@ -369,7 +369,7 @@ DigitalOcean 推出的免费电子书，介绍 Python3 编程，针对新手。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://www.wangbase.com/blogimg/asset/2018/bg2018042311.jpg)
+![](https://cdn.beekka.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

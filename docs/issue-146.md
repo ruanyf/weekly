@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021403.jpg)
 
 秘鲁的金矿区有无数探矿坑，雨后积水，空中看下去矿脉闪闪发光，就像一条条“金河”。虽然很漂亮，但这是砍伐森林而形成的，造成了巨大的环境破坏。（[via](https://petapixel.com/2021/02/12/photo-from-space-reveals-gold-rivers-slicing-through-the-amazon/)）
 
@@ -18,23 +18,23 @@
 
 按理说，一个行业发展得这么快，它的产品应该有很多优势。但是在我看来，网课现在没优势，效果不如课堂教学，完全没有发挥出应有的长处。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021301.jpg)
 
 **现在的网课，基本上就是简单复制了课堂教学。** 老师在课堂怎么讲课，就一模一样录制成视频，在互联网播放，这就是网课。也就是说，在线教育现阶段其实只是一个课堂视频的传播平台，本质上跟课堂教学没什么两样。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021302.jpg)
 
 课堂教学的效果取决于老师讲课是否生动，老师讲得很沉闷，教学效果就很差。录制成视频以后，由于没了现场感，效果还会打折扣。很多网课都是这样，学生听了几分钟，新鲜感过去了，就不想听了。
 
 如果网课只是重播课堂教学的视频，是不会有太大前途的。我就遇见过，学生宁愿多花钱，选择线下辅导班，而不是网课。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021303.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021303.jpg)
 
 我觉得， **在线教育的前途在于个性化教育。** 因为课堂教学属于制式化教育，做不到个性化，所有人都用同样的课纲、课本、教学计划，千人一面。学校的目的是以最小的成本、大规模批量化生产能够达到平均水平的学生。
 
 互联网的优势恰恰就在个性化，可以自由灵活地对教学的每个环节进行定制。举例来说，根据每个学生的答题表现和兴趣，软件自动为他定制教育方案，对于某些部分给予重点讲解。比外，互动和多媒体也是互联网的优势，但是现在的网课都用得很少。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021304.jpg)
 
 **目前的状况是，在线教育只是课堂教学的一个低成本替代，** 因为不能现场教学，只好看视频上课。这导致在线教育的效果，无法超过课堂教学，所以做不到真正地迅猛发展，只能作为课堂教学的补充手段。
 
@@ -48,29 +48,29 @@
 
 普通的 HR 做出的 Excel 数据表是下面这样。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021706.jpg)
 
 数据分析师拿出的数据分析表格却是这样的。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021707.jpg)
 
 成为一个合格的数据分析师，难度不小。因为技能树实在太庞大，你掌握的高级技能越多，薪资就越高。本周的课程资料就是一份免费且全面的数据分析教学资料—— **《数据分析秘籍：面试 + 技能提升》** ，希望有助于大家进大厂拿高薪。
 
 这套价值899元数据分析资料包，由廖雪峰老师精心打磨，内容涉及Excel、MySQL、Python 及数据挖掘算法等核心技能，都是一些很实用的内容，帮大家迅速提升数据分析能力，并能产出驱动业务增长的数据分析报告。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020503.jpg)
 
 微信扫描下面的二维码，前200名就可以免费领取，仅限5天。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020504.jpg)
 
 ## 科技动态
 
 1、[人形机器人 Sophia](https://www.ign.com/articles/sophia-the-robot-creators-announce-plan-to-mass-produce-robots-this-year)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012703.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012704.jpg)
 
 总部位于香港的汉森机器人公司（Hanson Robotics）宣布，今年上半年将大批量生产 Sophia 等四款人形机器人。
 
@@ -78,15 +78,15 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 她的用途目前还很有限，大概只能用于陪伴老人，或者充当问询台接待员，表演价值多于实用价值。
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012705.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012706.jpg)
 
 2、[海上火箭平台](https://www.nasaspaceflight.com/2021/01/spacex-rigs-starship-spaceports/)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012007.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012007.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012008.jpg)
 
 马斯克的 SpaceX 火箭公司已经收购了两个海上石油平台，正在进行改造，用作海上太空港，供火箭发射和降落。
 
@@ -96,99 +96,99 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 3、[智能坐垫](https://www.19lou.com/forum-269-thread-88071608531317062-1-1.html)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021103.jpg)
 
 杭州本地论坛19楼有网友发帖，讲述公司给每个员工配了一个智能坐垫，“说是高科技的智能办公设备。坐在垫子上面会感应人体的很多数据，心跳、呼吸、坐姿正不正确之类的，连到自己手机上就可以看。”
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021104.jpg)
 
 但是，她没有想到，所有数据都上传到后台。有一天，公司的 HR 跟她说：“你为什么每天上午10点到10点半都不在工位上啊？带薪拉屎去了吗，小心老板扣你奖金哦！” 她顿时有一种上班被监控，像坐牢一样的感觉。
 
 4、[机器鱼](https://www.sohu.com/a/446120398_120493035)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020310.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020310.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020311.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020311.jpg)
 
 哈佛大学的科学家设计了一种微型的机器鱼，取名为 Bluebots，可以像真正的鱼群一样协同运动，且不需要任何外部控制。每条机器鱼都配备有摄像头和蓝色 LED 灯，可以感知其他机器鱼的方向和距离，进行同步运动，从而形成鱼群。
 
 机器鱼的摄像头最远可以检测到5米以外的信号。每条鱼的 3 个 LED 灯作为信号灯，用于相互识别；4 个独立可控鳍片进行 3D 空间游动。这项研究成果被遴选为 2021 年 1 月份《科学机器人》杂志的封面。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020312.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020312.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020313.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020313.jpg)
 
 5、[人工鸟喙](https://udn.com/news/story/7470/5159192)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020314.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020314.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020315.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020315.jpg)
 
 巴西有一只鹦鹉，鸟喙受到严重伤害而脱落。动物保护组织使用聚甲基丙烯酸甲酯，为它专门制作了一个人工鸟喙，其坚硬程度甚至要用电锯才可能锯断。
 
 装上新鸟喙后，鹦鹉已完全康复，但也无法再放回自然了，因为鸟喙使用频率非常高，工作人员担心总有一天会掉落。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020316.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020316.jpg)
 
 6、**一句话消息**
 
 > - [爱沙尼亚](https://interestingengineering.com/new-tree-loving-robots-could-plant-entire-forest-of-seeds-daily)开发了割草机器人和播种机器人，都采用激光雷达实现无人驾驶。两台机器可以串联工作，一台负责清理场地，一台负责种树，每天可以种几千棵树。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020201.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020202.jpg)
 
 > - [日本京都醍醐寺](https://technews.tw/2021/02/02/terra-space/)宣布，2023 年将发射卫星，在距离地表约500 公里处设立一座太空寺庙。卫星里面有一尊佛像和曼荼罗画等法器，以及摄影镜头、IoT 装置等，可传回太空拍摄的影像。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020401.jpg)
 
 > - [美军](https://www.popsci.com/story/technology/defiant-x-helicopter-could-replace-black-hawk/)正在建造一种新型的黑鹰直升飞机，有两层螺旋浆。据说，这种设计解决了空气动力学的难题，使得直升飞机可以快速飞行。
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012902.jpg)
 
 > - [Spotify](https://www.thesanfranciscotelegraph.com/technology/3678/in-spotify-music-listens-to-you-streaming-platform-wins-patent-to-surveil-users-emotions-to-recommend-music/) 申请了一项专利，通过麦克风监听用户的语音甚至背景噪音，从而评估用户的情绪状态，然后选择合适的音乐播放。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020101.jpg)
 
 > - [一支德国科考队](https://www.bbc.com/news/world-africa-55945948)在马达加斯加，发现了两只小蜥蜴，长度只有13.5mm，确认是世界已知最小的爬行动物。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020801.jpg)
 
 ## 文章
 
 1、[五大车载软件系统横评](https://sspai.com/post/64599)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021013108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021013108.jpg)
 
 本文评比了五款目前主要的车载软件系统的功能和体验，包括特斯拉、CarPlay、Android Auto 等。
 
 2、[《国家重点保护野生动物名录》调整](https://mp.weixin.qq.com/s/SgkpIFZDepdLg3xL-Mjy6w)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020701.jpg)
 
 今年初，国家重点保护野生动物名单发布了新版，一共有988种动物，新增了517种，比原来的数量翻了一倍还多，野生的狼现在也是国家保护动物了。
 
 3、[影响因子最大的中国本土期刊](https://mp.weixin.qq.com/s/7fGwSKfFmbWMqyfBaqjnVg)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020711.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020711.jpg)
 
 2020年6月，《细胞研究》（Cell Research）的影响因子达到了20.507，成为国内史上首本影响因子破20的原创学术期刊。本文介绍这本期刊。
 
 4、[数字时代的中国支付体系现代化](https://www.chaindd.com/3498726.html)（中文）
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021703.jpg)
 
 中国人民银行的原行长周小川的公开演讲，谈中国数字支付的发展方向，里面有相当多的技术内容。
 
 5、[华为的 HarmonyOS 是什么？](https://arstechnica.com/gadgets/2021/02/harmonyos-hands-on-huaweis-android-killer-is-just-android/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020319.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020319.jpg)
 
 一个老外安装了 HarmonyOS 进行体验，为了得到源码，华为甚至要他提供护照照片。他研究以后，认为 HarmonyOS （上图）其实只是 Android 10 的一个分支。
 
 6、[Chrome 浏览器的二维码生成功能](https://www.androidpolice.com/2021/02/04/chrome-84-brings-new-dino-themed-qr-codes-to-android-and-desktops/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020501.jpg)
 
 新版本的 Chrome 88 浏览器，原生支持生成页面的二维码。桌面版是在右键菜单里面，手机版在分享菜单项里面。
 
@@ -198,7 +198,7 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 8、[如何成为数据工程师](https://khashtamov.com/en/how-to-become-a-data-engineer/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021011202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021011202.jpg)
 
 这篇文章总结了数据工程师的需要掌握的技能和工具。
 
@@ -208,7 +208,7 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 10、[如何制作一个简单的文字 Logo？](https://www.dinosaas.com/articles/design-a-simple-text-logo-with-google-fonts-and-figma)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012701.jpg)
 
 本文教你如何在没有设计师的情况下，利用网上的免费资源，自己动手花15分钟，制作一个简单的文字 Logo，比如上图。
 
@@ -216,7 +216,7 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 1、[Coding Fonts](https://coding-fonts.css-tricks.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020320.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020320.jpg)
 
 代码编辑器使用什么字体？ CSS Tricks 推出的这个在线工具，可以浏览各种不同字体的渲染效果。帮助大家选择代码字体。
 
@@ -234,7 +234,7 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 5、[Remark42](https://github.com/umputun/remark42)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020710.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020710.jpg)
 
 一个开源的、可以自己搭建的网站留言服务。
 
@@ -248,13 +248,13 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 8、[Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021410.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021410.jpg)
 
 一个通过单词的打字输入加强记忆的在线工具，可以选择词库。（[@dllen](https://github.com/ruanyf/weekly/issues/1642) 投稿）
 
 9、[345Tool.com](https://www.345tool.com/zh-hans)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021021411.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021411.jpg)
 
 该网站收集一些可以提高编程效率的在线小工具。（[@MarkoCen](https://github.com/ruanyf/weekly/issues/1640) 投稿）
 
@@ -266,25 +266,25 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 2、[How Music Taste Evolved](https://pudding.cool/2017/03/music-history/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021013105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021013105.jpg)
 
 这个网站提供 1958 - 2016 每年美国最流行的五首歌曲，可以在线试听片段，了解美国大众音乐口味的变化。
 
 3、[应用程序启动画面库](http://splashscreens.sourceforge.net/word.php)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020104.jpg)
 
 这个仓库收集各种程序各个版本的开机画面。上图是 Word95 的启动画面。
 
 4、[《计算机图形学从零讲起》](https://gabrielgambetta.com/computer-graphics-from-scratch/)（Computer Graphics from Scratch）
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020403.jpg)
 
 免费阅读的英文书籍，计算机图形学的概述。
 
 5、[AIArtists.org](https://aiartists.org/ai-generated-art-tools)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020601.jpg)
 
 这个网站收集所有可以生成艺术品的 AI 工具，比如 AI 画像、AI 音乐等等。
 
@@ -294,23 +294,23 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 1967年，加拿大为了庆祝建国100周年，在蒙特利尔举办了一次“世界博览会”。当时还是麦吉尔大学建筑系硕士研究生的萨夫迪（Moshe Safdie），为这届博览会提交了一个建筑公寓的设计，命名为 Habitat 67。
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012906.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012906.jpg)
 
 这个公寓由各种预制的混凝土单元连接而成，这样可以降低建造成本。同时，这些单元以不规则的方式组合成一间间公寓，每间公寓都带有阳台和花园，可以与自然接触。萨夫迪希望这为未来的城市住宅，提供一个解决方案。
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012907.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012907.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012908.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012908.jpg)
 
 这栋公寓楼建成后，保留至今，但是并没有达成设计师的目标。首先，它一点都不便宜，政府一开始设置了昂贵的租金，后来变为私人所有的公寓楼，目前的市价也很贵，并不是面向大众的住宅。
 
 其次，由于建造过程非常匆忙，造成建筑质量不好，混凝土有渗水现象，霉菌也渗入了通风系统。但是，这种种问题不影响它成为蒙特利尔市一个壮观的风景。
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012911.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012911.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012909.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012909.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012910.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012910.jpg)
 
 2、[台积电南京厂](https://www.guancha.cn/ChanJing/2019_11_24_526255.shtml)
 
@@ -318,13 +318,13 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 南京厂打破了台积电多项纪录，不仅建厂最快、上线最快，也是最美的厂区。
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020306.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020306.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020307.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020307.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020308.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020309.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020309.jpg)
 
 ## 文摘
 
@@ -332,7 +332,7 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 2021年1月，日本丰田公司宣布，即将推出全新的固态电池电动汽车。这种电动车一次充电可行驶500公里，而且只用10分钟就能从零开始充满电。
 
-![](https://www.wangbase.com/blogimg/asset/202101/bg2021012211.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012211.jpg)
 
 10分钟充满电的轿车，也许是有可能的。但是，让我们计算一下，需要多粗的电缆，才能在这一点时间内移动这么多的能量，同时又不会过热或太重。
 
@@ -384,7 +384,7 @@ Sophia 于2015年开发，具有与人类相似外观，内部带有人工智能
 
 -- [斯诺登](https://twitter.com/Snowden/status/1347217810368442368)
 
-![](https://www.wangbase.com/blogimg/asset/202102/bg2021020705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020705.jpg)
 
 5、
 
@@ -402,11 +402,11 @@ Twitter 的“浏览”选项卡是世界上最重要的报纸。
 
 2020年的本周（第 95 期）：[远程办公暴露冗余岗位](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html)
 
-![](https://www.wangbase.com/blogimg/asset/201912/bg2019122902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122902.jpg)
 
 2019年的本周（第 43 期）：[一篇好玩的论文](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)
 
-![](https://www.wangbase.com/blogimg/asset/201902/bg2019021501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201902/bg2019021501.jpg)
 
 ## 订阅
 

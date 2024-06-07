@@ -308,7 +308,7 @@ fast.ai 推出的最新线上公开课，向程序员介绍如何做一个深度
 
 他的学术自传叫做《尼安德特人》，讲述自己怎么走上科研这条路。这本书面向普通读者，写得很通俗，可读性不错。
 
-![](https://www.wangbase.com/blogimg/asset/201906/bg2019061429.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061429.jpg)
 
 我看过中译本，还挺喜欢这本书。[《周刊第 60 期》](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)有我的读后感，还放了一段本书的“文摘”。
 

@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070117.jpg)
 
 澳门去年11月举办龙马巡游，该大型机械装置为中法团队合作打造，上身为龙，下身为马，身体各部分都能动，还能喷火。（出处：[Instagram](https://www.instagram.com/p/CCDW-Z1l5BF/)）
 
@@ -16,7 +16,7 @@
 
 上周，美国佛罗里达州通过了[《DNA 隐私法》](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)，成为美国第一个对 DNA 立法的州。它明文规定 DNA 属于个人隐私，保险公司不得获取 DNA 测试的结果。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070601.jpg)
 
 为什么 DNA 不能让保险公司知道？
 
@@ -26,13 +26,13 @@ DNA 不仅对保险公司有用，对就业和招生也有用，可以用来找�
 
 DNA 测序已经是一项常规技术了，普通实验室都能做，毫无难度。现在，新生儿出生前，医院都会建议孕妇做一下产前 DNA 检查，防止遗传病。2018年，湖南一个孕妇[起诉华大基因公司](https://www.huxiu.com/article/252310.html)，原因就是该公司的 DNA 检查一切正常，但是新生儿生出来有严重的遗传病。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070602.jpg)
 
 如果 DNA 检查发现遗传缺陷，这个新生儿是不会生出来的。引申一下，这对成人也一样，如果你的 DNA 泄漏了，有时就直接出局了。
 
 DNA 检测现在有多便利？电商平台搜一下“DNA 检测”、“DNA 测序”，会返回很多结果。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070603.jpg)
 
 DNA 也很容易获得，头发、血液、唾液、身体组织都能用来检测。所以，保护 DNA 的难度其实挺大的，只能说个人要有保护意识，尽量不留下 DNA 痕迹。
 
@@ -46,43 +46,43 @@ DNA 也很容易获得，头发、血液、唾液、身体组织都能用来检�
 
 讲座的主要内容是针对 LeetCode 的海量题库，精选 30 道 BAT 大厂面试高频特色算法题，重点讲解面试的必考知识点，教学风格通俗易懂，零基础的同学也可以听。录播、直播、线上答疑相结合，配合小测试和课后作业，保证教学效果。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070902.jpg)
 
 主讲老师是覃超，他曾担任 Facebook 多年面试官，作为 Facebook Messenger Tech Lead，主导和参与了 Facebook App、Facebook Messenger、Facebook Phone 等产品的研发工作。离开Facebook以后，他与极客大学合作，亲自授课，传授大厂面试经验。通过覃超老师指导的学员，很多都拿到了硅谷公司以及国内顶级互联网公司 Offer。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070901.jpg)
 
 除了视频讲座，每天还会有来自一线互联网企业的助教老师在群内答疑，并配备专属班主任全程带班，召开班会，帮助大家结成学习伙伴，互相监督鼓励。课程结束后，还有学习资料可以领取。
 
 这样规格的7天讲座，仅象征性收费 **9.9元**。微信扫描下方二维码，即可报名，只有 100 个名额哦。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070903.jpg)
 
 ## 资讯
 
 1、[平流层飞船](https://www.geekwire.com/2020/space-perspective-reboots-vision-flying-passengers-stratosphere-balloon/)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020062804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062804.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020062805.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062805.jpg)
 
 美国一家私人公司提出了“平流层飞船”计划，让游客乘坐飞船上升到平流层（距离地面30公里），体验一下太空的感觉，票价预计为每人12.5万美元。飞船可以乘坐八名乘客和一名飞行员，先进行长达两个小时的上升，然后在空中停留两个小时，最后再花两个小时下降。
 
 飞船的上升动力，主要来自一个巨大的充满氢气的气球。飞船内部有酒吧，还有一个“拥有世界上最佳视野”的厕所，甚至有 Wifi。该公司计划飞船在2024年完工，目前已经在[官网](https://thespaceperspective.com/fly/)接受预订。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020062806.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062806.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020062807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062807.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020062808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062808.jpg)
 
 2、[AI 海滩救生系统](https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070103.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070102.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070104.jpg)
 
 夏季的海滩有很多人，如果发生溺水，不容易发现。为了帮助救生员尽快发现溺水者，以色列创业公司 Sightbit 开发了一套 AI 溺水救生系统，使用摄像头自动侦测溺水者，还能发现无人看管的孩子和异常的水流。
 
@@ -90,7 +90,7 @@ DNA 也很容易获得，头发、血液、唾液、身体组织都能用来检�
 
 3、[加州大学旧金山分校支付赎金](https://gravitational.com/blog/how-to-ssh-properly/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070112.jpg)
 
 6月1日，加州大学旧金山分校（UCSF）的电脑中毒，出现了上图的对话框，要求支付赎金，才能继续使用电脑。
 
@@ -98,19 +98,19 @@ DNA 也很容易获得，头发、血液、唾液、身体组织都能用来检�
 
 4、[自动结算的购物车](https://www.instagram.com/p/CB-EdKKnWs8/?igshid=i4pqo65w8voq)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070122.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070122.jpg)
 
 合肥某超市出现了带有自助结算装置的购物车。消费者从货架取完商品后，使用该装置扫描二维码，然后手机付款，就完成了整个自助结算的过程。
 
 这个装置可能不容易推广。它最大的问题是，购物车需要经常充电，而且容易遭到破坏或偷窃，一旦被人拿走，超市会有较大的损失。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070121.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070121.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070120.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070120.jpg)
 
 5、[宝马汽车的付费加热座椅](https://www.cnet.com/roadshow/news/bmw-vehicle-as-a-platform/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070203.jpg)
 
 德国宝马汽车公司最近发布了新的汽车操作系统，最引人注目的是将许多汽车功能做进了系统，让它们都变成了软件服务，像自动导航、自动远光灯、甚至加热座椅都变成了软件控制。
 
@@ -120,35 +120,35 @@ DNA 也很容易获得，头发、血液、唾液、身体组织都能用来检�
 
 > - [科学家](https://www.nationalgeographic.com/animals/2020/03/mouse-found-atop-volcano-highest-altitude-mammal/)在海拔6700米的安第斯山脉的山顶，发现了老鼠。这是已知生活区域最高的哺乳动物。这些老鼠吃什么，目前还是一个迷，那个高度没有植物，氧气只有海平面的一半。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020063006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020063006.jpg)
 
 > - [小米](https://www.researchsnipers.com/xiaomi-registers-new-sliding-camera-patent-to-increase-screen-to-body-ratio/)申请了滑动相机专利，手机背面设置一个滑动条，上面装了三个摄像头。要用前置摄像头时，滑动条会自动滑出，这样手机正面就可以实现全面屏。
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020062308.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062308.jpg)
 
 > - [英国科学家](https://www.cnn.com/2020/06/30/health/declining-eyesight-red-light-scn-wellness/index.html)发表研究成果，每天盯着红光看几分钟，有助于防止老年人视力下降。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070202.jpg)
 
 > - [推特工程部门](https://twitter.com/TwitterEng/status/1278733305190342656)宣布，开始替换带有歧视性的软件术语，比如“黑名单”（blacklist）改为“拒绝名单”（denylist），“白名单”改为“允许名单”（allowlist）。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070301.jpg)
 
 > - [中国电子书厂商 Onyx](https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/) 拒绝发布设备源码，那是根据 Linux 内核改的，明显违反了 GPL 许可证。Reddit 社区正在讨论，开源软件有没有办法在中国维权。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070505.jpg)
 
 ## 文章
 
 1、[Vim 的由来](https://pragmaticpineapple.com/how-did-vim-become-so-popular/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070107.jpg)
 
 Vim 有30多年历史，目前依然是最流行的编辑器之一。本文简要地回顾了历史，它的一些主要的设计决定，到底是怎么来的。
 
 2、[史上最难的定位挑战](https://nixintel.info/osint/using-flight-tracking-for-geolocation-quiztime-30th-october-2019/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070111.jpg)
 
 一个推特用户发了一张照片，空荡荡的蓝天上有一架飞机。他给出了三个已知条件，本文分析如何根据下面三个条件，定位他在哪里拍这张照片。
 
@@ -174,7 +174,7 @@ Hooks 是前端框架 React 现在主推的写法，它很灵活，但也很容�
 
 7、[分页查询不要使用 OFFSET 和 LIMIT 语法](https://hackernoon.com/please-dont-use-offset-and-limit-for-your-pagination-8ux3u4y)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070502.jpg)
 
 数据查询时，如果数据多，就需要分页，一般使用 OFFSET 和 LIMIT 语法。这篇文章提出，这样做不好，耗费资源，有性能问题。
 
@@ -190,7 +190,7 @@ Hooks 是前端框架 React 现在主推的写法，它很灵活，但也很容�
 
 1、[ward](https://github.com/B-Software/Ward)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070113.jpg)
 
 一个简单的服务器监控的仪表盘，基于 Java。
 
@@ -204,7 +204,7 @@ Hooks 是前端框架 React 现在主推的写法，它很灵活，但也很容�
 
 4、[guietta](https://github.com/alfiopuglisi/guietta)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070302.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070302.jpg)
 
 一个 Python 工具，用来生成简单的图形界面。
 
@@ -214,7 +214,7 @@ Hooks 是前端框架 React 现在主推的写法，它很灵活，但也很容�
 
 6、[Zettlr](https://www.zettlr.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070401.jpg)
 
 一个桌面 Markdown 编辑器，界面美观。
 
@@ -238,19 +238,19 @@ GitBook 官方不再维护开源版本后，其他人分叉继续开发的版本
 
 1、[微软学习 TV](https://docs.microsoft.com/en-us/learn/tv/)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020062406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062406.jpg)
 
 微软官方的学习视频中心，有各种教程。
 
 2、[aww rated](https://awwrated.com/en/netflix)
 
-![](https://www.wangbase.com/blogimg/asset/202006/bg2020062802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062802.jpg)
 
 这是一个Netflix 评价网站，通过抓取 IMDb、metacritic、烂番茄、豆瓣等评分网站的数据，列出 Netflix 各种节目的评分。
 
 3、[Go 语言编程](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070116.jpg)
 
 英文的免费电子书，DigitalOcean 发布的。
 
@@ -272,15 +272,15 @@ GitBook 官方不再维护开源版本后，其他人分叉继续开发的版本
 
 1786年，法国人 Valentin Haüy 发明了第一本凸起字母书，盲人和弱视的人通过触摸读书。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070108.jpg)
 
 1831年，美国人塞缪尔·豪（Samuel Howe）的美国人受到浮雕字母的启发，发明了一种新的字体，更容易触摸识别，称为波士顿字型。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070109.jpg)
 
 1932年，六个点的布莱叶盲文，成为国际标准，取代了具体的字母。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070110.jpg)
 
 2、[漫长的雨](http://www.samweller.net/bradbury-1/2018/11/29/the-essential-bradbury)
 
@@ -288,7 +288,7 @@ GitBook 官方不再维护开源版本后，其他人分叉继续开发的版本
 
 它讲述四个宇航员因为火箭失事，来到一个不停下雨的星球。这个星球永远在下瓢泼大雨，过去10年一秒都没有停过。宇航员冒着雨水，在丛林里面穿行，拼命寻找前人修建的“阳光穹顶”，那里是一个大屋顶，有温暖的人造阳光，以及充足的食物和休息的场所。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070201.jpg)
 
 小说的开头是这样的：
 
@@ -300,7 +300,7 @@ GitBook 官方不再维护开源版本后，其他人分叉继续开发的版本
 
 1989年，乌克兰克拉马托尔市 Hvardiytsiv Kantemyrivtsiv 大街7号公寓大楼的居民，向有关部门要求，立即检查该栋大楼是否存在核辐射。1980年到1989年，该楼前后有4人死于白血病。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070114.jpg)
 
 检查发现，该楼的核辐射极高。最后确认，在85号和52号房间之间的那堵墙壁里面，有一个具有高度放射性的铯-137胶囊。
 
@@ -314,7 +314,7 @@ GitBook 官方不再维护开源版本后，其他人分叉继续开发的版本
 
 2020年5月，Linux 基金会一年一度的峰会上，Linux 创始人莱纳斯·托瓦尔兹（Linus Torvalds）与 VMware 公司副总裁兼首席开源官 Dirk Hohndel 进行了对话。
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020070605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070605.jpg)
 
 Dirk Hohndel 问 Linus，现在的工作流程是怎样的。
 
@@ -366,11 +366,11 @@ NPM 现在有130万个软件包，绝大部分都不是长期维护的。即使�
 
 2019年的本周（第 64 期）：[新人如何进入互联网行业？](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019071101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071101.jpg)
 
 2018年的本周（第 12 期）：[政府无法保障养老，必须靠自己](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html)
 
-![](https://www.wangbase.com/blogimg/asset/201807/bg2018070601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201807/bg2018070601.jpg)
 
 ## 订阅
 

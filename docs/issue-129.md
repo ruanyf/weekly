@@ -8,7 +8,7 @@
 
 ##  封面图
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100716.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100716.jpg)
 
 荷兰艺术家 Henk Hofstra 在巴西圣保罗市的作品《大街上的煎蛋》。（[via](https://www.instagram.com/p/CFWQkdOBulW/)）
 
@@ -16,17 +16,17 @@
 
 著名畅销书[《黑天鹅》](https://book.douban.com/subject/6854525/)的作者纳西姆·塔勒布（Nassim Taleb），以前是纽约大学的数学教授，后来从事数理金融和风险管理。他写了很多科普文章，使用数学概念去分析各种现象。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100903.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100903.jpg)
 
 他有一个[说法](https://www.indiehackers.com/post/bootstrapping-and-convexity-fb3b2da7c9)，我觉得很新奇。 **他说创业的时候，要考虑创业方向是凸函数还是凹函数。**
 
 简单说，凸函数（convex function）就是函数曲线开头向上（下图左），凹函数（concave function）就是函数曲线开口向下（下图右）。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100904.jpg)
 
 塔勒布说，最好的创业方向是下面这种曲线。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100905.jpg)
 
 上图的竖轴是收益（正向为盈利，负向为亏损），横轴是各种外部因素（正向为有利因素，负向为不利因素）。创业开始时，你的收益是零（曲线与横轴的交点），不知道未来会怎样。
 
@@ -42,7 +42,7 @@
 
 本周，向大家介绍一个国产的云服务：[Authing](https://authing.cn/)。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101004.png)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101004.png)
 
 我们使用各种互联网应用，第一步总是登录或注册。现在流行的做法是使用第三方登录，即通过一些大网站（比如国外的谷歌、脸书和 GitHub）来验证用户身份。
 
@@ -52,11 +52,11 @@
 
 默认情况下，开发者只需要加载一个[脚本](https://github.com/Authing/Guard)，就会自动显示下面的登录表单，帮你处理掉所有的注册和登录流程。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101005.png)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101005.png)
 
 通过后台，它可以配置使用各种身份提供商：微信、QQ、支付宝、微博、钉钉…… 国内主流的登录方案，基本上全部支持。不同类型的应用（Web、手机 App 和小程序）都能无缝调用这个服务。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101006.png)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101006.png)
 
 此外，它还为企业级应用提供 SSO 单点登录、多因素认证、手机短信验证码等高级服务，并且有各种主流语言的 SDK，可以平滑接入已有的存量应用。
 
@@ -70,7 +70,7 @@ Authing 极为重视“信息安全”。它本身不经手、不储存任何用
 
 1、[数字人民币红包](https://finance.sina.com.cn/china/gncj/2020-10-10/doc-iivhuipp8791865.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101001.jpg)
 
 深圳开始试点数字人民币，具体方法是通过抽签，在报名的市民里面选出5万人，向他们的数字钱包发放200元红包，共计1000万元。这个红包可以在有效期内至罗湖区指定的商户进行消费。
 
@@ -80,17 +80,17 @@ Authing 极为重视“信息安全”。它本身不经手、不储存任何用
 
 2、[天问一号自拍](https://www.sohu.com/a/422325427_338398)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100712.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100712.jpg)
 
 天问一号是中国的第一个火星探测器，2020年7月23日发射。10月1日，在飞往火星途中，天问一号进行了一次自拍，向国内发回它在太空中的样子。
 
 它没有采用自拍杆的方案，因为要拍下探测器的全景，自拍杆需要长达15米，可能会有安全隐患。现在的做法是，向太空抛出一个一次性相机，对天问一号进行拍照，并实时把图像传回。相机的飞行速度是每秒0.2米，同时传回 800×600、1600×1200 两档分辨率的照片，通信采用的是400米范围的 WiFi 协议，相机电池可以坚持1小时。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100713.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100713.jpg)
 
 3、[印度国有 App 商店](https://www.deccanherald.com/specials/aatmanirbhar-bharat-modi-govt-to-set-up-app-store-alternative-to-google-play-apple-app-store-895755.html)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100406.jpg)
 
 谷歌应用商店开始对应用内购买收取30%的佣金，这对印度开发者影响很大。据报道，印度总理莫迪（Narendra Modi）已经要求电子和信息部开发一个国有的手机 App 商店，这样可以避免谷歌抽成。
 
@@ -98,25 +98,25 @@ Authing 极为重视“信息安全”。它本身不经手、不储存任何用
 
 4、[谷歌 Workspace 的新图标](https://9to5google.com/2020/10/06/new-gmail-icon/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100703.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100703.jpg)
 
 疫情发生后，谷歌开始整合邮件、日历、通讯、办公等产品，将原来的办公套件 G Suite 升级成了 Google Workspace，作为个人和企业的网上工作的解决方案。为了适应这个转变，它重新设计了这些产品的图标，使得它们更加协调。
 
 下面依次是 Gmail、日历、文档、视频会议、即时通信的新图标。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100704.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100705.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100706.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100707.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100708.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100708.jpg)
 
 5、[无人驾驶出租车](https://auto-time.36kr.com/p/916577169093378)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101003.jpg)
 
 10月9日，谷歌旗下的无人驾驶子公司 Waymo 宣布，即日起向公众开放无人驾驶出租车服务，第一期在凤凰城地区投放3000辆。这是世界上第一例正式向社会开放、并且车上没有任何工作人员的无人驾驶服务。
 
@@ -130,19 +130,19 @@ Reddit 用户贴出了一段[4分钟的乘坐视频](https://www.reddit.com/r/wa
 
 > - [德国科学家](https://www.bbc.com/news/science-environment-54515518)完成为期一年的北极考察，发现大规模的冰层融化，令人担忧。下面是他们绘制的2020年北极冰层分布图与1980年的比较，绿色为冰面，白色为海洋，灰色为陆地。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101501.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101502.jpg)
 
 > - [一家美国创业公司](https://peripherii.com/)将蓝牙耳机做成耳坠首饰出售，据说通过挂首饰的耳洞来传递声音。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101504.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101505.jpg)
 
 > - [美国科学家](https://spectrum.ieee.org/energywise/green-tech/fuel-cells/spinach-gives-fuel-cells-a-power-up)发现，菠菜可以充当燃料电池的催化剂。催化剂需要铁元素和氮元素的化合物，人工很难合成，但是菠菜却富含这两种元素，而且成本极低。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101503.jpg)
 
 > - [全球的 IPv4 地址](http://www.southgatearc.org/news/2020/october/sale-of-amateur-radio-amprnet-tcp-ip-addresses.htm)历史上有1600万个分配给了业余无线电协会。由于 IPv4 地址已经没有剩余了，亚马逊公司最近花了1.08亿美元，向该协会购买了400万个 IPv4 地址。
 
@@ -152,25 +152,25 @@ Reddit 用户贴出了一段[4分钟的乘坐视频](https://www.reddit.com/r/wa
 
 1、[如何使用 CSS Grid 设置文章排版](https://joshwcomeau.com/css/full-bleed/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100601.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100601.jpg)
 
 本文介绍如何使用几行简单的 CSS 代码，就能实现文章的排版布局（上图）。另外，传统的 CSS 写法可以参考[这篇文章](https://uglyduck.ca/poor-mans-full-bleed/)。
 
 2、[Vimium 插件的使用方法](https://codefaster.substack.com/p/look-ma-no-mouse-vimium)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100701.jpg)
 
 Vimium 是 Chrome 浏览器的一个插件，可以只用键盘来操作网页，本文是它的教程。
 
 3、[Unity 游戏开发的基本概念](https://blog.eyas.sh/2020/10/unity-for-engineers-pt1-basic-concepts/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101201.jpg)
 
 Unity 是世界最流行的游戏开发软件之一，本文是它的初学者教程，介绍一些游戏开发的最基本概念，不涉及代码。
 
 4、[使用 CSS `:: marker` 自定义列表符号](https://web.dev/css-marker-pseudo-element/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100804.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100804.jpg)
 
 Chrome 86 开始支持使用`:marker`伪类自定义`<ol>`和`<ul>`的列表符号。
 
@@ -209,57 +209,57 @@ Chrome 86 启用了新的缓存防追踪机制，具体来说，就是为缓存�
 
 2、[Anbox](https://anbox.io/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100508.jpg)
 
 Linux 系统的安卓模拟器。
 
 3、[Diagram Maker](https://github.com/awslabs/diagram-maker)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100602.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100602.jpg)
 
 亚马逊推出的开源流程图制作工具。
 
 4、[DigitalOcean 应用程序平台](https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100702.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100702.jpg)
 
 DigitalOcean 发布应用程序平台，跟 GitHub 深度融合，可以直接把 GitHub 项目在上面部署和运行，很适合那些需要后端的网络应用。
 
 5、[Apache JMeter](https://www.2n.pl/blog/apache-jmeter)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100711.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100711.jpg)
 
 一个服务器和数据库的性能压测工具，具有图形界面。
 
 6、[nb](https://github.com/xwmx/nb)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100803.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100803.jpg)
 
 一个命令行的笔记软件。
 
 7、[Frame](https://framevr.io/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100815.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100815.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100814.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100814.jpg)
 
 这个网站很新奇，用户在 VR 空间“面对面”开虚拟会议。如果没有 VR 头盔，裸眼也可以使用。
 
 8、[optimizt](https://github.com/funbox/optimizt)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100901.jpg)
 
 一个命令行图片压缩工具，支持压缩 PNG、JPEG、GIF 和 SVG 格式，并可以选择输出 WebP 格式。
 
 9、[Calligrapher.ai](https://www.calligrapher.ai/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100902.jpg)
 
 一个在线工具，可以将英文输入变成手写体，并具有动画效果，提供 SVG 格式下载。上图是输入 Google 的效果。
 
 10、[github-daily](https://github.com/headllines/github-daily)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020101603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020101603.jpg)
 
 通过 GitHub 的 Action 定时执行脚本，获取 GitHub Trending Top 10，并且记录到了项目的 issue 里。用户可以通过 watch GitHub 仓库或者 RSS 订阅更新。（[@timqian](https://github.com/ruanyf/weekly/issues/1440) 投稿）
 
@@ -275,13 +275,13 @@ DigitalOcean 发布应用程序平台，跟 GitHub 深度融合，可以直接�
 
 3、[宇宙模型](http://stars.chromeexperiments.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100710.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100710.jpg)
 
 一个浏览器的 3D 显示实验项目，在网页上展示10万颗恒星，讲解宇宙知识。
 
 4、[names.io](https://github.com/Debdut/names.io)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100802.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100802.jpg)
 
 这个仓库通过各种数据库，收集所有出现过的英语人名（包括外国人的英文译名），分成姓和名两个文件。
 
@@ -291,15 +291,15 @@ DigitalOcean 发布应用程序平台，跟 GitHub 深度融合，可以直接�
 
 一家南京建筑师事务所将景德镇浮梁县前程村的丙丁木窑工厂，改建成混凝土建筑。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100810.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100810.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100813.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100813.jpg)
 
 当地距景德镇市区不到一小时车程，四面环山，竹林环绕，有溪水从基地中间流过，环境清幽。夜间烧窑时，有着惊人的美丽，工业与自然的融合。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100812.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100812.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100811.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100811.jpg)
 
 2、[海拔7000米的天空颜色](https://www.dcfever.com/news/readnews.php?id=28338)
 
@@ -307,11 +307,11 @@ DigitalOcean 发布应用程序平台，跟 GitHub 深度融合，可以直接�
 
 日本摄影师上田优纪发布了，她在喜马拉雅山脉的高山上拍的照片。她写道：“海拔越高，天空的颜色就越深，从蓝色变成了深蓝。超过（海拔）7,000米的话，天空的颜色会变成近似漆黑的宇宙。”
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071401.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071402.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202007/bg2020071403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071403.jpg)
 
 天空是蓝色的，主要原因是蓝光的波长较短，容易被空气中的颗粒物发生散射。7000米海拔的空气颗粒物较少，散射减少，天空颜色变深似乎是合理的。但是如果那样的话，为什么在高空的飞机上看出去，天空还是蓝色的呢？
 
@@ -350,7 +350,7 @@ DigitalOcean 发布应用程序平台，跟 GitHub 深度融合，可以直接�
 
 如果摘下一颗还在跳动的心脏（哪怕心脏的主人已经失去了其他所有身体机能），做手术的医生可能要承担谋杀的罪名。
 
-![](https://www.wangbase.com/blogimg/asset/202010/bg2020100801.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202010/bg2020100801.jpg)
 
 历史上，南非是一个没有这类法律的地方。1967年，南非开普敦外科医生克里斯蒂安·巴纳德（Christiaan Barnard）将一名死于车祸的年轻女士的心脏，植入了54岁男患者路易斯·瓦什坎斯基（Louis Washkansky）的胸腔。这被誉为一项伟大的医学突破，尽管实际上瓦什坎斯基18天后就死了。巴纳德的第二名移植患者运气好得多。这是一名叫作菲利普·布莱贝格（Philip Blaiberg）的退休牙医，他多活了19个月。
 
@@ -402,11 +402,11 @@ DigitalOcean 发布应用程序平台，跟 GitHub 深度融合，可以直接�
 
 2019年的本周（第 78 期）：[下一个风口是什么行业？](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101707.jpg)
 
 2018年的本周（第 26 期）：[DHH 的新书《工作何必疯狂》](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)
 
-![](https://www.wangbase.com/blogimg/asset/201810/bg2018101201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101201.jpg)
 
 ## 订阅
 

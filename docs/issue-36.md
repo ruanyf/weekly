@@ -4,7 +4,7 @@
 
 欢迎投稿，或推荐你自己的项目，请前往 GitHub 的 [ruanyf/weekly](https://github.com/ruanyf/weekly) 提交 issue。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122129.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122129.jpg)
 
 （题图：安吉，浙江，2018）
 
@@ -24,7 +24,7 @@
 
 1、[维珍银河试飞成功](https://www.bbc.com/news/business-46550862)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122102.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122102.jpg)
 
 12月13日，维珍银河公司（Virgin Galactic）的航天飞机试飞成功。它先由一架双头的牵引飞机载到半空，在那里再点燃火箭加速，飞到距地面82.7公里的高空。
 
@@ -34,7 +34,7 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 2、[离子风飞机](https://edition.cnn.com/travel/article/mit-ion-plane-intl/index.html)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122103.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122103.jpg)
 
 麻省理工学院的科学家发明了，世界上第一架没有活动部件并且不依靠化石燃料飞行的“固态”飞机。该飞机利用“离子风”飞行，比传统飞机更安静，机械更简单，并且不会排放燃烧废物。
 
@@ -42,7 +42,7 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 3、[ARM 服务器](https://www.theregister.co.uk/2018/11/27/amazon_aws_a1/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122104.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122104.jpg)
 
 亚马逊公司开发了一款自己的64位 ARM 服务器处理器 Graviton，已经用于该公司的网络服务 AWS 的云主机，并且 ARM 虚拟机比 x86 虚拟机价格便宜45％。
 
@@ -50,7 +50,7 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 4、[家庭电池计划](https://arstechnica.com/information-technology/2018/11/south-australia-is-fueling-energy-storage-investment/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122105.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122105.jpg)
 
 南澳大利亚州计划提供7200万美元，在当地居民家中安装特斯拉公司的家用蓄电池。每户居民可以得到4300美元的补助，用于购买电池。
 
@@ -58,13 +58,13 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 5、[机器狗的人造手](https://techcrunch.com/2018/11/28/youbionic-adds-creepy-hands-to-spotmini-the-creepy-robot-dog/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122106.jpg)
 
 波士顿动力公司唯一的公开出售产品是机器狗 SpotMini，现在有一家创业公司为这只狗加上了一对人造手。这对手目前没有实际作用，只是 3D 打印模型，售价179美元。但是，如果一旦可以编程控制，它就为这只机器狗带来了无限的可能。
 
 6、[美国汽车公司可能退出轿车生产](https://www.bloomberg.com/opinion/articles/2018-11-30/trump-is-losing-his-influence)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122107.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122107.jpg)
 
 有消息称，通用汽车公司和福特汽车公司很快将退出美国的轿车市场，专注于生产高利润的卡车和 SUV。原因是他们的轿车销量下降得非常厉害，福特福克斯的销量从2013年的235,000辆降至2018年的115,000辆。通用汽车公司的雪佛兰科鲁兹的销量从2014年的273,000辆下降到2018年的145,000辆。
 
@@ -72,7 +72,7 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 7、[Instagram 影响自然保护](https://www.nytimes.com/2018/11/29/travel/instagram-geotagging-environment.html)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122108.jpg)
 
 美国怀俄明州的一个县旅游局，要求游客将照片发到社交媒体时，不得标识地理位置，以保护该州原始森林和偏远湖泊。
 
@@ -80,7 +80,7 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 8、[贫穷的千禧一代](https://www.npr.org/2018/11/30/672103209/why-arent-millennials-spending-more-they-re-poorer-than-their-parents-fed-says)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122109.jpg)
 
 1981年至1997年之间出生的人，在美国称为“千禧一代”。美联储的一项新研究称，他们的消费比前几代人同龄时低，原因是他们的资产较少，没有能力多消费。也就是说，他们是最贫穷的一代人。
 
@@ -88,7 +88,7 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 9、[窗户涂料](https://interestingengineering.com/mit-develops-window-coating-that-could-save-millions-in-air-conditioning-costs)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122110.jpg)
 
 很多大楼的夏季空调费非常高，据统计，空调占美国总电力支出的6％。 如果有其他手段为大楼降温，就能节省大量能源。
 
@@ -104,7 +104,7 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 * [美国国税局（IRS）](https://qz.com/quartzy/1486571/the-irs-is-now-on-instagram/)在 Instagram 开了账户，专门发布介绍税收知识的短视频。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122111.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122111.jpg)
 
 ## 教程
 
@@ -114,7 +114,7 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 2、[何时不使用微服务？](https://www.feval.fr/posts/microservices/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122112.jpg)
 
 微服务是目前流行的架构，但是会增加复杂性，比如一个 API 变成多个 API（上图）。本文讨论了哪些情况不应该使用微服务。
 
@@ -132,7 +132,7 @@ SpaceX 公司和亚马逊老板贝佐斯投资的 Blue Origin 公司，也有计
 
 6、[MVC 框架的误解](http://beza1e1.tuxen.de/model_view_controller.html)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122113.jpg)
 
 作者提出，现在那些 MVC 应用其实改叫 MVA 更合适，也就是把 Controller（控制器）改成 Adapter（适配器）。
 
@@ -146,7 +146,7 @@ HTML 网页的`<a>`元素打开的子网页，可以用`window.opener.location.r
 
 9、[一个人如何开发游戏《星露谷》](https://www.gq.com/story/stardew-valley-eric-barone-profile)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122114.jpg)
 
 畅销游戏《星露谷》（Stardew Valley）作者只有一个人埃里克·巴罗恩，从编码到美术音乐都靠自己。大学毕业后，他没找工作，而是待在公寓写了四年游戏。唯一收入是晚上打工，在电影院门口收电影票。
 
@@ -164,13 +164,13 @@ HTML 网页的`<a>`元素打开的子网页，可以用`window.opener.location.r
 
 2、[机器学习书籍清单](https://anvaka.github.io/greview/hands-on-ml/1/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122115.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122115.jpg)
 
 这份书目的特别之处在于，它是一份树状的互动图表。（@[nivance](https://github.com/ruanyf/weekly/issues/87) 投稿）
 
 3、[3D 病毒浏览器](https://media.hhmi.org/biointeractive/click/virus-explorer/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122116.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122116.jpg)
 
 该网站对各种病毒 3D 建模，可以缩放、旋转观看病毒模型。
 
@@ -196,7 +196,7 @@ C++ 开源教程，主要针对那些了解 C 语言，希望学习 C++ 的程�
 
 10、[旅行者二号的海报](https://voyager.jpl.nasa.gov/downloads/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122117.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122117.jpg)
 
 1977年发射的旅行者二号（Voyager 2）最近飞出了太阳系，成为飞得最远的人类飞行器。美国宇航局为了庆祝这个事件，在官网发布了一系列可以下载的海报。
 
@@ -208,7 +208,7 @@ C++ 开源教程，主要针对那些了解 C 语言，希望学习 C++ 的程�
 
 2、[strapi](https://github.com/strapi/strapi)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122118.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122118.jpg)
 
 一个 Node 的图形界面的 API 生成框架。（@[JsonLeex](https://github.com/ruanyf/weekly/issues/73) 投稿）
 
@@ -226,7 +226,7 @@ C++ 开源教程，主要针对那些了解 C 语言，希望学习 C++ 的程�
 
 6、[betwixt](https://github.com/kdzwinel/betwixt)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122119.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122119.jpg)
 
 一个使用 Chrome 控制台的网络面板，可以查看命令行 HTTP 请求的工具。
 
@@ -240,7 +240,7 @@ Chrome 浏览器的扩展，使用类似 Vim 的快捷键，通过键盘操作�
 
 9、[Emoji Builder](http://phlntn.com/emojibuilder/)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122120.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122120.jpg)
 
 自定义 Emoji 图片。（@[kt286](https://github.com/ruanyf/weekly/issues/91)__ __投稿）
 
@@ -262,7 +262,7 @@ Markdown 的 lint 工具，检查编写格式是否规范。（@[hustcc](https:/
 
 HBO 对信号加密四个月后，1986年4月26日的晚上，美国佛罗里达州的一个销售卫星电视器材的经销商约翰·迈克道格尔，利用自己商店里的设备，在0点32分向 HBO 卫星发送了干扰信号，压过了 HBO 的官方信号，导致美国东部的所有 HBO 用户看到了他设置的画面。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122121.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122121.jpg)
 
 > GOODEVENING HBO  
 > 晚上好，HBO
@@ -299,35 +299,35 @@ HBO 发现信号异常以后，试图加大上传功率，压过迈克道格尔�
 
 1、[从地心计算的地球最高点](https://oceanservice.noaa.gov/facts/highestpoint.html)
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122122.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122122.jpg)
 
 从海平面开始计算，地球最高点是珠穆朗玛峰。
 
 但是，地球是一个椭圆，赤道比南北极多出了几十公里。这导致从地心开始计算，最高点是厄瓜多尔的钦博拉索山（ Chimborazo，海拔6268米），这座山在赤道附近，比珠穆朗玛峰高出了2公里。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122123.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122123.jpg)
 
 钦博拉索山顶是地球上距离地心最远的地方。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122124.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122124.jpg)
 
 2、[80年代的游戏背景图案](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-the-japanese-industry)
 
 上个世纪80年代，电脑游戏的图案一般先是手绘，然后再用数字转换仪转成像素图。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122125.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122125.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122126.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122126.jpg)
 
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122127.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122127.jpg)
 
 3、[欧洲的空气质量](https://twitter.com/julianpopov/status/957519255943221248)
 
 有人画了欧洲空气质量的数据图，结果发现东欧和西欧的界线，完全可以根据空气质量划分。
 
-![](https://www.wangbase.com/blogimg/asset/201812/bg2018122128.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122128.jpg)
 
 ## 本周金句
 

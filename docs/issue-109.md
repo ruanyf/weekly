@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052114.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052114.jpg)
 
 疫情期间，由于车辆大幅减少，尼泊尔首都加德满都的污浊空气开始变得清澈，可以看到珠穆朗玛峰。（[出处](https://snowbrains.com/everest-visible-kathmandu-nepal-first-time/)）
 
@@ -20,9 +20,9 @@ Spotify 最近购买了乔·罗根（Joe Rogan）播客节目的独家播放权�
 
 播客的制作成本非常低，说话能有多少成本？一亿美元的天价前所未有，很难想象一个互联网谈话节目，值这么多钱。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052701.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052701.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052301.jpg)
 
 这件事的启示就是，我们可能远远低估了播客的潜力。它是一种传播力很强的媒体，属于还没被充分认识的金矿。
 
@@ -58,13 +58,13 @@ Spotify 最近购买了乔·罗根（Joe Rogan）播客节目的独家播放权�
 
 只要微信扫一扫下面二维码，添加小助理，就可以领取这份资料。前 **299**  个是免费名额，有效期 **5天** 。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052712.png)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052712.png)
 
 ## 资讯
 
 1、[太空能量传输](https://www.thedrive.com/the-war-zone/33339/x-37b-space-planes-microwave-power-beam-experiment-is-a-way-bigger-deal-than-it-seems)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052109.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052109.jpg)
 
 5月16日，美国军方开始了无人航天飞机 X-37B 的第六次试验飞行。它的使命没有公开，但是科学家相信，其中有一项试验是太空能量传输。
 
@@ -72,19 +72,19 @@ X-37B 会利用太阳能板，将太空中捕获的太阳能以微波形式传�
 
 2、[900万人的核酸检测](http://hb.sina.com.cn/news/b/2020-05-27/detail-iircuyvi5213205.shtml)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052704.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052704.jpg)
 
 武汉市在10天内（5月15日～24日）对900万人进行了核酸检测，查出了无症状感染者218人，没有查到确诊患者。同时对这么多人进行检测，全世界恐怕找不到第二例。
 
 据网友说，为了节省检测时间，采用的方法是，先将20个人的小样混合，进行一次检测。如果检出阳性，则再对20个人的采样进行逐一检验，直到找出核酸阳性的那个人，然后迅速医学隔离，调查出密切接触者。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052705.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052705.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052706.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052706.jpg)
 
 3、[基本收入实验](https://www.yahoo.com/entertainment/twitter-jack-dorsey-giving-andrew-090025479.html)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052115.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052115.jpg)
 
 推特公司 CEO、亿万富翁杰克·多尔西（Jack Dorsey，上图）最近向杨安泽捐款500万美元，要求用这些钱进行“基本收入”的实验。所谓“基本收入”，是杨安泽参加去年美国总统民主党初选时的主张，他希望向每个美国成年公民每月无条件发放1000美元。这个主张在美国引起了巨大反响。
 
@@ -92,7 +92,7 @@ X-37B 会利用太阳能板，将太空中捕获的太阳能以微波形式传�
 
 4、[纸牌游戏30周年](https://news.xbox.com/en-us/2020/05/22/celebrating-30-years-microsoft-solitaire/)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052206.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052206.jpg)
 
 今年是纸牌游戏诞生30周年。1990年，微软公司在 Windows 3.0 里面加入了这个游戏，原始目的是帮助用户掌握鼠标的拖放。但是没想到，它从此成为世界上游玩人数最多的游戏，直到今天，据估计，全世界每个月玩该游戏的人有3500万，每天超过1亿局。
 
@@ -100,9 +100,9 @@ X-37B 会利用太阳能板，将太空中捕获的太阳能以微波形式传�
 
 5、[盗版工具是否有版权？](https://torrentfreak.com/github-reinstates-popcorn-time-code-despite-mpa-threat-200520/)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052408.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052408.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052409.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052409.jpg)
 
 开源软件[“爆米花时间”](https://github.com/popcorn-official/popcorn-desktop)（Popcorn Time）是一个 BT 下载客户端，集成了媒体播放器，可以一边下载一边观看。毋庸讳言，它的主要用途是观看盗版的电影和电视剧。
 
@@ -114,27 +114,27 @@ X-37B 会利用太阳能板，将太空中捕获的太阳能以微波形式传�
 
 > - [谷歌](https://ai.googleblog.com/2020/05/enabling-e-textile-microinteractions.html)发明了可以感知手势的纺织品。它的一个应用就是，用户以不同的手势握着连接线，电器可以开机（下图一）或关机，或者手机可以做出不同的反应（下图二）。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020051807.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020051807.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020051808.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020051808.jpg)
 
 > - [特斯拉](https://electrek.co/2020/05/19/tesla-bidirectional-charging-ready-game-changing-features/)已经悄悄地为 Model 3 和 Model Y 电动车，准备好了双向充电的功能。所谓“双向充电”，就是当作电池使用。用电低谷时，电网向汽车充电，用电高峰时，汽车反过来向电网供电。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052101.jpg)
 
 > - [微软](https://insights.dice.com/2020/05/21/microsoft-build-linux-gui-apps-coming-windows-10/)宣布，将在 Windows 上通过 Linux子系统（WSL）添加 Linux GUI 支持，即 Windows 原生支持 Linux 图形界面程序。这意味着，大部分 Linux 应用将可以在 Windows 运行。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052113.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052113.jpg)
 
 > - [迪斯尼乐园](https://www.theverge.com/2018/6/30/17517512/disney-robot-stunt-double-animatronic-superhero)从2018年开始研发特技机器人，可以表演类似超级英雄的空中跳跃和翻滚。下面的[演示视频](https://v.qq.com/x/page/o0972zwfxnb.html)让人感觉，使用机器人和机器动物的游乐园，已经不是很遥远的事情了。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052603.jpg)
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=o0972zwfxnb" allowFullScreen="true" width="600px" height="400px"></iframe>
 
 > - [瑞士最高法院](https://www.swissinfo.ch/eng/court-decision_companies-must-pay-share-of-rent-for-employees-working-from-home/45781126)裁定，如果雇主要求雇员在家工作，则必须为雇员支付一部分房租。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052605.jpg)
 
 ## 文章
 
@@ -148,7 +148,7 @@ X-37B 会利用太阳能板，将太空中捕获的太阳能以微波形式传�
 
 3、[JavaScript 的迷宫生成算法](https://medium.com/swlh/how-to-create-a-maze-with-javascript-36f3ad8eebc1)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052106.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052106.jpg)
 
 本文介绍如何用 JavaScript 生成一个迷宫，写得很容易懂，每一步都有示例。
 
@@ -176,7 +176,7 @@ Playwright 跟 Puppeeter 很像，也是一个浏览器自动化引擎，两者�
 
 1、[pose-animator](https://github.com/yemount/pose-animator)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052108.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052108.jpg)
 
 一个浏览器 JS 库，通过摄像头，实时捕捉用户的动作，生成 2D 动画。
 
@@ -194,13 +194,13 @@ Playwright 跟 Puppeeter 很像，也是一个浏览器自动化引擎，两者�
 
 5、[spotify-now-playing-on-github](https://github.com/flotwig/spotify-now-playing-on-github)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052201.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052201.jpg)
 
 一个在 GitHub 头像上展示该用户正在收听的 Spotify 曲目的工具。
 
 6、[LTUI](https://github.com/tboox/ltui)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052202.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052202.jpg)
 
 一个跨平台的命令行 UI 库，使用 Lua 编写。
 
@@ -210,7 +210,7 @@ Playwright 跟 Puppeeter 很像，也是一个浏览器自动化引擎，两者�
 
 8、[winget-cli](https://github.com/microsoft/winget-cli)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052203.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052203.jpg)
 
 微软官方的命令行 Windows 包管理工具，估计是为了从 Linux 和 macOS 系统抢夺开发者。不知道能否最终取代 Chocolatey。（[@jwenjian](https://github.com/ruanyf/weekly/issues/1255) 投稿）
 
@@ -220,13 +220,13 @@ Playwright 跟 Puppeeter 很像，也是一个浏览器自动化引擎，两者�
 
 10、[白描](https://web.baimiaoapp.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052204.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052204.jpg)
 
 一个在线的文字识别 OCR 服务，可以免费对图片和 PDF 文件进行文字识别。（[@ifrontend-xyz](https://github.com/ruanyf/weekly/issues/1263) 投稿）
 
 11、[vscode 微信读书插件](https://marketplace.visualstudio.com/items?itemName=goobyter.vscode-weixin-read)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052205.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052205.jpg)
 
 VS Code 编辑器里面的微信读书客户端。（[@goobyter](https://github.com/ruanyf/weekly/issues/1264) 投稿）
 
@@ -238,7 +238,7 @@ VS Code 编辑器里面的微信读书客户端。（[@goobyter](https://github.
 
 2、[PCB Hubs](https://pcbhubs.com/)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052110.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052110.jpg)
 
 一个电路板生产发包平台。用户上传电路图，不同的生产商会提供报价，用户选择一家进行下单生产。
 
@@ -259,7 +259,7 @@ VS Code 编辑器里面的微信读书客户端。（[@goobyter](https://github.
 
 下图是1623年传教士在中国制作的一个地球仪，本次也[上线](http://www.bl.uk/learning/timeline/item103044.html)了。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052404.jpg)
 
 ## 图片
 
@@ -267,25 +267,25 @@ VS Code 编辑器里面的微信读书客户端。（[@goobyter](https://github.
 
 考古学家在距今2000年前的庞培古城，发现了完善的古罗马供水系统，保存了大量阀门。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022503.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022503.jpg)
 
 很难想象，那时的人们就有城市自来水系统。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022504.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022504.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022505.jpg)
 
 2、[世界最常见的椅子](https://en.wikipedia.org/wiki/Monobloc_%28chair%29)
 
 世界最常见的椅子，是一种叫做 Monobloc 的塑料椅子。它是一种轻量级的聚丙烯椅子，一体成型，通常为白色。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022412.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022412.jpg)
 
 这种椅子在1970年代投入生产，由于没有申请专利，在全世界产生大量仿制品。仅在欧洲，就销出了接近10亿张，单单一家意大利制造商的年产量就超过一千万张。这张椅子的生产成本约为3.50美元，这使得它们在世界范围内都可以负担得起。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022413.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020022414.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022414.jpg)
 
 ## 文摘
 
@@ -305,7 +305,7 @@ VS Code 编辑器里面的微信读书客户端。（[@goobyter](https://github.
 
 白鲟（又名中华匙吻鲟，Chinese paddlefish）原生于中国长江，可以长到7公尺长，但自从2003年以后就没有目击纪录了。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020051809.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020051809.jpg)
 
 白鲟长着像剑一般的长喙，这个像吻的构造上长满了特殊的细胞，可侦测如甲壳动物之类的猎物。白鲟的分布范围很广，曾经遍及整个长江流域，甚至还会一路游到东海。
 
@@ -317,7 +317,7 @@ VS Code 编辑器里面的微信读书客户端。（[@goobyter](https://github.
 
 但当时仍有白鲟的目击记录，在一连串失败的圈养计划中也捕捞到了几条个体。2002年曾在南京捉到一条雌鱼，科学家也立刻采取紧急措施来保住它的命──但它还是在一个月后死亡。
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020051810.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020051810.jpg)
 
 2003年，中国水产科学研究所的危起伟和同事在宜宾附近意外捕获的一只白鲟身上打了追踪标签。他们放走了那条鱼，想看看它会游到哪里去，但没几个小时就收不到标签的讯号了。那是人类看到的最后一只活的白鲟。
 
@@ -331,7 +331,7 @@ VS Code 编辑器里面的微信读书客户端。（[@goobyter](https://github.
 
 -- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052002.png)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052002.png)
 
 2、
 
@@ -347,7 +347,7 @@ VS Code 编辑器里面的微信读书客户端。（[@goobyter](https://github.
 
 -- [Edsger Dijkstra](https://www.amazon.com/Computer-computers-astronomy-telescopes-Dijkstra/dp/1081903325)
 
-![](https://www.wangbase.com/blogimg/asset/202005/bg2020052112.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052112.jpg)
 
 4、
 
@@ -373,11 +373,11 @@ Cookie 许可的正确解决方案，应该是浏览器内置这个功能，而�
 
 2019年的本周：[第 58 期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html)
 
-![](https://www.wangbase.com/blogimg/asset/201905/bg2019053101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053101.jpg)
 
 2018年的本周：[第 6 期](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2019052502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2019052502.jpg)
 
 ## 订阅
 

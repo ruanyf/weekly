@@ -4,7 +4,7 @@
 
 本杂志开源（GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)），欢迎提交 issue，投稿或推荐你的项目。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110813.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110813.jpg)
 
 封面图：11月2日，印度首都新德里出现严重雾霾，PM 2.5 指数 AQI 达到900多。
 
@@ -14,7 +14,7 @@
 
 作者原来是一个外行，但是通过努力，进入了一家机器学习公司，现在发展得很好。他从自己的经历，得出一个观点： **就业要选择发展最快的行业**。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111413.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111413.jpg)
 
 > 停滞发展、或者缓慢发展的公司，完全是一个零和游戏。
 > 
@@ -42,13 +42,13 @@
 
 微信扫描下方二维码，就可以获取课程。 **本次免费名额有限，仅提供 499 份** ，感兴趣的读者抓紧扫码领取。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111301.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111301.jpg)
 
 ## 资讯
 
 1、[正在消失的加油站](https://www.houstonchronicle.com/business/energy/article/As-EVs-threaten-gas-stations-owners-turn-to-14291843.php)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100505.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100505.jpg)
 
 [美国电动汽车](https://www.houstonchronicle.com/business/energy/article/As-EVs-threaten-gas-stations-owners-turn-to-14291843.php)越来越多，传统的汽油车少了以后，加油站受到了影响，生意越来越清淡。不少加油站被迫改成亚马逊的包裹站（上图），或者快餐店。
 
@@ -56,13 +56,13 @@
 
 目前，美国加油站的数量已经在下降了，从1990年代的约20万家，减少到目前的约13.5万家。下面是未来的无人驾驶汽车充电站。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100506.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100506.jpg)
 
 2、[纸电话](https://experiments.withgoogle.com/paper-phone)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110304.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110305.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110305.jpg)
 
 手机变得越来越重要，使得人们无法离开它。即使你想少用手机，但是重要的事情都在上面，你不得不用。谷歌正在发起一个实验项目“纸电话”，尝试让人们少用手机。
 
@@ -70,7 +70,7 @@
 
 3、[钢筋混凝土建筑的寿命](https://www.economist.com/science-and-technology/2019/10/31/a-pair-of-australian-bridges-try-to-cure-concrete-cancer)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110401.jpg)
 
 现代建筑大量使用钢筋混凝土，这种建筑的寿命只有60年～100年。因为混凝土有裂缝，水会进入裂缝，使得钢筋生锈而膨胀，扩大了裂缝，削弱了混凝土的强度。现有的解决方案都很昂贵，比如不透水混凝土。
 
@@ -80,21 +80,21 @@
 
 4、[脑电波头环](http://www.sohu.com/a/351082299_698311)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110402.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110402.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110403.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110403.jpg)
 
 最近，美国媒体报道，浙江金华的一所小学为学生们配置了“脑机接口头环”，让学生戴在头上。据该媒体说，这款产品可以检测脑电波，评判学生上课、写作业时是否集中注意力。还会将结果实时传输到老师的电脑上，发到家长群里。
 
 该产品是深圳一家公司研发的，由投资人捐赠给该小学使用。这家深圳公司称，头环根本不是为了监控学生，而是帮助学生自我训练，集中注意力进行学习。它通过脑电波反馈，使得用户提高专注力，此前已经在美国波士顿地区的多所中学进行了运用，包括耶鲁大学的暑期班。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110404.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110404.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110405.jpg)
 
 5、[贴片显示器](https://www.technology.org/2019/11/04/a-stretchable-stopwatch-lights-up-human-skin/)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110501.jpg)
 
 南京大学的研究人员发明了一种薄型的发光贴片，可以贴在皮肤上，显示数字或图案。这对于运动员和跑步爱好者很有用，也可以当作临时纹身。
 
@@ -102,21 +102,21 @@
 
 6、[复制云冈石窟](http://www.sx.xinhuanet.com/2019-11/05/c_1125194843.htm)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110603.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110603.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110604.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110604.jpg)
 
 山西云冈石窟的第12窟2018年在深圳完成了3D打印，2019年11月完成了上色总装，将于12月底亮相浙江大学艺术与考古博物馆。
 
 第12窟又名“音乐窟”，建造于公元5世纪。前殿后室，入深14米、宽11米、高9米，石窟内部用立体雕刻的形式，记载了古代音乐人盛大演出场面。打印石窟与原石窟1比1复制，整个石窟体积超过2000立方米。里面的雕像都是打印出来的，但是需要人工上色。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110605.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110605.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110606.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110606.jpg)
 
 7、[为什么亚马逊不缴税？](https://www.vox.com/2019/2/20/18231742/amazon-federal-taxes-zero-corporate-income)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110901.jpg)
 
 亚马逊是美国最大的公司之一，2018年赢利110亿美元，但是一分钱所得税也没缴，而且完全合法。
 
@@ -136,19 +136,19 @@
 
 > - [一家好莱坞电影公司](https://www.latimes.com/entertainment-arts/movies/story/2019-11-07/james-dean-cgi-casting)决定明年开拍的新片，启用詹姆斯·迪恩（James Dean）作为男主角。詹姆斯·迪恩已在1954年车祸去世，明年他的表演将完全采用计算机图形生成。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110814.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110814.jpg)
 
 > - [水星凌日](https://photo.sina.cn/album_5_453_131250.htm?ch=5&hd=1&his=0&pos=108&vt=4)于11月11日发生，美洲可以看到水星经过太阳表面（下图的小黑点），亚洲本次看不见。下一次水星凌日将发生在2032年。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111211.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111211.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111212.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111212.jpg)
 
 > - [巴西](https://www.rollingstone.com/politics/politics-features/amazon-burning-bolsonaro-novo-progresso-deforestation-885114/)是全世界主要的牛肉和大豆出口国，为了把牛肉和大豆从内陆运出来，以及获得更大的种植基地，该国把亚马逊雨林变成耕地，并且在雨林地区修建公路。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100904.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100904.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100905.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100905.jpg)
 
 ## 文章
 
@@ -190,9 +190,9 @@ Timsort 是 Python、Java 等的默认排序算法，本文简要介绍这种算
 
 10、[如何估算银河系中的外星文明的数目？](https://medium.com/cantors-paradise/how-to-estimate-the-number-of-aliens-in-the-milky-way-3e9a43c17a5)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100902.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100902.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100903.png)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100903.png)
 
 1961年，美国天文学家弗兰克·德雷克（Frank Drake）提出一个方程，用于计算银河系中可能与地球发生无线电通信的外星文明数量，当时估计20个～5000万个之间。本文根据现在的数据计算，得出结果是46个。
 
@@ -200,7 +200,7 @@ Timsort 是 Python、Java 等的默认排序算法，本文简要介绍这种算
 
 1、[Apache Guacamole](https://guacamole.apache.org/)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100712.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100712.jpg)
 
 一个远程桌面网关，可以在浏览器中远程访问其他计算机的桌面。
 
@@ -222,13 +222,13 @@ Timsort 是 Python、Java 等的默认排序算法，本文简要介绍这种算
 
 6、[Shiori](https://github.com/go-shiori/shiori)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101013.jpg)
 
 Shiori 是一个自己架设服务的网址书签管理器，使用 Go 语言编写。
 
 7、[navi](https://github.com/denisidoro/navi)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101014.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101014.jpg)
 
 一个命令行的交互式备忘工具，你可以查阅某个命令的作用。
 
@@ -238,25 +238,25 @@ Shiori 是一个自己架设服务的网址书签管理器，使用 Go 语言编
 
 9、[诺基亚短信图片生成器](https://github.com/dcalsky/zzkia)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101405.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101405.jpg)
 
 这个工具可以生成老式诺基亚手机的短信图片。（@[dcalsky](https://github.com/ruanyf/weekly/issues/897) 投稿）
 
 10、[YaoYao - 跳绳](https://zhuanlan.zhihu.com/p/86306417)
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019101406.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101406.jpg)
 
 一个微信小程序，带着手机跳绳，可以自动计数跳了多少下。（@[haozes](https://github.com/ruanyf/weekly/issues/901) 投稿）
 
 11、[Basecamp 个人版](https://basecamp.com/personal)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111304.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111304.jpg)
 
 著名的项目管理软件 Basecamp 推出免费的个人版，此前都是要收费的。个人版最多一个项目可以有20个用户，对于小团队够用了。
 
 12、[GitHub Mobile](https://github.com/mobile)
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019111401.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111401.jpg)
 
 GitHub 首次发布官方的手机客户端，目前只有 iOS 的 App，安卓版将稍后发布。
 
@@ -288,41 +288,41 @@ Clojure 语言的在线教程。
 
 美国生物学家蒂姆·黄（Tim Wong）在后院饲养珍稀蝴蝶，他拍下了蝴蝶诞生的整个过程。蝴蝶成员产下红色的卵后，就会死去。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091608.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091608.jpg)
 
 卵孵化成毛毛虫。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091610.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091610.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091609.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091609.jpg)
 
 毛毛虫变成蛹，蛹变成蝴蝶。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091611.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091611.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019091612.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091612.jpg)
 
 2、[动物桥梁](https://mothership.sg/2019/06/eco-link-singapore-netherlands/)
 
 新加坡的高速公路上方，建有动物桥梁，方便动物通过。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092003.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092004.jpg)
 
 下图是另一座动物桥梁。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092006.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092006.jpg)
 
 荷兰是这种桥梁最多的国家，一共有30多座。
 
-![](https://www.wangbase.com/blogimg/asset/201909/bg2019092005.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092005.jpg)
 
 3、[死亡公路](https://www.polygon.com/2019/10/30/20938550/call-of-duty-modern-warfare-highway-of-death-controversy)
 
 1990年海湾战争，科威特城外的一条高速公路，炮火阻塞了2000多辆汽车。美军为了清出这条道路，摧毁了路上的每一辆车，将它们都推到路边。
 
-![](https://www.wangbase.com/blogimg/asset/201911/bg2019110101.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110101.jpg)
 
 ## 文摘
 
@@ -332,7 +332,7 @@ Clojure 语言的在线教程。
 
 卡德生于1912年，来自一个医生世家，他的父亲担任过精神病院的医生，所以他从小就了解精神病。他坚信，所有严重的精神疾病最终原因都是大脑的生化异常，而不是心理因素导致的，弗洛伊德的精神分析法是无用的。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100501.jpg)
 
 他做了一个实验，将躁狂症患者的尿液注射到豚鼠，结果豚鼠出现惊厥和死亡。他认为，躁狂症患者尿液中尿酸水平较高，导致豚鼠出现尿素中毒。
 
@@ -348,7 +348,7 @@ Clojure 语言的在线教程。
 
 锂元素的药用效果，其实早有应用。1929年，一种柠檬苏打水上市，被命名为 7 Up（中文名为七喜），成为流行的饮料。它含有镇静剂成分，后来发现镇静效果来自它包含的柠檬酸锂。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100502.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100502.jpg)
 
 1948年，7 Up 的生产商从饮料中去除了锂。后来，随着锂元素的效果被医学研究证实，以及人们发现，世界上锂使用量较高的地区自杀率较低，7 Up 又重新加入了锂。
 
@@ -356,7 +356,7 @@ Clojure 语言的在线教程。
 
 伊万·奇索夫（Ivan Chisov，1916–1986）是一个二战时期的苏联飞行员，从7000米高空自由落体下坠，却幸存下来。
 
-![](https://www.wangbase.com/blogimg/asset/201910/bg2019100508.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100508.jpg)
 
 1942年1月，一架德国空军的战斗机击中了奇索夫的轰炸机，迫使他在7000米的高空跳伞。
 
@@ -442,7 +442,7 @@ Clojure 语言的在线教程。
 
 去年的本周：[《周刊第 30 期》](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html)
 
-![](https://www.wangbase.com/blogimg/asset/201811/bg2018110901.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110901.jpg)
 
 ## 订阅
 

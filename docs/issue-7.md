@@ -2,7 +2,7 @@
 
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053001.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053001.jpg)
 
 （题图：海底都是矿泉水瓶。）
 
@@ -31,7 +31,7 @@
 
 3、[打印的卵巢](https://www.smithsonianmag.com/smart-news/functional-3d-printed-ovary-transplanted-mice-180963337/?no-ist)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053002.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053002.jpg)
 
 美国科学家使用3D打印机做出来的明胶卵巢，替换掉小白鼠的天然卵巢，结果居然有效。7只实验老鼠有3只产下了健康的后代。
 
@@ -45,7 +45,7 @@
 
 5、[章鱼可能是外星人](http://bgr.com/2018/05/17/octopus-aliens-cephalopods-research-study/)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053003.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053003.jpg)
 
 科学家称，章鱼（包括鱿鱼和乌贼）可能起源于地球以外的其他地方，因为章鱼的基因组非常复杂，与其他动物很不相同。
 
@@ -55,7 +55,7 @@
 
 6、[随身咖啡机](http://www.alphr.com/technology/1008859/makita-coffee-maker-drill-batteries)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053004.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053004.jpg)
 
 很多程序员和办公室人员都有喝咖啡的习惯。这导致咖啡机简直成了办公室必备品。现在看上去，那些不在办公室工作的人们，也越来越多地喝咖啡。
 
@@ -73,16 +73,16 @@
 
 [FrontJS](https://www.frontjs.com/?utm_source=ruanyf) 是蒲公英开发者服务平台旗下产品，蒲公英成立于2014年，旗下产品还有有蒲公英移动应用内测分发平台和Bug 管理平台 Tracup 。其中，内测分发平台在全球有160万注册开发者，共计上传了超过800万款 APP。
 
-[![蒲公英 - 高效安全的内测应用发布、管理平台.png](https://www.wangbase.com/blogimg/asset/201806/bg2018060601.jpg "")
+[![蒲公英 - 高效安全的内测应用发布、管理平台.png](https://cdn.beekka.com/blogimg/asset/201806/bg2018060601.jpg "")
 ](https://www.frontjs.com/?utm_source=ruanyf)
 
 [FrontJS](https://www.frontjs.com/?utm_source=ruanyf) 是一个前端错误的监控平台，可以监控 Web 和小程序页面的性能，以及收集异常信息。千万级访问量的数字货币交易平台火币网，就使用 [FrontJS](https://www.frontjs.com/?utm_source=ruanyf) 监控前端错误。下面就是它的 JS 异常监控页面，收集 console 中的 log / warn / error 的信息。
 
-[![](https://www.wangbase.com/blogimg/asset/201806/bg2018060602.jpg)](https://www.frontjs.com/?utm_source=ruanyf)
+[![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060602.jpg)](https://www.frontjs.com/?utm_source=ruanyf)
 
 它的一些主要特点：（1）提供API，可以对上报行为进行定制化的调整；（2）网络请求监控，收集 XHR 耗时、错误、超时、跨域等信息；（3）资源监控，收集加载失败的资源以及跨域资源的 URL；（4）堆栈追踪技术，精确获取更多异常上下文信息；（5）页面性能监控，包含 DNS 时间， DOM 渲染时间等信息，可以组合计算出首屏时间以及白屏时间； （6）事件流，可以了解异常发生时的上下文环境，帮助测试部门快速复现错误；（7）数据可视化工具，所有数据均可以重新组织并生成图表。
 
-[![](https://www.wangbase.com/blogimg/asset/201806/bg2018060603.jpg)](https://www.frontjs.com/)
+[![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060603.jpg)](https://www.frontjs.com/)
 
 欢迎大家使用 [FrontJS](https://www.frontjs.com/?utm_source=ruanyf)。向页面右下方客服说明来自阮一峰博客，可以获得50元代金券或延长10天的体验期。
 
@@ -118,7 +118,7 @@ Bash 脚本的语法远比编程语言宽松，你很容易写出难以阅读、
 
 8、[文章] [响应式表格的两种解法](http://lea.verou.me/2018/05/responsive-tables-revisited/)（英文）
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053008.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053008.jpg)
 
 手机怎么显示表格？常见的方法是将表格转为键值对。Lea Verou 给出了两种纯 CSS 的解法，不需要任何多余的 HTML 标签。
 
@@ -148,7 +148,7 @@ Bash 脚本的开源语法检查器。
 
 6、[Material-UI](https://github.com/mui-org/material-ui/releases/tag/v1.0.0)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053009.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053009.jpg)
 
 大家知道，谷歌的材质化组件（Material Design）是 Angular 专用的。社区维护的 React 移植版Material-UI，今天发布 1.0 版，已经完全可用了。以后，React 项目照样可以有官方安卓 UI 的那种材质化效果。
 
@@ -158,7 +158,7 @@ Bash 脚本的开源语法检查器。
 
 8、[libui](https://github.com/andlabs/libui)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053010.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053010.jpg)
 
 一个使用 C 语言写的 UI 组件库，具有很好的跨平台性，可以在不同的平台上获得相同的图形界面。
 
@@ -170,12 +170,12 @@ Bash 脚本的开源语法检查器。
 
 在那个没有PS的年代，迅哥儿凭着自己的才华和审美，几乎包揽了自己的作品以及各大杂志的封面和装帧设计。对于书籍封面，鲁迅最擅长的就是把各种字体玩出新花样，每一种在今天都足以让各大字库膜拜。
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053011.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053011.jpg)
 
 
 上图是《艺术论》的封面，书名用双线描字体，嵌入抽象几何图案的缺口，对应着本书"从艺术规律中"的用意。
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053012.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053012.jpg)
 
 上图是《而已集》的封面，由印刷体美术字再次突破，转变为自由美术体，更加灵动且古雅。
 
@@ -190,7 +190,7 @@ Bash 脚本的开源语法检查器。
 
 最近，谷歌[宣布](https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html)发布 Git 协议2.0版。我很奇怪，为什么是谷歌发布 Git 呢？一查才知道，Linus 早就不管了，现在是一个日本人滨野纯（Junio C Hamano）在维护 Git。他是谷歌员工，所以谷歌其实是 Git 背后的公司。
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053013.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053013.jpg)
 
 下面摘自滨野纯的访谈。
 
@@ -214,9 +214,9 @@ Bash 脚本的开源语法检查器。
 
 1、[伦敦心跳](http://tubeheartbeat.com/london/)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053014.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053014.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053015.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053015.jpg)
 
 《伦敦心跳》是一个很有意思的数据可视化作品。伦敦地铁的客流量用粗细表示，人流越多，线就越粗。
 
@@ -226,21 +226,21 @@ Bash 脚本的开源语法检查器。
 
 1、[Dribbble 的按钮](https://www.toptal.com/designers/ui/button-design-dribbble-timeline)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053016.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053016.jpg)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053017.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053017.jpg)
 
 有人回顾了过去八年，设计网站 Dribbble 主页按钮的变化。图一是2009年的按钮，图二是2017年的按钮。八年的图片放在一起，可以看到设计的趋势变得越来越简单和平面化。
 
 2、[npm install](https://twitter.com/brad_frost/status/996014341592961025)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053018.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053018.jpg)
 
 [@brad\_frost](https://twitter.com/brad_frost) 在推特说，上图的名字叫 npm install。意思就是说，如果你运行 npm install 命令，硬盘上就会多了一堆这样的东西。
 
 3、[@aichongk](https://twitter.com/aichongk)
 
-![](https://www.wangbase.com/blogimg/asset/201805/bg2018053019.jpg)
+![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053019.jpg)
 
 推特用户"爱宠客"（@aichongk）是晚期癌症病人，最近去世了。
 
@@ -256,7 +256,7 @@ Bash 脚本的开源语法检查器。
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-![image | left](https://www.wangbase.com/blogimg/asset/2018/bg2018042311.jpg "")
+![image | left](https://cdn.beekka.com/blogimg/asset/2018/bg2018042311.jpg "")
 
 （完）
 
