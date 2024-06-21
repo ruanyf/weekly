@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **六月**
 
+- 第 305 期：[随机数，这是一个问题](docs/issue-305.md)
 - 第 304 期：[最受欢迎的颜色](docs/issue-304.md)
 - 第 303 期：[技术封建主义](docs/issue-303.md)
 
