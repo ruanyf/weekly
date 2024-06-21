@@ -150,7 +150,7 @@ JavaScript 和许多其他语言，都有这个问题。所以，遇到特别强
 
 我怀疑，这种场景会变成现实。以后，付费用户正常使用，免费用户必须通过眼球监控，确保正在注视广告。
 
-1、[上网篮](https://globalvoices.org/2024/06/13/the-ingenious-network-tree-defying-gazas-connectivity-blockade/)
+4、[上网篮](https://globalvoices.org/2024/06/13/the-ingenious-network-tree-defying-gazas-connectivity-blockade/)
 
 加沙地区由于战争原因，互联网服务已经完全中断了。
 
@@ -368,7 +368,7 @@ Luma AI 视频生成器免费在线使用。（[@sunnyjingliu](https://github.co
 
 ## 文摘
 
-1、[编程语言应该有多大？](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
+1、[编程语言应该多大？](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 
 编程语言有小有大。
 
