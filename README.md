@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
+- 第 308 期：[工作找不到，博士能读吗？](docs/issue-308.md)
 - 第 307 期：[不要看重 Product Hunt](docs/issue-307.md)
 
 **六月**
