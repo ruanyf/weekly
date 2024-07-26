@@ -6,7 +6,7 @@
 
 > P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/4743)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
-## 如何搜索 
+## 如何搜索
 
 周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。
 
@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
+- 第 310 期：[内容农场的 AI 赚钱术](docs/issue-310.md)
 - 第 309 期：[无人驾驶出租车的双面刃](docs/issue-309.md)
 - 第 308 期：[工作找不到，博士能读吗？](docs/issue-308.md)
 - 第 307 期：[不要看重 Product Hunt](docs/issue-307.md)
