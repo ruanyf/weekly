@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **八月**
 
+- 第 312 期：[从英特尔看“美国制造”](docs/issue-312.md)
 - 第 311 期：[低利率与长期项目](docs/issue-311.md)
 
 **七月**
