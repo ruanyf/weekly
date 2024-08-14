@@ -94,7 +94,7 @@ AI 产品层出不穷，大家都在研究，怎么使用它们。
 
 （3）API 超市：提供不同模型的 [API 统一调用接口](https://apifox.com/apidoc/project-4012774)，都放在`api.302.ai`这个域名下面，通过参数`model`指定模型。它支持的 API 非常多，最新的视频生成模型 Luma AI 和 Runway 都是可用的。
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070814.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081411.webp)
 
 （4）工具超市：提供一些专门的 AI 功能，目前有几十个工具可选，比如 AI 搜索引擎、AI 翻译、提示词生成、老照片修复、照片放大、电商图片生成等等。
 
