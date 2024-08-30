@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **八月**
 
+- 第 315 期：[一份谷歌离职报告](docs/issue-315.md)
 - 第 314 期：[《黑神话：悟空》可以产业化吗？](docs/issue-314.md)
 - 第 313 期：[如果新加坡没有空调](docs/issue-313.md)
 - 第 312 期：[从英特尔看“美国制造”](docs/issue-312.md)
