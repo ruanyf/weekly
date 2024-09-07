@@ -270,7 +270,7 @@ neovim 编辑器的一个配置，直接帮你定制好了。
 
 2、[Immich](https://github.com/immich-app/immich)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071104.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090704.webp)
 
 3、[Ente](https://github.com/ente-io/ente)
 
