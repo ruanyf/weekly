@@ -10,7 +10,7 @@
 
 中国国家博物馆正在举办“巴黎圣母院展览”，来了四件雕塑原件。巴黎原址现在放的是，维修过程中替换的复制品。（[via](https://news.bjd.com.cn/2024/09/11/10898172.shtml)）
 
-## 驴子、老虎的狮子的寓言
+## 驴子、老虎和狮子的寓言
 
 本周看到一个很有趣的[寓言](https://philosophicsblog.wordpress.com/2022/06/30/lions-and-tigers-and-a-jackass/)，分享给大家。
 
