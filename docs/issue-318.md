@@ -182,7 +182,7 @@ Stripe 公司的创始人，分享自己招聘工程师的方式，有参考价�
 
 ![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082202.webp)
 
-使用 Node.js 时，取消异步草走（比如网络请求和文件系统读取）一直很棘手。本文教你怎么用 AbortController 做到这一点。
+使用 Node.js 时，取消异步操作（比如网络请求和文件系统读取）一直很棘手。本文教你怎么用 AbortController 做到这一点。
 
 ## 工具
 
