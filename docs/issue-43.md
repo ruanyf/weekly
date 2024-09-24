@@ -181,7 +181,7 @@ MIT 是常见的开源许可证，但是很多人并没有看过它的条文。�
 
 加州大学伯克莱分校以 SICP 为范本，使用 Python 3 语言解释编程原理的教程。  
 
-6、[SQLi Hall of of Shame](https://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
+6、[SQLi Hall of Shame](https://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
 
 该网站收集 SQL 注入的各种真实案例。
 
