@@ -50,7 +50,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081108.webp)
 
-再比如，Dropbox 的口号“简化你的生活”（Simplify your Life）也很差。
+再比如，Dropbox 的口号“简化你的生活”（Simplify your Life）。
 
 ![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081109.webp)
 
