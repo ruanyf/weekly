@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **十一月**
 
+- 第 326 期：[世界没有那么多财富](docs/issue-326.md)
 - 第 325 期：[VS Code 编辑器的下一站是 Zed？](docs/issue-325.md)
 - 第 324 期：[人类已知的最大质数](docs/issue-324.md)
 - 第 323 期：[技术公司的口号比拼](docs/issue-323.md)
