@@ -85,7 +85,7 @@ Rspack 团队为了保证兼容性，向 Webpack 官方仓库做了100多次提�
 ![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111004.webp)
 
 > - [Rsbuild](https://rsbuild.dev/zh/): 专注于构建 Web 应用。
-> - [Rslib](https://rspress.dev/zh/): 专注于构建 JS 软件包。
+> - [Rslib](https://lib.rsbuild.dev/zh/): 专注于构建 JS 软件包。
 > - [Rspress](https://rspress.dev/zh/)：专注于生成静态站点，比如文档和博客。
 > - [Rsdoctor](https://rsdoctor.dev/zh/)：专注于构建分析。
 
