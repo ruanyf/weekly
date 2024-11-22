@@ -407,13 +407,13 @@ AI 研究已经70年了，人们最近才发现，让 AI 成功的真正方法�
 
 ## 往年回顾
 
-[网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)（2023 #279）
+[网络社区的悲剧](https://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)（2023 #279）
 
-[手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)（2022 #229）
+[手机充电问题的解决](https://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)（2022 #229）
 
-[AR 技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)（2021 #179）
+[AR 技术的打开方式](https://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)（2021 #179）
 
-[创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html)（2020 #129）
+[创业的凸函数和凹函数](https://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html)（2020 #129）
 
 （完）
 
