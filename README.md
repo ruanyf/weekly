@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/5445)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/5610)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **十一月**
 
+- 第 327 期：[没有链接的互联网](docs/issue-327.md)
 - 第 326 期：[世界没有那么多财富](docs/issue-326.md)
 - 第 325 期：[VS Code 编辑器的下一站是 Zed？](docs/issue-325.md)
 - 第 324 期：[人类已知的最大质数](docs/issue-324.md)
