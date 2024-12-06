@@ -27,6 +27,10 @@ $ grep -nri css docs | cat --number
 ```
 ## 2024
 
+**十二月**
+
+- 第 328 期：[AI 模型不是一门好生意](docs/issue-328.md)
+
 **十一月**
 
 - 第 327 期：[没有链接的互联网](docs/issue-327.md)
