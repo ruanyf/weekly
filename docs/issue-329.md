@@ -46,15 +46,15 @@ A 只是节点名称，如果要定制节点的内容，就像下面这样写。
 
 接着，添加一个节点。
 
-> A: 甲 
+> A: 甲   
 > B: 乙
 
 ![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120603.webp)
 
 把它们连起来。
 
-> A: 甲 
-> B: 乙
+> A: 甲  
+> B: 乙  
 > A -> B
 
 ![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120604.webp)
@@ -63,17 +63,17 @@ A 只是节点名称，如果要定制节点的内容，就像下面这样写。
 
 箭头上还能添加文字。
 
-> A: 甲 
-> B: 乙
+> A: 甲  
+> B: 乙  
 > A -> B: 连接
 
 ![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120606.webp)
 
 节点之间可以有多根连线。
 
-> A: 甲
-> B: 乙
-> A -> B: 请求
+> A: 甲  
+> B: 乙  
+> A -> B: 请求  
 > A <- B: 响应
 
 ![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120609.webp)
@@ -84,7 +84,7 @@ A 只是节点名称，如果要定制节点的内容，就像下面这样写。
 
 ![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120610.webp)
 
-> 阶段一 -> 阶段二 -> 阶段三 -> 阶段四
+> 阶段一 -> 阶段二 -> 阶段三 -> 阶段四  
 > 阶段四 -> 阶段一: 反馈
 
 ![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120611.webp)
@@ -97,21 +97,21 @@ D2 可以绘制非常复杂的图，更多语法参考[文档](https://d2lang.co
 
 最后提一下，如果想修改节点形状，方框改成圆形，就像下面这样写。
 
-> A: 甲
+> A: 甲  
 > A.shape: circle
 
 ![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120607.webp)
 
 形状甚至可以改成一朵云，表示云服务。
 
-> A: 甲
+> A: 甲  
 > A.shape: cloud
 
 ![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120608.webp)
 
 线条颜色也可以改。
 
-> A: 甲
+> A: 甲  
 > A.style.stroke: red
 
 ![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120612.webp)
