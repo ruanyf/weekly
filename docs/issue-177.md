@@ -182,7 +182,7 @@
 
 网页的`<link>`和`<script>`标签有一个 integrity 属性，指定所加载内容的哈希值，防止被篡改。本文介绍这个属性的用法。（[@dreamapplehappy](https://github.com/ruanyf/weekly/issues/1964) 投稿）
 
-3、[最好的顶级域名](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com)（英文）
+3、[最好的顶级域名](https://slc.is/posts/tlds.html)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021083113.jpg)
 
