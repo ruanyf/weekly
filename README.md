@@ -29,6 +29,7 @@ $ grep -nri css docs | cat --number
 
 **十二月**
 
+- 第 330 期：[李开复梳理人工智能](docs/issue-330.md)
 - 第 329 期：[示意图利器 D2](docs/issue-329.md)
 - 第 328 期：[AI 模型不是一门好生意](docs/issue-328.md)
 
