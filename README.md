@@ -25,6 +25,13 @@ $ grep -nri [搜索词] docs | cat --number
 ```bash
 $ grep -nri css docs | cat --number
 ```
+
+## 2025
+
+**一月**
+
+- 第 332 期：[西蒙·威利森的年终总结，梁文锋的访谈](docs/issue-332.md)
+
 ## 2024
 
 **十二月**
