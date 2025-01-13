@@ -18,12 +18,18 @@
 
 ```bash
 $ grep -nri [搜索词] docs | cat --number
+
+# on macos(macos使用单横线选项)
+$ grep -nri [搜索词] docs | cat -n
 ```
 
 比如，搜索 CSS 相关内容。
 
 ```bash
 $ grep -nri css docs | cat --number
+
+# on macos
+$ grep -nri css docs | cat -n
 ```
 
 ## 2025
