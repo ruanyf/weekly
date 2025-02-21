@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **二月**
 
+- 第 338 期：[重新思考 6G](docs/issue-338.md)
 - 第 337 期：[互联网创业几乎没了](docs/issue-337.md)
 - 第 336 期：[面对 AI，互联网正在衰落](docs/issue-336.md)
 
