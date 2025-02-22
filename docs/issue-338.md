@@ -302,21 +302,21 @@ AI 深度研究的前端 UI，可以接入各种大模型，结合搜索引擎�
 
 ## 图片
 
-1、[饼图与直方图](https://perthirtysix.com/visualizing-data-is-an-art)
+1、[饼图与柱状图](https://perthirtysix.com/visualizing-data-is-an-art)
 
-同样的百分比数据，分别使用饼图和直方图表示，可读性不一样。
+同样的百分比数据，分别使用饼图和柱状图表示，可读性不一样。
 
 首先是饼图。
 
 ![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021601.webp)
 
-其次是直方图。
+其次是柱状图。
 
 ![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021602.webp)
 
 大家觉得，哪张图更易读？
 
-一般来说，直方图更易读，饼图比较难读。原因是人类比较长度的能力远强于比较角度的能力。
+一般来说，柱状图更易读，饼图比较难读。原因是人类比较长度的能力远强于比较角度的能力。
 
 2、[瑞士护照](https://www.swissinfo.ch/chi/politics/%E6%96%B0%E7%89%88%E7%91%9E%E5%A3%AB%E6%8A%A4%E7%85%A7%E4%B8%8A%E6%9E%B6/48023134)
 
