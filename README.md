@@ -28,6 +28,10 @@ $ grep -nri css docs | cat --number
 
 ## 2025
 
+**三月**
+
+- 第 340 期：[技术炒作三十年](docs/issue-340.md)
+
 **二月**
 
 - 第 339 期：[代币是什么](docs/issue-339.md)
