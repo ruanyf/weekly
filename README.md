@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **三月**
 
+- 第 343 期：[如何阻止 AI 爬虫](docs/issue-343.md)
 - 第 342 期：[面试的 AI 作弊——用数字人去面试](docs/issue-342.md)
 - 第 341 期：[低代码编程，恐怕不会成功](docs/issue-341.md)
 - 第 340 期：[技术炒作三十年](docs/issue-340.md)
