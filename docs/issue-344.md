@@ -112,7 +112,7 @@
 
 7、Mozilla 推出类似 Gmail 的邮件服务 [ThunderMail](https://thundermail.com/)。
 
-8、[Spotify CEO](https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/) 规定，招聘员工之前，必须先证明该岗位无法用 AI 替代。
+8、[Shopify CEO](https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/) 规定，招聘员工之前，必须先证明该岗位无法用 AI 替代。
 
 ## 文章
 
