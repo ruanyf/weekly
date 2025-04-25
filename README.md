@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **四月**
 
+- 第 346 期：[未来就是永恒感的丧失](docs/issue-346.md)
 - 第 345 期：[HDMI 2.2 影音可能到头了](docs/issue-345.md)
 - 第 344 期：[制造业正在“零工化”](docs/issue-344.md)
 
