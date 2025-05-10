@@ -106,7 +106,7 @@ Instagram 最早只是一个照片滤镜 App，根本留不住用户，人们用
 
 ![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050119.webp)
 
-它的一个亮点是，可以[控制 Meat 的智能眼镜](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)，允许你从眼镜上调用 AI。
+它的一个亮点是，可以[控制 Meta 的智能眼镜](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)，允许你从眼镜上调用 AI。
 
 （2）一支法国研究团队，准备把鲈鱼胚胎（下图）送上月球，检验[月球养鱼](https://www.theguardian.com/environment/2025/apr/28/sea-bass-in-space-lunar-hatch-fish-farms-moon-aquaculture)的可行性。
 
