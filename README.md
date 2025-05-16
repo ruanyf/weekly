@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **五月**
 
+- 第 348 期：[李飞飞，从移民到 AI 明星](docs/issue-348.md)
 - 第 347 期：[冷启动的破解之道](docs/issue-347.md)
 
 **四月**
