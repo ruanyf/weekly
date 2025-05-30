@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **五月**
 
+- 第 350 期：[Java 三十周年](docs/issue-350.md)
 - 第 349 期：[神经网络算法的发明者](docs/issue-349.md)
 - 第 348 期：[李飞飞，从移民到 AI 明星](docs/issue-348.md)
 - 第 347 期：[冷启动的破解之道](docs/issue-347.md)
