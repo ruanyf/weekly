@@ -312,7 +312,7 @@ Reddit 热门帖子聚合网站，可以指定多个频道。（[@zhangchenchen]
 
 ![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060307.webp)
 
-1、[ChatGPT 的散文能力](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion)
+2、[ChatGPT 的散文能力](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion)
 
 一位美国用户让 ChatGPT 用文学语言，描述纽约的生活。
 
