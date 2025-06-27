@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **六月**
 
+- 第 354 期：[8000mAh 手机电池，说明了什么？](docs/issue-354.md)
 - 第 353 期：[苹果的“液态玻璃”是为了 AR](docs/issue-353.md)
 - 第 352 期：[Bug 追踪系统的正确样子](docs/issue-352.md)
 - 第 351 期：[GitHub Issues（几乎）是最好的笔记应用](docs/issue-351.md)
