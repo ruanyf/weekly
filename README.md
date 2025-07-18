@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **七月**
 
+- 第 357 期：[稳定币的博弈](docs/issue-357.md)
 - 第 356 期：[公司强推 AI 编程，我该怎么办](docs/issue-356.md)
 - 第 355 期：[两本《芯片战争》](docs/issue-355.md)
 
