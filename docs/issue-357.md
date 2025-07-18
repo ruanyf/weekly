@@ -192,7 +192,7 @@ Chrome 浏览器的137版本，开始支持 CSS 的条件语句—— if() 函�
 
 开源的视频编辑软件，目标是成为剪映的替代品，目前只有 Web 版。
 
-5、[Toodoo](https://apps.apple.com/cn/app/id6736378337)
+5、[Tooboo](https://apps.apple.com/cn/app/id6736378337)
 
 ![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071402.webp)
 
