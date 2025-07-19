@@ -124,7 +124,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062901.webp)
 
-JS 语法标准发布了2025版，本文罗列了今年的7个新增语法。
+JS 语法标准发布了2025版，本文罗列了今年的8个新增语法。
 
 3、[2010年江西高考理科数学压轴题](https://github.com/ruanyf/weekly/issues/7184)（中文）
 
