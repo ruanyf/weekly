@@ -28,6 +28,10 @@ $ grep -nri css docs | cat --number
 
 ## 2025
 
+**八月**
+
+- 第 359 期：[Palantir 值得关注](docs/issue-359.md)
+
 **七月**
 
 - 第 358 期：[如何拯救一家濒临倒闭的创业公司](docs/issue-358.md)
