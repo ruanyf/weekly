@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **八月**
 
+- 第 360 期：[Dan Wang 的新书](docs/issue-360.md)
 - 第 359 期：[Palantir 值得关注](docs/issue-359.md)
 
 **七月**
