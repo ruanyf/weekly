@@ -30,6 +30,7 @@ $ grep -nri css docs | cat --number
 
 **八月**
 
+- 第 363 期：[最好懂的神经网络解释](docs/issue-363.md)
 - 第 362 期：[GitHub 工程师谈系统设计](docs/issue-362.md)
 - 第 361 期：[暗网 Tor 安全吗](docs/issue-361.md)
 - 第 360 期：[Dan Wang 的新书](docs/issue-360.md)
