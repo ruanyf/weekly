@@ -12,7 +12,7 @@
 
 ## 流量变现正在崩塌
 
-上周，Cloudflare 创始人兼 CEO 马修·普林斯(Matthew Prince)，上周接受了[访谈](https://stratechery.com/2025/an-interview-with-cloudflare-founder-and-ceo-matthew-prince-about-internet-history-and-pay-per-crawl/)。
+上周，Cloudflare 创始人兼 CEO 马修·普林斯（Matthew Prince）接受了[访谈](https://stratechery.com/2025/an-interview-with-cloudflare-founder-and-ceo-matthew-prince-about-internet-history-and-pay-per-crawl/)。
 
 ![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091002.webp)
 
