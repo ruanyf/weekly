@@ -226,7 +226,7 @@ AI 剪辑也可以，剪了十年的非常优秀剪辑师，AI 绝对能在两�
 
 2、上周诞生了第一位[把加密货币写入小说](https://decrypt.co/344099/nobel-laureate-story-crypto-best-proof-money-virtual)的诺贝尔文学奖得主。
 
-今年的诺贝尔文件奖授予了匈牙利小说家拉斯洛·克拉斯纳霍凯（László Krasznahorkai）。他在得奖前几周，发表了一篇短篇小说。
+今年的诺贝尔文学奖授予了匈牙利小说家拉斯洛·克拉斯纳霍凯（László Krasznahorkai）。他在得奖前几周，发表了一篇短篇小说。
 
 ![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101401.webp)
 
