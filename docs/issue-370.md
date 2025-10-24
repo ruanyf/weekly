@@ -155,13 +155,13 @@ NetNewsWire 是一个桌面的 RSS 阅读器，总是有人要求作者，将其
 
 它的奇妙之处是，打乱后还可以用逆运算，将字符串还原，从而使得这种算法很适合用来压缩文本。
 
-1、[屏幕截图的不可见注入](https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/)
+6、[屏幕截图的不可见注入](https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102307.webp)
 
 越来越多的公司推出了自己的 AI 浏览器，它通过截图阅读屏幕。现在已经出现在屏幕嵌入人眼不可见、但机器可见的文本，进行模型注入，让模型执行恶意操作（上图）。
 
-1、[Unicode 隐形字符的病毒](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)（英文）
+7、[Unicode 隐形字符的病毒](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102308.webp)
 
