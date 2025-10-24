@@ -71,7 +71,7 @@
 
 总结就是一句话，如果你使用[我的推广链接](https://s.qiniu.com/JrUbmm)去注册（下图），你会得到免费的 300万 + 1000万 Token。然后，你生成自己的推广链接，每邀请一位好友，就再多 500万 Token。
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102402.webp)
 
 ## 科技动态
 
