@@ -150,9 +150,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110611.webp)
 
-4、
-
-Windows 系统的“关机”菜单里面，有一个“[更新并关机](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)”选项，大家可能都用过。
+4、Windows 系统的“关机”菜单里面，有一个“[更新并关机](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)”选项，大家可能都用过。
 
 ![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110402.webp)
 
