@@ -262,7 +262,7 @@ Markdown 语法解析库 markdown-it 的 TypeScript 重写。（[@Simon-He95](ht
 
 ![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111009.webp)
 
-一个学习目录的 AI 插件，支持 IDEA 和 VS Code，代码开源，用于这类 AI 编程助手的开发教学。（[@voidmuse-dev](https://github.com/ruanyf/weekly/issues/8142) 投稿）
+一个学习目的的 AI 插件，支持 IDEA 和 VS Code，代码开源，用于这类 AI 编程助手的开发教学。（[@voidmuse-dev](https://github.com/ruanyf/weekly/issues/8142) 投稿）
 
 3、[UPage](https://github.com/halo-dev/upage)
 
