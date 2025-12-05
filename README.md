@@ -4,7 +4,7 @@
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/8003)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/8332)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
 
 ## 赞助商
 
@@ -19,6 +19,10 @@
 </div>
 
 ## 2025
+
+**十二月**
+
+- 第 376 期：[太空数据中心的争议](docs/issue-376.md)
 
 **十一月**
 
