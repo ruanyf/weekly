@@ -286,7 +286,7 @@ React 调试工具，以 Vite/Webpack 插件形式提供，一键即可在浏览
 
 这个仓库收集了30多个详细的 Gemini CLI 的用法和技巧介绍。
 
-3、[20025年 CSS 进展](https://chrome.dev/css-wrapped-2025/)
+3、[2025年 CSS 进展](https://chrome.dev/css-wrapped-2025/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121001.webp)
 
