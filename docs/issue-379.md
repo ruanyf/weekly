@@ -210,8 +210,7 @@ GitHub Actions 有一个 self-hosted runner 功能，让 action 运行在你自�
 
 作者提出，Linux 系统的`/tmp`目录用起来很方便，完全可以把它当作自己的临时性目录。
 
-
-1、[中国的清洁能源战略](https://www.nytimes.com/interactive/2025/12/17/climate/china-hefei-clean-energy-drones-evs-robots.html?unlocked_article_code=1.908.V2KI.2TVQIVO9bylU)（英文）
+6、[中国的清洁能源战略](https://www.nytimes.com/interactive/2025/12/17/climate/china-hefei-clean-energy-drones-evs-robots.html?unlocked_article_code=1.908.V2KI.2TVQIVO9bylU)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122506.webp)
 
