@@ -6,18 +6,6 @@
 
 > P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/8332)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
 
-## 赞助商
-
-<div align="center">
-<a href="https://go.warp.dev/weekly" target="_blank">
-<img alt="Warp sponsorship" width="400" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true">
-<br>
-<h>Warp 专为 AI 代理编码而构建</b>
-<br>
-<sup>支持 macOS, Linux 和 Windows</sup>
-</a>
-</div>
-
 ## 2025
 
 **十二月**
