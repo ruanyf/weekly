@@ -4,7 +4,13 @@
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/8332)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/8591)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
+
+## 2026
+
+**一月**
+
+- 第 380 期：[为什么人们拥抱“不对称收益”](docs/issue-380.md)
 
 ## 2025
 
