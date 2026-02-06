@@ -88,7 +88,7 @@ AI 对这些软件公司不是促进，而是冲击。
 
 3、[互联网最科幻的地方](https://simonwillison.net/2026/Jan/30/moltbook/)
 
-[Meltbook.com](https://www.moltbook.com/) 上线不过两周，已经公认是互联网上现在[最有趣的地方](https://simonwillison.net/2026/jan/30/moltbook/)。
+[Moltbook.com](https://www.moltbook.com/) 上线不过两周，已经公认是互联网上现在[最有趣的地方](https://simonwillison.net/2026/jan/30/moltbook/)。
 
 ![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013108.webp)
 
@@ -274,7 +274,7 @@ Youtube 作为世界最大的视频网站，自从2005年上线后，播放器�
 
 可以看到，总的趋势是，功能在不断增加，而图标变得越来越简洁。
 
-1、[罗马12面体](https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries)
+2、[罗马12面体](https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries)
 
 从18世纪开始，欧洲陆续出土了120多个罗马的12面体。
 
