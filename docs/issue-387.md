@@ -34,7 +34,7 @@
 
 火爆到什么程度？
 
-四个月的时间，它在 GitHub 得到了25万颗星星，超过了 React，成为有史以来[星星最多的软件项目](https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software)。
+四个月的时间，它在 GitHub 得到了25万颗星星，超过了 React，成为有史以来[星星最多的非聚合类软件项目](https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software)。
 
 要知道这些星星，React 用了13年，它只用4个月。
 
