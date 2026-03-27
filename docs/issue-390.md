@@ -82,7 +82,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032006.webp)
 
-它还包含一块可充电电池，可以通过 Type C 充电。
+它还包含一块可充电电池，可以通过 Type-C 充电。
 
 ![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032007.webp)
 
