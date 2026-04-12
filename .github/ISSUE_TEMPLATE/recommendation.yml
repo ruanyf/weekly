@@ -1,0 +1,65 @@
+name: "🚀 投稿 / 推荐 (Submit a Recommendation)"
+description: "自荐或推荐开源项目、实用工具、优秀文章、好玩网站等"
+title: "【分类】项目或文章名称"
+labels: ["pending review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你的分享！《科技爱好者周刊》记录每周值得分享的科技内容。
+        为了让读者更好地了解你的推荐，请尽可能提供详尽、准确的信息。
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类 (Category)
+      description: 请选择你推荐的内容属于哪个类别
+      options:
+        - 🌟 开源项目 (Open Source)
+        - 🛠️ 网站 / 工具 (Website / Tool)
+        - 📄 文章 / 教程 (Article / Tutorial)
+        - 💡 其他 (Others)
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: 项目/文章名称 (Name)
+      description: 推荐内容的名称
+      placeholder: 例如：科技爱好者周刊
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 链接地址 (URL)
+      description: 项目主页、文章阅读地址或工具下载链接
+      placeholder: 例如：https://github.com/ruanyf/weekly
+    validations:
+      required: true
+  - type: textarea
+    id: short_desc
+    attributes:
+      label: 一句话简介 (Short Description)
+      description: 请用简短明了的一句话概括这是什么
+      placeholder: 例如：一个记录每周值得分享的科技内容的开源项目。
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 详细介绍与推荐理由 (Details & Reason)
+      description: 请详细介绍它的主要功能、解决了什么痛点，或者有哪些有趣的特点？
+      placeholder: |-
+        主要特点：
+        - 
+        - 
+        推荐理由：
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 截图展示 (Screenshots)
+      description: 如果是软件、网站或工具，非常建议上传几张截图直观展示。（可以直接将图片拖拽到此输入框内）
+    validations:
+      required: false
