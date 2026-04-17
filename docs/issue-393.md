@@ -138,7 +138,7 @@ Chrome 官方宣布，支持在 Gemini 插件里面使用技能（skill），也
 
 作者记录在家里自制可乐的过程，原来包含那么多化学品。
 
-1、[关于索引，你不知道的事](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)（英文）
+7、[关于索引，你不知道的事](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041603.webp)
 
