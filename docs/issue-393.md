@@ -158,7 +158,7 @@ Chrome 官方宣布，支持在 Gemini 插件里面使用技能（skill），也
 
 一个著名的老牌手机应用（支持 iPhone 和安卓），提供各种手机传感器的应用界面，由德国亚琛工业大学开发。
 
-3、[Material You NewTab](https://github.com/XengShi/materialYouNewTab)
+3、[Material You NewTab](https://github.com/prem-k-r/materialYouNewTab)
 
 ![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100501.webp)
 
