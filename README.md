@@ -10,6 +10,7 @@
 
 **四月**
 
+- 第 394 期：[第二次 API 开放浪潮](docs/issue-394.md)
 - 第 393 期：[脑腐状态](docs/issue-393.md)
 - 第 392 期：[axios 投毒与好莱坞式骗术](docs/issue-392.md)
 - 第 391 期：[AI 的贫富分化](docs/issue-391.md)
