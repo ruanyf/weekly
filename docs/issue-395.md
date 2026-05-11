@@ -222,6 +222,12 @@ ASS 字幕字体嵌入的网页工具，可以减少字幕文件的体积。（[
 
 macOS 的新版移除了 Launchpad，新的界面很难用，这是它的开源替代品。（[@meichiny](https://github.com/ruanyf/weekly/issues/9862) 投稿）
 
+11、[mnml.ai](https://mnml.ai)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026050801.webp)
+
+一个 AI 驱动的建筑渲染平台，可以将草图、3D 模型和照片转换为逼真的渲染图。拥有 12+ 个专业工具，支持室内外设计、景观设计、视频动画等，可生成 40+ 种建筑风格的效果图。已被全球 230 万+ 建筑师使用，包括哈佛、耶鲁、加州大学洛杉矶分校等顶级高校。
+
 ## AI 相关
 
 1、[SpineDigest](https://github.com/oomol-lab/spinedigest)
