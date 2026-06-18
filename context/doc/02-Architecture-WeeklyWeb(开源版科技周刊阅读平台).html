@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>Weekly Web 架构设计文档 V1.0</title>
+  <style>
+    body {
+      max-width: 960px;
+      margin: 40px auto;
+      padding: 0 24px 48px;
+      color: #1f2937;
+      background: #f8fafc;
+      font: 16px/1.75 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    h1,
+    h2,
+    h3 {
+      color: #111827;
+      line-height: 1.35;
+    }
+
+    h1 {
+      margin-bottom: 32px;
+      padding-bottom: 16px;
+      border-bottom: 3px solid #2563eb;
+      font-size: 32px;
+    }
+
+    h2 {
+      margin-top: 40px;
+      padding-left: 12px;
+      border-left: 4px solid #2563eb;
+      font-size: 24px;
+    }
+
+    h3 {
+      margin-top: 28px;
+      font-size: 20px;
+    }
+
+    p,
+    ul,
+    table,
+    pre {
+      margin: 12px 0;
+    }
+
+    ul {
+      padding-left: 24px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+    }
+
+    th,
+    td {
+      padding: 10px 12px;
+      border: 1px solid #d1d5db;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      width: 180px;
+      background: #eff6ff;
+    }
+
+    pre {
+      overflow-x: auto;
+      padding: 16px;
+      border-radius: 8px;
+      background: #111827;
+      color: #e5e7eb;
+    }
+
+    code {
+      padding: 2px 5px;
+      border-radius: 4px;
+      background: #e5e7eb;
+      color: #111827;
+    }
+
+    @media (max-width: 640px) {
+      body {
+        margin: 20px auto;
+        padding: 0 16px 32px;
+        font-size: 15px;
+      }
+
+      h1 {
+        font-size: 26px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<h1>Weekly Web 架构设计文档 V1.0</h1>
+
+<h2>1. 文档信息</h2>
+<table>
+  <tr>
+    <th>项目名称</th>
+    <td>Weekly Web</td>
+  </tr>
+  <tr>
+    <th>项目定位</th>
+    <td>基于 ruanyf/weekly Markdown 内容的开源科技周刊阅读平台</td>
+  </tr>
+  <tr>
+    <th>对应 PRD</th>
+    <td>Weekly Web 产品需求文档（PRD）V1.0</td>
+  </tr>
+  <tr>
+    <th>核心技术栈</th>
+    <td>Next.js 全栈、PostgreSQL、GitHub Actions</td>
+  </tr>
+  <tr>
+    <th>版本</th>
+    <td>V1.0</td>
+  </tr>
+</table>
+
+<h2>2. 架构目标</h2>
+<ul>
+  <li>支持全部历史周刊的 Web 阅读、目录导航、章节定位和响应式展示。</li>
+  <li>支持全文搜索、搜索结果定位和关键词高亮。</li>
+  <li>支持用户收藏、阅读进度、阅读历史和主题偏好。</li>
+  <li>保持内容源简单可靠：周刊正文继续来自仓库 Markdown 文件。</li>
+  <li>通过 GitHub Actions 完成自动检查、构建和部署。</li>
+</ul>
+
+<h2>3. 架构边界</h2>
+<ul>
+  <li>V1 不建设后台 CMS，不提供在线编辑周刊正文。</li>
+  <li>V1 不把周刊正文、章节、图片、外链、标签作为主数据写入 PostgreSQL。</li>
+  <li>PostgreSQL 只保存用户态数据：用户、收藏、阅读进度、阅读历史、主题偏好。</li>
+  <li>内容元信息、页面标签、分类和搜索索引都由 Markdown 构建期解析生成。</li>
+  <li>V1 搜索使用构建期 <code>search-index.json</code> + <code>Fuse.js</code> + Next.js 服务端搜索，不引入 Elasticsearch、Meilisearch 或 PostgreSQL 全文检索。</li>
+  <li>评论、RSS、纠错反馈、AI 问答、推荐系统、会员和付费能力不进入 V1。</li>
+</ul>
+
+<h2>4. 总体架构</h2>
+<pre>GitHub Repository
+├── docs/issue-*.md              周刊 Markdown 内容源
+├── Next.js App Router           页面渲染、路由、API
+├── Markdown Parser              构建期解析正文、标题、目录、条目
+├── Search Index Builder         构建全文搜索索引
+├── PostgreSQL                   用户、收藏、进度、历史、偏好
+└── GitHub Actions               检查、构建、部署
+
+Browser
+├── 首页 / 周刊列表
+├── 周刊详情页
+├── 搜索页
+└── 用户中心
+
+Next.js Server
+├── Server Components / SSG      读取构建产物并渲染页面
+├── Route Handlers               收藏、进度、历史、偏好 API
+└── Auth                         登录态与用户身份
+
+PostgreSQL
+├── users
+├── favorites
+├── reading_progress
+├── reading_history
+└── user_settings</pre>
+
+<h2>5. 架构决策</h2>
+<table>
+  <tr>
+    <th>问题</th>
+    <th>V1 决策</th>
+    <th>原因</th>
+  </tr>
+  <tr>
+    <td>周刊正文是否入库</td>
+    <td>不入库，继续以 Markdown 文件为内容源。</td>
+    <td>当前内容已经由 Git 管理，入库会增加同步、迁移和一致性成本。</td>
+  </tr>
+  <tr>
+    <td>页面标签是否入库</td>
+    <td>不入库，由构建期解析生成。</td>
+    <td>V1 没有人工运营标签，自动标签作为展示和筛选字段即可。</td>
+  </tr>
+  <tr>
+    <td>搜索技术</td>
+    <td><code>search-index.json</code> + <code>Fuse.js</code> + Next.js 服务端搜索。</td>
+    <td>约 400 篇 Markdown 数据量小，Fuse.js 足够支持关键词、模糊匹配和结果排序。</td>
+  </tr>
+  <tr>
+    <td>数据库职责</td>
+    <td>只保存用户态数据。</td>
+    <td>用户数据需要持久化和登录态隔离，内容数据不需要。</td>
+  </tr>
+  <tr>
+    <td>登录方式</td>
+    <td>V1 只支持 GitHub 和 LinuxDo 登录。</td>
+    <td>登录能力仅用于区分游客和登录用户，并同步用户态数据。</td>
+  </tr>
+  <tr>
+    <td>部署方式</td>
+    <td>GitHub Actions 负责检查、构建和部署。</td>
+    <td>内容和代码都在 GitHub，CI/CD 路径短。</td>
+  </tr>
+</table>
+
+<h2>6. 技术选型</h2>
+<table>
+  <tr>
+    <th>层级</th>
+    <th>选型</th>
+    <th>说明</th>
+  </tr>
+  <tr>
+    <td>前后端框架</td>
+    <td>Next.js App Router</td>
+    <td>同一项目内完成页面、API、服务端渲染和静态生成。</td>
+  </tr>
+  <tr>
+    <td>数据库</td>
+    <td>PostgreSQL</td>
+    <td>保存用户相关数据，不保存周刊正文主数据。</td>
+  </tr>
+  <tr>
+    <td>内容源</td>
+    <td>Markdown 文件</td>
+    <td>直接复用现有 <code>docs/issue-*.md</code>，降低同步和迁移复杂度。</td>
+  </tr>
+  <tr>
+    <td>搜索</td>
+    <td>构建期搜索索引 + <code>Fuse.js</code></td>
+    <td>V1 数据量较小，使用 Fuse.js 查询构建期索引，暂不上独立搜索服务。</td>
+  </tr>
+  <tr>
+    <td>部署</td>
+    <td>GitHub Actions</td>
+    <td>在推送或合并后执行检查、构建和部署。</td>
+  </tr>
+</table>
+
+<h2>7. 内容处理流程</h2>
+<pre>docs/issue-*.md
+  ↓
+扫描文件名，提取期号
+  ↓
+解析 Markdown front matter 或正文标题
+  ↓
+提取标题、封面图、章节标题、正文文本、外链、图片
+  ↓
+生成内容清单 issues.json
+  ↓
+生成每期渲染数据 issue-&lt;number&gt;.json
+  ↓
+生成搜索索引 search-index.json
+  ↓
+生成标签和分类 tags.json
+  ↓
+Next.js 页面读取构建产物渲染</pre>
+
+<ul>
+  <li><code>README.md</code> 可作为首页年份分组的参考，但不应成为唯一数据源。</li>
+  <li>详情页根据期号读取对应 Markdown 解析产物。</li>
+  <li>目录由 Markdown 二级、三级标题自动生成。</li>
+  <li>外链统一设置新标签页打开，避免打断阅读进度。</li>
+</ul>
+
+<h2>8. 标签与分类策略</h2>
+<ul>
+  <li>V1 不提供人工标签后台，不维护标签表。</li>
+  <li>页面标签来自构建期派生，包括年份、期号、章节类型和关键词规则。</li>
+  <li>章节类型优先使用周刊内已有标题，例如 <code>文章</code>、<code>工具</code>、<code>AI 相关</code>、<code>资源</code>、<code>图片</code>、<code>文摘</code>、<code>言论</code>。</li>
+  <li>关键词标签只用于展示和筛选，不作为权限、推荐或运营配置依据。</li>
+  <li>如果后续需要人工精选专题，再新增 <code>collections</code> 或 <code>tag_overrides</code> 配置文件，而不是直接改数据库结构。</li>
+</ul>
+
+<h2>9. 页面与路由</h2>
+<table>
+  <tr>
+    <th>路由</th>
+    <th>页面</th>
+    <th>数据来源</th>
+  </tr>
+  <tr>
+    <td><code>/</code></td>
+    <td>首页、最新一期、年份筛选、搜索入口</td>
+    <td><code>issues.json</code></td>
+  </tr>
+  <tr>
+    <td><code>/issues/[number]</code></td>
+    <td>周刊详情、目录、章节定位、阅读进度</td>
+    <td><code>issue-&lt;number&gt;.json</code> + 用户进度</td>
+  </tr>
+  <tr>
+    <td><code>/search</code></td>
+    <td>全文搜索、结果列表、命中定位</td>
+    <td><code>search-index.json</code></td>
+  </tr>
+  <tr>
+    <td><code>/me/favorites</code></td>
+    <td>收藏列表</td>
+    <td>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><code>/me/history</code></td>
+    <td>阅读历史</td>
+    <td>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><code>/me/settings</code></td>
+    <td>主题模式和个人设置</td>
+    <td>PostgreSQL / localStorage</td>
+  </tr>
+</table>
+
+<h2>10. 数据库设计</h2>
+<p>
+  V1 数据库只保存用户态数据，不创建 <code>issues</code>、<code>sections</code>、<code>tags</code>、<code>links</code> 等内容主表。
+  这些内容都来自构建产物，用户表只通过 <code>issue_number</code> 和 <code>section_id</code> 引用内容位置。
+  用户唯一性由 <code>provider</code> + <code>provider_account_id</code> 保证。
+</p>
+
+<h3>10.1 users</h3>
+<table>
+  <tr><th>字段</th><th>说明</th></tr>
+  <tr><td><code>id</code></td><td>用户 ID</td></tr>
+  <tr><td><code>provider</code></td><td>登录来源：<code>github</code> 或 <code>linuxdo</code></td></tr>
+  <tr><td><code>provider_account_id</code></td><td>第三方平台用户 ID</td></tr>
+  <tr><td><code>name</code></td><td>显示名称</td></tr>
+  <tr><td><code>avatar_url</code></td><td>头像地址</td></tr>
+  <tr><td><code>created_at</code></td><td>创建时间</td></tr>
+  <tr><td><code>updated_at</code></td><td>更新时间</td></tr>
+</table>
+
+<h3>10.2 favorites</h3>
+<table>
+  <tr><th>字段</th><th>说明</th></tr>
+  <tr><td><code>id</code></td><td>收藏 ID</td></tr>
+  <tr><td><code>user_id</code></td><td>用户 ID</td></tr>
+  <tr><td><code>issue_number</code></td><td>周刊期号</td></tr>
+  <tr><td><code>section_id</code></td><td>可选，章节或条目锚点</td></tr>
+  <tr><td><code>title</code></td><td>收藏时的标题快照</td></tr>
+  <tr><td><code>created_at</code></td><td>收藏时间</td></tr>
+</table>
+
+<h3>10.3 reading_progress</h3>
+<table>
+  <tr><th>字段</th><th>说明</th></tr>
+  <tr><td><code>id</code></td><td>进度 ID</td></tr>
+  <tr><td><code>user_id</code></td><td>用户 ID</td></tr>
+  <tr><td><code>issue_number</code></td><td>周刊期号</td></tr>
+  <tr><td><code>section_id</code></td><td>最近阅读章节</td></tr>
+  <tr><td><code>scroll_percent</code></td><td>滚动百分比</td></tr>
+  <tr><td><code>updated_at</code></td><td>更新时间</td></tr>
+</table>
+
+<h3>10.4 reading_history</h3>
+<table>
+  <tr><th>字段</th><th>说明</th></tr>
+  <tr><td><code>id</code></td><td>历史 ID</td></tr>
+  <tr><td><code>user_id</code></td><td>用户 ID</td></tr>
+  <tr><td><code>issue_number</code></td><td>周刊期号</td></tr>
+  <tr><td><code>last_read_at</code></td><td>最后阅读时间</td></tr>
+</table>
+
+<h3>10.5 user_settings</h3>
+<table>
+  <tr><th>字段</th><th>说明</th></tr>
+  <tr><td><code>user_id</code></td><td>用户 ID</td></tr>
+  <tr><td><code>theme</code></td><td><code>light</code>、<code>dark</code>、<code>system</code></td></tr>
+  <tr><td><code>updated_at</code></td><td>更新时间</td></tr>
+</table>
+
+<h2>11. API 设计</h2>
+<table>
+  <tr>
+    <th>接口</th>
+    <th>用途</th>
+  </tr>
+  <tr>
+    <td><code>GET /api/search?q=keyword</code></td>
+    <td>返回搜索结果、命中片段和定位锚点。</td>
+  </tr>
+  <tr>
+    <td><code>GET /api/me/favorites</code></td>
+    <td>获取当前用户收藏列表。</td>
+  </tr>
+  <tr>
+    <td><code>POST /api/me/favorites</code></td>
+    <td>收藏整期周刊或具体条目。</td>
+  </tr>
+  <tr>
+    <td><code>DELETE /api/me/favorites/[id]</code></td>
+    <td>取消收藏。</td>
+  </tr>
+  <tr>
+    <td><code>GET /api/me/progress/[number]</code></td>
+    <td>获取某期阅读进度。</td>
+  </tr>
+  <tr>
+    <td><code>PUT /api/me/progress/[number]</code></td>
+    <td>更新某期阅读进度。</td>
+  </tr>
+  <tr>
+    <td><code>GET /api/me/history</code></td>
+    <td>获取阅读历史。</td>
+  </tr>
+  <tr>
+    <td><code>GET /api/me/settings</code></td>
+    <td>获取主题等用户配置。</td>
+  </tr>
+  <tr>
+    <td><code>PUT /api/me/settings</code></td>
+    <td>更新用户配置。</td>
+  </tr>
+</table>
+
+<h2>12. 登录态与安全边界</h2>
+<ul>
+  <li>V1 只支持 GitHub 和 LinuxDo 登录，不提供邮箱密码注册。</li>
+  <li>游客可浏览、搜索、切换主题，并将阅读进度和主题偏好保存到本地。</li>
+  <li>登录用户可同步收藏、阅读进度、阅读历史和主题偏好。</li>
+  <li>所有 <code>/api/me/*</code> 接口必须从服务端登录态获取 <code>user_id</code>，不得信任客户端传入的用户 ID。</li>
+  <li>用户身份以 <code>provider</code> + <code>provider_account_id</code> 唯一确定。</li>
+  <li>收藏、阅读进度、阅读历史和用户设置查询都必须带 <code>user_id</code> 条件。</li>
+  <li>写接口启用 CSRF 防护或同等的 SameSite Cookie + 服务端校验策略。</li>
+  <li>数据库对 <code>user_id</code>、<code>issue_number</code>、<code>section_id</code> 建立必要索引和唯一约束，避免重复收藏和串号读取。</li>
+</ul>
+
+<h2>13. 搜索方案</h2>
+<ul>
+  <li>搜索技术固定为构建期 <code>search-index.json</code> + <code>Fuse.js</code> + Next.js Route Handler 服务端搜索。</li>
+  <li>索引粒度为章节或条目，不以整篇周刊作为唯一搜索单元。</li>
+  <li>索引字段包含 <code>issue_number</code>、<code>issue_title</code>、<code>section_title</code>、<code>anchor</code>、<code>text</code>、<code>tags</code>。</li>
+  <li>Fuse.js 查询字段优先级：标题和章节标题高于正文，标签高于普通正文。</li>
+  <li>搜索结果返回期号、周刊标题、章节名称、命中片段、标签、匹配分数和跳转锚点。</li>
+  <li>关键词高亮根据 Fuse.js 匹配结果生成，页面只负责展示。</li>
+  <li>当索引文件超过 10MB、P95 搜索响应超过 300 毫秒，或需要拼音搜索/语义搜索时，再升级到 PostgreSQL 全文搜索或独立搜索服务。</li>
+</ul>
+
+<h2>14. 阅读进度方案</h2>
+<ul>
+  <li>游客阅读进度保存到 <code>localStorage</code>。</li>
+  <li>登录用户阅读进度写入 PostgreSQL。</li>
+  <li>进度记录采用滚动百分比和最近章节锚点双字段。</li>
+  <li>外链默认新标签页打开，避免离开详情页导致上下文丢失。</li>
+</ul>
+
+<h2>15. 部署流程</h2>
+<pre>push / pull request
+  ↓
+GitHub Actions
+  ↓
+安装依赖
+  ↓
+类型检查 / Lint / 测试
+  ↓
+解析 Markdown 并生成内容索引
+  ↓
+Next.js build
+  ↓
+部署到目标平台</pre>
+
+<ul>
+  <li>部署目标可以是 Vercel、Node.js 服务器或 Docker 镜像仓库。</li>
+  <li>数据库迁移在部署前执行，失败则停止部署。</li>
+  <li>生产环境通过环境变量注入数据库连接和认证密钥。</li>
+</ul>
+
+<h2>16. V1 实施顺序</h2>
+<ol>
+  <li>搭建 Next.js 项目和基础页面路由。</li>
+  <li>实现 Markdown 扫描、解析和内容索引生成。</li>
+  <li>实现首页、周刊详情页、目录导航和外链新标签页。</li>
+  <li>实现搜索索引和搜索页。</li>
+  <li>接入 PostgreSQL 和登录能力。</li>
+  <li>实现收藏、阅读进度、阅读历史和主题设置。</li>
+  <li>配置 GitHub Actions 构建和部署。</li>
+</ol>
+
+<h2>17. 后续演进</h2>
+<ul>
+  <li>当需要在线编辑、审核流或内容版本管理时，再引入 CMS 或正文入库。</li>
+  <li>当搜索索引过大或响应超过 300 毫秒时，再升级搜索实现。</li>
+  <li>当访问量增大时，为详情页和搜索接口增加缓存策略。</li>
+  <li>当需要内容增长能力时，再考虑 RSS、纠错反馈、推荐和 AI 问答。</li>
+</ul>
+
+</body>
+</html>
