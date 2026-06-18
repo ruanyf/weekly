@@ -28,3 +28,4 @@ node_modules/
 .idea/
 /package-lock.json
 /react-scaffold.iml
+graphify-out

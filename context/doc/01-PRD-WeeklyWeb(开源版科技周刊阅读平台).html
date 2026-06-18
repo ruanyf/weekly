@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>Weekly Web 产品需求文档(PRD) V1.0</title>
+  <style>
+    body {
+      max-width: 920px;
+      margin: 40px auto;
+      padding: 0 24px 48px;
+      color: #1f2937;
+      background: #f8fafc;
+      font: 16px/1.75 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      color: #111827;
+      line-height: 1.35;
+    }
+
+    h1 {
+      margin-bottom: 32px;
+      padding-bottom: 16px;
+      border-bottom: 3px solid #2563eb;
+      font-size: 32px;
+    }
+
+    h2 {
+      margin-top: 40px;
+      padding-left: 12px;
+      border-left: 4px solid #2563eb;
+      font-size: 24px;
+    }
+
+    h3 {
+      margin-top: 28px;
+      font-size: 20px;
+    }
+
+    h4 {
+      margin-top: 20px;
+      color: #374151;
+      font-size: 16px;
+    }
+
+    p,
+    ul,
+    table,
+    pre {
+      margin: 12px 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+    }
+
+    th,
+    td {
+      padding: 10px 12px;
+      border: 1px solid #d1d5db;
+      text-align: left;
+    }
+
+    th {
+      width: 160px;
+      background: #eff6ff;
+    }
+
+    ul {
+      padding-left: 24px;
+    }
+
+    pre {
+      overflow-x: auto;
+      padding: 16px;
+      border-radius: 8px;
+      background: #111827;
+      color: #e5e7eb;
+    }
+
+    @media (max-width: 640px) {
+      body {
+        margin: 20px auto;
+        padding: 0 16px 32px;
+        font-size: 15px;
+      }
+
+      h1 {
+        font-size: 26px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<h1>Weekly Web 产品需求文档（PRD）V1.0</h1>
+
+<h2>1. 文档信息</h2>
+
+<table border="1">
+  <tr>
+    <th>项目名称</th>
+    <td>Weekly Web</td>
+  </tr>
+  <tr>
+    <th>项目类型</th>
+    <td>开源项目</td>
+  </tr>
+  <tr>
+    <th>产品定位</th>
+    <td>科技爱好者周刊 Web 阅读平台</td>
+  </tr>
+  <tr>
+    <th>内容来源</th>
+    <td>ruanyf/weekly</td>
+  </tr>
+  <tr>
+    <th>版本</th>
+    <td>V1.0</td>
+  </tr>
+</table>
+
+<h2>2. 产品背景</h2>
+
+<p>
+  科技爱好者周刊长期以 Markdown 形式维护于 GitHub 仓库中，
+  虽然内容质量较高，但在实际阅读过程中存在阅读体验差、检索困难、
+  内容沉淀能力弱等问题。
+</p>
+
+<p>
+  用户在阅读长篇周刊时，经常需要打开大量外部链接，
+  返回后难以恢复原阅读位置；
+  同时缺乏全文检索能力，无法快速定位历史内容。
+</p>
+
+<p>
+  因此需要构建独立 Web 平台，
+  提升内容消费效率和阅读体验。
+</p>
+
+<h2>3. 产品目标</h2>
+
+<h3>3.1 业务目标</h3>
+
+<ul>
+  <li>提高周刊内容可读性</li>
+  <li>提高历史内容检索效率</li>
+  <li>提高用户持续阅读体验</li>
+  <li>构建长期维护的开源项目</li>
+</ul>
+
+<h3>3.2 用户目标</h3>
+
+<ul>
+  <li>快速查找技术内容</li>
+  <li>快速定位历史周刊</li>
+  <li>阅读不中断</li>
+  <li>收藏有价值内容</li>
+</ul>
+
+<h2>4. 用户分析</h2>
+
+<h3>目标用户</h3>
+
+<ul>
+  <li>程序员</li>
+  <li>技术爱好者</li>
+  <li>产品经理</li>
+  <li>AI 从业者</li>
+  <li>互联网从业者</li>
+</ul>
+
+<h3>用户特征</h3>
+
+<ul>
+  <li>具备技术阅读习惯</li>
+  <li>关注行业趋势</li>
+  <li>经常搜索历史内容</li>
+  <li>重度桌面端用户</li>
+  <li>兼顾移动端阅读场景</li>
+</ul>
+
+<h2>5. 用户故事</h2>
+
+<h3>US-01 阅读周刊</h3>
+
+<p>
+  作为用户，
+  我希望浏览历史周刊，
+  从而快速找到感兴趣的内容。
+</p>
+
+<h3>US-02 全文搜索</h3>
+
+<p>
+  作为用户，
+  我希望搜索技术关键词，
+  从而快速定位相关内容。
+</p>
+
+<h3>US-03 阅读恢复</h3>
+
+<p>
+  作为用户，
+  我希望再次打开周刊时恢复上次阅读位置，
+  从而避免重复查找。
+</p>
+
+<h3>US-04 收藏内容</h3>
+
+<p>
+  作为用户，
+  我希望收藏有价值内容，
+  从而方便后续查阅。
+</p>
+
+<h2>6. 功能需求</h2>
+
+<h3>FR-01 首页</h3>
+
+<h4>功能描述</h4>
+
+<ul>
+  <li>展示周刊列表</li>
+  <li>按发布时间倒序展示</li>
+  <li>支持年份筛选</li>
+  <li>提供搜索入口</li>
+  <li>展示最新一期周刊</li>
+</ul>
+
+<h4>验收标准</h4>
+
+<ul>
+  <li>用户可浏览全部周刊</li>
+  <li>用户可按年份筛选</li>
+  <li>用户可进入详情页</li>
+</ul>
+
+<h3>FR-02 周刊详情页</h3>
+
+<h4>功能描述</h4>
+
+<ul>
+  <li>Markdown 渲染</li>
+  <li>图片展示</li>
+  <li>代码高亮</li>
+  <li>目录导航</li>
+  <li>章节定位</li>
+  <li>章节折叠</li>
+  <li>响应式布局</li>
+</ul>
+
+<h4>业务规则</h4>
+
+<ul>
+  <li>自动生成目录</li>
+  <li>支持目录跳转</li>
+  <li>支持移动端阅读</li>
+</ul>
+
+<h3>FR-03 阅读进度</h3>
+
+<h4>功能描述</h4>
+
+<ul>
+  <li>自动记录阅读位置</li>
+  <li>自动恢复阅读位置</li>
+  <li>展示阅读进度</li>
+</ul>
+
+<h4>业务规则</h4>
+
+<ul>
+  <li>游客保存至本地</li>
+  <li>登录用户同步服务器</li>
+</ul>
+
+<h3>FR-04 外链访问</h3>
+
+<h4>功能描述</h4>
+
+<ul>
+  <li>所有外链默认新标签页打开</li>
+</ul>
+
+<h4>业务规则</h4>
+
+<ul>
+  <li>不离开当前阅读页面</li>
+  <li>不影响阅读进度</li>
+</ul>
+
+<h3>FR-05 全文搜索</h3>
+
+<h4>功能描述</h4>
+
+<ul>
+  <li>支持全文搜索</li>
+  <li>支持关键词高亮</li>
+  <li>支持结果定位</li>
+</ul>
+
+<h4>搜索结果展示</h4>
+
+<ul>
+  <li>期数</li>
+  <li>章节名称</li>
+  <li>匹配片段</li>
+  <li>关键词高亮</li>
+</ul>
+
+<h4>业务规则</h4>
+
+<ul>
+  <li>点击结果直接跳转命中位置</li>
+  <li>自动滚动至匹配内容</li>
+</ul>
+
+<h3>FR-06 收藏系统</h3>
+
+<h4>访问权限</h4>
+
+<p>登录用户</p>
+
+<h4>收藏对象</h4>
+
+<ul>
+  <li>整期周刊</li>
+  <li>具体条目</li>
+</ul>
+
+<h4>功能描述</h4>
+
+<ul>
+  <li>收藏</li>
+  <li>取消收藏</li>
+  <li>查看收藏列表</li>
+</ul>
+
+<h3>FR-07 阅读历史</h3>
+
+<h4>访问权限</h4>
+
+<p>登录用户</p>
+
+<h4>功能描述</h4>
+
+<ul>
+  <li>查看最近阅读</li>
+  <li>查看阅读进度</li>
+  <li>继续阅读</li>
+</ul>
+
+<h3>FR-08 主题模式</h3>
+
+<h4>访问权限</h4>
+
+<p>所有用户</p>
+
+<h4>支持模式</h4>
+
+<ul>
+  <li>浅色模式</li>
+  <li>深色模式</li>
+  <li>跟随系统</li>
+</ul>
+
+<h4>业务规则</h4>
+
+<ul>
+  <li>游客保存本地配置</li>
+  <li>登录用户同步服务器配置</li>
+</ul>
+
+<h2>7. 页面结构</h2>
+
+<pre>
+首页
+├── 周刊列表
+├── 搜索入口
+│
+├── 周刊详情
+│   ├── 目录导航
+│   ├── 阅读内容
+│   ├── 收藏
+│   └── 阅读进度
+│
+├── 搜索页
+│
+└── 用户中心
+    ├── 收藏列表
+    ├── 阅读历史
+    └── 个人设置
+</pre>
+
+<h2>8. 非功能需求</h2>
+
+<h3>性能要求</h3>
+
+<ul>
+  <li>首页加载时间 ≤ 2秒</li>
+  <li>搜索响应时间 ≤ 300毫秒</li>
+  <li>移动端流畅滚动</li>
+</ul>
+
+<h3>兼容性要求</h3>
+
+<ul>
+  <li>Chrome</li>
+  <li>Edge</li>
+  <li>Safari</li>
+  <li>Firefox</li>
+</ul>
+
+<h3>响应式要求</h3>
+
+<ul>
+  <li>桌面端</li>
+  <li>平板端</li>
+  <li>移动端</li>
+</ul>
+
+<h2>9. 需求边界</h2>
+
+<h3>V1 不包含</h3>
+
+<ul>
+  <li>评论系统</li>
+  <li>RSS订阅</li>
+  <li>纠错反馈</li>
+  <li>AI问答</li>
+  <li>内容推荐</li>
+  <li>会员体系</li>
+  <li>付费功能</li>
+</ul>
+
+<h2>10. 验收标准</h2>
+
+<ul>
+  <li>用户可正常浏览全部周刊</li>
+  <li>用户可通过关键词搜索内容</li>
+  <li>搜索结果支持定位</li>
+  <li>阅读位置可自动恢复</li>
+  <li>登录用户可收藏内容</li>
+  <li>登录用户可查看阅读历史</li>
+  <li>支持深色模式、浅色模式、跟随系统模式</li>
+  <li>支持桌面端与移动端访问</li>
+</ul>
+
+</body>
+</html>
