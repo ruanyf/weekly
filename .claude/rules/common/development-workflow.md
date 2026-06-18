@@ -1,6 +1,6 @@
 # Development Workflow
 
-> This file extends [common/git-workflow.md](./git-workflow.md) with the full feature development process that happens before git operations.
+> This file extends [common/git-workflow.md](git-workflow.md) with the full feature development process that happens before git operations.
 
 The Feature Implementation Workflow describes the development pipeline: research, planning, TDD, code review, and then committing to git.
 
@@ -35,7 +35,7 @@ The Feature Implementation Workflow describes the development pipeline: research
 4. **Commit & Push**
    - Detailed commit messages
    - Follow conventional commits format
-   - See [git-workflow.md](./git-workflow.md) for commit message format and PR process
+   - See [git-workflow.md](git-workflow.md) for commit message format and PR process
 
 5. **Pre-Review Checks**
    - Verify all automated checks (CI/CD) are passing
