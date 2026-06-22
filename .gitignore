@@ -29,3 +29,9 @@ node_modules/
 /package-lock.json
 /react-scaffold.iml
 graphify-out
+.next/
+tsconfig.tsbuildinfo
+dist/
+.data/
+*.sqlite
+*.sqlite-*

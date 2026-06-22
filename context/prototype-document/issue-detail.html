@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weekly Web 原型 - 周刊详情</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body data-page="detail" data-issue-id="400">
+  <header class="topbar">
+    <div class="topbar__inner">
+      <a class="brand" href="index.html" aria-label="Weekly Web 首页">
+        <span class="brand__mark">W</span>
+        <span>Weekly Web</span>
+      </a>
+      <nav class="nav" aria-label="主导航">
+        <a class="nav__link" data-nav="home" href="index.html">首页</a>
+        <a class="nav__link" data-nav="detail" href="issue-detail.html">周刊</a>
+        <a class="nav__link" data-nav="search" href="search.html">搜索</a>
+        <a class="nav__link" data-nav="user" href="user-center.html">个人</a>
+      </nav>
+      <select class="theme-select" data-theme-select aria-label="主题模式">
+        <option value="system">系统</option>
+        <option value="light">浅色</option>
+        <option value="dark">深色</option>
+      </select>
+    </div>
+  </header>
+
+  <div class="reading-bar" aria-hidden="true">
+    <div class="reading-bar__fill" data-reading-progress></div>
+  </div>
+
+  <main class="page">
+    <section class="issue-picker" aria-label="周刊筛选">
+      <div>
+        <p class="eyebrow">Issue</p>
+        <h1>周刊详情</h1>
+      </div>
+      <div class="issue-picker__controls">
+        <label>
+          <span>年份</span>
+          <select data-issue-year></select>
+        </label>
+        <label>
+          <span>月份</span>
+          <select data-issue-month></select>
+        </label>
+        <label>
+          <span>周</span>
+          <select data-issue-week></select>
+        </label>
+      </div>
+    </section>
+
+    <div class="reader-shell reader-shell--calm">
+      <aside class="toc" aria-label="目录导航">
+        <div class="panel panel--plain">
+          <p class="eyebrow">目录</p>
+          <ul class="toc__list" data-toc-list></ul>
+        </div>
+      </aside>
+
+      <article class="article" data-reading-article>
+        <div class="article__head">
+          <div class="meta-row">
+            <span class="badge" data-issue-number>第 400 期</span>
+            <span class="badge" data-issue-date>2026-06-05</span>
+          </div>
+          <h1 data-issue-title>rsync 的争论</h1>
+          <p class="lead" data-issue-summary></p>
+          <div class="actions">
+            <button class="primary-button" data-restore-reading type="button">恢复进度</button>
+            <button class="ghost-button" data-issue-favorite data-favorite-id="issue-400" data-favorite-label="第 400 期：rsync 的争论" type="button">收藏</button>
+          </div>
+        </div>
+
+        <div class="article-cover-wrap" id="section-cover">
+          <img class="article-cover" data-issue-cover src="https://cdn.beekka.com/blogimg/asset/202606/bg2026060505.webp" alt="第 400 期封面图">
+        </div>
+
+        <div class="article__body" data-article-body></div>
+      </article>
+
+      <aside class="reader-tools" aria-label="阅读状态">
+        <div class="tool-card tool-card--quiet">
+          <p class="eyebrow">进度</p>
+          <h3><span data-progress-label>0%</span></h3>
+          <div class="progress-track">
+            <div class="progress-fill" data-reading-progress></div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </main>
+</body>
+</html>

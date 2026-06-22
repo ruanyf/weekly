@@ -15,7 +15,8 @@
 
     h1,
     h2,
-    h3 {
+    h3,
+    h4 {
       color: #111827;
       line-height: 1.35;
     }
@@ -37,6 +38,13 @@
     h3 {
       margin-top: 28px;
       font-size: 20px;
+    }
+
+    h4 {
+      margin-top: 22px;
+      margin-bottom: 8px;
+      color: #374151;
+      font-size: 16px;
     }
 
     p,
@@ -117,7 +125,7 @@
   </tr>
   <tr>
     <th>核心技术栈</th>
-    <td>Next.js 全栈、PostgreSQL、GitHub Actions</td>
+    <td>Next.js 全栈、SQLite、better-sqlite3、GitHub Actions</td>
   </tr>
   <tr>
     <th>版本</th>
@@ -130,17 +138,20 @@
   <li>支持全部历史周刊的 Web 阅读、目录导航、章节定位和响应式展示。</li>
   <li>支持全文搜索、搜索结果定位和关键词高亮。</li>
   <li>支持用户收藏、阅读进度、阅读历史和主题偏好。</li>
+  <li>页面体验保持简约化、低噪声和 Apple 风格高级感，优先服务阅读效率。</li>
   <li>保持内容源简单可靠：周刊正文继续来自仓库 Markdown 文件。</li>
+  <li>通过 GitHub Actions 同步上游内容、生成构建期 JSON 和搜索索引。</li>
   <li>通过 GitHub Actions 完成自动检查、构建和部署。</li>
 </ul>
 
 <h2>3. 架构边界</h2>
 <ul>
   <li>V1 不建设后台 CMS，不提供在线编辑周刊正文。</li>
-  <li>V1 不把周刊正文、章节、图片、外链、标签作为主数据写入 PostgreSQL。</li>
-  <li>PostgreSQL 只保存用户态数据：用户、收藏、阅读进度、阅读历史、主题偏好。</li>
+  <li>V1 不把周刊正文、章节、图片、外链、标签作为主数据写入 SQLite。</li>
+  <li>SQLite 只保存少量用户态数据：用户、收藏、阅读进度、阅读历史、主题偏好。</li>
   <li>内容元信息、页面标签、分类和搜索索引都由 Markdown 构建期解析生成。</li>
-  <li>V1 搜索使用构建期 <code>search-index.json</code> + <code>Fuse.js</code> + Next.js 服务端搜索，不引入 Elasticsearch、Meilisearch 或 PostgreSQL 全文检索。</li>
+  <li>V1 搜索使用构建期 <code>search-index.json</code> + <code>Fuse.js</code> + Next.js 服务端搜索，不引入 Elasticsearch、Meilisearch 或数据库全文检索。</li>
+  <li>登录不作为主导航页面暴露，只在收藏、个人中心等需要登录的功能中以弹窗触发。</li>
   <li>评论、RSS、纠错反馈、AI 问答、推荐系统、会员和付费能力不进入 V1。</li>
 </ul>
 
@@ -150,21 +161,22 @@
 ├── Next.js App Router           页面渲染、路由、API
 ├── Markdown Parser              构建期解析正文、标题、目录、条目
 ├── Search Index Builder         构建全文搜索索引
-├── PostgreSQL                   用户、收藏、进度、历史、偏好
-└── GitHub Actions               检查、构建、部署
+├── SQLite + better-sqlite3      少量用户态数据
+└── GitHub Actions               内容同步、索引生成、检查、构建、部署
 
 Browser
-├── 首页 / 周刊列表
-├── 周刊详情页
+├── 首页 / 最新一期 + 搜索入口
+├── 周刊详情页 / 年份、月份、周筛选
 ├── 搜索页
-└── 用户中心
+├── 个人中心 / 最近阅读、收藏、设置
+└── 全局登录弹窗 / GitHub、LinuxDo
 
 Next.js Server
 ├── Server Components / SSG      读取构建产物并渲染页面
 ├── Route Handlers               收藏、进度、历史、偏好 API
 └── Auth                         登录态与用户身份
 
-PostgreSQL
+SQLite
 ├── users
 ├── favorites
 ├── reading_progress
@@ -195,8 +207,13 @@ PostgreSQL
   </tr>
   <tr>
     <td>数据库职责</td>
-    <td>只保存用户态数据。</td>
-    <td>用户数据需要持久化和登录态隔离，内容数据不需要。</td>
+    <td>SQLite 只保存用户态数据，Node 侧通过 <code>better-sqlite3</code> 访问。</td>
+    <td>V1 只需要保存少量收藏、进度、历史和设置，SQLite 足够轻量，避免引入独立数据库服务；<code>better-sqlite3</code> 同步 API 简单，适合 Route Handler 内短事务读写。</td>
+  </tr>
+  <tr>
+    <td>内容同步</td>
+    <td>由 GitHub Actions 定时或手动同步上游周刊内容。</td>
+    <td>内容源来自 GitHub，使用 Actions 拉取、解析和生成索引，部署链路最短。</td>
   </tr>
   <tr>
     <td>登录方式</td>
@@ -224,8 +241,8 @@ PostgreSQL
   </tr>
   <tr>
     <td>数据库</td>
-    <td>PostgreSQL</td>
-    <td>保存用户相关数据，不保存周刊正文主数据。</td>
+    <td>SQLite + <code>better-sqlite3</code></td>
+    <td>保存少量用户相关数据，不保存周刊正文主数据；运行时通过 Node 进程访问 SQLite 文件。</td>
   </tr>
   <tr>
     <td>内容源</td>
@@ -240,7 +257,7 @@ PostgreSQL
   <tr>
     <td>部署</td>
     <td>GitHub Actions</td>
-    <td>在推送或合并后执行检查、构建和部署。</td>
+    <td>在定时任务、手动触发、推送或合并后执行内容同步、检查、构建和部署。</td>
   </tr>
 </table>
 
@@ -270,7 +287,38 @@ Next.js 页面读取构建产物渲染</pre>
   <li>外链统一设置新标签页打开，避免打断阅读进度。</li>
 </ul>
 
-<h2>8. 标签与分类策略</h2>
+<h2>8. GitHub Actions 内容同步方案</h2>
+<p>
+  V1 的内容同步不依赖后台 CMS 或人工入库流程，而是由 GitHub Actions 自动完成。
+  Actions 负责拉取或检测 <code>ruanyf/weekly</code> 内容变化，解析 Markdown，并生成前端可直接读取的静态 JSON 产物。
+</p>
+
+<pre>schedule / workflow_dispatch / push
+  ↓
+拉取上游 ruanyf/weekly 或检查本仓库 docs/issue-*.md
+  ↓
+比对新增、修改、删除的周刊 Markdown
+  ↓
+解析 Markdown，生成 issues.json、issue-&lt;number&gt;.json、issue_index.json
+  ↓
+生成 search-index.json
+  ↓
+执行格式校验、链接校验、构建校验
+  ↓
+提交构建产物或触发部署</pre>
+
+<ul>
+  <li>同步任务支持定时触发，适合跟随周刊发布节奏自动更新。</li>
+  <li>同步任务支持 <code>workflow_dispatch</code> 手动触发，便于临时修复或重新生成索引。</li>
+  <li>内容解析产物进入版本管理或构建产物目录，运行时不需要扫描 Markdown。</li>
+  <li>SQLite 用户数据不参与内容同步，避免 Actions 覆盖线上用户态数据。</li>
+  <li>当 Actions 检测到内容源无变化时，应跳过索引提交和部署触发。</li>
+  <li>如果同步任务自动提交构建产物，提交范围只允许包含 Markdown 内容、构建期 JSON、搜索索引和相关清单文件。</li>
+  <li>如果采用部署时生成构建产物，Actions 应在构建阶段生成临时产物，不需要把产物提交回仓库。</li>
+  <li>SQLite 文件、备份文件和迁移运行状态必须加入部署环境持久化存储，不应进入 Git 仓库。</li>
+</ul>
+
+<h2>9. 标签与分类策略</h2>
 <ul>
   <li>V1 不提供人工标签后台，不维护标签表。</li>
   <li>页面标签来自构建期派生，包括年份、期号、章节类型和关键词规则。</li>
@@ -279,7 +327,7 @@ Next.js 页面读取构建产物渲染</pre>
   <li>如果后续需要人工精选专题，再新增 <code>collections</code> 或 <code>tag_overrides</code> 配置文件，而不是直接改数据库结构。</li>
 </ul>
 
-<h2>9. 页面与路由</h2>
+<h2>10. 页面与路由</h2>
 <table>
   <tr>
     <th>路由</th>
@@ -288,13 +336,13 @@ Next.js 页面读取构建产物渲染</pre>
   </tr>
   <tr>
     <td><code>/</code></td>
-    <td>首页、最新一期、年份筛选、搜索入口</td>
+    <td>首页、最新一期、搜索入口</td>
     <td><code>issues.json</code></td>
   </tr>
   <tr>
     <td><code>/issues/[number]</code></td>
-    <td>周刊详情、目录、章节定位、阅读进度</td>
-    <td><code>issue-&lt;number&gt;.json</code> + 用户进度</td>
+    <td>周刊详情、目录、章节定位、阅读进度、年份/月/周筛选</td>
+    <td><code>issue-&lt;number&gt;.json</code> + <code>issue_index.json</code> + 用户进度</td>
   </tr>
   <tr>
     <td><code>/search</code></td>
@@ -304,28 +352,104 @@ Next.js 页面读取构建产物渲染</pre>
   <tr>
     <td><code>/me/favorites</code></td>
     <td>收藏列表</td>
-    <td>PostgreSQL</td>
+    <td>SQLite</td>
   </tr>
   <tr>
     <td><code>/me/history</code></td>
     <td>阅读历史</td>
-    <td>PostgreSQL</td>
+    <td>SQLite</td>
   </tr>
   <tr>
     <td><code>/me/settings</code></td>
     <td>主题模式和个人设置</td>
-    <td>PostgreSQL / localStorage</td>
+    <td>SQLite / localStorage</td>
+  </tr>
+  <tr>
+    <td>全局登录弹窗</td>
+    <td>收藏、个人中心中的登录入口</td>
+    <td>OAuth 会话 / 登录态</td>
   </tr>
 </table>
 
-<h2>10. 数据库设计</h2>
+<h2>10.1 页面整体逻辑</h2>
+<ul>
+  <li>首页只承载两个动作：进入最新一期周刊、输入关键词搜索。</li>
+  <li>周刊详情页是主阅读页，默认打开最新一期，并允许通过年份、月份、周切换到其他期数。</li>
+  <li>收藏不再单独占据主入口，而是作为详情页和搜索结果中的上下文操作。</li>
+  <li>个人中心承载登录后的用户态内容，包括最近阅读、收藏和主题设置。</li>
+  <li>登录不占主导航位，未登录时在收藏或个人中心中弹出登录，降低入口噪声。</li>
+</ul>
+
+<h2>10.2 页面视觉风格</h2>
+<ul>
+  <li>整体风格采用简约化、低噪声、高留白的高级感视觉方向，接近 Apple 式克制体验。</li>
+  <li>页面主色控制在中性灰、白和单一蓝色强调色，避免多色卡片和强装饰背景。</li>
+  <li>布局强调内容主次关系，首页与详情页都优先让主内容获得完整视线焦点。</li>
+  <li>控件使用细边框、轻阴影和柔和圆角，减少厚重卡片感和视觉堆叠。</li>
+  <li>交互反馈保持轻量，避免动画和渐变过度抢占阅读注意力。</li>
+</ul>
+
+<h2>11. 数据结构设计</h2>
 <p>
   V1 数据库只保存用户态数据，不创建 <code>issues</code>、<code>sections</code>、<code>tags</code>、<code>links</code> 等内容主表。
   这些内容都来自构建产物，用户表只通过 <code>issue_number</code> 和 <code>section_id</code> 引用内容位置。
   用户唯一性由 <code>provider</code> + <code>provider_account_id</code> 保证。
 </p>
 
-<h3>10.1 users</h3>
+<h3>11.0 SQLite 运行约束</h3>
+<ul>
+  <li>Node.js 运行时使用 <code>better-sqlite3</code> 连接 SQLite，不使用独立数据库服务。</li>
+  <li>SQLite 文件路径通过环境变量配置，例如 <code>SQLITE_DB_PATH</code>。</li>
+  <li>生产环境必须部署在具备持久化磁盘的 Node.js 运行环境，或挂载持久化卷保存 SQLite 文件。</li>
+  <li>初始化时开启 <code>WAL</code> 模式和必要的外键约束，提升读写稳定性。</li>
+  <li>所有写操作保持短事务，避免长时间占用数据库锁。</li>
+  <li>schema 迁移通过版本化 SQL 文件执行，部署前先备份 SQLite 文件。</li>
+  <li>GitHub Actions 不读写线上 SQLite 文件，只负责内容同步、索引生成、检查、构建和部署。</li>
+</ul>
+
+<h3>11.1 原型反推的构建期数据结构</h3>
+<p>
+  原型中的周刊切换、最新一期、搜索定位和目录渲染，都应由构建期 JSON 产物驱动。
+  这些结构属于只读内容数据，不写入 SQLite。
+</p>
+
+<h4>issues.json</h4>
+<table>
+  <tr><th>字段</th><th>说明</th></tr>
+  <tr><td><code>number</code></td><td>周刊期号，用于路由和内容引用。</td></tr>
+  <tr><td><code>title</code></td><td>周刊标题。</td></tr>
+  <tr><td><code>summary</code></td><td>首页最新一期、周刊筛选和搜索结果辅助展示使用的摘要。</td></tr>
+  <tr><td><code>date</code></td><td>发布时间。</td></tr>
+  <tr><td><code>year</code></td><td>发布时间年份，用于详情页筛选。</td></tr>
+  <tr><td><code>month</code></td><td>发布时间月份，用于详情页筛选。</td></tr>
+  <tr><td><code>week</code></td><td>自然周或发布周，用于详情页筛选。</td></tr>
+  <tr><td><code>cover_image</code></td><td>封面图地址。</td></tr>
+  <tr><td><code>tags</code></td><td>构建期派生标签，仅用于展示和搜索加权。</td></tr>
+</table>
+
+<h4>issue-&lt;number&gt;.json</h4>
+<table>
+  <tr><th>字段</th><th>说明</th></tr>
+  <tr><td><code>number</code></td><td>周刊期号。</td></tr>
+  <tr><td><code>title</code></td><td>周刊标题。</td></tr>
+  <tr><td><code>date</code></td><td>发布时间。</td></tr>
+  <tr><td><code>cover_image</code></td><td>封面图。</td></tr>
+  <tr><td><code>toc</code></td><td>由 Markdown 标题生成的目录节点数组。</td></tr>
+  <tr><td><code>sections</code></td><td>章节数组，包含锚点、标题、正文 HTML、图片、外链和代码块。</td></tr>
+  <tr><td><code>anchors</code></td><td>章节定位锚点映射，用于搜索结果跳转和恢复阅读位置。</td></tr>
+</table>
+
+<h4>issue_index.json</h4>
+<table>
+  <tr><th>字段</th><th>说明</th></tr>
+  <tr><td><code>years</code></td><td>可选年份列表。</td></tr>
+  <tr><td><code>months_by_year</code></td><td>每个年份下可选月份。</td></tr>
+  <tr><td><code>weeks_by_year_month</code></td><td>每个年份和月份下可选周。</td></tr>
+  <tr><td><code>latest_number</code></td><td>默认打开的最新一期。</td></tr>
+  <tr><td><code>number_by_year_month_week</code></td><td>年份、月份、周到期号的映射。</td></tr>
+</table>
+
+<h3>11.2 users</h3>
 <table>
   <tr><th>字段</th><th>说明</th></tr>
   <tr><td><code>id</code></td><td>用户 ID</td></tr>
@@ -337,7 +461,7 @@ Next.js 页面读取构建产物渲染</pre>
   <tr><td><code>updated_at</code></td><td>更新时间</td></tr>
 </table>
 
-<h3>10.2 favorites</h3>
+<h3>11.3 favorites</h3>
 <table>
   <tr><th>字段</th><th>说明</th></tr>
   <tr><td><code>id</code></td><td>收藏 ID</td></tr>
@@ -348,7 +472,7 @@ Next.js 页面读取构建产物渲染</pre>
   <tr><td><code>created_at</code></td><td>收藏时间</td></tr>
 </table>
 
-<h3>10.3 reading_progress</h3>
+<h3>11.4 reading_progress</h3>
 <table>
   <tr><th>字段</th><th>说明</th></tr>
   <tr><td><code>id</code></td><td>进度 ID</td></tr>
@@ -359,7 +483,7 @@ Next.js 页面读取构建产物渲染</pre>
   <tr><td><code>updated_at</code></td><td>更新时间</td></tr>
 </table>
 
-<h3>10.4 reading_history</h3>
+<h3>11.5 reading_history</h3>
 <table>
   <tr><th>字段</th><th>说明</th></tr>
   <tr><td><code>id</code></td><td>历史 ID</td></tr>
@@ -368,7 +492,7 @@ Next.js 页面读取构建产物渲染</pre>
   <tr><td><code>last_read_at</code></td><td>最后阅读时间</td></tr>
 </table>
 
-<h3>10.5 user_settings</h3>
+<h3>11.6 user_settings</h3>
 <table>
   <tr><th>字段</th><th>说明</th></tr>
   <tr><td><code>user_id</code></td><td>用户 ID</td></tr>
@@ -376,11 +500,23 @@ Next.js 页面读取构建产物渲染</pre>
   <tr><td><code>updated_at</code></td><td>更新时间</td></tr>
 </table>
 
-<h2>11. API 设计</h2>
+<h2>12. API 设计</h2>
+<p>
+  所有需要访问 SQLite 的接口必须运行在 Node.js runtime，不能部署到 Edge runtime。
+  Route Handler 内通过 <code>better-sqlite3</code> 执行短事务读写。
+</p>
 <table>
   <tr>
     <th>接口</th>
     <th>用途</th>
+  </tr>
+  <tr>
+    <td><code>GET /api/issues</code></td>
+    <td>返回最新一期和周刊索引数据，支持首页最新一期和详情页筛选器。</td>
+  </tr>
+  <tr>
+    <td><code>GET /api/issues/[number]</code></td>
+    <td>返回指定期号的详情渲染数据、目录和章节锚点。</td>
   </tr>
   <tr>
     <td><code>GET /api/search?q=keyword</code></td>
@@ -420,19 +556,22 @@ Next.js 页面读取构建产物渲染</pre>
   </tr>
 </table>
 
-<h2>12. 登录态与安全边界</h2>
+<h2>13. 登录态与安全边界</h2>
 <ul>
   <li>V1 只支持 GitHub 和 LinuxDo 登录，不提供邮箱密码注册。</li>
+  <li>登录入口以全局弹窗形式出现，不设置独立登录主页面和主导航登录项。</li>
   <li>游客可浏览、搜索、切换主题，并将阅读进度和主题偏好保存到本地。</li>
   <li>登录用户可同步收藏、阅读进度、阅读历史和主题偏好。</li>
+  <li>游客点击收藏、进入个人中心时触发登录弹窗；登录成功后继续当前上下文。</li>
   <li>所有 <code>/api/me/*</code> 接口必须从服务端登录态获取 <code>user_id</code>，不得信任客户端传入的用户 ID。</li>
   <li>用户身份以 <code>provider</code> + <code>provider_account_id</code> 唯一确定。</li>
   <li>收藏、阅读进度、阅读历史和用户设置查询都必须带 <code>user_id</code> 条件。</li>
   <li>写接口启用 CSRF 防护或同等的 SameSite Cookie + 服务端校验策略。</li>
   <li>数据库对 <code>user_id</code>、<code>issue_number</code>、<code>section_id</code> 建立必要索引和唯一约束，避免重复收藏和串号读取。</li>
+  <li>SQLite 文件权限限制为应用进程可读写，部署目录不得暴露数据库文件下载路径。</li>
 </ul>
 
-<h2>13. 搜索方案</h2>
+<h2>14. 搜索方案</h2>
 <ul>
   <li>搜索技术固定为构建期 <code>search-index.json</code> + <code>Fuse.js</code> + Next.js Route Handler 服务端搜索。</li>
   <li>索引粒度为章节或条目，不以整篇周刊作为唯一搜索单元。</li>
@@ -440,23 +579,25 @@ Next.js 页面读取构建产物渲染</pre>
   <li>Fuse.js 查询字段优先级：标题和章节标题高于正文，标签高于普通正文。</li>
   <li>搜索结果返回期号、周刊标题、章节名称、命中片段、标签、匹配分数和跳转锚点。</li>
   <li>关键词高亮根据 Fuse.js 匹配结果生成，页面只负责展示。</li>
-  <li>当索引文件超过 10MB、P95 搜索响应超过 300 毫秒，或需要拼音搜索/语义搜索时，再升级到 PostgreSQL 全文搜索或独立搜索服务。</li>
+  <li>当索引文件超过 10MB、P95 搜索响应超过 300 毫秒，或需要拼音搜索/语义搜索时，再评估 SQLite FTS、Meilisearch 或其他独立搜索服务。</li>
 </ul>
 
-<h2>14. 阅读进度方案</h2>
+<h2>15. 阅读进度方案</h2>
 <ul>
   <li>游客阅读进度保存到 <code>localStorage</code>。</li>
-  <li>登录用户阅读进度写入 PostgreSQL。</li>
+  <li>登录用户阅读进度写入 SQLite。</li>
   <li>进度记录采用滚动百分比和最近章节锚点双字段。</li>
   <li>外链默认新标签页打开，避免离开详情页导致上下文丢失。</li>
 </ul>
 
-<h2>15. 部署流程</h2>
-<pre>push / pull request
+<h2>16. 部署流程</h2>
+<pre>schedule / workflow_dispatch / push / pull request
   ↓
 GitHub Actions
   ↓
 安装依赖
+  ↓
+同步上游 Markdown 内容
   ↓
 类型检查 / Lint / 测试
   ↓
@@ -467,26 +608,31 @@ Next.js build
 部署到目标平台</pre>
 
 <ul>
-  <li>部署目标可以是 Vercel、Node.js 服务器或 Docker 镜像仓库。</li>
-  <li>数据库迁移在部署前执行，失败则停止部署。</li>
-  <li>生产环境通过环境变量注入数据库连接和认证密钥。</li>
+  <li>部署目标可以是具备持久化磁盘的 Node.js 服务器、Docker 容器或支持 SQLite 持久化的托管环境。</li>
+  <li>如果部署到无持久化文件系统的平台，应改用 SQLite 兼容托管服务或挂载持久化存储，不能把用户态数据写入临时文件系统。</li>
+  <li>GitHub Actions 只同步内容源和构建产物，不同步、不覆盖线上 SQLite 用户数据。</li>
+  <li>SQLite schema 迁移在部署前执行，失败则停止部署；迁移前应备份数据库文件。</li>
+  <li>生产环境通过环境变量注入 SQLite 文件路径、认证密钥和 OAuth 配置。</li>
+  <li>使用 Docker 部署时，SQLite 文件目录必须挂载 volume，镜像本身不携带生产数据库。</li>
+  <li><code>better-sqlite3</code> 是 Node 原生依赖，CI 构建环境和部署运行环境应保持平台一致，或在目标镜像内安装依赖。</li>
 </ul>
 
-<h2>16. V1 实施顺序</h2>
+<h2>17. V1 实施顺序</h2>
 <ol>
   <li>搭建 Next.js 项目和基础页面路由。</li>
   <li>实现 Markdown 扫描、解析和内容索引生成。</li>
-  <li>实现首页、周刊详情页、目录导航和外链新标签页。</li>
+  <li>实现首页最新一期、搜索入口、周刊详情页、目录导航、详情页年份/月/周筛选和外链新标签页。</li>
   <li>实现搜索索引和搜索页。</li>
-  <li>接入 PostgreSQL 和登录能力。</li>
+  <li>接入 SQLite、<code>better-sqlite3</code>、schema 迁移、OAuth 登录和全局登录弹窗。</li>
   <li>实现收藏、阅读进度、阅读历史和主题设置。</li>
-  <li>配置 GitHub Actions 构建和部署。</li>
+  <li>配置 GitHub Actions 内容同步、构建和部署。</li>
 </ol>
 
-<h2>17. 后续演进</h2>
+<h2>18. 后续演进</h2>
 <ul>
   <li>当需要在线编辑、审核流或内容版本管理时，再引入 CMS 或正文入库。</li>
   <li>当搜索索引过大或响应超过 300 毫秒时，再升级搜索实现。</li>
+  <li>当用户态数据增长到单机 SQLite 难以承载，或需要多实例高并发写入时，再评估 PostgreSQL 等独立数据库。</li>
   <li>当访问量增大时，为详情页和搜索接口增加缓存策略。</li>
   <li>当需要内容增长能力时，再考虑 RSS、纠错反馈、推荐和 AI 问答。</li>
 </ul>
