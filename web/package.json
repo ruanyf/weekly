@@ -1,0 +1,23 @@
+{
+  "name": "weekly-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "^16.2.9",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@unocss/postcss": "^66.7.2",
+    "@unocss/reset": "^66.7.2",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.9",
+    "unocss": "^66.7.2"
+  }
+}
