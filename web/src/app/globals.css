@@ -1,18 +1,46 @@
 @import '@unocss/reset/tailwind.css';
 @unocss all;
 
+:root {
+  color-scheme: light;
+  --bg: #f5f5f7;
+  --bg-2: #ffffff;
+  --surface: rgba(255, 255, 255, 0.72);
+  --surface-soft: rgba(255, 255, 255, 0.5);
+  --text: #1d1d1f;
+  --muted: #6e6e73;
+  --subtle: #77777d;
+  --line: rgba(0, 0, 0, 0.08);
+  --shadow: 0 28px 80px rgba(0, 0, 0, 0.12);
+  --small-shadow: 0 14px 34px rgba(0, 0, 0, 0.08);
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #000000;
+  --bg-2: #101010;
+  --surface: rgba(28, 28, 30, 0.72);
+  --surface-soft: rgba(255, 255, 255, 0.06);
+  --text: #f5f5f7;
+  --muted: #a1a1a6;
+  --subtle: #b8b8bf;
+  --line: rgba(255, 255, 255, 0.1);
+  --shadow: 0 32px 90px rgba(0, 0, 0, 0.5);
+  --small-shadow: 0 18px 42px rgba(0, 0, 0, 0.32);
+}
+
 html {
   min-width: 320px;
-  background: #f5f5f7;
+  background: var(--bg);
   scroll-behavior: smooth;
 }
 
 body {
   margin: 0;
-  color: #1d1d1f;
+  color: var(--text);
   background:
     radial-gradient(circle at 50% -10%, rgba(0, 113, 227, 0.16), transparent 34rem),
-    linear-gradient(180deg, #fff 0, #f5f5f7 42rem);
+    linear-gradient(180deg, var(--bg-2) 0, var(--bg) 42rem);
   font: 15px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
   letter-spacing: -0.01em;
 }
