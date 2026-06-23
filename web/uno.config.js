@@ -1,7 +1,9 @@
 import { presetWind3 } from 'unocss/preset-wind3'
 
-export default {
+const config = {
     presets: [
         presetWind3(),
     ],
 }
+
+export default config

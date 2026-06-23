@@ -1,1 +1,40 @@
+@import '@unocss/reset/tailwind.css';
 @unocss all;
+
+html {
+  min-width: 320px;
+  background: #f5f5f7;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: #1d1d1f;
+  background:
+    radial-gradient(circle at 50% -10%, rgba(0, 113, 227, 0.16), transparent 34rem),
+    linear-gradient(180deg, #fff 0, #f5f5f7 42rem);
+  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
+  letter-spacing: -0.01em;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image: linear-gradient(rgba(127, 127, 127, 0.035) 1px, transparent 1px), linear-gradient(90deg, rgba(127, 127, 127, 0.035) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: linear-gradient(to bottom, transparent, black 12rem, transparent 52rem);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
