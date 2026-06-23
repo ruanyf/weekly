@@ -1,13 +1,7 @@
-import {
-    defineConfig,
-    presetAttributify,
-    presetIcons,
-    presetWebFonts,
-    presetWind3
-} from 'unocss'
+import { presetWind3 } from 'unocss/preset-wind3'
 
-export default defineConfig({
+export default {
     presets: [
         presetWind3(),
     ],
-})
+}
