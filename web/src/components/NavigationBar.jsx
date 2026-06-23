@@ -1,7 +1,5 @@
 export function NavigationBar() {
     return (
-        <div>
-            <button></button>
-        </div>
+        <h1 className='color-blue'>T</h1>
     )
 }
