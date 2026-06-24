@@ -107,7 +107,7 @@ function parseArticle(item) {
     return {
         sort,
         article: `issue-${fileNo}.md`,
-        title: //TODO
+        title: linkToken.text
     };
 }
 
@@ -178,5 +178,5 @@ function parseWeekly(content) {
 saveFile(path.join(GENERATE_ARTICLE_DIR,'index.mjs'),`export const INDEX = ${JSON.stringify(parseWeekly(readFile(README_PATH)))}`)
 
 /*============================================================================================*/
-/*=================================    解析 article 内容   ====================================*/
+/*=================================    解析 article 文件内容   ====================================*/
 /*============================================================================================*/

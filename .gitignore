@@ -50,3 +50,4 @@ dist
 .data/
 *.sqlite
 *.sqlite-*
+generate
