@@ -1,5 +1,6 @@
 // 用于解析 docs 的内容
 import fs from 'node:fs'
+import {marked} from 'marked';
 import * as path from "node:path";
 
 //索引目录
@@ -46,11 +47,75 @@ const saveFile = (filePath, data) => {
 /*=================================   读取 README 文件构建索引   ================================*/
 /*============================================================================================*/
 
+function findToken(tokens, predicate) {
+    for (const token of tokens || []) {
+        if (predicate(token)) {
+            return token;
+        }
+
+        const nested =
+            findToken(token.tokens, predicate);
+
+        if (nested) {
+            return nested;
+        }
+    }
+}
+
+function parseMonth(token) {
+    if (
+        token.type !== 'paragraph' ||
+        token.tokens?.length !== 1 ||
+        token.tokens[0].type !== 'strong'
+    ) {
+        return null;
+    }
+
+    return MONTH_MAP[token.tokens[0].text] || null;
+}
+
+function parseArticle(item) {
+    const issueMatch =
+        item.text.match(/^第\s+(\d+)\s+期：/);
+
+    const linkToken =
+        findToken(
+            item.tokens,
+            token =>
+                token.type === 'link' &&
+                /^docs\/issue-\d+\.md$/.test(token.href)
+        );
+
+    if (!issueMatch || !linkToken) {
+        return null;
+    }
+
+    const sort =
+        Number(issueMatch[1]);
+
+    const fileMatch =
+        linkToken.href.match(/^docs\/issue-(\d+)\.md$/);
+
+    const fileNo =
+        Number(fileMatch[1]);
+
+    // 防止 README 写错
+    if (sort !== fileNo) {
+        return null;
+    }
+
+    return {
+        sort,
+        article: `issue-${fileNo}.md`,
+        title: //TODO
+    };
+}
+
 /**
  * 解析 README 文件
  *
  * @param content
- * @returns  [{"year":2026,"month":"6","sort":400,"article":"issue-400.md"}]
+ * @returns  [{"year":2026,"title":this is title,"month":"6","sort":400,"article":"issue-400.md"}]
  */
 function parseWeekly(content) {
     try {
@@ -59,65 +124,47 @@ function parseWeekly(content) {
         let currentYear = null;
         let currentMonth = null;
 
-        const lines = content.split('\n');
+        const tokens =
+            marked.lexer(content);
 
-        for (const line of lines) {
+        for (const token of tokens) {
+            if (token.type === 'heading' && token.depth === 2) {
+                const year =
+                    Number(token.text);
 
-            // 年份
-            const yearMatch =
-                line.match(/^##\s+((?:19|20)\d{2})$/);
+                if ((year >= 1900) && (year <= 2099)) {
+                    currentYear = year;
+                } else {
+                    currentYear = null;
+                }
 
-            if (yearMatch) {
-                currentYear = Number(yearMatch[1]);
                 currentMonth = null;
                 continue;
             }
 
-            // 月份
-            const monthMatch =
-                line.match(/^\*\*(.+?)\*\*$/);
+            const month =
+                parseMonth(token);
 
-            if (monthMatch) {
-
-                const month =
-                    MONTH_MAP[monthMatch[1]];
-
-                if (month) {
-                    currentMonth = month;
-                }
-
+            if (month) {
+                currentMonth = month;
                 continue;
             }
 
-            // 文章
-            const articleMatch =
-                line.match(
-                    /^-\s+第\s+(\d+)\s+期：.*?\(docs\/issue-(\d+)\.md\)$/
-                );
+            if (token.type === 'list' && currentYear && currentMonth) {
+                for (const item of token.items) {
+                    const article =
+                        parseArticle(item);
 
-            if (
-                articleMatch &&
-                currentYear &&
-                currentMonth
-            ) {
+                    if (!article) {
+                        continue;
+                    }
 
-                const sort =
-                    Number(articleMatch[1]);
-
-                const fileNo =
-                    Number(articleMatch[2]);
-
-                // 防止 README 写错
-                if (sort !== fileNo) {
-                    continue;
+                    result.push({
+                        year: currentYear,
+                        month: currentMonth,
+                        ...article
+                    });
                 }
-
-                result.push({
-                    year: currentYear,
-                    month: currentMonth,
-                    sort,
-                    article: `issue-${fileNo}.md`
-                });
             }
         }
         return result;
@@ -130,3 +177,6 @@ function parseWeekly(content) {
 //创建索引目录
 saveFile(path.join(GENERATE_ARTICLE_DIR,'index.mjs'),`export const INDEX = ${JSON.stringify(parseWeekly(readFile(README_PATH)))}`)
 
+/*============================================================================================*/
+/*=================================    解析 article 内容   ====================================*/
+/*============================================================================================*/
