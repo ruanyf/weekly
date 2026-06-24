@@ -41,8 +41,10 @@ body {
   background:
     radial-gradient(circle at 50% -10%, rgba(0, 113, 227, 0.16), transparent 34rem),
     linear-gradient(180deg, var(--bg-2) 0, var(--bg) 42rem);
-  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
+  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
   letter-spacing: -0.01em;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 body::before {

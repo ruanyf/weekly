@@ -14,13 +14,9 @@ export default function Home() {
             <NavigationBar />
             <main className="mx-auto min-h-[calc(100vh-56px)] w-[min(1180px,calc(100%-40px))] grid content-center gap-12 py-14 pb-24">
                 <section className="text-center" aria-labelledby="home-title">
-                    <p className="mb-2.5 text-xs font-700 tracking-[0.08em] uppercase text-#0071e3">Weekly Web</p>
                     <h1 id="home-title" className="mx-auto mb-4 max-w-225 text-[clamp(48px,8vw,104px)] font-760 leading-[0.95] tracking-[-0.045em] text-[var(--text)]">
-                        科技周刊，安静地读。
+                        科技爱好者周刊
                     </h1>
-                    <p className="mx-auto max-w-180 text-[clamp(19px,2.1vw,26px)] leading-1.35 tracking-[-0.03em] text-[var(--muted)]">
-                        保留最新一期和搜索入口，让阅读从一个清晰动作开始。
-                    </p>
                     <form className="mx-auto mt-8.5 w-[min(100%,680px)] flex flex-col gap-2 rounded-6.5 border border-[var(--line)] bg-[var(--surface)] p-1.75 shadow-[var(--small-shadow),inset_0_1px_rgba(255,255,255,.45)] backdrop-blur-2xl focus-within:ring-2 focus-within:ring-#0071e3/28 sm:flex-row sm:items-center sm:rounded-full" action="/" role="search">
                         <span className="hidden w-7.5 text-center text-[var(--subtle)] sm:inline">⌕</span>
                         <input className="h-11 min-w-0 flex-1 border-0 bg-transparent px-3 text-[var(--text)] outline-none placeholder:text-[var(--subtle)]" name="q" type="search" placeholder="搜索 AI、开源、rsync..." aria-label="搜索周刊内容" />
