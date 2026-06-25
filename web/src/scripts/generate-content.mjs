@@ -6,8 +6,11 @@ import * as path from "node:path";
 //索引目录
 const README_PATH = '../../../README.md'
 
+//内容目录
+const WEEKLY_DIR = '../../../docs'
+
 //生成文件目录
-const GENERATE_ARTICLE_DIR = '../article'
+const GENERATE_ARTICLE_DIR = '../article/generate'
 
 const MONTH_MAP = {
     一月: "1",
@@ -117,7 +120,7 @@ function parseArticle(item) {
  * @param content
  * @returns  [{"year":2026,"title":this is title,"month":"6","sort":400,"article":"issue-400.md"}]
  */
-function parseWeekly(content) {
+function parseWeeklyReadme(content) {
     try {
         const result = [];
 
@@ -175,8 +178,10 @@ function parseWeekly(content) {
 }
 
 //创建索引目录
-saveFile(path.join(GENERATE_ARTICLE_DIR,'index.mjs'),`export const INDEX = ${JSON.stringify(parseWeekly(readFile(README_PATH)))}`)
+saveFile(path.join(GENERATE_ARTICLE_DIR,'index.mjs'),`export const INDEX = ${JSON.stringify(parseWeeklyReadme(readFile(README_PATH)))}`)
 
 /*============================================================================================*/
-/*=================================    解析 article 文件内容   ====================================*/
+/*=================================    解析 article issue 文件内容   ===========================*/
 /*============================================================================================*/
+
+marked()

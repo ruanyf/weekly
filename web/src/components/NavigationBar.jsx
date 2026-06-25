@@ -1,12 +1,10 @@
 import Link from "next/link";
 import {ThemeSelect} from "./ThemeSelect";
 import GitHub from "./GitHub";
-import {INDEX} from "../article/generate/index.mjs";
 
 const navItems = ["首页", "周刊", "搜索", "个人"];
 
 export function NavigationBar() {
-    INDEX
     return (
         <header className="sticky top-0 z-10 border-b border-[var(--line)] bg-[var(--surface)] backdrop-blur-2xl">
             <div className="mx-auto min-h-14 w-[min(1180px,calc(100%-40px))] flex flex-wrap items-center gap-4 py-3 md:flex-nowrap md:py-0">
