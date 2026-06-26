@@ -15,7 +15,7 @@ try {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="zh-CN" suppressHydrationWarning>
+    <html lang="zh-CN" suppressHydrationWarning data-scroll-behavior="smooth">
       <body>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         {children}

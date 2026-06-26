@@ -1,8 +1,11 @@
 import Link from "next/link";
 import {ThemeSelect} from "./ThemeSelect";
 import GitHub from "./GitHub";
+import {INDEX} from "@/article/generate/index.mjs";
 
-const navItems = ["首页", "周刊", "搜索", "个人"];
+
+
+const navItems = [{itemName:"首页",router:'/'}, {itemName: "周刊",router: INDEX.length > 0 ? `/issues/${INDEX.sort((a, b) => b.sort - a.sort)[0].number}`  :  '/issue'}, {itemName: "搜索",router: '/search'}, {itemName: '个人',router: '/person'}];
 
 export function NavigationBar() {
     return (
@@ -14,8 +17,8 @@ export function NavigationBar() {
                 </Link>
                 <nav className="order-3 w-full flex gap-1 overflow-x-auto md:order-none md:ml-auto md:w-auto" aria-label="主导航">
                     {navItems.map((item) => (
-                        <Link key={item} className="min-h-8.5 rounded-full px-3.5 text-[var(--muted)] inline-flex items-center whitespace-nowrap hover:bg-[var(--surface-soft)] hover:text-[var(--text)]" href="/">
-                            {item}
+                        <Link key={item.itemName} href={item.router} className="min-h-8.5 rounded-full px-3.5 text-[var(--muted)] inline-flex items-center whitespace-nowrap hover:bg-[var(--surface-soft)] hover:text-[var(--text)]" >
+                            {item.itemName}
                         </Link>
                     ))}
                 </nav>
