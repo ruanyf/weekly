@@ -160,7 +160,7 @@ mark {
 .page {
   width: min(1180px, calc(100% - 40px));
   margin: 0 auto;
-  padding: 56px 0 92px;
+  padding: 20px 0 92px;
 }
 
 .page--narrow {
@@ -468,6 +468,49 @@ h3 {
   color: var(--text);
   font-size: 17px;
   line-height: 1.8;
+}
+
+.article__body a {
+  color: #006edb;
+  text-decoration-line: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.2em;
+  transition: color 160ms ease, text-decoration-thickness 160ms ease;
+}
+
+.article__body a:visited {
+  color: #6f45c4;
+}
+
+.article__body a:hover {
+  color: #004f9e;
+  text-decoration-thickness: 0.12em;
+}
+
+.article__body a:focus-visible {
+  border-radius: 3px;
+  outline: 2px solid color-mix(in srgb, #0071e3, transparent 55%);
+  outline-offset: 3px;
+}
+
+.article__body a[target="_blank"]::after {
+  content: "\00a0↗";
+  font-size: 0.72em;
+  font-weight: 650;
+  text-decoration: none;
+  vertical-align: 0.18em;
+}
+
+html[data-theme="dark"] .article__body a {
+  color: #72b7ff;
+}
+
+html[data-theme="dark"] .article__body a:visited {
+  color: #b7a0ff;
+}
+
+html[data-theme="dark"] .article__body a:hover {
+  color: #9fceff;
 }
 
 .article__body blockquote {
