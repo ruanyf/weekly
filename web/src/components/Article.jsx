@@ -30,7 +30,7 @@ const INLINE_RENDERERS = {
         );
     },
     image(node, key) {
-        return <img key={key} src={node.href} alt={node.text || ""} title={node.title || undefined} />;
+        return <img key={key} src={node.href} alt={node.text || ""} title={node.title || undefined} loading="lazy" />;
     },
     br(node, key) {
         return <br key={key} />;

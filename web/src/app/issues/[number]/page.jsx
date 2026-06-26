@@ -3,7 +3,6 @@ import {NavigationBar} from '@/components/NavigationBar';
 import {Article} from '@/components/Article';
 import {ReaderShell} from '@/components/ReaderShell';
 import {getIssue, getIndex} from '../../_data';
-import Image from "next/image";
 
 function buildPickerData(index, currentNumber) {
     const years = [...new Set(index.map(i => i.year))].sort((a, b) => b - a);
