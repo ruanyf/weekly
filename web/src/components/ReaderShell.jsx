@@ -69,7 +69,7 @@ export function ReaderShell({pickerData, toc, issueNumber, children}) {
                             </select>
                         </label>
                         <label>
-                            <span>周</span>
+                            <span>期数</span>
                             <select
                                 key={`${year}-${month}`}
                                 defaultValue={isCurrentInList ? issueNumber : ''}

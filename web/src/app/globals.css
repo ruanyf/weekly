@@ -343,7 +343,7 @@ h3 {
 
 .issue-picker {
   display: flex;
-  align-items: end;
+  align-items: center;
   justify-content: space-between;
   gap: 20px;
   margin-bottom: 24px;
@@ -351,26 +351,52 @@ h3 {
   border-radius: 24px;
 }
 
+.issue-picker h1 {
+  margin-bottom: 0;
+  font-size: 28px;
+  line-height: 1.22;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
 .issue-picker__controls {
   display: flex;
   gap: 12px;
   flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 .issue-picker label {
-  display: grid;
-  gap: 6px;
+  display: inline-grid;
+  grid-template-columns: 32px 120px;
+  align-items: center;
+  gap: 8px;
   color: var(--muted);
-  font-size: 12px;
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.issue-picker label span {
+  text-align: right;
 }
 
 .issue-picker select {
-  min-width: 120px;
   height: 38px;
+  width: 100%;
   border: 1px solid var(--line);
   border-radius: 999px;
   background: var(--surface-soft);
   color: var(--text);
+  padding: 0 12px;
+}
+
+.article__head h1 {
+  margin-bottom: 0;
+  font-size: 34px;
+  line-height: 1.25;
+  font-weight: 720;
+  letter-spacing: 0;
 }
 
 .reader-shell {
@@ -589,5 +615,19 @@ h3 {
 
   .issue-picker {
     align-items: start;
+    flex-direction: column;
+  }
+
+  .issue-picker__controls {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .issue-picker label {
+    grid-template-columns: 32px minmax(120px, 1fr);
+  }
+
+  .article__head h1 {
+    font-size: 27px;
   }
 }

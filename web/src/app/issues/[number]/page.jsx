@@ -55,13 +55,7 @@ export default async function IssuePage({params}) {
                             <span className="badge">第 {issue.number} 期</span>
                         </div>
                         <h1>{issue.title}</h1>
-                        {issue.summary && <p className="lead">{issue.summary}</p>}
                     </div>
-                    {issue.cover && (
-                        <div className="article-cover-wrap relative">
-                            <Image className="article-cover" src={issue.cover.src} alt={issue.cover.alt || ''} fill sizes="(max-width: 720px) 100vw, (max-width: 1024px) 90vw, 640px" priority />
-                        </div>
-                    )}
                     <Article
                         content={issue.blocks.filter(b => b.type !== 'heading' || b.depth !== 1)}
                         className="article__body"
