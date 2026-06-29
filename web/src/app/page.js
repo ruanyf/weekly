@@ -1,5 +1,6 @@
 import {NavigationBar} from "@/components/NavigationBar";
-import {WeeklyArchiveScene} from "@/components/WeeklyArchiveScene";
+import {SearchBox} from "@/components/SearchBox";
+import {LatestIssueCard} from "@/components/LatestIssueCard";
 import {getIndex} from "./_data";
 
 export default function Home() {
@@ -9,8 +10,15 @@ export default function Home() {
     return (
         <>
             <NavigationBar />
-            <main className="home-3d-page">
-                <WeeklyArchiveScene latestHref={latest.href} latestNumber={latest.number} />
+            <main className="page home-page">
+                <section className="home-hero">
+                    <p className="eyebrow">Weekly Web</p>
+                    <h1>科技周刊，安静地读。</h1>
+                    <p className="lead">保留最新一期和搜索入口，让阅读从一个清晰动作开始。</p>
+                    <SearchBox />
+                </section>
+
+                <LatestIssueCard issue={latest} />
             </main>
         </>
     );

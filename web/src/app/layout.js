@@ -1,4 +1,17 @@
 import "./globals.css";
+import {Geist, Geist_Mono} from 'next/font/google';
+
+const geist = Geist({
+    subsets: ['latin'],
+    display: 'swap',
+    variable: '--font-geist',
+});
+
+const geistMono = Geist_Mono({
+    subsets: ['latin'],
+    display: 'swap',
+    variable: '--font-geist-mono',
+});
 
 export const metadata = {
   title: "Weekly Web",
@@ -15,7 +28,7 @@ try {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="zh-CN" suppressHydrationWarning data-scroll-behavior="smooth">
+    <html lang="zh-CN" suppressHydrationWarning data-scroll-behavior="smooth" className={`${geist.variable} ${geistMono.variable}`}>
       <body>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         {children}
