@@ -10,6 +10,7 @@
 
 **六月**
 
+- 第 401 期：[如何赚到10亿美元](docs/issue-401.md)
 - 第 400 期：[rsync 的争论](docs/issue-400.md)
 - 第 399 期：[中国 AI 大厂访问记](docs/issue-399.md)
 
