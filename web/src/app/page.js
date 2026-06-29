@@ -1,7 +1,7 @@
 import {NavigationBar} from "@/components/NavigationBar";
 import {SearchBox} from "@/components/SearchBox";
-import {LatestIssueCard} from "@/components/LatestIssueCard";
 import {getIndex} from "./_data";
+import Link from "next/link";
 
 export default function Home() {
     const index = getIndex();
@@ -12,13 +12,25 @@ export default function Home() {
             <NavigationBar />
             <main className="page home-page">
                 <section className="home-hero">
-                    <p className="eyebrow">Weekly Web</p>
-                    <h1>科技周刊，安静地读。</h1>
-                    <p className="lead">保留最新一期和搜索入口，让阅读从一个清晰动作开始。</p>
+                    <h1>这一周，科技世界发生了什么。</h1>
                     <SearchBox />
                 </section>
 
-                <LatestIssueCard issue={latest} />
+                <Link className="latest-card" href={latest.href}
+                      aria-label={`阅读第 ${latest.number} 期`}>
+                    <div className="latest-card__media">
+                        <img src={latest.cover.src} alt={`第 ${latest.number} 期封面图`}/>
+                    </div>
+                    <div className="latest-card__body">
+                        <p className="eyebrow">最新一期 · {latest.year} 年 {latest.month} 月</p>
+                        <h2>{latest.title}</h2>
+                        <p>{latest.summary}</p>
+                        <span className="inline-link">
+                            开始阅读
+                            <span className="inline-link__arrow" aria-hidden="true">&rarr;</span>
+                        </span>
+                    </div>
+                </Link>
             </main>
         </>
     );
