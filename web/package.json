@@ -3,13 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "generate": "node src/scripts/generate-content.mjs",
-    "predev": "npm run generate",
-    "dev": "next dev --turbopack",
-    "prebuild": "npm run generate",
-    "build": "next build",
-    "lint": "eslint",
-    "start": "next start"
+    "dev": "node src/scripts/generate-content.mjs && next dev --turbopack",
+    "build": "node src/scripts/generate-content.mjs && next build",
+    "start": "next start",
+    "lint": "eslint"
   },
   "dependencies": {
     "marked": "^18.0.5",

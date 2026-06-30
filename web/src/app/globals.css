@@ -421,10 +421,15 @@ h3 {
 .simple-hero {
   display: grid;
   gap: 18px;
+  padding: 42px 0 12px;
+}
+
+.simple-hero h1 {
+  font-size: clamp(42px, 5.6vw, 72px);
 }
 
 .search-box {
-  width: min(100%, 520px);
+  width: min(100%, 680px);
   min-height: 0;
   display: flex;
   align-items: center;
@@ -453,7 +458,7 @@ h3 {
 }
 
 .search-box--large {
-  margin-top: 28px;
+  margin-top: 34px;
 }
 
 .search-box__icon {
@@ -867,16 +872,48 @@ html[data-theme="dark"] .article__body a:hover {
   vertical-align: top;
 }
 
+.section {
+  margin-top: 42px;
+  padding: 24px;
+  border-radius: 28px;
+}
+
+.section__header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 18px;
+}
+
+.section__header--simple {
+  align-items: center;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--line);
+}
+
 .result-list {
   display: grid;
-  gap: 16px;
+  gap: 14px;
 }
 
 .result-card {
-  padding: 20px;
+  padding: 18px;
   border: 1px solid var(--line);
   border-radius: 20px;
   background: var(--surface);
+  transition: transform 180ms ease, border-color 180ms ease;
+}
+
+.result-card:hover,
+.result-card:focus-visible {
+  border-color: color-mix(in srgb, var(--text), transparent 82%);
+  transform: translateY(-1px);
+}
+
+.result-card:focus-visible {
+  outline: 2px solid color-mix(in srgb, #0071e3, transparent 55%);
+  outline-offset: 3px;
 }
 
 .reading-bar {
@@ -999,6 +1036,20 @@ html[data-theme="dark"] .article__body a:hover {
 
   .issue-picker label {
     grid-template-columns: 32px minmax(120px, 1fr);
+  }
+
+  .search-box {
+    border-radius: 24px;
+    flex-wrap: wrap;
+  }
+
+  .search-box__icon {
+    display: none;
+  }
+
+  .search-box input,
+  .search-box .primary-button {
+    flex: 1 1 100%;
   }
 
   .article__head h1 {
