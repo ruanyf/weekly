@@ -50,7 +50,7 @@ There is currently no test script or single-test command in root or `web/`.
 
 - Markdown archive edits usually touch one `docs/issue-<number>.md` file plus `README.md` when adding a new issue. Keep newest issues first within each month/year group.
 - Recent issues use Chinese Markdown with sections such as `## 封面图`, `文章`, `工具`, `AI 相关`, `资源`, `图片`, `文摘`, `言论`, and `往年回顾`; older issues vary, so match nearby files instead of normalizing them.
-- The Next app currently has a single route at `web/src/app/page.js`; global app metadata and layout are in `web/src/app/layout.js`.
+- The Next app currently has a single route at `web/src/app/page.jsx`; global app metadata and layout are in `web/src/app/layout.js`.
 - Global styling flows through `web/src/app/globals.css`, which imports UnoCSS, and `layout.js`, which imports both the global CSS and `@unocss/reset/tailwind.css`.
 - `@/*` resolves to `web/src/*` via `web/jsconfig.json`.
 - `web/CLAUDE.md` imports `web/AGENTS.md`, which warns that this is Next.js 16; read the relevant docs in `web/node_modules/next/dist/docs/` before changing Next-specific APIs or conventions.

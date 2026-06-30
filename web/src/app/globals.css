@@ -706,6 +706,11 @@ h3 {
   align-self: start;
 }
 
+.toc {
+  max-height: calc(100vh - 104px);
+  overflow-y: auto;
+}
+
 .panel--plain,
 .tool-card--quiet {
   padding: 18px;
