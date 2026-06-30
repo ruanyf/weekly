@@ -55,3 +55,5 @@ generate
 .codebuddy
 .agents
 .claude
+context
+CLAUDE.md
