@@ -291,8 +291,37 @@ function createSearchEntry(issue, indexEntry) {
         month: indexEntry.month,
         href: indexEntry.href,
         summary: issue.summary,
-        text: issue.searchText
+        text: stripBoilerplate(issue.searchText)
     };
+}
+
+/**
+ * 去除每期周刊开头的固定广告/通知模板。
+ * 历史上有多种格式，从 "这里记录每周值得分享的科技内容" 开始，
+ * 到 "邮件联系"、"发布工作/实习岗位"、"提交 issue" 等结束。
+ */
+function stripBoilerplate(text) {
+    const startMarker = '这里记录每周值得分享的科技内容';
+    const startIdx = text.indexOf(startMarker);
+    if (startIdx === -1) return text;
+
+    // 按时间倒序尝试各种已知的结尾模式
+    const endPatterns = [
+        'yifeng.ruan@gmail.com ）。',   // #263+ 含邮箱
+        '邮件联系 。',                   // #109-#262 无邮箱版本
+        '发布工作/实习岗位。',           // #81-#108 招聘板块
+        '投稿或推荐你的项目。',          // #69-#108 部分版式
+        '提交 issue。',                 // #63 最早版本
+    ];
+
+    for (const endPattern of endPatterns) {
+        const endIdx = text.indexOf(endPattern, startIdx);
+        if (endIdx !== -1) {
+            return compactText(text.slice(0, startIdx) + ' ' + text.slice(endIdx + endPattern.length));
+        }
+    }
+
+    return text;
 }
 
 function generateContent() {
