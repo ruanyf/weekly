@@ -5,8 +5,8 @@ import {INDEX} from "@/article/generate/index.mjs";
 
 
 
-// const navItems = [{itemName:"首页",router:'/'}, {itemName: "周刊",router: INDEX.length > 0 ? `/issues/${INDEX.sort((a, b) => b.sort - a.sort)[0].number}`  :  '/issue'}, {itemName: "搜索",router: '/search'}, {itemName: '个人',router: '/person'}];
-const navItems = [{itemName:"首页",router:'/'}, {itemName: "周刊",router: INDEX.length > 0 ? `/issues/${INDEX.sort((a, b) => b.sort - a.sort)[0].number}`  :  '/issue'}, {itemName: "搜索",router: '/search'}];
+const latestIssue = INDEX[0]?.number;
+const navItems = [{itemName:"首页",router:'/'}, {itemName: "周刊",router: latestIssue ? `/issues/${latestIssue}` : '/issue'}, {itemName: "搜索",router: '/search'}];
 
 export function NavigationBar() {
     return (

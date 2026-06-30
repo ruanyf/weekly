@@ -138,7 +138,7 @@ function renderBlock(node, index) {
         case "space":
             return null;
         case "html":
-            return <div key={key} dangerouslySetInnerHTML={{__html: node.raw || ""}} />;
+            return <div key={key} dangerouslySetInnerHTML={{__html: node.token?.raw || ""}} />;
         default:
             if (node.token?.text) {
                 return <p key={key}>{node.token.text}</p>;

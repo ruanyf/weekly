@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import {NavigationBar} from '@/components/NavigationBar';
-import {getIndex, getIssue} from '../_data';
+import {getSearchIndex} from '../_data';
 
 function normalize(value) {
     return String(value ?? '').toLowerCase().trim();
@@ -40,31 +40,27 @@ function searchIssues(index, query) {
 
     return index
         .map((item) => {
-            const issue = getIssue(item.number);
-            const headings = issue?.search?.headings?.join(' ') ?? '';
-            const body = issue?.search?.text ?? '';
             const score =
                 scoreText(item.fullTitle, terms, 10) +
                 scoreText(item.title, terms, 8) +
                 scoreText(item.summary, terms, 4) +
-                scoreText(headings, terms, 3) +
-                scoreText(body, terms, 1);
+                scoreText(item.text, terms, 1);
 
             return {
                 ...item,
                 score,
-                snippet: makeSnippet(body, query, item.summary)
+                snippet: makeSnippet(item.text, query, item.summary)
             };
         })
         .filter(item => item.score > 0)
-        .sort((a, b) => b.score - a.score || b.sort - a.sort)
+        .sort((a, b) => b.score - a.score || b.number - a.number)
         .slice(0, 30);
 }
 
 export default async function SearchPage({searchParams}) {
     const params = await searchParams;
     const query = compactText(params?.q ?? '');
-    const index = getIndex();
+    const index = getSearchIndex();
     const results = searchIssues(index, query);
 
     return (
