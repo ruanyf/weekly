@@ -938,6 +938,54 @@ html[data-theme="dark"] .article__body a:hover {
   transition: width 100ms linear;
 }
 
+/* ── 回到顶部浮动按钮 ── */
+.back-to-top {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 50;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--text);
+  background: var(--surface);
+  backdrop-filter: saturate(180%) blur(24px);
+  box-shadow: var(--small-shadow);
+  cursor: pointer;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(12px);
+  transition: opacity 250ms ease, transform 250ms ease, box-shadow 250ms ease;
+}
+
+.back-to-top.is-visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.back-to-top:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+
+.back-to-top.is-visible:hover {
+  transform: translateY(-2px);
+}
+
+.back-to-top:active {
+  transform: scale(0.94);
+}
+
+/* ── 移动端 sticky 目录导航条 ── */
+.mobile-toc-bar {
+  display: none;
+}
+
 .meta-row {
   display: flex;
   gap: 8px;
@@ -964,9 +1012,90 @@ html[data-theme="dark"] .article__body a:hover {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  .toc,
+  /* 隐藏桌面端侧边栏目录 */
+  .toc {
+    display: none;
+    position: static;
+  }
+
   .reader-tools {
     position: static;
+  }
+
+  /* 显示移动端 sticky 目录导航条 */
+  .mobile-toc-bar {
+    display: block;
+    position: sticky;
+    top: 56px;
+    z-index: 20;
+    margin-bottom: 16px;
+  }
+
+  .mobile-toc-bar__trigger {
+    width: 100%;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 16px;
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    background: var(--surface);
+    backdrop-filter: saturate(180%) blur(24px);
+    color: var(--text);
+    font-size: 14px;
+    cursor: pointer;
+    transition: border-color 180ms ease;
+  }
+
+  .mobile-toc-bar__trigger:hover {
+    border-color: color-mix(in srgb, var(--text), transparent 78%);
+  }
+
+  .mobile-toc-bar__label {
+    flex-shrink: 0;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--subtle);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  .mobile-toc-bar__current {
+    flex: 1;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 500;
+  }
+
+  .mobile-toc-bar__chevron {
+    flex-shrink: 0;
+    color: var(--subtle);
+    transition: transform 200ms ease;
+  }
+
+  .mobile-toc-bar__chevron.is-open {
+    transform: rotate(180deg);
+  }
+
+  .mobile-toc-dropdown {
+    margin-top: 8px;
+    padding: 12px;
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    background: var(--surface);
+    backdrop-filter: saturate(180%) blur(24px);
+    box-shadow: var(--small-shadow);
+    max-height: 55vh;
+    overflow-y: auto;
+  }
+
+  /* 回到顶部按钮贴边适配移动端 */
+  .back-to-top {
+    bottom: max(20px, calc(env(safe-area-inset-bottom, 0px) + 12px));
+    right: max(16px, calc(env(safe-area-inset-right, 0px) + 12px));
   }
 }
 

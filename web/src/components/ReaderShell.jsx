@@ -9,6 +9,8 @@ export function ReaderShell({pickerData, toc, issueNumber, children}) {
     const [month, setMonth] = useState(pickerData.initialMonth);
     const [activeTocId, setActiveTocId] = useState(null);
     const [progress, setProgress] = useState(0);
+    const [showBackToTop, setShowBackToTop] = useState(false);
+    const [tocOpen, setTocOpen] = useState(false);
 
     useEffect(() => {
         const onScroll = () => {
@@ -16,6 +18,7 @@ export function ReaderShell({pickerData, toc, issueNumber, children}) {
             const scrollTop = window.scrollY;
             const docH = h.scrollHeight - window.innerHeight;
             setProgress(docH > 0 ? Math.min((scrollTop / docH) * 100, 100) : 0);
+            setShowBackToTop(scrollTop > 400);
 
             let active = null;
             for (const item of toc) {
@@ -35,6 +38,13 @@ export function ReaderShell({pickerData, toc, issueNumber, children}) {
         const months = pickerData.monthsByYear[yNum] || [];
         setMonth(months[0] || '');
     }, [pickerData.monthsByYear]);
+
+    const scrollToTop = useCallback(() => {
+        window.scrollTo({top: 0, behavior: 'smooth'});
+    }, []);
+
+    const activeToc = toc.find(t => t.id === activeTocId);
+    const activeTocTitle = activeToc?.title || toc[0]?.title || '';
 
     const months = pickerData.monthsByYear[year] || [];
     const issues = pickerData.issuesByYearMonth[`${year}-${month}`] || [];
@@ -84,6 +94,40 @@ export function ReaderShell({pickerData, toc, issueNumber, children}) {
                     </div>
                 </section>
 
+                {/* 移动端 sticky 目录导航条 */}
+                <div className="mobile-toc-bar">
+                    <button
+                        className="mobile-toc-bar__trigger"
+                        onClick={() => setTocOpen(v => !v)}
+                        aria-expanded={tocOpen}
+                        aria-label="展开或收起目录"
+                    >
+                        <span className="mobile-toc-bar__label">目录</span>
+                        <span className="mobile-toc-bar__current">{activeTocTitle}</span>
+                        <svg className={`mobile-toc-bar__chevron${tocOpen ? ' is-open' : ''}`} width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                            <path d="M4 6L8 10L12 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        </svg>
+                    </button>
+                    {tocOpen && (
+                        <div className="mobile-toc-dropdown">
+                            <ul className="toc__list">
+                                {toc.map(item => (
+                                    <li key={item.id}>
+                                        <a
+                                            className={`toc__link${activeTocId === item.id ? ' is-active' : ''}`}
+                                            href={`#${item.id}`}
+                                            style={{paddingLeft: `${(item.level - 2) * 12 + 10}px`}}
+                                            onClick={() => setTocOpen(false)}
+                                        >
+                                            {item.title}
+                                        </a>
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+                    )}
+                </div>
+
                 <div className="reader-shell reader-shell--calm">
                     <aside className="toc" aria-label="目录导航">
                         <div className="panel panel--plain">
@@ -117,6 +161,17 @@ export function ReaderShell({pickerData, toc, issueNumber, children}) {
                     </aside>
                 </div>
             </main>
+
+            {/* 回到顶部浮动按钮 */}
+            <button
+                className={`back-to-top${showBackToTop ? ' is-visible' : ''}`}
+                onClick={scrollToTop}
+                aria-label="回到顶部"
+            >
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+                    <path d="M10 16V4M10 4L5 9M10 4L15 9" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                </svg>
+            </button>
         </>
     );
 }
