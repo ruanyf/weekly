@@ -899,15 +899,32 @@ html[data-theme="dark"] .article__body a:hover {
 
 .result-list {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 14px;
 }
 
 .result-card {
+  display: block;
+  min-width: 0;
   padding: 18px;
   border: 1px solid var(--line);
   border-radius: 20px;
   background: var(--surface);
   transition: transform 180ms ease, border-color 180ms ease;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.result-card h3 {
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.result-card p {
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .result-card:hover,
@@ -1188,5 +1205,29 @@ html[data-theme="dark"] .article__body a:hover {
 
   .article__head h1 {
     font-size: 27px;
+  }
+
+  .page--narrow {
+    width: min(100%, calc(100% - 32px));
+  }
+
+  .simple-hero {
+    padding: 32px 0 8px;
+    gap: 12px;
+  }
+
+  .simple-hero h1 {
+    font-size: 32px;
+  }
+
+  .result-card {
+    padding: 14px;
+    border-radius: 16px;
+  }
+
+  .section__header--simple {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
   }
 }
