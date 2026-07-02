@@ -1,0 +1,17 @@
+name: "🐛 Bug Report / 问题反馈"
+description: "Report a typo, broken link, or formatting issue in the weekly issues"
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out this form to report a bug. / 请填写此表单报告排版或失效链接错误。
+  - type: textarea
+    id: description
+    attributes:
+      label: "Bug Description / 问题描述"
+      description: "A clear description of what the issue is."
+      placeholder: "e.g., The link to repository X in issue Y is broken..."
+    validations:
+      required: true
