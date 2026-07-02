@@ -1,0 +1,17 @@
+name: "🚀 Suggestion / 建议与讨论"
+description: "Suggest a new topic, tool, or website recommendation"
+title: "[Suggestion]: "
+labels: ["discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest recommendations for the weekly tech newsletter. / 欢迎提出内容或工具改进建议。
+  - type: textarea
+    id: details
+    attributes:
+      label: "Details / 建议详情"
+      description: "What tool, library, or website recommendation should be highlighted?"
+      placeholder: "Suggest adding Y to the next weekly issue..."
+    validations:
+      required: true
