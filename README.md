@@ -4,9 +4,13 @@
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/10147)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/10517)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
 
 ## 2026
+
+**七月**
+
+- 第 402 期：[我在智念 AI 的日子（小说）](docs/issue-402.md)
 
 **六月**
 
