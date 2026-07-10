@@ -128,7 +128,7 @@ AI 时代的大学，老师用 AI 上课，学生用 AI 做作业，越来越成
 
 ![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070902.webp)
 
-微软本周正式发布 TypeScript 7.0，从这个版本开始，语言引擎从 JS 改成了 Rust 实现，速度提高了10倍。
+微软本周正式发布 TypeScript 7.0，从这个版本开始，语言引擎从 JS 改成了 Go 实现，速度提高了10倍。
 
 4、[阅读代码之前先跑这5条 git 命令](https://piechowski.io/post/git-commands-before-reading-code/)（英文）
 
