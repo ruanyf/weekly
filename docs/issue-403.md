@@ -210,7 +210,7 @@ x402 协议是一种新的网页支付协议，访问带有这个协议的网页
 
 10、[Rheo](https://rheo.ohrg.org/)
 
-这个工具将 Typst 文档，装成三种格式的电子书：HTML、EPUB、PDF。
+这个工具将 Typst 文档，转换成三种格式的电子书：HTML、EPUB、PDF。
 
 
 ## AI 相关
