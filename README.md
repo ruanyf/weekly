@@ -10,6 +10,7 @@
 
 **七月**
 
+- 第 404 期：[你需要知道的 AI 内存知识](docs/issue-404.md)
 - 第 403 期：[为什么 Dropbox 不成功](docs/issue-403.md)
 - 第 402 期：[我在智念 AI 的日子（小说）](docs/issue-402.md)
 
