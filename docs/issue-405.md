@@ -147,7 +147,7 @@
 
 ## 文章
 
-1、[图灵机得主姚期智最新演讲](https://www.myzaker.com/article/6a60252f8e9f094b4d106689)（中文）
+1、[图灵奖得主姚期智最新演讲](https://www.myzaker.com/article/6a60252f8e9f094b4d106689)（中文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072211.webp)
 
