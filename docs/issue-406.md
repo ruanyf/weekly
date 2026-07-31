@@ -94,7 +94,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072903.webp)
 
-不管怎么说，它的样子让人眼前一亮，很有特斯拉早期的感觉。
+不管怎么说，它的样子确实让人眼前一亮，很有特斯拉早期的感觉。
 
 3、[树的生长](https://www.instagram.com/p/DN3btHw0MKn/)
 
