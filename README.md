@@ -4,12 +4,13 @@
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/10517)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/10950)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
 
 ## 2026
 
 **七月**
 
+- 第 406 期：[道可，道非，常道](docs/issue-406.md)
 - 第 405 期：[资源，社会公平与算力](docs/issue-405.md)
 - 第 404 期：[你需要知道的 AI 内存知识](docs/issue-404.md)
 - 第 403 期：[为什么 Dropbox 不成功](docs/issue-403.md)
