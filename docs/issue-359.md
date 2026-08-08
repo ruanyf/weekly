@@ -154,7 +154,7 @@ Palantir（中译帕兰提尔，或者帕兰泰尔）是一家美国的高科技
 
 ## 文章
 
-1、[浏览器用户指纹测试](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)（英文）
+1、[浏览器用户指纹测试](https://web.archive.org/web/20230321071857/https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072421.webp)
 
