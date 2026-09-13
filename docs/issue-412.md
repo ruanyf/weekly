@@ -184,7 +184,7 @@ Hugging face 分析开放模型的最新发展情况，可以了解中国模型�
 
 一个抵御恶意的 SSH 登陆的工具，它不会阻断那些请求，而是让它们一直处在等待状态，从而增加对方的成本。它支持 Grafana 面板。
 
-3、[PuTTYgen](https://puttykeyinfo.com/)
+3、[PuTTYgen](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/202403/bg2024033001.webp)
 
