@@ -40,7 +40,7 @@ Jev 模型的最大特点就是，其他模型返回文字，**它返回一个�
 
 它的实现原理很简单，就是依次拿出文章的每个段落，去问 Jev 模型“本段落是否跟用户的搜索词相关？”（是非题）。Jev 会返回一个相关度的概率，那么相关度最高的几个段落，就是用户需要的语义查找结果。
 
-第二个是例子[《我用 Jev 为网页打分》](https://pub.towardsai.net/build-a-browser-extension-with-jev-22e026255cb7)。
+第二个例子是[《我用 Jev 为网页打分》](https://pub.towardsai.net/build-a-browser-extension-with-jev-22e026255cb7)。
 
 ![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100819.webp)
 
@@ -99,7 +99,7 @@ Markdown 格式以前只用于写文档。最近，我看到一篇文章，作�
 
 虽然文字处理比较方便，但是很多时候确实需要视频记录（入室盗窃、包裹被盗等等），不知道苹果会如何处理这些情况。
 
-## RSA 因素分解的新纪录
+## RSA 因数分解的新纪录
 
 RSA 是一种常用的密钥算法。如果被破解，许多软件顿时就毫无秘密可言了。
 
