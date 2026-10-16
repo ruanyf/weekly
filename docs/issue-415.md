@@ -146,8 +146,7 @@ Claude Opus 5.5 生成的伊希多拉，不仅漂亮，而且忠实还原了原�
 
 ## 文章
 
-
-1、[我如何用600美元后训练出一个 Jev 式决策模型](https://deskmind.dev/zh/blog/launch/f)（中文）
+1、[我如何用600美元后训练出一个 Jev 式决策模型](https://deskmind.dev/zh/blog/launch/)（中文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101004.webp)
 
