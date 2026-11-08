@@ -242,7 +242,7 @@ LaTex 排版软件的插件，在页面空白处生成植物图案。
 
 ![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110407.webp)
 
-一个 Youtube 视频网站，汇集了“黑客新闻”论坛上提到的所有 Youtube 视频，可以用来寻找值得看的科技视频。
+一个 YouTube 视频推荐网站，汇集了“黑客新闻”论坛上提到的所有 Youtube 视频，可以用来寻找值得看的科技视频。
 
 另有 [HackerBooks](https://hackerbooks.org/topic/fantasy) 和 [HackerPodcasts](https://www.hackerpodcasts.org/)，分别收集了“黑客新闻”提到过的各种书籍和播客。（[@qcrao](https://github.com/ruanyf/weekly/issues/13061) 投稿）
 
