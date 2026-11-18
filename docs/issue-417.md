@@ -166,7 +166,7 @@ C 语言的科普文章，通俗解释 C 语言的几个基本知识点，比如
 
 ![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102918.webp)
 
-这个浏览器插件会让闲置的网页长满藤蔓，再次浏览页面的时候，需要用鼠标砍断藤蔓，参见[介绍文章](https://charliegerard.dev/blog/overgrown-extension/)。
+这个浏览器插件会让闲置的网页长满藤蔓，再次浏览页面的时候，需要用鼠标砍断藤蔓。
 
 4、[make-look-scanned](https://github.com/overflowy/make-look-scanned)
 
