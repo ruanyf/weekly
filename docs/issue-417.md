@@ -198,7 +198,7 @@ C 语言的科普文章，通俗解释 C 语言的几个基本知识点，比如
 
 开源的 Windows 远程桌面工具，通过浏览器共享远程桌面，并可远程控制鼠标和键盘，支持文件传输、剪贴板共享、聊天及语音视频通话。（[@99percentpeople](https://github.com/ruanyf/weekly/issues/12765) 投稿）
 
-9、[MenuBarMijia](https://github.com/jryang1997/MenuBarMijia)
+9、[MenuBarHome（原 MenuBarMijia）](https://github.com/jryang2026-code/MenuBarHome)
 
 ![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102907.webp)
 
