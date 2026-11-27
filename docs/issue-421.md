@@ -12,7 +12,7 @@
 
 ## AI 的疯狂造富
 
-上周，模型公司 Anthropic 公司上市，创造出巨额财富。
+上周，AI 模型公司 Anthropic 上市，创造出巨额财富。
 
 ![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112405.webp)
 
@@ -24,7 +24,7 @@
 
 根据 [@AndrewBenson](https://x.com/AndrewBenson/status/2123030711489773996) 的统计，截止今年9月底，它有约5300名员工，这些员工可以分到股票。
 
-如果它的市值达到1.4万亿美元（目前是1.17万美元），这些员工的股票获利中位数是这样的。
+如果它的市值达到1.4万亿美元（目前是1.17万亿美元），这些员工的股票获利中位数是这样的。
 
 - 2023年招聘的290人：1.51亿美元
 - 2024年招聘的640人：7900万美元
@@ -71,7 +71,7 @@ Anthropic 只是 AI 行业造富的一个典型例子。这种造富的规模和
 
 前三名是 Fable 5.2、Astra 6.2、Neon 4。
 
-国产模型排名最高的是 Qwen 4 Max（第10）、Kimi K3.1 Pro（第12）、Deepseek V.1 Flash（第14）。
+国产模型排名最高的是 Qwen 4 Max（第10）、Kimi K3.1 Pro（第12）、DeepSeek V4.1 Flash（第14）。
 
 个人感觉，可以用来参考。
 
@@ -85,7 +85,7 @@ Anthropic 只是 AI 行业造富的一个典型例子。这种造富的规模和
 
 ![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112401.webp)
 
-可以预料，会有越来越多的软件加入该功能。而且，因为 Linux 系统可能会变得更流行，因为它不会自动截图。
+可以预料，会有越来越多的软件加入该功能。而且，Linux 系统可能会变得更流行，因为它不会自动截图。
 
 2、[重力通信](https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity)
 
@@ -93,7 +93,7 @@ Anthropic 只是 AI 行业造富的一个典型例子。这种造富的规模和
 
 ![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112518.webp)
 
-他们让一部电梯在两层楼之间来回移动，同时改变这部电梯的配重。如果挂上1.8吨的钢块，就表示1，否则表示0。
+他们让一部电梯在两层楼之间来回移动，同时把1.8吨的配重移动到两个位置，分别表示1和0。
 
 ![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112519.webp)
 
@@ -135,7 +135,7 @@ Anthropic 只是 AI 行业造富的一个典型例子。这种造富的规模和
 
 他对未来也感到不知所措，只能希望会变得更好。
 
-2、[黄仁勋重返英伟达的 Polymarket 交易剖析](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)（英文）
+2、[黄仁勋重返英伟达的 Polymarket 交易剖析](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)（法文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112402.webp)
 
@@ -271,7 +271,7 @@ SpaceX 公司的猎鹰火箭，目前在火箭发射市场一枝独秀。2025年
 
 ![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112510.webp)
 
-也就是说，它完成了全世界81%的火箭有效负荷。不过，它发射的70%以上的总质量，是自家的星链卫星。如果除去星链，它领先并不多。
+也就是说，它完成了全世界81%的火箭有效负荷。不过，它发射的70%以上的总质量，是自家的星链卫星。如果除去星链，它的发射量少于其他火箭（372吨 vs 537吨）。
 
 中国要想赶上它的发射量，恐怕也要大力发展自己的卫星宽带项目才行。
 
